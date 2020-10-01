@@ -1,0 +1,163 @@
+Game#,Game Date,Seq,Team,Lg,Opp,LgOpp,Hm/Aw,TimeDay,Att,GameTime,WL,Result,Inn,Boxscore,Record,Div Rk,Lg Rk,MLB Rk,GBL,Strk,Winning Pitcher,Losing Pitcher,Save Pitcher,Home Runs
+1,2019-03-28,-,HOU,AL,TBA,AL,Away,Day,"25,025",2:38,W,5-1,9,Box | PBP,1-0,1,2,5,--,W1,Justin Verlander,Blake Snell,---,"Altuve, Brantley, Springer"
+2,2019-03-29,-,HOU,AL,TBA,AL,Away,Night,"13,059",2:38,L,2-4,9,Box | PBP,1-1,3,8,15,1.0,L1,Charlie Morton,Gerrit Cole,Jose Alvarado,---
+3,2019-03-30,-,HOU,AL,TBA,AL,Away,Night,"16,010",2:40,L,1-3,9,Box | PBP,1-2,5,14,23,2.0,L2,Tyler Glasnow,Collin McHugh,Jose Alvarado,Bregman
+4,2019-03-31,-,HOU,AL,TBA,AL,Away,Day,"18,473",2:12,L,1-3,9,Box | PBP,1-3,5,15,27,3.0,L3,Yonny Chirinos,Wade Miley,Diego Castillo,Marisnick
+5,2019-04-01,-,HOU,AL,TEX,AL,Away,Night,"18,056",2:39,W,2-1,9,Box | PBP,2-3,4,11,18,3.0,W1,Brad Peacock,Adrian Sampson,Roberto Osuna,Springer
+6,2019-04-02,-,HOU,AL,TEX,AL,Away,Night,"17,907",3:23,L,4-6,9,Box | PBP,2-4,4,11,19,4.0,L1,Shawn Kelley,Framber Valdez,Jose Leclerc,---
+7,2019-04-03,-,HOU,AL,TEX,AL,Away,Night,"22,265",2:39,L,0-4,9,Box | PBP,2-5,4,14,24,4.5,L2,Mike Minor,Gerrit Cole,---,---
+8,2019-04-05,-,HOU,AL,OAK,AL,Home,Night,"43,165",3:03,W,3-2,9,Box | PBP,3-5,4,11,22,3.5,W1,Collin McHugh,Frankie Montas,Roberto Osuna,Correa
+9,2019-04-06,-,HOU,AL,OAK,AL,Home,Night,"34,487",2:47,W,6-0,9,Box | PBP,4-5,4,10,18,3.5,W2,Wade Miley,Aaron Brooks,---,"Brantley, Chirinos, Springer"
+10,2019-04-07,-,HOU,AL,OAK,AL,Home,Day,"34,902",3:39,W,9-8,9,Box | PBP,5-5,2,7,15,3.5,W3,Roberto Osuna,Blake Treinen,---,"Diaz, Kemp"
+11,2019-04-08,-,HOU,AL,NYA,AL,Home,Night,"27,631",2:59,W,4-3,9,Box | PBP,6-5,2,6,13,3.5,W4,Ryan Pressly,Adam Ottavino,Roberto Osuna,Altuve
+12,2019-04-09,-,HOU,AL,NYA,AL,Home,Night,"31,009",3:15,W,6-3,9,Box | PBP,7-5,2,6,11,3.5,W5,Hector Rondon,Chad Green,Roberto Osuna,Altuve
+13,2019-04-10,-,HOU,AL,NYA,AL,Home,Night,"27,685",3:30,W,8-6,9,Box | PBP,8-5,2,5,8,3.5,W6,Collin McHugh,James Paxton,Ryan Pressly,"Altuve (2), Correa"
+14,2019-04-12,-,HOU,AL,SEA,AL,Away,Night,"30,972",3:22,W,10-6,9,Box | PBP,9-5,2,3,6,3.0,W7,Brad Peacock,Shawn Armstrong,Roberto Osuna,"Altuve, Gurriel, Springer"
+15,2019-04-13,-,HOU,AL,SEA,AL,Away,Night,"30,538",2:46,W,3-1,9,Box | PBP,10-5,2,3,4,2.0,W8,Justin Verlander,Felix Hernandez,Roberto Osuna,"Altuve, Chirinos"
+16,2019-04-14,-,HOU,AL,SEA,AL,Away,Day,"29,242",2:40,W,3-2,9,Box | PBP,11-5,2,3,3,1.0,W9,Gerrit Cole,Brandon Brennan,Roberto Osuna,Diaz
+17,2019-04-16,-,HOU,AL,OAK,AL,Away,Night,"12,270",3:03,W,9-1,9,Box | PBP,12-5,1,2,2,--,W10,Collin McHugh,Marco Estrada,---,"Bregman, Reddick, Springer"
+18,2019-04-17,-,HOU,AL,OAK,AL,Away,Night,"11,323",2:29,L,1-2,9,Box | PBP,12-6,1,2,2,--,L1,Frankie Montas,Wade Miley,Blake Treinen,---
+19,2019-04-19,-,HOU,AL,TEX,AL,Away,Night,"35,649",3:16,W,7-2,9,Box | PBP,13-6,1,2,2,--,W1,Justin Verlander,Drew Smyly,---,"Altuve, Bregman"
+20,2019-04-20,-,HOU,AL,TEX,AL,Away,Night,"39,636",2:51,L,4-9,9,Box | PBP,13-7,2,3,4,1.0,L1,Shawn Kelley,Gerrit Cole,---,"Springer, Stassi"
+21,2019-04-21,-,HOU,AL,TEX,AL,Away,Day,"26,225",3:16,L,10-11,9,Box | PBP,13-8,2,4,6,1.0,L2,Shelby Miller,Collin McHugh,Shawn Kelley,"Brantley, Bregman, Correa, Reddick, Springer"
+22,2019-04-22,-,HOU,AL,MIN,AL,Home,Night,"34,518",3:25,L,5-9,9,Box | PBP,13-9,2,4,6,1.5,L3,Jake Odorizzi,Brad Peacock,---,"Brantley, Correa"
+23,2019-04-23,-,HOU,AL,MIN,AL,Home,Night,"29,409",3:04,W,10-4,9,Box | PBP,14-9,2,4,4,0.5,W1,Hector Rondon,Trevor Hildenberger,---,Altuve
+24,2019-04-24,-,HOU,AL,MIN,AL,Home,Night,"26,582",2:28,W,7-1,9,Box | PBP,15-9,1,2,2,--,W2,Justin Verlander,Kohl Stewart,---,"Brantley, Correa, Reddick"
+25,2019-04-25,-,HOU,AL,CLE,AL,Home,Night,"24,948",2:40,L,1-2,9,Box | PBP,15-10,2,3,4,0.5,L1,Trevor Bauer,Gerrit Cole,Brad Hand,Springer
+26,2019-04-26,-,HOU,AL,CLE,AL,Home,Night,"38,084",3:19,L,3-6,9,Box | PBP,15-11,2,5,8,1.5,L2,Adam Cimber,Hector Rondon,Brad Hand,---
+27,2019-04-27,-,HOU,AL,CLE,AL,Home,Day,"38,667",3:12,W,4-3,10,Box | PBP,16-11,2,4,6,0.5,W1,Roberto Osuna,Adam Cimber,---,"Correa, Kemp"
+28,2019-04-28,-,HOU,AL,CLE,AL,Home,Night,"31,025",2:48,W,4-1,9,Box | PBP,17-11,1,3,5,--,W2,Framber Valdez,Carlos Carrasco,Ryan Pressly,Chirinos
+29,2019-04-29,-,HOU,AL,MIN,AL,Away,Night,"12,615",2:31,L,0-1,9,Box | PBP,17-12,1,4,6,--,L1,Jake Odorizzi,Justin Verlander,Blake Parker,---
+30,2019-04-30,-,HOU,AL,MIN,AL,Away,Night,"12,181",3:18,W,11-0,9,Box | PBP,18-12,1,3,5,--,W1,Gerrit Cole,Michael Pineda,---,"Bregman, Marisnick, Springer"
+31,2019-05-01,-,HOU,AL,MIN,AL,Away,Night,"14,115",2:28,L,2-6,9,Box | PBP,18-13,1,3,6,--,L1,Martin Perez,Collin McHugh,---,---
+32,2019-05-02,-,HOU,AL,MIN,AL,Away,Day,"17,271",2:32,L,2-8,9,Box | PBP,18-14,1,4,9,--,L2,Jose Berrios,Brad Peacock,---,Bregman
+33,2019-05-04,-,HOU,AL,ANA,AL,Away,Night,"18,177",3:15,W,14-2,9,Box | PBP,19-14,1,4,8,--,W1,Wade Miley,Trevor Cahill,---,"Brantley, Bregman (2), Gurriel, Springer"
+34,2019-05-05,-,HOU,AL,ANA,AL,Away,Day,"17,614",3:04,W,10-4,9,Box | PBP,20-14,1,3,6,--,W2,Justin Verlander,Matt Harvey,---,"Brantley, Bregman, Correa"
+35,2019-05-06,-,HOU,AL,KCA,AL,Home,Night,"27,079",2:57,W,6-4,9,Box | PBP,21-14,1,3,4,--,W3,Gerrit Cole,Jake Junis,Roberto Osuna,"Chirinos, Correa, Springer"
+36,2019-05-07,-,HOU,AL,KCA,AL,Home,Night,"30,377",2:45,L,2-12,9,Box | PBP,21-15,1,4,6,--,L1,Danny Duffy,Collin McHugh,---,Bregman
+37,2019-05-08,-,HOU,AL,KCA,AL,Home,Night,"22,698",2:45,W,9-0,9,Box | PBP,22-15,1,3,5,--,W1,Brad Peacock,Jorge Lopez,---,"Brantley (2), Correa, Springer"
+38,2019-05-09,-,HOU,AL,TEX,AL,Home,Night,"26,657",2:58,W,4-2,9,Box | PBP,23-15,1,3,5,--,W2,Wade Miley,Mike Minor,Roberto Osuna,Springer
+39,2019-05-10,-,HOU,AL,TEX,AL,Home,Night,"33,023",2:29,W,3-0,9,Box | PBP,24-15,1,3,4,--,W3,Justin Verlander,Lance Lynn,Roberto Osuna,"Chirinos, Gurriel, Marisnick"
+40,2019-05-11,-,HOU,AL,TEX,AL,Home,Night,"35,849",3:15,W,11-4,9,Box | PBP,25-15,1,3,3,--,W4,Gerrit Cole,Drew Smyly,---,"Brantley, Diaz"
+41,2019-05-12,-,HOU,AL,TEX,AL,Home,Day,"41,027",3:08,W,15-5,9,Box | PBP,26-15,1,2,2,--,W5,Corbin Martin,Adrian Sampson,---,"Bregman (2), Springer (2)"
+42,2019-05-13,-,HOU,AL,DET,AL,Away,Night,"15,086",3:03,W,8-1,9,Box | PBP,27-15,1,1,1,--,W6,Brad Peacock,Matt Boyd,---,"Bregman, Chirinos, Diaz, Marisnick"
+43,2019-05-14,-,HOU,AL,DET,AL,Away,Night,"14,261",2:49,W,11-4,9,Box | PBP,28-15,1,1,1,--,W7,Wade Miley,Ryan Carpenter,---,"Correa, Diaz, Springer"
+44,2019-05-15,-,HOU,AL,DET,AL,Away,Night,"15,940",2:36,W,5-1,9,Box | PBP,29-15,1,1,1,--,W8,Justin Verlander,Gregory Soto,---,Bregman
+45,2019-05-17,-,HOU,AL,BOS,AL,Away,Night,"35,558",3:00,W,3-1,9,Box | PBP,30-15,1,1,1,--,W9,Will Harris,Rick Porcello,Roberto Osuna,Springer
+46,2019-05-18,-,HOU,AL,BOS,AL,Away,Night,"36,887",3:31,W,7-3,9,Box | PBP,31-15,1,1,1,--,W10,Josh James,Hector Velazquez,---,Reddick
+47,2019-05-19,-,HOU,AL,BOS,AL,Away,Day,"35,796",3:02,L,3-4,9,Box | PBP,31-16,1,1,1,--,L1,Marcus Walden,Framber Valdez,Brandon Workman,Correa
+48,2019-05-20,-,HOU,AL,CHA,AL,Home,Night,"24,364",2:40,W,3-0,9,Box | PBP,32-16,1,1,1,--,W1,Brad Peacock,Ryan Burr,Roberto Osuna,"Marisnick, White"
+49,2019-05-21,-,HOU,AL,CHA,AL,Home,Night,"31,392",2:53,W,5-1,9,Box | PBP,33-16,1,1,1,--,W2,Justin Verlander,Dylan Covey,---,Gurriel
+50,2019-05-22,-,HOU,AL,CHA,AL,Home,Night,"30,237",3:16,L,4-9,9,Box | PBP,33-17,1,2,2,--,L1,Ivan Nova,Gerrit Cole,---,Bregman
+51,2019-05-23,-,HOU,AL,CHA,AL,Home,Night,"26,073",2:40,L,0-4,9,Box | PBP,33-18,1,3,3,--,L2,Lucas Giolito,Corbin Martin,---,---
+52,2019-05-24,-,HOU,AL,BOS,AL,Home,Night,"35,606",2:48,W,4-3,9,Box | PBP,34-18,1,2,2,--,W1,Wade Miley,Chris Sale,Roberto Osuna,Marisnick
+53,2019-05-25,-,HOU,AL,BOS,AL,Home,Night,"40,722",3:28,W,4-3,9,Box | PBP,35-18,1,3,3,--,W2,Roberto Osuna,Matt Barnes,---,---
+54,2019-05-26,-,HOU,AL,BOS,AL,Home,Day,"41,502",3:06,L,1-4,9,Box | PBP,35-19,1,3,4,--,L1,Eduardo Rodriguez,Justin Verlander,Marcus Walden,---
+55,2019-05-27,-,HOU,AL,CHN,NL,Home,Day,"42,135",3:12,W,6-5,9,Box | PBP,36-19,1,3,4,--,W1,Gerrit Cole,Cole Hamels,Roberto Osuna,---
+56,2019-05-28,-,HOU,AL,CHN,NL,Home,Night,"31,030",3:08,W,9-6,9,Box | PBP,37-19,1,2,2,--,W2,Josh James,Jon Lester,Roberto Osuna,Bregman (2)
+57,2019-05-29,-,HOU,AL,CHN,NL,Home,Night,"33,243",2:37,L,1-2,9,Box | PBP,37-20,1,3,4,--,L1,Kyle Hendricks,Wade Miley,Steve Cishek,---
+58,2019-05-31,-,HOU,AL,OAK,AL,Away,Night,"14,519",2:52,W,3-2,9,Box | PBP,38-20,1,3,4,--,W1,Hector Rondon,Lou Trivino,Roberto Osuna,"Fisher, Reddick"
+59,2019-06-01,-,HOU,AL,OAK,AL,Away,Night,"20,425",2:37,W,5-1,9,Box | PBP,39-20,1,3,4,--,W2,Justin Verlander,Brett Anderson,---,"Chirinos, Reddick"
+60,2019-06-02,-,HOU,AL,OAK,AL,Away,Day,"23,144",4:24,W,6-4,12,Box | PBP,40-20,1,2,3,--,W3,Josh James,Lou Trivino,---,---
+61,2019-06-03,-,HOU,AL,SEA,AL,Away,Night,"11,826",2:49,W,4-2,9,Box | PBP,41-20,1,2,3,--,W4,Framber Valdez,Cory Gearrin,Ryan Pressly,Chirinos
+62,2019-06-04,-,HOU,AL,SEA,AL,Away,Night,"12,208",3:21,W,11-5,9,Box | PBP,42-20,1,2,3,--,W5,Reymin Guduan,Brandon Brennan,---,"Chirinos, Kemp"
+63,2019-06-05,-,HOU,AL,SEA,AL,Away,Night,"13,653",2:49,L,1-14,9,Box | PBP,42-21,1,1,2,--,L1,Mike Leake,Brad Peacock,---,---
+64,2019-06-06,-,HOU,AL,SEA,AL,Away,Day,"20,267",5:06,W,8-7,14,Box | PBP,43-21,1,2,3,--,W1,Chris Devenski,Matt Festa,---,"Bregman, Chirinos, Mayfield"
+65,2019-06-07,-,HOU,AL,BAL,AL,Home,Night,"35,414",3:13,W,4-3,11,Box | PBP,44-21,1,2,2,--,W2,Cionel Perez,Branden Kline,---,"Kemp, Reddick"
+66,2019-06-08,-,HOU,AL,BAL,AL,Home,Day,"38,425",2:27,L,1-4,9,Box | PBP,44-22,1,1,2,--,L1,Paul Fry,Will Harris,Miguel Castro,---
+67,2019-06-09,-,HOU,AL,BAL,AL,Home,Day,"35,621",2:46,W,4-0,9,Box | PBP,45-22,1,2,3,--,W1,Wade Miley,Dylan Bundy,Roberto Osuna,Alvarez
+68,2019-06-11,-,HOU,AL,MIL,NL,Home,Night,"35,928",2:58,W,10-8,9,Box | PBP,46-22,1,2,2,--,W2,Brad Peacock,Freddy Peralta,---,"Alvarez, Chirinos, Gurriel, White"
+69,2019-06-12,-,HOU,AL,MIL,NL,Home,Night,"40,032",4:16,L,3-6,14,Box | PBP,46-23,1,1,1,--,L1,Adrian Houser,Cionel Perez,---,---
+70,2019-06-14,-,HOU,AL,TOR,AL,Home,Night,"34,719",2:53,W,15-2,9,Box | PBP,47-23,1,2,2,--,W1,Gerrit Cole,Aaron Sanchez,Rogelio Armenteros,"Alvarez, Bregman, Chirinos, Kemp"
+71,2019-06-15,-,HOU,AL,TOR,AL,Home,Day,"38,012",2:26,W,7-2,9,Box | PBP,48-23,1,2,2,--,W2,Framber Valdez,Clayton Richard,---,"Alvarez, Reddick"
+72,2019-06-16,-,HOU,AL,TOR,AL,Home,Day,"42,174",3:02,L,0-12,9,Box | PBP,48-24,1,2,2,--,L1,Trent Thornton,Brad Peacock,---,---
+73,2019-06-17,-,HOU,AL,CIN,NL,Away,Night,"22,745",2:55,L,2-3,9,Box | PBP,48-25,1,2,2,--,L2,Luis Castillo,Wade Miley,Michael Lorenzen,---
+74,2019-06-18,-,HOU,AL,CIN,NL,Away,Night,"25,347",2:55,L,3-4,9,Box | PBP,48-26,1,2,3,--,L3,Anthony DeSclafani,Justin Verlander,Michael Lorenzen,Bregman
+75,2019-06-19,-,HOU,AL,CIN,NL,Away,Day,"24,777",2:38,L,2-3,9,Box | PBP,48-27,1,2,3,--,L4,Matt Bowman,Roberto Osuna,---,Brantley
+76,2019-06-20,-,HOU,AL,NYA,AL,Away,Night,"41,030",3:31,L,6-10,9,Box | PBP,48-28,1,3,4,--,L5,Nestor Cortes,Framber Valdez,Aroldis Chapman,"Alvarez, Bregman, Marisnick (2)"
+77,2019-06-21,-,HOU,AL,NYA,AL,Away,Night,"41,166",3:06,L,1-4,9,Box | PBP,48-29,1,3,4,--,L6,James Paxton,Brad Peacock,Aroldis Chapman,---
+78,2019-06-22,-,HOU,AL,NYA,AL,Away,Night,"46,034",3:08,L,5-7,9,Box | PBP,48-30,1,3,4,--,L7,Jonathan Holder,Ryan Pressly,Zack Britton,"Alvarez, Reddick"
+79,2019-06-23,-,HOU,AL,NYA,AL,Away,Day,"46,769",2:48,W,9-4,9,Box | PBP,49-30,1,3,4,--,W1,Justin Verlander,J.A. Happ,---,"Altuve, Alvarez, Gurriel, White"
+80,2019-06-25,-,HOU,AL,PIT,NL,Home,Night,"37,193",2:57,W,5-1,9,Box | PBP,50-30,1,3,4,--,W2,Gerrit Cole,Trevor Williams,---,"Bregman, Gurriel"
+81,2019-06-26,-,HOU,AL,PIT,NL,Home,Night,"39,312",3:17,L,2-14,9,Box | PBP,50-31,1,3,4,--,L1,Dario Agrazal,Framber Valdez,---,Springer
+82,2019-06-27,-,HOU,AL,PIT,NL,Home,Day,"38,943",2:51,L,0-10,9,Box | PBP,50-32,1,3,4,--,L2,Joe Musgrove,Brad Peacock,---,---
+83,2019-06-28,-,HOU,AL,SEA,AL,Home,Night,"32,828",3:27,W,2-1,10,Box | PBP,51-32,1,3,4,--,W1,Will Harris,Matt Festa,---,"Gurriel, Reddick"
+84,2019-06-29,-,HOU,AL,SEA,AL,Home,Night,"35,082",3:38,W,6-5,10,Box | PBP,52-32,1,3,4,--,W2,Chris Devenski,Roenis Elias,---,---
+85,2019-06-30,-,HOU,AL,SEA,AL,Home,Day,"32,485",2:52,W,6-1,9,Box | PBP,53-32,1,3,4,--,W3,Gerrit Cole,Marco Gonzales,---,---
+86,2019-07-02,-,HOU,AL,COL,NL,Away,Night,"47,864",3:27,W,9-8,9,Box | PBP,54-32,1,3,4,--,W4,Will Harris,Jake McGee,Roberto Osuna,Gurriel (2)
+87,2019-07-03,-,HOU,AL,COL,NL,Away,Night,"48,308",2:41,W,4-2,9,Box | PBP,55-32,1,3,4,--,W5,Wade Miley,Peter Lambert,Roberto Osuna,"Bregman, Gurriel"
+88,2019-07-05,-,HOU,AL,ANA,AL,Home,Night,"41,219",2:54,L,4-5,9,Box | PBP,55-33,1,3,4,--,L1,Felix Pena,Justin Verlander,Hansel Robles,"Brantley, Gurriel"
+89,2019-07-06,-,HOU,AL,ANA,AL,Home,Night,"39,470",2:44,W,4-0,9,Box | PBP,56-33,1,3,4,--,W1,Gerrit Cole,Andrew Heaney,---,Gurriel
+90,2019-07-07,-,HOU,AL,ANA,AL,Home,Day,"37,264",4:49,W,11-10,10,Box | PBP,57-33,1,2,3,--,W2,Ryan Pressly,Taylor Cole,---,"Gurriel, Kemp"
+91,2019-07-11,-,HOU,AL,TEX,AL,Away,Night,"37,964",3:02,L,0-5,9,Box | PBP,57-34,1,3,4,--,L1,Lance Lynn,Framber Valdez,---,---
+92,2019-07-12,-,HOU,AL,TEX,AL,Away,Night,"32,322",3:07,L,8-9,9,Box | PBP,57-35,1,3,4,--,L2,Shawn Kelley,Roberto Osuna,---,"Altuve, Alvarez (2), Gurriel"
+93,2019-07-13,-,HOU,AL,TEX,AL,Away,Night,"42,452",4:09,W,7-6,11,Box | PBP,58-35,1,3,4,--,W1,Josh James,Brett Martin,Roberto Osuna,Bregman
+94,2019-07-14,-,HOU,AL,TEX,AL,Away,Day,"27,916",3:40,W,12-4,9,Box | PBP,59-35,1,3,4,--,W2,Justin Verlander,Ariel Jurado,---,"Altuve, Gurriel"
+95,2019-07-15,-,HOU,AL,ANA,AL,Away,Night,"35,431",3:25,L,6-9,9,Box | PBP,59-36,1,3,4,--,L1,Justin Anderson,Framber Valdez,Hansel Robles,Springer (2)
+96,2019-07-16,-,HOU,AL,ANA,AL,Away,Night,"42,678",3:33,L,2-7,9,Box | PBP,59-37,1,3,4,--,L2,Noe Ramirez,Hector Rondon,---,---
+97,2019-07-17,-,HOU,AL,ANA,AL,Away,Night,"35,738",2:57,W,11-2,9,Box | PBP,60-37,1,2,3,--,W1,Gerrit Cole,Felix Pena,---,"Brantley, Springer"
+98,2019-07-18,-,HOU,AL,ANA,AL,Away,Night,"35,928",2:35,W,6-2,9,Box | PBP,61-37,1,2,3,--,W2,Wade Miley,Matt Harvey,---,"Bregman, Springer"
+99,2019-07-19,-,HOU,AL,TEX,AL,Home,Night,"42,287",2:59,W,4-3,9,Box | PBP,62-37,1,2,3,--,W3,Justin Verlander,Mike Minor,Roberto Osuna,"Altuve, Alvarez, Bregman, Gurriel"
+100,2019-07-20,-,HOU,AL,TEX,AL,Home,Night,"41,643",2:25,W,6-1,9,Box | PBP,63-37,1,2,3,--,W4,Jose Urquidy,Ariel Jurado,---,"Gurriel, Kemp"
+101,2019-07-21,-,HOU,AL,TEX,AL,Home,Day,"37,655",3:08,W,5-3,9,Box | PBP,64-37,1,2,3,--,W5,Rogelio Armenteros,Lance Lynn,Roberto Osuna,"Altuve, Brantley (2)"
+102,2019-07-22,-,HOU,AL,OAK,AL,Home,Night,"41,534",2:56,W,11-1,9,Box | PBP,65-37,1,2,3,--,W6,Gerrit Cole,Homer Bailey,---,"Alvarez, Diaz, Gurriel"
+103,2019-07-23,-,HOU,AL,OAK,AL,Home,Night,"39,204",3:14,L,3-4,11,Box | PBP,65-38,1,2,3,--,L1,Yusmeiro Petit,Collin McHugh,---,Gurriel
+104,2019-07-24,-,HOU,AL,OAK,AL,Home,Day,"41,838",2:42,W,4-2,9,Box | PBP,66-38,1,2,3,--,W1,Justin Verlander,Chris Bassitt,Roberto Osuna,"Altuve, Springer"
+105,2019-07-26,-,HOU,AL,SLN,NL,Away,Night,"44,724",3:09,L,3-5,9,Box | PBP,66-39,1,2,3,--,L1,Andrew Miller,Ryan Pressly,Carlos Martinez,Brantley
+106,2019-07-27,-,HOU,AL,SLN,NL,Away,Night,"46,518",3:07,W,8-2,9,Box | PBP,67-39,1,2,3,--,W1,Gerrit Cole,Daniel Ponce de Leon,---,Correa
+107,2019-07-28,-,HOU,AL,SLN,NL,Away,Day,"46,714",3:24,W,6-2,9,Box | PBP,68-39,1,2,3,--,W2,Wade Miley,Dakota Hudson,---,"Altuve, Alvarez, Springer"
+108,2019-07-30,-,HOU,AL,CLE,AL,Away,Night,"21,589",2:44,W,2-0,9,Box | PBP,69-39,1,1,2,--,W3,Justin Verlander,Shane Bieber,Roberto Osuna,Chirinos
+109,2019-07-31,-,HOU,AL,CLE,AL,Away,Night,"23,961",3:10,L,4-10,9,Box | PBP,69-40,1,2,3,--,L1,Zach Plesac,Jose Urquidy,---,Correa
+110,2019-08-01,-,HOU,AL,CLE,AL,Away,Night,"21,536",3:10,W,7-1,9,Box | PBP,70-40,1,1,2,--,W1,Gerrit Cole,Danny Salazar,---,"Bregman, Springer"
+111,2019-08-02,-,HOU,AL,SEA,AL,Home,Night,"41,444",2:57,W,10-2,9,Box | PBP,71-40,1,1,2,--,W2,Wade Miley,Yusei Kikuchi,---,"Altuve, Alvarez, Correa, Diaz, Maldonado, Marisnick"
+112,2019-08-03,-,HOU,AL,SEA,AL,Home,Night,"37,059",3:02,W,9-0,9,Box | PBP,72-40,1,2,3,--,W3,Aaron Sanchez,Marco Gonzales,---,Altuve
+113,2019-08-04,-,HOU,AL,SEA,AL,Home,Day,"39,667",2:56,W,3-1,9,Box | PBP,73-40,1,2,3,--,W4,Justin Verlander,Tom Milone,Roberto Osuna,---
+114,2019-08-06,-,HOU,AL,COL,NL,Home,Night,"43,243",3:09,W,11-6,9,Box | PBP,74-40,1,2,3,--,W5,Zack Greinke,Chi Chi Gonzalez,---,"Alvarez, Correa, Gurriel (2)"
+115,2019-08-07,-,HOU,AL,COL,NL,Home,Day,"35,566",3:05,W,14-3,9,Box | PBP,75-40,1,2,3,--,W6,Gerrit Cole,Peter Lambert,---,"Altuve, Gurriel"
+116,2019-08-09,-,HOU,AL,BAL,AL,Away,Night,"19,407",2:58,W,3-2,9,Box | PBP,76-40,1,1,1,--,W7,Wade Miley,Dylan Bundy,Roberto Osuna,---
+117,2019-08-10,-,HOU,AL,BAL,AL,Away,Night,"21,903",3:03,W,23-2,9,Box | PBP,77-40,1,1,1,--,W8,Aaron Sanchez,Aaron Brooks,---,"Altuve, Alvarez (3), Bregman, Correa"
+118,2019-08-11,-,HOU,AL,BAL,AL,Away,Day,"17,979",3:51,L,7-8,9,Box | PBP,77-41,1,1,2,--,L1,Richard Bleier,Roberto Osuna,---,Correa
+119,2019-08-13,1,HOU,AL,CHA,AL,Away,Day,-,3:17,W,6-2,9,Box | PBP,78-42,1,2,3,--,L1,Zack Greinke,Dylan Cease,---,"Altuve, Springer"
+120,2019-08-13,2,HOU,AL,CHA,AL,Away,Night,"19,559",2:21,L,1-4,9,Box | PBP,78-42,1,2,3,--,L1,Ivan Nova,Chris Devenski,---,---
+121,2019-08-14,-,HOU,AL,CHA,AL,Away,Day,"18,899",3:30,L,9-13,9,Box | PBP,78-43,1,2,3,--,L2,Alex Colome,Ryan Pressly,---,"Altuve, Gurriel (2)"
+122,2019-08-15,-,HOU,AL,OAK,AL,Away,Night,"15,323",2:35,L,6-7,9,Box | PBP,78-44,1,2,3,--,L3,Jake Diekman,Chris Devenski,Liam Hendriks,"Brantley (2), Bregman, Correa (2)"
+123,2019-08-16,-,HOU,AL,OAK,AL,Away,Night,"22,768",4:13,L,2-3,13,Box | PBP,78-45,1,2,3,--,L4,Lou Trivino,Cy Sneed,---,---
+124,2019-08-17,-,HOU,AL,OAK,AL,Away,Day,"21,428",3:04,L,4-8,9,Box | PBP,78-46,1,2,3,--,L5,Chris Bassitt,Rogelio Armenteros,---,Alvarez (2)
+125,2019-08-18,-,HOU,AL,OAK,AL,Away,Day,"22,372",2:50,W,4-1,9,Box | PBP,79-46,1,2,3,--,W1,Zack Greinke,Brett Anderson,Roberto Osuna,Bregman
+126,2019-08-19,-,HOU,AL,DET,AL,Home,Night,"40,499",3:13,W,5-4,9,Box | PBP,80-46,1,2,3,--,W2,Wade Miley,Edwin Jackson,Roberto Osuna,---
+127,2019-08-20,-,HOU,AL,DET,AL,Home,Night,"30,143",3:03,W,6-3,9,Box | PBP,81-46,1,2,3,--,W3,Brad Peacock,Spencer Turnbull,Roberto Osuna,"Altuve, Maldonado, Springer"
+128,2019-08-21,-,HOU,AL,DET,AL,Home,Night,"29,567",2:12,L,1-2,9,Box | PBP,81-47,1,2,3,--,L1,Buck Farmer,Justin Verlander,Joe Jimenez,Chirinos
+129,2019-08-22,-,HOU,AL,DET,AL,Home,Night,"27,220",2:50,W,6-3,9,Box | PBP,82-47,1,2,3,--,W1,Gerrit Cole,Jordan Zimmermann,Roberto Osuna,Bregman
+130,2019-08-23,-,HOU,AL,ANA,AL,Home,Night,"35,201",3:07,W,5-4,9,Box | PBP,83-47,1,2,3,--,W2,Zack Greinke,Jose Suarez,Roberto Osuna,Gurriel
+131,2019-08-24,-,HOU,AL,ANA,AL,Home,Night,"37,862",3:03,W,5-2,9,Box | PBP,84-47,1,1,2,--,W3,Wade Miley,Dillon Peters,Will Harris,"Brantley, Bregman"
+132,2019-08-25,-,HOU,AL,ANA,AL,Home,Day,"38,989",2:59,W,11-2,9,Box | PBP,85-47,1,1,2,--,W4,Framber Valdez,Jaime Barria,---,"Altuve, Maldonado"
+133,2019-08-27,-,HOU,AL,TBA,AL,Home,Night,"28,454",3:10,W,15-1,9,Box | PBP,86-47,1,2,3,--,W5,Justin Verlander,Charlie Morton,---,"Alvarez (2), Chirinos"
+134,2019-08-28,-,HOU,AL,TBA,AL,Home,Night,"25,539",3:09,W,8-6,9,Box | PBP,87-47,1,2,3,--,W6,Will Harris,Diego Castillo,---,Gurriel
+135,2019-08-29,-,HOU,AL,TBA,AL,Home,Day,"33,051",4:06,L,8-9,9,Box | PBP,87-48,1,2,3,--,L1,Jose De Leon,Chris Devenski,Emilio Pagan,"Altuve, Springer, Toro"
+136,2019-08-30,-,HOU,AL,TOR,AL,Away,Night,"25,289",3:22,W,7-4,9,Box | PBP,88-48,1,1,1,--,W1,Collin McHugh,Trent Thornton,---,Springer
+137,2019-08-31,-,HOU,AL,TOR,AL,Away,Day,"26,414",3:04,L,4-6,9,Box | PBP,88-49,1,2,2,--,L1,Clay Buchholz,Framber Valdez,Ken Giles,---
+138,2019-09-01,-,HOU,AL,TOR,AL,Away,Day,"24,104",2:29,W,2-0,9,Box | PBP,89-49,1,2,2,--,W1,Justin Verlander,Ken Giles,---,Toro
+139,2019-09-02,-,HOU,AL,MIL,NL,Away,Day,"39,046",3:35,W,3-2,10,Box | PBP,90-49,1,1,1,--,W2,Roberto Osuna,Junior Guerra,Josh James,"Alvarez, Springer"
+140,2019-09-03,-,HOU,AL,MIL,NL,Away,Night,"29,335",2:41,L,2-4,9,Box | PBP,90-50,1,2,3,--,L1,Jordan Lyles,Zack Greinke,Josh Hader,Bregman
+141,2019-09-05,-,HOU,AL,SEA,AL,Home,Night,"27,822",4:40,W,11-9,13,Box | PBP,91-50,1,2,3,--,W1,Josh James,Matt Wisler,---,"Brantley, Reddick, Tucker"
+142,2019-09-06,-,HOU,AL,SEA,AL,Home,Night,"33,149",3:31,W,7-4,9,Box | PBP,92-50,1,1,1,--,W2,Joe Smith,Tom Milone,Roberto Osuna,Reddick
+143,2019-09-07,-,HOU,AL,SEA,AL,Home,Night,"41,958",2:56,W,2-1,9,Box | PBP,93-50,1,1,1,--,W3,Justin Verlander,Austin Adams,Will Harris,Bregman
+144,2019-09-08,-,HOU,AL,SEA,AL,Home,Day,"35,569",2:50,W,21-1,9,Box | PBP,94-50,1,1,1,--,W4,Gerrit Cole,Felix Hernandez,---,"Marisnick, Springer"
+145,2019-09-09,-,HOU,AL,OAK,AL,Home,Night,"38,289",2:42,W,15-0,9,Box | PBP,95-50,1,1,1,--,W5,Zack Greinke,Michael Fiers,---,"Altuve, Alvarez (2), Brantley, Bregman, Chirinos (2)"
+146,2019-09-10,-,HOU,AL,OAK,AL,Home,Night,"32,100",3:20,L,7-21,9,Box | PBP,95-51,1,1,1,--,L1,Tanner Roark,Wade Miley,Daniel Mengden,"Maldonado (2), Springer (2)"
+147,2019-09-11,-,HOU,AL,OAK,AL,Home,Night,"32,938",2:57,L,3-5,9,Box | PBP,95-52,1,2,2,--,L2,Brett Anderson,Josh James,Liam Hendriks,"Maldonado, Springer"
+148,2019-09-12,-,HOU,AL,OAK,AL,Home,Night,"34,024",3:39,L,2-3,9,Box | PBP,95-53,1,2,2,--,L3,Homer Bailey,Justin Verlander,Liam Hendriks,Altuve
+149,2019-09-13,-,HOU,AL,KCA,AL,Away,Night,"20,593",2:58,W,4-1,9,Box | PBP,96-53,1,2,2,--,W1,Gerrit Cole,Heath Fillmyer,Roberto Osuna,"Altuve, Springer"
+150,2019-09-14,-,HOU,AL,KCA,AL,Away,Night,"20,716",3:17,W,6-1,9,Box | PBP,97-53,1,2,2,--,W2,Zack Greinke,Mike Montgomery,---,"Alvarez, Bregman"
+151,2019-09-15,-,HOU,AL,KCA,AL,Away,Day,"17,205",3:17,W,12-3,9,Box | PBP,98-53,1,1,1,--,W3,Wade Miley,Jake Junis,---,"Gurriel, Reddick, Tucker"
+152,2019-09-17,-,HOU,AL,TEX,AL,Home,Night,"39,650",2:45,W,4-1,9,Box | PBP,99-53,1,1,1,--,W4,Justin Verlander,Lance Lynn,Roberto Osuna,"Alvarez, Bregman, Gurriel"
+153,2019-09-18,-,HOU,AL,TEX,AL,Home,Night,"38,417",2:35,W,3-2,9,Box | PBP,100-53,1,1,1,--,W5,Gerrit Cole,Kolby Allard,Roberto Osuna,"Altuve, Gurriel"
+154,2019-09-20,-,HOU,AL,ANA,AL,Home,Night,"40,106",2:49,W,6-4,9,Box | PBP,101-53,1,1,1,--,W6,Zack Greinke,Jaime Barria,Roberto Osuna,"Altuve, Bregman, Correa (2)"
+155,2019-09-21,-,HOU,AL,ANA,AL,Home,Night,"43,264",3:23,L,4-8,9,Box | PBP,101-54,1,1,1,--,L1,Luke Bard,Wade Miley,---,Alvarez
+156,2019-09-22,-,HOU,AL,ANA,AL,Home,Day,"43,169",3:32,W,13-5,9,Box | PBP,102-54,1,1,1,--,W1,Justin Verlander,Jose Rodriguez,---,"Bregman, Diaz, Springer (3)"
+157,2019-09-24,-,HOU,AL,SEA,AL,Away,Night,"11,259",2:51,W,3-0,9,Box | PBP,103-54,1,1,1,--,W2,Gerrit Cole,Tom Milone,Roberto Osuna,Bregman
+158,2019-09-25,-,HOU,AL,SEA,AL,Away,Night,"10,916",2:33,W,3-0,9,Box | PBP,104-54,1,1,1,--,W3,Zack Greinke,Yusei Kikuchi,Will Harris,Tucker
+159,2019-09-26,-,HOU,AL,ANA,AL,Away,Night,"39,658",4:32,L,3-4,12,Box | PBP,104-55,1,1,1,--,L1,Trevor Cahill,Joe Biagini,---,"Mayfield, Tucker"
+160,2019-09-27,-,HOU,AL,ANA,AL,Away,Night,"41,763",2:37,W,4-0,9,Box | PBP,105-55,1,1,1,--,W1,Jose Urquidy,Patrick Sandoval,---,"Brantley, Bregman"
+161,2019-09-28,-,HOU,AL,ANA,AL,Away,Night,"35,814",2:55,W,6-3,9,Box | PBP,106-55,1,1,1,--,W2,Justin Verlander,Luke Bard,Roberto Osuna,"Altuve, Reddick"
+162,2019-09-29,-,HOU,AL,ANA,AL,Away,Day,"34,693",3:30,W,8-5,9,Box | PBP,107-55,1,1,1,--,W3,Gerrit Cole,Dillon Peters,Will Harris,"Diaz, Gurriel, Springer"

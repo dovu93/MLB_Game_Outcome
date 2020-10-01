@@ -1,0 +1,1136 @@
+Player Name,Status,Team Name,Pos,Ht,Wt,Ba,Th,Born Date,Place Of Birth,Draft Info,HiLvl,MLB Years,Stat Years,Age
+Jose Abreu,Active,Chicago White Sox,1B-DH,6-2,258,R,R,1987-01-29,"Cruces,CU",2013- 0- 0-CHA,MLB,2014-2020,2014-2020,33.243
+Ronald Acuna,Active,Atlanta Braves,LF-CF,6-0,180,R,R,1997-12-18,"La Guaira,VZ",2014- 0- 0-ATL,MLB,2018-2020,2015-2020,22.285
+Jason Adam,Active,Chicago Cubs,P,6-4,225,R,R,1991-08-04,"Overland Park,KS",2010- 5- 149-KCA,MLB,2018-2020,2011-2020,29.056
+Willy Adames,Active,Tampa Bay Rays,SS-2B,6-1,180,R,R,1995-09-02,"Santiago,DR",2012- 0- 0-DET,MLB,2018-2020,2013-2020,25.027
+Austin Adams,DL-60,San Diego Padres,P,6-2,180,R,R,1991-05-05,"Tampa,FL",2012- 8- 267-ANA,MLB,2017-2020,2010-2020,29.147
+Chance Adams,Active,Kansas City Royals,P,6-0,205,R,R,1994-08-10,"Scottsdale,AZ",2015- 5- 153-NYA,MLB,2018-2020,2013-2020,26.050
+Jo Adell,Active,Los Angeles Angels,CF-RF,6-2,195,R,R,1999-04-08,"Louisville,KY",2017- 1- 10-ANA,MLB,2020-2020,2017-2020,21.174
+Ehire Adrianza,Active,Minnesota Twins,SS-3B,6-1,155,B,R,1989-08-21,"Guarenas,VZ",2006- 0- 0-SFN,MLB,2013-2020,2008-2020,31.039
+Dario Agrazal,DL-60,Detroit Tigers,P,6-3,190,R,R,1994-12-28,"Aguadulce,PN",2012- 0- 0-PIT,MLB,2019-2019,2013-2019,25.275
+Jesus Aguilar,Active,Miami Marlins,1B-DH,6-3,241,R,R,1990-06-30,"Maracay,VZ",2007- 0- 0-CLE,MLB,2014-2020,2010-2020,30.091
+Nick Ahmed,Active,Arizona Diamondbacks,SS,6-2,180,R,R,1990-03-15,"East Longmeadow,MA",2011- 2- 85-ATL,MLB,2014-2020,2009-2020,30.198
+Keegan Akin,Active,Baltimore Orioles,P,6-0,225,L,L,1995-04-01,"Alma,MI",2016- 2- 54-BAL,MLB,2020-2020,2014-2020,25.181
+Shogo Akiyama,Active,Cincinnati Reds,OF,6-0,182,L,R,1988-04-16,"Yokosuka,JP",,MLB,2020-2020,2011-2020,32.165
+Hanser Alberto,Active,Baltimore Orioles,2B-3B,5-11,175,R,R,1992-10-17,"San Francisco de Macoris,DR",2009- 0- 0-TEX,MLB,2015-2020,2010-2020,27.347
+Ozzie Albies,Active,Atlanta Braves,2B,5-9,150,B,R,1997-01-07,"Willemstad,CC",2013- 0- 0-ATL,MLB,2017-2020,2014-2020,23.265
+Sandy Alcantara,Active,Miami Marlins,P,6-4,170,R,R,1995-09-07,"San Juan De La Maguana,DR",2013- 0- 0-SLN,MLB,2017-2020,2014-2020,25.022
+Sergio Alcantara,Active,Detroit Tigers,SS-2B,5-10,150,B,R,1996-07-10,"Santo Domingo,DR",2012- 0- 0-ARI,MLB,2020-2020,2013-2020,24.081
+Tyler Alexander,Active,Detroit Tigers,P,6-3,180,R,L,1994-07-14,"Southlake,TX",2015- 2- 65-DET,MLB,2019-2020,2014-2020,26.077
+Jorge Alfaro,Active,Miami Marlins,C-3B-,6-2,185,R,R,1993-06-11,"Sincelejo,CB",2010- 0- 0-TEX,MLB,2016-2020,2010-2020,27.110
+Anthony Alford,DL-60,Pittsburgh Pirates,CF-RF,6-1,205,R,R,1994-07-20,"Columbia,MS",2012- 3- 112-TOR,MLB,2017-2020,2012-2020,26.071
+Kolby Allard,Active,Texas Rangers,P,6-1,175,L,L,1997-08-13,"San Clemente,CA",2015- 1- 14-ATL,MLB,2018-2020,2015-2020,23.047
+Yency Almonte,Active,Colorado Rockies,P,6-3,185,B,R,1994-06-04,"Miami,FL",2012- 17- 537-ANA,MLB,2018-2020,2012-2020,26.117
+Pete Alonso,Active,New York Mets,1B-DH,6-2,225,R,R,1994-12-07,"Tampa,FL",2016- 2- 64-NYN,MLB,2019-2020,2014-2020,25.296
+Dan Altavilla,Active,San Diego Padres,P,5-11,200,R,R,1992-09-08,"McKeesport,PA",2014- 5- 141-SEA,MLB,2016-2020,2012-2020,28.020
+Jose Altuve,Active,Houston Astros,2B-DH,5-6,153,R,R,1990-05-06,"Maracay,VZ",2006- 0- 0-HOU,MLB,2011-2020,2008-2020,30.146
+Jose Alvarado,DL-60,Tampa Bay Rays,P-1B,6-0,180,L,L,1995-05-21,"Maracaibo,VZ",2012- 0- 0-TBA,MLB,2017-2020,2014-2020,25.131
+Jose Alvarez,DL-60,Philadelphia Phillies,P,5-11,150,L,L,1989-05-06,"Barcelona,VZ",2005- 0- 0-BOS,MLB,2013-2020,2003-2020,31.146
+Yordan Alvarez,DL-60,Houston Astros,LF-DH,6-5,225,L,L,1997-06-27,"Las Tunas,CU",2016- 0- 0-LAN,MLB,2019-2020,2016-2020,23.094
+Adbert Alzolay,Active,Chicago Cubs,P,6-0,179,R,R,1995-03-01,"Puerto Ordaz,VZ",2012- 0- 0-CHN,MLB,2019-2020,2014-2020,25.212
+Brett Anderson,Active,Milwaukee Brewers,P,6-4,215,L,L,1988-02-01,"Midland,TX",2006- 2- 55-ARI,MLB,2009-2020,2007-2020,32.241
+Brian Anderson,Active,Miami Marlins,RF-3B,6-3,185,R,R,1993-05-19,"Edmond,OK",2014- 3- 76-MIA,MLB,2017-2020,2012-2020,27.133
+Chase Anderson,Active,Toronto Blue Jays,P,6-1,175,R,R,1987-11-30,"Wichita Falls,TX",2009- 9- 276-ARI,MLB,2014-2020,2007-2020,32.303
+Ian Anderson,Active,Atlanta Braves,P,6-3,170,R,R,1998-05-02,"Clifton Park,NY",2016- 1- 3-ATL,MLB,2020-2020,2016-2020,22.150
+Justin Anderson,DL-60,Los Angeles Angels,P,6-3,200,L,R,1992-09-28,"Houston,TX",2014- 14- 419-ANA,MLB,2018-2019,2012-2019,28.001
+Nick Anderson,Active,Tampa Bay Rays,P,6-5,195,R,R,1990-07-05,"Brainerd,MN",2015- 0- 0-MIN,MLB,2019-2020,2012-2020,30.086
+Shaun Anderson,Active,San Francisco Giants,P,6-4,235,R,R,1994-10-29,"Coral Springs,FL",2016- 3- 88-BOS,MLB,2019-2020,2014-2020,25.335
+Tim Anderson,Active,Chicago White Sox,SS-DH,6-1,180,R,R,1993-06-23,"Tuscaloosa,AL",2013- 1- 17-CHA,MLB,2016-2020,2013-2020,27.098
+Tyler Anderson,Active,San Francisco Giants,P,6-3,195,L,L,1989-12-30,"Las Vegas,NV",2011- 1- 20-COL,MLB,2016-2020,2009-2020,30.273
+Matt Andriese,Active,Los Angeles Angels,P,6-2,188,R,R,1989-08-28,"Redlands,CA",2011- 3- 112-SDN,MLB,2015-2020,2009-2020,31.032
+Elvis Andrus,Active,Texas Rangers,SS-DH,6-0,186,R,R,1988-08-26,"Caracas,VZ",2005- 0- 0-ATL,MLB,2009-2020,2005-2020,32.033
+Tejay Antone,Active,Cincinnati Reds,P,6-4,205,R,R,1993-12-05,"Mansfield,TX",2014- 5- 155-CIN,MLB,2020-2020,2013-2020,26.298
+Sherten Apostel,Active,Texas Rangers,3B-1B,6-4,198,R,R,1999-03-11,"Willemstad,CC",2015- 0- 0-PIT,MLB,2020-2020,2016-2020,21.202
+Jonathan Arauz,Active,Boston Red Sox,SS-2B,6-0,147,L,R,1998-08-03,"Alanje,PN",2014- 0- 0-PHI,MLB,2020-2020,2015-2020,22.057
+Chris Archer,DL-10,Pittsburgh Pirates,P,6-2,165,R,R,1988-09-26,"Clayton,NC",2006- 5- 161-CLE,MLB,2012-2019,2006-2019,32.002
+Orlando Arcia,Active,Milwaukee Brewers,SS,6-0,165,R,R,1994-08-04,"Anaco,VZ",2010- 0- 0-MIL,MLB,2016-2020,2011-2020,26.056
+Nolan Arenado,Active,Colorado Rockies,3B-DH,6-1,205,R,R,1991-04-16,"Lake Forest,CA",2009- 2- 59-COL,MLB,2013-2020,2009-2020,29.166
+Rogelio Armenteros,DL-60,Houston Astros,P,6-1,215,R,R,1994-06-30,"La Habana,CU",2014- 0- 0-HOU,MLB,2019-2019,2015-2019,26.091
+Shawn Armstrong,Active,Baltimore Orioles,P,6-2,196,R,R,1990-09-11,"New Bern,NC",2011- 18- 548-CLE,MLB,2015-2020,2009-2020,30.018
+Randy Arozarena,Active,Tampa Bay Rays,LF-RF,5-11,170,R,R,1995-02-28,"La Habana,CU",2016- 0- 0-SLN,MLB,2019-2020,2017-2020,25.213
+Luis Arraez,Active,Minnesota Twins,2B-3B,5-10,155,L,R,1997-04-09,"San Felipe,VZ",2013- 0- 0-MIN,MLB,2019-2020,2014-2020,23.173
+Jake Arrieta,Active,Philadelphia Phillies,P,6-4,225,R,R,1986-03-06,"Plano,TX",2007- 5- 159-BAL,MLB,2010-2020,2006-2020,34.207
+Christian Arroyo,Active,Boston Red Sox,3B-SS,5-11,185,R,R,1995-05-30,"Brooksville,FL",2013- 1- 25-SFN,MLB,2017-2020,2013-2020,25.122
+Alex Avila,Active,Minnesota Twins,C-1B-,5-11,210,L,R,1987-01-29,"Pembroke Pines,FL",2008- 5- 163-DET,MLB,2009-2020,2006-2020,33.243
+Yoan Aybar,Active,Boston Red Sox,P,6-2,165,L,L,1997-07-03,"Bani,DR",2013- 0- 0-BOS,A+,,2014-2019,23.088
+Dakota Bacus,Active,Washington Nationals,P,6-2,190,R,R,1991-04-02,"Moline,IL",2012- 9- 289-OAK,MLB,2020-2020,2012-2020,29.180
+Harrison Bader,Active,St. Louis Cardinals,CF-OF,6-0,195,R,R,1994-06-03,"Bronxville,NY",2015- 3- 100-SLN,MLB,2017-2020,2013-2020,26.118
+Javier Baez,Active,Chicago Cubs,SS-2B,6-0,180,R,R,1992-12-01,"Toa Baja,PR",2011- 1- 9-CHN,MLB,2014-2020,2011-2020,27.302
+Pedro Baez,Active,Los Angeles Dodgers,P,6-2,199,R,R,1988-03-11,"Bani,DR",2007- 0- 0-LAN,MLB,2014-2020,2007-2020,32.201
+Anthony Banda,Active,San Francisco Giants,P,6-3,175,L,L,1993-08-10,"Sinton,TX",2012- 10- 335-MIL,MLB,2017-2020,2012-2020,27.050
+Will Banfield,DL-10,Miami Marlins,C,6-0,200,R,R,1999-11-18,"Snellville,GA",2018- 2- 69-MIA,A,,2018-2019,20.315
+Caleb Baragar,Active,San Francisco Giants,P,6-3,204,R,L,1994-04-09,"Jenison,MI",2016- 9- 275-SFN,MLB,2020-2020,2015-2020,26.173
+Daniel Bard,Active,Colorado Rockies,P,6-4,185,R,R,1985-06-25,"Charlotte,NC",2006- 1- 28-BOS,MLB,2009-2020,2004-2020,35.096
+Luke Bard,Active,Los Angeles Angels,P,6-3,180,R,R,1990-11-13,"Charlotte,NC",2012- 1- 42-MIN,MLB,2018-2020,2010-2020,29.320
+Scott Barlow,Active,Kansas City Royals,P,6-3,170,R,R,1992-12-18,"New London,CT",2011- 6- 194-LAN,MLB,2018-2020,2011-2020,27.285
+Austin Barnes,Active,Los Angeles Dodgers,C-2B,5-11,170,R,R,1989-12-28,"Orange,CA",2011- 9- 283-MIA,MLB,2015-2020,2009-2020,30.275
+Jacob Barnes,Active,Los Angeles Angels,P,6-2,210,R,R,1990-04-14,"St. Petersburg,FL",2011- 14- 431-MIL,MLB,2016-2020,2009-2020,30.168
+Matt Barnes,Active,Boston Red Sox,P,6-3,180,R,R,1990-06-17,"Bethel,CT",2011- 1- 19-BOS,MLB,2014-2020,2009-2020,30.104
+Tucker Barnhart,Active,Cincinnati Reds,C-1B,5-8,175,B,R,1991-01-07,"Brownsburg,IN",2009- 10- 299-CIN,MLB,2014-2020,2009-2020,29.265
+Franklin Barreto,Active,Los Angeles Angels,2B-SS,5-9,174,R,R,1996-02-27,"Caracas,VZ",2012- 0- 0-TOR,MLB,2017-2020,2013-2020,24.215
+Aaron Barrett,Active,Washington Nationals,P,6-4,200,R,R,1988-01-02,"Evansville,IN",2010- 9- 266-WAS,MLB,2014-2020,2009-2020,32.271
+Joey Bart,Active,San Francisco Giants,C,6-3,230,R,R,1996-12-15,"Buford,GA",2018- 1- 2-SFN,MLB,2020-2020,2016-2020,23.288
+Luis Alexander Basabe,Active,San Francisco Giants,CF-RF,6-0,160,B,R,1996-08-26,"El Vigia,VZ",2013- 0- 0-BOS,MLB,2020-2020,2013-2020,24.033
+Tyler Bashlor,Active,Pittsburgh Pirates,P,6-0,220,R,R,1993-04-16,"Springfield,GA",2013- 11- 326-NYN,MLB,2018-2020,2013-2020,27.166
+Anthony Bass,Active,Toronto Blue Jays,P,6-2,190,R,R,1987-11-01,"Dearborn,MI",2008- 5- 165-SDN,MLB,2011-2020,2008-2020,32.333
+Chris Bassitt,Active,Oakland Athletics,P,6-5,195,R,R,1989-02-22,"Curtice,OH",2011- 16- 501-CHA,MLB,2014-2020,2008-2020,31.219
+Trevor Bauer,Active,Cincinnati Reds,P,6-1,175,R,R,1991-01-17,"North Hollywood,CA",2011- 1- 3-ARI,MLB,2012-2020,2009-2020,29.255
+Gerson Bautista,DL-60,Seattle Mariners,P,6-2,168,R,R,1995-05-31,"San Juan,DR",2013- 0- 0-BOS,MLB,2018-2019,2014-2019,25.121
+Jeremy Beasley,DL-60,Arizona Diamondbacks,P,6-3,215,R,R,1995-11-20,"Lyons,GA",2017- 30- 895-ANA,MLB,2020-2020,2017-2020,24.314
+Cam Bedrosian,Active,Los Angeles Angels,P,6-0,204,R,R,1991-10-02,"Senoia,GA",2010- 1- 29-ANA,MLB,2014-2020,2010-2020,28.363
+Tyler Beede,DL-60,San Francisco Giants,P,6-4,200,R,R,1993-05-23,"Auburn,MA",2014- 1- 14-SFN,MLB,2018-2019,2012-2019,27.129
+Jalen Beeks,DL-60,Tampa Bay Rays,P,5-11,180,L,L,1993-07-10,"Prairie Grove,AR",2014- 12- 374-BOS,MLB,2018-2020,2013-2020,27.081
+Josh Bell,Active,Pittsburgh Pirates,1B-DH,6-4,195,B,R,1992-08-14,"Irving,TX",2011- 2- 61-PIT,MLB,2016-2020,2012-2020,28.046
+Cody Bellinger,Active,Los Angeles Dodgers,1B-RF,6-4,180,L,L,1995-07-13,"Chandler,AZ",2013- 4- 124-LAN,MLB,2017-2020,2013-2020,25.078
+Brandon Belt,Active,San Francisco Giants,1B-LF,6-5,185,L,L,1988-04-20,"Nacogdoches,TX",2009- 5- 147-SFN,MLB,2011-2020,2008-2020,32.162
+Anthony Bemboom,Active,Los Angeles Angels,C-1B,6-3,190,L,R,1990-01-18,"Sauk Rapids,MN",2012- 22- 687-ANA,MLB,2019-2020,2010-2020,30.254
+Andrew Benintendi,DL-60,Boston Red Sox,LF-OF,5-11,175,L,L,1994-07-06,"Cincinnati,OH",2015- 1- 7-BOS,MLB,2016-2020,2014-2020,26.085
+Wesley Benjamin,Active,Texas Rangers,P,6-1,180,R,L,1993-07-26,"Winfield,IL",2014- 5- 156-TEX,MLB,2020-2020,2012-2020,27.065
+Travis Bergen,Active,Arizona Diamondbacks,P,6-0,195,L,L,1993-10-08,"McDonough,GA",2015- 7- 212-TOR,MLB,2019-2020,2013-2020,26.356
+Jose Berrios,Active,Minnesota Twins,P,6-0,190,R,R,1994-05-27,"Bayamon,PR",2012- 1- 32-MIN,MLB,2016-2020,2012-2020,26.125
+Jon Berti,Active,Miami Marlins,3B-SS,5-10,190,R,R,1990-01-22,"Troy,MI",2011- 18- 559-TOR,MLB,2018-2020,2009-2020,30.250
+Dellin Betances,Active,New York Mets,P,6-8,215,R,R,1988-03-23,"Brooklyn,NY",2006- 8- 254-NYA,MLB,2011-2020,2006-2020,32.189
+Mookie Betts,Active,Los Angeles Dodgers,RF-OF,5-9,156,R,R,1992-10-07,"Brentwood,TN",2011- 5- 172-BOS,MLB,2014-2020,2011-2020,27.357
+Bo Bichette,Active,Toronto Blue Jays,SS-2B,5-11,201,R,R,1998-03-05,"Orlando,FL",2016- 2- 66-TOR,MLB,2019-2020,2016-2020,22.208
+Jesse Biddle,DL-10,Cincinnati Reds,P,6-4,225,L,L,1991-10-22,"Philadelphia,PA",2010- 1- 27-PHI,MLB,2018-2020,2010-2020,28.342
+Shane Bieber,Active,Cleveland Indians,P,6-2,175,R,R,1995-05-31,"Orange,CA",2016- 4- 122-CLE,MLB,2018-2020,2014-2020,25.121
+Cavan Biggio,Active,Toronto Blue Jays,2B-3B,6-2,185,L,R,1995-04-11,"Houston,TX",2016- 5- 162-TOR,MLB,2019-2020,2014-2020,25.171
+Braden Bishop,Active,Seattle Mariners,CF-RF,6-1,180,R,R,1993-08-22,"San Carlos,CA",2015- 3- 94-SEA,MLB,2019-2020,2013-2020,27.038
+Ray Black,Active,Milwaukee Brewers,P,6-4,220,R,R,1990-06-26,"Wilkes-Barre,PA",2011- 7- 237-SFN,MLB,2018-2020,2009-2020,30.095
+Charlie Blackmon,Active,Colorado Rockies,CF-OF,6-3,200,L,L,1986-07-01,"Suwanee,GA",2008- 2- 72-COL,MLB,2011-2020,2007-2020,34.090
+Richard Bleier,Active,Miami Marlins,P,6-3,195,L,L,1987-04-16,"Davie,FL",2008- 6- 183-TEX,MLB,2016-2020,2006-2020,33.166
+Scott Blewett,Active,Kansas City Royals,P,6-6,210,R,R,1996-04-10,"Baldwinsville,NY",2014- 2- 56-KCA,MLB,2020-2020,2014-2020,24.172
+Xander Bogaerts,Active,Boston Red Sox,SS-DH,6-3,185,R,R,1992-10-01,"San Nicolas,AA",2009- 0- 0-BOS,MLB,2013-2020,2010-2020,27.363
+Alec Bohm,Active,Philadelphia Phillies,3B-1B,6-5,240,R,R,1996-08-03,"Lincoln,NE",2018- 1- 3-PHI,MLB,2020-2020,2016-2020,24.056
+Ronald Bolanos,Active,Kansas City Royals,P,6-2,195,R,R,1996-08-23,"Santa Cruz del Norte,CU",2016- 0- 0-SDN,MLB,2019-2020,2017-2020,24.036
+Jorge Bonifacio,Active,Detroit Tigers,RF-LF,6-1,192,R,R,1993-06-04,"Santo Domingo,DR",2009- 0- 0-KCA,MLB,2017-2020,2010-2020,27.117
+Ryan Borucki,Active,Toronto Blue Jays,P,6-4,175,L,L,1994-03-31,"Mundelein,IL",2012- 15- 475-TOR,MLB,2018-2020,2012-2020,26.182
+David Bote,Active,Chicago Cubs,3B-2B,5-11,170,R,R,1993-04-07,"Thornton,CO",2012- 18- 554-CHN,MLB,2018-2020,2012-2020,27.175
+James Bourque,Active,Washington Nationals,P,6-4,165,R,R,1993-07-09,"Ann Arbor,MI",2014- 14- 424-WAS,MLB,2019-2020,2012-2020,27.082
+Ben Bowden,Active,Colorado Rockies,P,6-4,220,L,L,1994-10-21,"Salem,MA",2016- 2- 45-COL,AAA,,2014-2019,25.343
+Matt Bowman,DL-60,Cincinnati Reds,P,6-0,165,R,R,1991-05-31,"Chevy Chase,MD",2012- 13- 410-NYN,MLB,2016-2019,2010-2019,29.121
+Brad Boxberger,Active,Miami Marlins,P,6-2,185,R,R,1988-05-27,"Tustin,CA",2009- 1- 43-CIN,MLB,2012-2020,2007-2020,32.124
+Matt Boyd,Active,Detroit Tigers,P,6-3,215,L,L,1991-02-02,"Mercer Island,WA",2013- 6- 175-TOR,MLB,2015-2020,2010-2020,29.239
+Brad Brach,Active,New York Mets,P,6-4,210,R,R,1986-04-12,"Freehold,NJ",2008- 42-1275-SDN,MLB,2011-2020,2005-2020,34.170
+Silvino Bracho,Active,Arizona Diamondbacks,P,5-11,179,R,R,1992-07-17,"Maracaibo,VZ",2011- 0- 0-ARI,MLB,2015-2020,2012-2020,28.074
+Archie Bradley,Active,Cincinnati Reds,P,6-4,225,R,R,1992-08-10,"Broken Arrow,OK",2011- 1- 7-ARI,MLB,2015-2020,2011-2020,28.050
+Jackie Bradley,Active,Boston Red Sox,CF-OF,5-10,175,L,R,1990-04-19,"Prince George,VA",2011- 1- 40-BOS,MLB,2013-2020,2009-2020,30.163
+Michael Brantley,Active,Houston Astros,LF-OF,6-2,180,L,L,1987-05-15,"Bellevue,WA",2005- 7- 205-MIL,MLB,2009-2020,2005-2020,33.137
+Ryan Brasier,Active,Boston Red Sox,P,6-0,190,R,R,1987-08-26,"Wichita Falls,TX",2007- 6- 208-ANA,MLB,2013-2020,2007-2020,33.034
+Steven Brault,Active,Pittsburgh Pirates,P,6-1,170,L,L,1992-04-29,"El Cajon,CA",2013- 11- 339-BAL,MLB,2016-2020,2013-2020,28.153
+Ryan Braun,Active,Milwaukee Brewers,LF-OF,6-2,205,R,R,1983-11-17,"Mission Hills,CA",2005- 1- 5-MIL,MLB,2007-2020,2003-2020,36.317
+Ben Braymer,Active,Washington Nationals,P,6-2,215,L,L,1994-04-28,"Baton Rouge,LA",2016- 18- 544-WAS,MLB,2020-2020,2014-2020,26.154
+John Brebbia,DL-60,St. Louis Cardinals,P,6-2,175,R,R,1990-05-30,"Boynton Beach,FL",2011- 30- 929-NYA,MLB,2017-2020,2009-2020,30.122
+Alex Bregman,Active,Houston Astros,3B-SS,5-11,180,R,R,1994-03-30,"Albuquerque,NM",2015- 1- 2-HOU,MLB,2016-2020,2013-2020,26.183
+Brandon Brennan,Active,Seattle Mariners,P,6-4,220,R,R,1991-07-26,"San Juan Capistrano,CA",2012- 4- 141-CHA,MLB,2019-2020,2011-2020,29.065
+Colten Brewer,DL-60,Boston Red Sox,P,6-4,200,R,R,1992-10-29,"Canton,TX",2011- 4- 122-PIT,MLB,2018-2020,2012-2020,27.335
+Austin Brice,Active,Boston Red Sox,P,6-3,190,R,R,1992-06-19,"Pittsboro,NC",2010- 9- 287-MIA,MLB,2016-2020,2010-2020,28.101
+Jeff Brigham,DL-10,Miami Marlins,P,6-0,200,R,R,1992-02-16,"Federal Way,WA",2014- 4- 129-LAN,MLB,2018-2020,2011-2020,28.226
+Lewis Brinson,Active,Miami Marlins,CF-OF,6-3,170,R,R,1994-05-08,"Tamarac,FL",2012- 1- 29-TEX,MLB,2017-2020,2012-2020,26.144
+Zack Britton,Active,New York Yankees,P,6-3,190,L,L,1987-12-22,"Panorama City,CA",2006- 3- 85-BAL,MLB,2011-2020,2006-2020,32.281
+Connor Brogdon,Active,Philadelphia Phillies,P,6-5,180,R,R,1995-01-29,"Madera,CA",2017- 10- 293-PHI,MLB,2020-2020,2014-2020,25.243
+Mike Brosseau,Active,Tampa Bay Rays,3B-2B,5-10,160,R,R,1994-03-15,"Portage,IN",2016- 0- 0-TBA,MLB,2019-2020,2013-2020,26.198
+Seth Brown,Active,Oakland Athletics,1B-LF,6-3,220,L,L,1992-07-13,"Medford,OR",2015- 19- 578-OAK,MLB,2019-2020,2013-2020,28.078
+J.T. Brubaker,Active,Pittsburgh Pirates,P,6-3,170,R,R,1993-11-17,"New Carlisle,OH",2015- 6- 187-PIT,MLB,2020-2020,2013-2020,26.316
+Jay Bruce,Active,Philadelphia Phillies,RF-OF,6-3,195,L,L,1987-04-03,"Beaumont,TX",2005- 1- 12-CIN,MLB,2008-2020,2005-2020,33.179
+Kris Bryant,Active,Chicago Cubs,3B-RF,6-5,205,R,R,1992-01-04,"Las Vegas,NV",2013- 1- 2-CHN,MLB,2015-2020,2011-2020,28.268
+Kris Bubic,Active,Kansas City Royals,P,6-3,220,L,L,1997-08-19,"San Jose,CA",2018- 1- 40-KCA,MLB,2020-2020,2016-2020,23.041
+Walker Buehler,Active,Los Angeles Dodgers,P,6-2,160,R,R,1994-07-28,"Lexington,KY",2015- 1- 24-LAN,MLB,2017-2020,2013-2020,26.063
+Madison Bumgarner,Active,Arizona Diamondbacks,P,6-4,215,R,L,1989-08-01,"Hudson,NC",2007- 1- 10-SFN,MLB,2009-2020,2008-2020,31.059
+Aaron Bummer,Active,Chicago White Sox,P,6-2,185,L,L,1993-09-21,"Valencia,CA",2014- 19- 558-CHA,MLB,2017-2020,2012-2020,27.008
+Dylan Bundy,Active,Los Angeles Angels,P,6-1,200,B,R,1992-11-15,"Tulsa,OK",2011- 1- 4-BAL,MLB,2012-2020,2012-2020,27.318
+Nick Burdi,DL-10,Pittsburgh Pirates,P,6-5,215,R,R,1993-01-19,"Hinsdale,IL",2014- 2- 46-MIN,MLB,2018-2020,2012-2020,27.253
+Brock Burke,DL-60,Texas Rangers,P,6-2,170,L,L,1996-08-04,"Evergreen,CO",2014- 3- 96-TBA,MLB,2019-2019,2014-2019,24.055
+Corbin Burnes,DL-10,Milwaukee Brewers,P,6-2,185,R,R,1994-10-22,"Bakersfield,CA",2016- 4- 111-MIL,MLB,2018-2020,2014-2020,25.342
+Beau Burrows,Active,Detroit Tigers,P,6-2,200,R,R,1996-09-18,"Weatherford,TX",2015- 1- 22-DET,MLB,2020-2020,2015-2020,24.010
+Drew Butera,Active,Colorado Rockies,C-1B-,6-1,190,R,R,1983-08-09,"Evansville,IN",2005- 5- 149-NYN,MLB,2010-2020,2003-2020,37.051
+Ty Buttrey,Active,Los Angeles Angels,P,6-5,205,L,R,1993-03-31,"Charlotte,NC",2012- 4- 151-BOS,MLB,2018-2020,2012-2020,27.182
+Byron Buxton,Active,Minnesota Twins,CF-OF,6-2,190,R,R,1993-12-18,"Baxley,GA",2012- 1- 2-MIN,MLB,2015-2020,2012-2020,26.285
+Asdrubal Cabrera,Active,Washington Nationals,2B-3B,6-0,185,B,R,1985-11-13,"Puerto La Cruz,VZ",2002- 0- 0-SEA,MLB,2007-2020,2004-2020,34.320
+Genesis Cabrera,Active,St. Louis Cardinals,P,6-0,155,L,L,1996-10-10,"Santo Domingo,DR",2013- 0- 0-TBA,MLB,2019-2020,2014-2020,23.354
+Miguel Cabrera,Active,Detroit Tigers,DH-1B,6-2,218,R,R,1983-04-18,"Maracay,VZ",1999- 0- 0-MIA,MLB,2003-2020,2000-2020,37.164
+Trevor Cahill,Active,San Francisco Giants,P,6-3,195,R,R,1988-03-01,"Oceanside,CA",2006- 2- 66-OAK,MLB,2009-2020,2006-2020,32.211
+Kole Calhoun,Active,Arizona Diamondbacks,RF-OF,5-10,200,L,L,1987-10-14,"Tempe,AZ",2010- 8- 264-ANA,MLB,2012-2020,2008-2020,32.351
+Willie Calhoun,Active,Texas Rangers,LF-OF,5-9,177,L,R,1994-11-04,"Vallejo,CA",2015- 4- 132-LAN,MLB,2017-2020,2014-2020,25.329
+Daz Cameron,Active,Detroit Tigers,CF-RF,6-2,195,R,R,1997-01-15,"McDonough,GA",2015- 1- 37-HOU,MLB,2020-2020,2015-2020,23.257
+Luis Campusano,DL-10,San Diego Padres,C-1B,6-0,200,R,R,1998-09-29,"Augusta,GA",2017- 2- 39-SDN,MLB,2020-2020,2017-2020,22.000
+Jeimer Candelario,Active,Detroit Tigers,3B-1B,6-1,180,B,R,1993-11-24,"New York,NY",2010- 0- 0-CHN,MLB,2016-2020,2011-2020,26.309
+Mark Canha,Active,Oakland Athletics,CF-OF,6-2,195,R,R,1989-02-15,"San Jose,CA",2010- 7- 227-MIA,MLB,2015-2020,2008-2020,31.226
+Griffin Canning,Active,Los Angeles Angels,P,6-3,175,R,R,1996-05-11,"Corto de Caza,CA",2017- 2- 47-ANA,MLB,2019-2020,2015-2020,24.140
+Robinson Cano,Active,New York Mets,2B-1B,6-0,172,L,R,1982-10-22,"San Pedro de Macoris,DR",2001- 0- 0-NYA,MLB,2005-2020,2001-2020,37.342
+Victor Caratini,Active,Chicago Cubs,C-1B-,6-1,195,B,R,1993-08-17,"Coamo,PR",2013- 2- 65-ATL,MLB,2017-2020,2013-2020,27.043
+Dylan Carlson,Active,St. Louis Cardinals,CF-RF,6-3,195,B,L,1998-10-23,"Elk Grove,CA",2016- 1- 33-SLN,MLB,2020-2020,2016-2020,21.341
+Matt Carpenter,Active,St. Louis Cardinals,3B-1B,6-2,208,L,R,1985-11-26,"Sugar Land,TX",2009- 13- 399-SLN,MLB,2011-2020,2005-2020,34.307
+Carlos Carrasco,Active,Cleveland Indians,P,6-3,178,R,R,1987-03-21,"Barquisimeto,VZ",2003- 0- 0-PHI,MLB,2009-2020,2004-2020,33.192
+Curt Casali,Active,Cincinnati Reds,C-1B-,6-2,215,R,R,1988-11-09,"New Canaan,CT",2011- 10- 317-DET,MLB,2014-2020,2008-2020,31.324
+Daniel Castano,Active,Miami Marlins,P,6-3,231,L,L,1994-09-17,"Orlando,FL",2016- 19- 586-SLN,MLB,2020-2020,2014-2020,26.012
+Ryan Castellani,Active,Colorado Rockies,P,6-4,195,R,R,1996-04-01,"Phoenix,AZ",2014- 2- 48-COL,MLB,2020-2020,2014-2020,24.181
+Nick Castellanos,Active,Cincinnati Reds,RF-OF,6-4,195,R,R,1992-03-04,"Davie,FL",2010- 1- 44-DET,MLB,2013-2020,2010-2020,28.208
+Diego Castillo,Active,Tampa Bay Rays,P,6-3,195,R,R,1994-01-18,"Cabrera,DR",2014- 0- 0-TBA,MLB,2018-2020,2014-2020,26.254
+Jose Castillo,DL-60,San Diego Padres,P,6-4,200,L,L,1996-01-10,"Valencia,VZ",2012- 0- 0-TBA,MLB,2018-2019,2013-2019,24.262
+Luis Castillo,Active,Cincinnati Reds,P,6-2,170,R,R,1992-12-12,"Bani,DR",2011- 0- 0-SFN,MLB,2017-2020,2012-2020,27.291
+Welington Castillo,DL-10,Washington Nationals,C-DH,6-1,195,R,R,1987-04-24,"San Isidro,DR",2004- 0- 0-CHN,MLB,2010-2019,2006-2019,33.158
+Anthony Castro,Active,Detroit Tigers,P,6-0,174,R,R,1995-04-13,"Caracas,VZ",2011- 0- 0-DET,MLB,2020-2020,2014-2020,25.169
+Harold Castro,Active,Detroit Tigers,2B-3B,6-0,145,L,R,1993-11-30,"Caracas,VZ",2010- 0- 0-DET,MLB,2018-2020,2012-2020,26.303
+Jason Castro,Active,San Diego Padres,C,6-3,210,L,R,1987-06-18,"Castro Valley,CA",2008- 1- 10-HOU,MLB,2010-2020,2006-2020,33.103
+Miguel Castro,Active,New York Mets,P,6-5,190,R,R,1994-12-24,"La Romana,DR",2012- 0- 0-TOR,MLB,2015-2020,2012-2020,25.279
+Starlin Castro,DL-60,Washington Nationals,2B-3B,6-0,150,R,R,1990-03-24,"Monte Cristi,DR",2006- 0- 0-CHN,MLB,2010-2020,2008-2020,30.189
+Willi Castro,Active,Detroit Tigers,SS-2B,6-1,165,B,R,1997-04-24,"Rio Piedras,PR",2013- 0- 0-CLE,MLB,2019-2020,2014-2020,23.158
+Jake Cave,Active,Minnesota Twins,CF-RF,6-0,179,L,L,1992-12-07,"Hampton,VA",2011- 6- 209-NYA,MLB,2018-2020,2011-2020,27.296
+Dylan Cease,Active,Chicago White Sox,P,6-1,175,R,R,1995-12-28,"Milton,GA",2014- 6- 169-CHN,MLB,2019-2020,2015-2020,24.276
+Blake Cederlind,Active,Pittsburgh Pirates,P,6-3,190,R,R,1996-01-14,"Turlock,CA",2016- 5- 165-PIT,MLB,2020-2020,2015-2020,24.258
+Francisco Cervelli,DL-60,Miami Marlins,C-1B-,6-1,175,B,R,1986-03-06,"Valencia,VZ",2003- 0- 0-NYA,MLB,2008-2020,2005-2020,34.207
+Luis Cessa,Active,New York Yankees,P,6-3,190,R,R,1992-04-25,"Cordoba,MX",2008- 0- 0-NYN,MLB,2016-2020,2010-2020,28.157
+Andrew Chafin,Active,Chicago Cubs,P,6-2,190,L,L,1990-06-17,"Wakeman,OH",2011- 1- 43-ARI,MLB,2014-2020,2009-2020,30.104
+Aroldis Chapman,Active,New York Yankees,P,6-4,185,L,L,1988-02-28,"Holguin,CU",2010- 0- 0-CIN,MLB,2010-2020,2010-2020,32.214
+Matt Chapman,DL-10,Oakland Athletics,3B,6-1,195,R,R,1993-04-28,"Victorville,CA",2014- 1- 25-OAK,MLB,2017-2020,2012-2020,27.154
+CJ Chatham,Active,Boston Red Sox,SS-2B,6-4,185,R,R,1994-12-22,"Fort Lauderdale,FL",2016- 2- 51-BOS,AAA,,2014-2019,25.281
+Tyler Chatwood,DL-10,Chicago Cubs,P,5-11,175,R,R,1989-12-16,"Redlands,CA",2008- 2- 74-ANA,MLB,2011-2020,2008-2020,30.287
+Jesse Chavez,Active,Texas Rangers,P,6-2,153,R,R,1983-08-21,"Riverside,CA",2002- 42-1252-TEX,MLB,2008-2020,2002-2020,37.039
+Michael Chavis,Active,Boston Red Sox,1B-2B,5-10,190,R,R,1995-08-11,"Marietta,GA",2014- 1- 26-BOS,MLB,2019-2020,2014-2020,25.049
+Robinson Chirinos,Active,New York Mets,C-DH,6-1,185,R,R,1984-06-05,"Punto Fijo,VZ",2000- 0- 0-CHN,MLB,2011-2020,2001-2020,36.116
+Yonny Chirinos,DL-60,Tampa Bay Rays,P,6-2,170,R,R,1993-12-26,"Bachaquero,VZ",2012- 0- 0-TBA,MLB,2018-2020,2014-2020,26.277
+Jazz Chisholm,Active,Miami Marlins,SS,5-11,165,L,R,1998-02-01,"Nassau,BM",2015- 0- 0-ARI,MLB,2020-2020,2016-2020,22.240
+Ji-Man Choi,DL-10,Tampa Bay Rays,1B-DH,6-1,195,L,R,1991-05-19,"Incheon,KR",2009- 0- 0-SEA,MLB,2016-2020,2010-2020,29.133
+Shin-Soo Choo,Active,Texas Rangers,DH-RF,5-11,178,L,L,1982-07-30,"Pusan,KR",2000- 0- 0-CLE,MLB,2005-2020,2001-2020,38.061
+Adam Cimber,Active,Cleveland Indians,P,6-3,165,R,R,1990-08-15,"Edgewood,WA",2013- 9- 268-SDN,MLB,2018-2020,2010-2020,30.045
+Jose Cisnero,Active,Detroit Tigers,P,6-3,185,R,R,1989-04-11,"Santo Domingo,DR",2007- 0- 0-HOU,MLB,2013-2020,2009-2020,31.171
+Aaron Civale,Active,Cleveland Indians,P,6-1,210,R,R,1995-06-12,"East Windsor,CT",2016- 3- 92-CLE,MLB,2019-2020,2014-2020,25.109
+Taylor Clarke,Active,Arizona Diamondbacks,P,6-4,195,R,R,1993-05-13,"Centerville,VA",2015- 3- 76-ARI,MLB,2019-2020,2012-2020,27.139
+Alex Claudio,Active,Milwaukee Brewers,P,6-3,160,L,L,1992-01-31,"Juncos,PR",2010- 27- 826-TEX,MLB,2014-2020,2010-2020,28.242
+Mike Clevinger,Active,San Diego Padres,P,6-4,190,R,R,1990-12-21,"Jacksonville,FL",2011- 4- 135-ANA,MLB,2016-2020,2010-2020,29.282
+Tyler Clippard,Active,Minnesota Twins,P,6-3,170,R,R,1985-02-14,"Lexington,KY",2003- 9- 274-NYA,MLB,2007-2020,2003-2020,35.227
+Alex Cobb,Active,Baltimore Orioles,P,6-1,180,R,R,1987-10-07,"Boston,MA",2006- 4- 109-TBA,MLB,2011-2020,2006-2020,32.357
+Kyle Cody,Active,Texas Rangers,P,6-6,215,R,R,1994-08-09,"Chippewa Falls,WI",2016- 6- 189-TEX,MLB,2020-2020,2013-2020,26.051
+AJ Cole,Active,Toronto Blue Jays,P,6-5,200,R,R,1992-01-05,"Winter Springs,FL",2010- 4- 116-WAS,MLB,2015-2020,2010-2020,28.268
+Gerrit Cole,Active,New York Yankees,P,6-4,215,R,R,1990-09-08,"Newport Beach,CA",2011- 1- 1-PIT,MLB,2013-2020,2009-2020,30.021
+Alex Colome,Active,Chicago White Sox,P,6-2,184,R,R,1988-12-31,"San Pedro de Macoris,DR",2007- 0- 0-TBA,MLB,2013-2020,2008-2020,31.272
+Michael Conforto,Active,New York Mets,RF-OF,6-1,211,L,R,1993-03-01,"Seattle,WA",2014- 1- 10-NYN,MLB,2015-2020,2012-2020,27.212
+Willson Contreras,Active,Chicago Cubs,C-LF-,6-1,175,R,R,1992-05-13,"Puerto Cabello,VZ",2009- 0- 0-CHN,MLB,2016-2020,2010-2020,28.139
+Sam Coonrod,Active,San Francisco Giants,P,6-2,180,R,R,1992-09-22,"St. Louis,MO",2014- 5- 148-SFN,MLB,2019-2020,2012-2020,28.006
+Garrett Cooper,Active,Miami Marlins,1B-RF,6-6,225,R,R,1990-12-25,"Manhattan Beach,CA",2013- 6- 182-MIL,MLB,2017-2020,2013-2020,29.278
+Patrick Corbin,Active,Washington Nationals,P,6-3,165,L,L,1989-07-19,"Clay,NY",2009- 2- 80-ANA,MLB,2012-2020,2009-2020,31.072
+Ryan Cordell,Active,New York Mets,RF-CF,6-3,185,R,R,1992-03-31,"Sacramento,CA",2013- 11- 340-TEX,MLB,2018-2020,2011-2020,28.181
+Franchy Cordero,Active,Kansas City Royals,OF-CF,6-3,175,L,R,1994-09-02,"Azua,DR",2011- 0- 0-SDN,MLB,2017-2020,2012-2020,26.027
+Jimmy Cordero,Active,Chicago White Sox,P,6-3,195,R,R,1991-10-19,"San Cristobal,DR",2012- 0- 0-TOR,MLB,2018-2020,2012-2020,28.345
+Carlos Correa,Active,Houston Astros,SS-DH,6-4,190,R,R,1994-09-22,"Santa Isabel,PR",2012- 1- 1-HOU,MLB,2015-2020,2012-2020,26.007
+Nestor Cortes,DL-60,Seattle Mariners,P,5-11,190,R,L,1994-12-10,"Hialeah,FL",2013- 36-1094-NYA,MLB,2018-2020,2013-2020,25.293
+Dylan Covey,Active,Boston Red Sox,P,6-1,220,R,R,1991-08-14,"Pasadena,CA",2013- 4- 131-OAK,MLB,2017-2020,2011-2020,29.046
+Brandon Crawford,Active,San Francisco Giants,SS,6-2,200,L,R,1987-01-21,"Mountain View,CA",2008- 4- 117-SFN,MLB,2011-2020,2006-2020,33.251
+JP Crawford,Active,Seattle Mariners,SS-3B,6-2,180,L,R,1995-01-11,"Lakewood,CA",2013- 1- 16-PHI,MLB,2017-2020,2013-2020,25.261
+Stefan Crichton,Active,Arizona Diamondbacks,P,6-3,200,R,R,1992-03-01,"Katy,TX",2013- 23- 699-BAL,MLB,2017-2020,2011-2020,28.211
+Kyle Crick,Active,Pittsburgh Pirates,P,6-4,220,L,R,1992-11-30,"Sherman,TX",2011- 1- 49-SFN,MLB,2017-2020,2011-2020,27.303
+Garrett Crochet,Active,Chicago White Sox,P,6-6,218,L,L,1999-06-21,"Ocean Springs,MS",2020- 1- 11-CHA,MLB,2020-2020,2018-2020,21.100
+CJ Cron,DL-60,Detroit Tigers,1B-DH,6-4,235,R,R,1990-01-05,"Phoenix,AZ",2011- 1- 17-ANA,MLB,2014-2020,2009-2020,30.267
+Kevin Cron,Active,Arizona Diamondbacks,1B-3B,6-5,245,R,R,1993-02-17,"Phoenix,AZ",2014- 14- 420-ARI,MLB,2019-2020,2012-2020,27.224
+Jake Cronenworth,Active,San Diego Padres,SS-3B,6-1,185,L,R,1994-01-21,"St. Clair,MI",2015- 7- 208-TBA,MLB,2020-2020,2013-2020,26.251
+Nelson Cruz,Active,Minnesota Twins,DH-OF,6-3,170,R,R,1980-07-01,"Monte Cristi,DR",1998- 0- 0-NYN,MLB,2005-2020,2001-2020,40.089
+Johnny Cueto,Active,San Francisco Giants,P,5-10,185,R,R,1986-02-15,"San Pedro de Macoris,DR",2004- 0- 0-CIN,MLB,2008-2020,2005-2020,34.226
+John Curtiss,Active,Tampa Bay Rays,P,6-4,200,R,R,1993-04-05,"Dallas,TX",2014- 6- 170-MIN,MLB,2017-2020,2012-2020,27.177
+Travis D'Arnaud,Active,Atlanta Braves,C-1B-,6-2,195,R,R,1989-02-10,"Lakewood,CA",2007- 1- 37-PHI,MLB,2013-2020,2007-2020,31.231
+David Dahl,DL-10,Colorado Rockies,LF-OF,6-2,185,L,R,1994-04-01,"Birmingham,AL",2012- 1- 10-COL,MLB,2016-2020,2012-2020,26.181
+Bobby Dalbec,Active,Boston Red Sox,3B-1B,6-4,219,R,R,1995-06-29,"Seattle,WA",2016- 4- 118-BOS,MLB,2020-2020,2014-2020,25.092
+Yu Darvish,Active,Chicago Cubs,P,6-5,190,R,R,1986-08-16,"Osaka,JP",2012- 0- 0-TEX,MLB,2012-2020,2005-2020,34.044
+Zach Davies,Active,San Diego Padres,P,6-0,150,R,R,1993-02-07,"Gilbert,AZ",2011- 26- 785-BAL,MLB,2015-2020,2012-2020,27.234
+Austin Davis,Active,Pittsburgh Pirates,P,6-5,245,L,L,1993-02-03,"Scottsdale,AZ",2014- 12- 352-PHI,MLB,2018-2020,2012-2020,27.238
+Chris Davis,Active,Baltimore Orioles,1B-DH,6-3,210,L,R,1986-03-17,"Longview,TX",2006- 5- 148-TEX,MLB,2008-2020,2006-2020,34.196
+JD Davis,Active,New York Mets,3B-LF,6-3,220,R,R,1993-04-27,"Burbank,CA",2014- 3- 75-HOU,MLB,2017-2020,2012-2020,27.155
+Jonathan Davis,Active,Toronto Blue Jays,CF-LF,5-8,175,R,R,1992-05-12,"Camden,AR",2013- 15- 445-TOR,MLB,2018-2020,2011-2020,28.139
+Khris Davis,Active,Oakland Athletics,DH-LF,6-0,195,R,R,1987-12-21,"Lakewood,CA",2009- 7- 226-MIL,MLB,2013-2020,2007-2020,32.283
+Grant Dayton,Active,Atlanta Braves,P,6-2,205,L,L,1987-11-25,"Huntsville,AL",2010- 11- 347-MIA,MLB,2016-2020,2008-2020,32.309
+Yonathan Daza,Active,Colorado Rockies,CF-RF,6-2,190,R,R,1994-02-28,"Maracay,VZ",2010- 0- 0-COL,MLB,2019-2019,2011-2019,26.213
+Alejandro De Aza,Active,Minnesota Twins,RF-LF,6-0,170,L,L,1984-04-11,"Guaymate,DR",2001- 0- 0-LAN,MLB,2007-2017,2002-2019,36.170
+Chase De Jong,Active,Houston Astros,P,6-4,185,L,R,1993-12-29,"Long Beach,CA",2012- 2- 81-TOR,MLB,2017-2020,2012-2020,26.274
+Jose De Leon,DL-10,Cincinnati Reds,P,6-2,210,R,R,1992-08-07,"Isabela,PR",2013- 24- 724-LAN,MLB,2016-2020,2011-2020,28.052
+Austin Dean,Active,St. Louis Cardinals,LF-RF,6-1,190,R,R,1993-10-14,"Spring,TX",2012- 4- 137-MIA,MLB,2018-2020,2012-2020,26.350
+Jacob DeGrom,Active,New York Mets,P,6-4,180,L,R,1988-06-19,"DeLand,FL",2010- 9- 272-NYN,MLB,2014-2020,2008-2020,32.101
+Paul DeJong,Active,St. Louis Cardinals,SS,6-0,190,R,R,1993-08-02,"Orlando,FL",2015- 4- 131-SLN,MLB,2017-2020,2013-2020,27.058
+Travis Demeritte,Active,Detroit Tigers,LF-RF,6-0,178,R,R,1994-09-30,"Statham,GA",2013- 1- 30-TEX,MLB,2019-2020,2013-2020,25.364
+Daniel Descalso,DL-60,Chicago Cubs,2B-3B,5-10,190,L,R,1986-10-19,"San Carlos,CA",2007- 3- 112-SLN,MLB,2010-2019,2006-2019,33.345
+Anthony DeSclafani,Active,Cincinnati Reds,P,6-2,180,R,R,1990-04-18,"Freehold,NJ",2011- 6- 199-TOR,MLB,2014-2020,2009-2020,30.164
+Delino Deshields,Active,Cleveland Indians,CF-OF,5-9,188,R,R,1992-08-16,"Norcross,GA",2010- 1- 8-HOU,MLB,2015-2020,2010-2020,28.043
+Chris Devenski,DL-10,Houston Astros,P,6-3,200,R,R,1990-11-13,"Long Beach,CA",2011- 25- 771-CHA,MLB,2016-2020,2011-2020,29.320
+Rafael Devers,Active,Boston Red Sox,3B-DH,6-0,195,L,R,1996-10-24,"Sanchez,DR",2013- 0- 0-BOS,MLB,2017-2020,2014-2020,23.340
+Aledmys Diaz,Active,Houston Astros,SS-3B,6-1,195,R,R,1990-08-01,"Santa Clara,CU",2014- 0- 0-SLN,MLB,2016-2020,2014-2020,30.059
+Edwin Diaz,Active,New York Mets,P,6-2,160,R,R,1994-03-22,"Naguabo,PR",2012- 3- 98-SEA,MLB,2016-2020,2012-2020,26.191
+Elias Diaz,Active,Colorado Rockies,C-DH,6-1,175,R,R,1990-11-17,"Maracaibo,VZ",2008- 0- 0-PIT,MLB,2015-2020,2010-2020,29.316
+Isan Diaz,DL-60,Miami Marlins,2B,5-10,185,L,R,1996-05-27,"Springfield,MA",2014- 2- 70-ARI,MLB,2019-2020,2014-2020,24.124
+Jairo Diaz,Active,Colorado Rockies,P,6-0,195,R,R,1991-05-27,"Puerto La Cruz,VZ",2007- 0- 0-ANA,MLB,2014-2020,2010-2020,29.125
+Yandy Diaz,DL-10,Tampa Bay Rays,3B-1B,6-2,185,R,R,1991-08-08,"Sagua La Grande,CU",2013- 0- 0-CLE,MLB,2017-2020,2014-2020,29.052
+Yennsy Diaz,DL-60,Toronto Blue Jays,P,6-1,160,R,R,1996-11-15,"Azua,DR",2014- 0- 0-TOR,MLB,2019-2019,2015-2019,23.318
+Alex Dickerson,Active,San Francisco Giants,LF-1B,6-3,220,L,L,1990-05-26,"Poway,CA",2011- 3- 91-PIT,MLB,2015-2020,2009-2020,30.126
+Corey Dickerson,Active,Miami Marlins,LF-OF,6-2,210,L,R,1989-05-22,"McComb,MS",2010- 8- 260-COL,MLB,2013-2020,2010-2020,31.130
+Phillip Diehl,Active,Colorado Rockies,P,6-3,170,L,L,1994-07-16,"Cincinnati,OH",2016- 27- 818-NYA,MLB,2019-2020,2013-2020,26.075
+Jake Diekman,Active,Oakland Athletics,P,6-4,190,L,L,1987-01-21,"Wymore,NE",2007- 30- 923-PHI,MLB,2012-2020,2007-2020,33.251
+Derek Dietrich,Active,Texas Rangers,LF-OF,6-1,195,L,R,1989-07-18,"Parma,OH",2010- 2- 79-TBA,MLB,2013-2020,2008-2020,31.073
+Nick Dini,DL-10,Kansas City Royals,C-1B-,5-9,180,R,R,1993-07-27,"monroe,NJ",2015- 14- 429-KCA,MLB,2019-2019,2012-2019,27.064
+Brandon Dixon,Active,Detroit Tigers,1B-LF,6-1,211,R,R,1992-01-29,"La Jolla,CA",2013- 3- 92-LAN,MLB,2018-2020,2011-2020,28.243
+Rafael Dolis,Active,Toronto Blue Jays,P,6-3,180,R,R,1988-01-10,"La Romana,DR",2004- 0- 0-CHN,MLB,2011-2020,2006-2020,32.262
+Seranthony Dominguez,DL-60,Philadelphia Phillies,P,6-1,183,R,R,1994-11-25,"Mao,DR",2011- 0- 0-PHI,MLB,2018-2019,2012-2019,25.308
+Josh Donaldson,Active,Minnesota Twins,3B-DH,5-11,182,R,R,1985-12-08,"Pensacola,FL",2007- 1- 48-CHN,MLB,2010-2020,2005-2020,34.295
+Sean Doolittle,Active,Washington Nationals,P,6-3,190,L,L,1986-09-26,"Rapid City,SD",2007- 1- 41-OAK,MLB,2012-2020,2005-2020,34.003
+Tommy Doyle,Active,Colorado Rockies,P,6-6,235,R,R,1996-05-01,"Vienna,VA",2017- 2- 70-COL,MLB,2020-2020,2015-2020,24.150
+Hunter Dozier,Active,Kansas City Royals,3B-1B,6-4,210,R,R,1991-08-22,"Denton,TX",2013- 1- 8-KCA,MLB,2016-2020,2011-2020,29.038
+Oliver Drake,Active,Tampa Bay Rays,P,6-4,210,R,R,1987-01-13,"Worcester,MA",2008- 43-1286-BAL,MLB,2015-2020,2007-2020,33.259
+Shawn Dubin,DL-10,Houston Astros,P,6-1,160,R,R,1995-09-06,"Allegany,NY",2018- 13- 402-HOU,A+,,2016-2019,25.023
+Mauricio Dubon,Active,San Francisco Giants,SS-2B,6-0,160,R,R,1994-07-19,"San Pedro Sula,HO",2013- 26- 773-BOS,MLB,2019-2020,2013-2020,26.072
+Tyler Duffey,Active,Minnesota Twins,P,6-3,210,R,R,1990-12-27,"Houston,TX",2012- 5- 160-MIN,MLB,2015-2020,2010-2020,29.276
+Danny Duffy,Active,Kansas City Royals,P,6-2,185,L,L,1988-12-21,"Goleta,CA",2007- 3- 96-KCA,MLB,2011-2020,2007-2020,31.282
+Steven Duggar,Active,San Francisco Giants,CF-OF,6-2,190,L,R,1993-11-04,"Spartanburg,SC",2015- 6- 186-SFN,MLB,2018-2020,2013-2020,26.329
+Justin Dunn,Active,Seattle Mariners,P,6-1,170,R,R,1995-09-22,"Freeport,NY",2016- 1- 19-NYN,MLB,2019-2020,2014-2020,25.007
+Dane Dunning,Active,Chicago White Sox,P,6-3,190,R,R,1994-12-20,"Orange Park,FL",2016- 1- 29-WAS,MLB,2020-2020,2014-2020,25.283
+Jon Duplantier,Active,Arizona Diamondbacks,P,6-4,210,L,R,1994-07-11,"Newark,DE",2016- 3- 89-ARI,MLB,2019-2019,2014-2019,26.080
+Adam Duvall,Active,Atlanta Braves,LF-OF,6-1,200,R,R,1988-09-04,"Louisville,KY",2010- 11- 348-SFN,MLB,2014-2020,2007-2020,32.024
+Jarrod Dyson,Active,Chicago White Sox,CF-OF,5-10,160,L,R,1984-08-15,"McComb,MS",2006- 50-1475-KCA,MLB,2010-2020,2006-2020,36.044
+Adam Eaton,Active,Washington Nationals,RF-OF,5-9,163,L,L,1988-12-06,"Springfield,OH",2010- 19- 571-ARI,MLB,2012-2020,2008-2020,31.297
+Tommy Edman,Active,St. Louis Cardinals,2B-3B,5-10,180,B,R,1995-05-09,"San Diego,CA",2016- 6- 196-SLN,MLB,2019-2020,2014-2020,25.143
+Carl Edwards,DL-60,Seattle Mariners,P,6-2,155,R,R,1991-09-03,"Newberry,SC",2011- 48-1464-TEX,MLB,2015-2020,2012-2020,29.026
+Zach Eflin,Active,Philadelphia Phillies,P,6-4,200,R,R,1994-04-08,"Chuluota,FL",2012- 1- 33-SDN,MLB,2016-2020,2012-2020,26.174
+Roenis Elias,DL-60,Washington Nationals,P,6-2,178,L,L,1988-08-01,"Guantanamo,CU",2011- 0- 0-SEA,MLB,2014-2019,2011-2019,32.059
+Seth Elledge,Active,St. Louis Cardinals,P,6-2,238,R,R,1996-05-20,"Frisco,TX",2017- 4- 123-SEA,MLB,2020-2020,2015-2020,24.131
+Edwin Encarnacion,Active,Chicago White Sox,DH-1B,6-1,175,R,R,1983-01-07,"La Romana,DR",2000- 9- 274-TEX,MLB,2005-2020,2000-2020,37.265
+Adam Engel,Active,Chicago White Sox,CF-OF,6-1,192,R,R,1991-12-09,"Cincinnati,OH",2013- 19- 573-CHA,MLB,2017-2020,2011-2020,28.295
+Nathan Eovaldi,Active,Boston Red Sox,P,6-3,195,R,R,1990-02-13,"Alvin,TX",2008- 11- 337-LAN,MLB,2011-2020,2008-2020,30.228
+Phil Ervin,Active,Seattle Mariners,LF-OF,5-10,205,R,R,1992-07-17,"LeRoy,AL",2013- 1- 27-CIN,MLB,2017-2020,2011-2020,28.074
+Eduardo Escobar,Active,Arizona Diamondbacks,3B-2B,5-10,150,B,R,1989-01-05,"Villa de Cura,CU",2006- 0- 0-CHA,MLB,2011-2020,2008-2020,31.267
+Tom Eshelman,Active,Baltimore Orioles,P,6-3,210,R,R,1994-06-20,"Carlsbad,CA",2015- 2- 46-HOU,MLB,2019-2020,2013-2020,26.101
+Paolo Espino,Active,Washington Nationals,P,5-10,190,R,R,1987-01-10,"Panama City,PN",2006- 10- 311-CLE,MLB,2017-2020,2007-2020,33.262
+Anderson Espinoza,DL-60,San Diego Padres,P,6-0,160,R,R,1998-03-09,"Caracas,VZ",2014- 0- 0-BOS,A,,2015-2016,22.204
+Carlos Estevez,Active,Colorado Rockies,P,6-4,210,R,R,1992-12-28,"Santo Domingo,DR",2011- 0- 0-COL,MLB,2016-2020,2011-2020,27.275
+Demarcus Evans,Active,Texas Rangers,P,6-4,240,R,R,1996-10-22,"Petal,MS",2015- 25- 738-TEX,MLB,2020-2020,2015-2020,23.342
+Phillip Evans,DL-60,Pittsburgh Pirates,3B-2B,5-10,185,R,R,1992-09-10,"Carlsbad,CA",2011- 15- 462-NYN,MLB,2017-2020,2011-2020,28.018
+Alex Faedo,DL-10,Detroit Tigers,P,6-4,220,R,R,1995-11-12,"Tampa,FL",2017- 1- 18-DET,AA,,2015-2019,24.322
+Peter Fairbanks,Active,Tampa Bay Rays,P,6-6,219,R,R,1993-12-16,"St. Louis,MO",2015- 9- 258-TEX,MLB,2019-2020,2013-2020,26.287
+Jeurys Familia,Active,New York Mets,P,6-3,186,R,R,1989-10-10,"Santo Domingo,DR",2007- 0- 0-NYN,MLB,2012-2020,2008-2020,30.354
+Buck Farmer,Active,Detroit Tigers,P,6-3,227,L,R,1991-02-20,"Conyers,GA",2013- 5- 156-DET,MLB,2014-2020,2010-2020,29.221
+Kyle Farmer,Active,Cincinnati Reds,3B-C-,6-0,187,R,R,1990-08-17,"Atlanta,GA",2013- 8- 244-LAN,MLB,2017-2020,2010-2020,30.043
+Erick Fedde,Active,Washington Nationals,P,6-3,165,R,R,1993-02-25,"Las Vegas,NV",2014- 1- 18-WAS,MLB,2017-2020,2012-2020,27.216
+Michael Feliz,DL-60,Pittsburgh Pirates,P,6-4,210,R,R,1993-06-28,"Azua,DR",2010- 0- 0-HOU,MLB,2015-2020,2010-2020,27.093
+Caleb Ferguson,DL-10,Los Angeles Dodgers,P,6-3,215,R,L,1996-07-02,"West Jefferson,OH",2014- 38-1149-LAN,MLB,2018-2020,2015-2020,24.089
+Julian Fernandez,Active,Miami Marlins,P,6-2,160,R,R,1995-12-05,"Boca Chica,DR",2012- 0- 0-COL,A,,2013-2017,24.299
+Mike Fiers,Active,Oakland Athletics,P,6-3,205,R,R,1985-06-15,"Hollywood,FL",2009- 22- 676-MIL,MLB,2011-2020,2009-2020,35.106
+Kyle Finnegan,Active,Washington Nationals,P,6-2,180,R,R,1991-09-04,"Kingwood,TX",2013- 6- 191-OAK,MLB,2020-2020,2011-2020,29.025
+Derek Fisher,DL-10,Toronto Blue Jays,LF-CF,6-3,210,L,R,1993-08-21,"Lebanon,PA",2014- 1- 37-HOU,MLB,2017-2020,2012-2020,27.039
+Jack Flaherty,Active,St. Louis Cardinals,P,6-4,205,R,R,1995-10-15,"Burbank,CA",2014- 1- 34-SLN,MLB,2017-2020,2014-2020,24.349
+Josh Fleming,Active,Tampa Bay Rays,P,6-2,190,R,L,1996-05-18,"Columbia,IL",2017- 5- 139-TBA,MLB,2020-2020,2017-2020,24.134
+David Fletcher,Active,Los Angeles Angels,3B-2B,5-10,175,R,R,1994-05-31,"Orange,CA",2015- 6- 195-ANA,MLB,2018-2020,2014-2020,26.121
+Wilmer Flores,Active,San Francisco Giants,1B-2B,6-3,175,R,R,1991-08-06,"Valencia,VZ",2007- 0- 0-NYN,MLB,2013-2020,2008-2020,29.054
+Dylan Floro,Active,Los Angeles Dodgers,P,6-2,180,L,R,1990-12-27,"Merced,CA",2012- 13- 422-TBA,MLB,2016-2020,2010-2020,29.276
+Tyler Flowers,Active,Atlanta Braves,C-DH,6-4,220,R,R,1986-01-24,"Roswell,GA",2005- 33-1007-ATL,MLB,2009-2020,2006-2020,34.248
+Logan Forsythe,DL-10,Miami Marlins,2B-1B,6-0,195,R,R,1987-01-14,"Memphis,TN",2008- 1- 46-SDN,MLB,2011-2020,2006-2020,33.258
+Matt Foster,Active,Chicago White Sox,P,5-11,205,R,R,1995-01-27,"Valley,AL",2016- 20- 596-CHA,MLB,2020-2020,2014-2020,25.245
+Dexter Fowler,Active,St. Louis Cardinals,RF-OF,6-5,189,B,R,1986-03-22,"Alpharetta,GA",2004- 14- 410-COL,MLB,2008-2020,2005-2020,34.191
+Lucius Fox,Active,Kansas City Royals,SS-2B,6-1,165,B,R,1997-07-02,"Nassau,BM",2015- 0- 0-SFN,AAA,,2016-2019,23.089
+Jake Fraley,Active,Seattle Mariners,CF-LF,6-0,195,L,L,1995-05-25,"Frederick,MD",2016- 2- 77-TBA,MLB,2019-2020,2014-2020,25.127
+Ty France,Active,Seattle Mariners,3B-1B,6-0,205,R,R,1994-07-13,"Downey,CA",2015- 34-1017-SDN,MLB,2019-2020,2013-2020,26.078
+Enderson Franco,Active,San Francisco Giants,P,6-2,170,R,R,1992-12-29,"Anaco,VZ",,MLB,2019-2019,2010-2019,27.274
+Maikel Franco,Active,Kansas City Royals,3B-1B,6-1,180,R,R,1992-08-26,"Azua,DR",2010- 0- 0-PHI,MLB,2014-2020,2010-2020,28.033
+Adam Frazier,Active,Pittsburgh Pirates,2B-OF,5-10,172,L,R,1991-12-14,"Athens,GA",2013- 6- 179-PIT,MLB,2016-2020,2011-2020,28.290
+Clint Frazier,Active,New York Yankees,LF-RF,5-11,185,R,R,1994-09-06,"Loganville,GA",2013- 1- 5-CLE,MLB,2017-2020,2013-2020,26.023
+Todd Frazier,Active,New York Mets,3B-1B,6-3,215,R,R,1986-02-12,"Toms River,NJ",2007- 1- 34-CIN,MLB,2011-2020,2005-2020,34.229
+Kyle Freeland,Active,Colorado Rockies,P,6-3,170,L,L,1993-05-14,"Denver,CO",2014- 1- 8-COL,MLB,2017-2020,2012-2020,27.138
+Freddie Freeman,Active,Atlanta Braves,1B,6-5,220,L,R,1989-09-12,"Orange,CA",2007- 2- 78-ATL,MLB,2010-2020,2007-2020,31.017
+Mike Freeman,Active,Cleveland Indians,SS-2B,6-0,170,L,R,1987-08-04,"Orlando,FL",2010- 11- 331-ARI,MLB,2016-2020,2007-2020,33.056
+Sam Freeman,DL-60,Washington Nationals,P,5-11,170,R,L,1987-06-24,"Houston,TX",2008- 32- 965-SLN,MLB,2012-2020,2008-2020,33.097
+Max Fried,Active,Atlanta Braves,P,6-4,170,L,L,1994-01-18,"Van Nuys,CA",2012- 1- 7-SDN,MLB,2017-2020,2012-2020,26.254
+Jace Fry,Active,Chicago White Sox,P,6-1,190,L,L,1993-07-09,"Beaverton,OR",2014- 3- 77-CHA,MLB,2017-2020,2012-2020,27.082
+Paul Fry,Active,Baltimore Orioles,P,6-0,190,L,L,1992-07-26,"Waterford,MI",2013- 17- 507-SEA,MLB,2018-2020,2011-2020,28.065
+Josh Fuentes,Active,Colorado Rockies,3B-1B,6-2,215,R,R,1993-12-19,"Trabuco Hills,CA",2014- 0- 0-COL,MLB,2019-2020,2013-2020,26.284
+Carson Fulmer,Active,Pittsburgh Pirates,P,6-1,200,R,R,1993-12-13,"Lakeland,FL",2015- 1- 8-CHA,MLB,2016-2020,2013-2020,26.290
+Michael Fulmer,Active,Detroit Tigers,P,6-3,200,R,R,1993-03-15,"Oklahoma City,OK",2011- 1- 44-NYN,MLB,2016-2020,2011-2020,27.198
+Kyle Funkhouser,Active,Detroit Tigers,P,6-2,218,R,R,1994-03-16,"Palos Heights,IL",2016- 4- 115-DET,MLB,2020-2020,2013-2020,26.197
+Cam Gallagher,Active,Kansas City Royals,C-DH,6-3,210,R,R,1992-12-06,"Lancaster,PA",2011- 2- 65-KCA,MLB,2017-2020,2011-2020,27.297
+Giovanny Gallegos,Active,St. Louis Cardinals,P,6-2,175,R,R,1991-08-14,"Obregon,MX",2012- 0- 0-NYA,MLB,2017-2020,2012-2020,29.046
+Zac Gallen,Active,Arizona Diamondbacks,P,6-0,170,R,R,1995-08-03,"Gibbsboro,NJ",2016- 3- 106-SLN,MLB,2019-2020,2014-2020,25.057
+Joey Gallo,Active,Texas Rangers,LF-OF,6-5,205,L,R,1993-11-19,"Las Vegas,NV",2012- 1- 39-TEX,MLB,2015-2020,2012-2020,26.314
+Freddy Galvis,Active,Cincinnati Reds,SS-2B,5-10,154,B,R,1989-11-14,"Punto Fijo,VZ",2006- 0- 0-PHI,MLB,2012-2020,2007-2020,30.319
+Ben Gamel,DL-10,Milwaukee Brewers,LF-OF,5-11,185,L,L,1992-05-17,"Neptune Beach,FL",2010- 10- 325-NYA,MLB,2016-2020,2010-2020,28.135
+John Gant,DL-10,St. Louis Cardinals,P,6-4,175,R,R,1992-08-06,"Savannah,GA",2011- 21- 642-NYN,MLB,2016-2020,2011-2020,28.054
+Aramis Garcia,DL-60,San Francisco Giants,C-1B-,6-2,195,R,R,1993-01-12,"Pembroke Pines,FL",2014- 2- 52-SFN,MLB,2018-2019,2012-2019,27.260
+Avisail Garcia,Active,Milwaukee Brewers,RF-OF,6-3,190,R,R,1991-06-12,"Anaco Edo,VZ",2007- 0- 0-DET,MLB,2012-2020,2009-2020,29.109
+Bryan Garcia,Active,Detroit Tigers,P,6-1,195,R,R,1995-04-19,"Miami,FL",2016- 6- 175-DET,MLB,2019-2020,2014-2020,25.163
+Deivi Garcia,Active,New York Yankees,P,5-9,140,R,R,1999-05-19,"Bonao,DR",2015- 0- 0-NYA,MLB,2020-2020,2016-2020,21.133
+Greg Garcia,Active,San Diego Padres,2B-3B,5-11,175,L,R,1989-08-08,"El Cajon,CA",2010- 7- 229-SLN,MLB,2014-2020,2008-2020,31.052
+Jarlin Garcia,Active,San Francisco Giants,P,6-2,170,L,L,1993-01-18,"Santo Domingo,DR",2010- 0- 0-MIA,MLB,2017-2020,2011-2020,27.254
+Jose Israel Garcia,Active,Cincinnati Reds,SS-2B,6-2,175,R,R,1998-04-05,"Havana,CU",2017- 0- 0-CIN,MLB,2020-2020,2018-2020,22.177
+Leury Garcia,DL-60,Chicago White Sox,CF-OF,5-10,160,B,R,1991-03-18,"Santiago,DR",2007- 0- 0-TEX,MLB,2013-2020,2008-2020,29.195
+Luis Garcia,Active,Washington Nationals,SS-2B,6-0,190,L,R,2000-05-16,"New York,NY",2016- 0- 0-WAS,MLB,2020-2020,2017-2020,20.135
+Luis Garcia,Active,Houston Astros,P,6-1,185,R,R,1996-12-13,"Bolivar,VZ",2017- 0- 0-HOU,MLB,2020-2020,2017-2020,23.290
+Rico Garcia,Active,San Francisco Giants,P,5-11,190,R,R,1994-01-10,"Honolulu,HI",2016- 30- 890-COL,MLB,2019-2020,2013-2020,26.262
+Rony Garcia,Active,Detroit Tigers,P,6-3,200,R,R,1997-12-19,"Mao,DR",,MLB,2020-2020,2016-2020,22.284
+Yimi Garcia,Active,Miami Marlins,P,6-1,175,R,R,1990-08-18,"Moca,DR",2009- 0- 0-LAN,MLB,2014-2020,2010-2020,30.042
+Brett Gardner,Active,New York Yankees,LF-OF,5-10,180,L,L,1983-08-24,"Holly Hill,SC",2005- 3- 109-NYA,MLB,2008-2020,2002-2020,37.036
+Kyle Garlick,Active,Philadelphia Phillies,RF-LF,6-1,190,R,R,1992-01-26,"La Habra,CA",2015- 28- 852-LAN,MLB,2019-2020,2011-2020,28.246
+Dustin Garneau,Active,Houston Astros,C-1B-,6-2,195,R,R,1987-08-13,"Torrance,CA",2009- 19- 571-COL,MLB,2015-2020,2006-2020,33.047
+Amir Garrett,Active,Cincinnati Reds,P,6-5,210,R,L,1992-05-03,"Henderson,NV",2011- 22- 685-CIN,MLB,2017-2020,2012-2020,28.149
+Mitch Garver,Active,Minnesota Twins,C-DH-,6-1,210,R,R,1991-01-15,"Albuquerque,NM",2013- 9- 260-MIN,MLB,2017-2020,2010-2020,29.257
+Ralph Garza,DL-10,Houston Astros,P,6-3,185,R,R,1994-04-06,"Edinburg,TX",2015- 26- 769-HOU,AAA,,2013-2019,26.176
+Kevin Gausman,Active,San Francisco Giants,P,6-4,170,L,R,1991-01-06,"Centennial,CO",2012- 1- 4-BAL,MLB,2013-2020,2011-2020,29.266
+Joey Gerber,Active,Seattle Mariners,P,6-4,215,R,R,1997-05-03,"Fridley,MN",2018- 8- 238-SEA,MLB,2020-2020,2016-2020,23.149
+Kyle Gibson,Active,Texas Rangers,P,6-5,210,R,R,1987-10-23,"Greenfield,IN",2009- 1- 22-MIN,MLB,2013-2020,2007-2020,32.341
+Ken Giles,DL-60,Toronto Blue Jays,P,6-2,188,R,R,1990-09-20,"Albuquerque,NM",2011- 7- 241-PHI,MLB,2014-2020,2011-2020,30.009
+Andres Gimenez,Active,New York Mets,SS-2B,5-11,165,L,R,1998-09-04,"Barquisimeto,VZ",2015- 0- 0-NYN,MLB,2020-2020,2016-2020,22.025
+Kevin Ginkel,Active,Arizona Diamondbacks,P,6-4,210,R,R,1994-03-24,"Lakeside,CA",2016- 22- 659-ARI,MLB,2019-2020,2016-2020,26.189
+Lucas Giolito,Active,Chicago White Sox,P,6-6,230,R,R,1994-07-14,"Santa Monica,CA",2012- 1- 16-WAS,MLB,2016-2020,2012-2020,26.077
+Mychal Givens,Active,Colorado Rockies,P,6-1,190,R,R,1990-05-13,"Tampa,FL",2009- 2- 54-BAL,MLB,2015-2020,2010-2020,30.139
+Tyler Glasnow,Active,Tampa Bay Rays,P,6-7,200,L,R,1993-08-23,"Newhall,CA",2011- 5- 152-PIT,MLB,2016-2020,2012-2020,27.037
+Zack Godley,DL-60,Boston Red Sox,P,6-3,245,R,R,1990-04-21,"Bamberg,SC",2013- 10- 288-CHN,MLB,2015-2020,2011-2020,30.161
+Paul Goldschmidt,Active,St. Louis Cardinals,1B-DH,6-4,220,R,R,1987-09-10,"Wilmington,DE",2009- 8- 246-ARI,MLB,2011-2020,2007-2020,33.019
+Austin Gomber,Active,St. Louis Cardinals,P,6-5,205,L,L,1993-11-23,"Winter Garden,FL",2014- 4- 135-SLN,MLB,2018-2020,2012-2020,26.310
+Yan Gomes,Active,Washington Nationals,C-DH-,6-1,220,R,R,1987-07-19,"Sao Paulo,BR",2009- 10- 310-TOR,MLB,2012-2020,2007-2020,33.072
+Tony Gonsolin,Active,Los Angeles Dodgers,P,6-3,204,R,R,1994-05-14,"Vacaville,CA",2016- 9- 281-LAN,MLB,2019-2020,2013-2020,26.138
+Marco Gonzales,Active,Seattle Mariners,P,6-0,185,L,L,1992-02-16,"Fort Collins,CO",2013- 1- 19-SLN,MLB,2014-2020,2011-2020,28.226
+Chi Chi Gonzalez,Active,Colorado Rockies,P,6-2,190,R,R,1992-01-15,"Delray Beach,FL",2013- 1- 23-TEX,MLB,2015-2020,2011-2020,28.257
+Erik Gonzalez,Active,Pittsburgh Pirates,SS-2B,6-1,165,R,R,1991-08-31,"Puerto Plata,DR",2008- 0- 0-CLE,MLB,2016-2020,2010-2020,29.029
+Gio Gonzalez,Active,Chicago White Sox,P,5-11,185,R,L,1985-09-19,"Hialeah,FL",2004- 1- 38-CHA,MLB,2008-2020,2004-2020,35.010
+Marwin Gonzalez,Active,Minnesota Twins,LF-OF,6-1,186,B,R,1989-03-14,"Puerto Ordaz,VZ",2005- 0- 0-CHN,MLB,2012-2020,2006-2020,31.199
+Victor Gonzalez,Active,Los Angeles Dodgers,P,6-0,200,L,L,1995-11-16,"Tuxpan,MX",2012- 0- 0-LAN,MLB,2020-2020,2013-2020,24.318
+Niko Goodrum,Active,Detroit Tigers,2B-1B,6-3,167,B,R,1992-02-28,"Jonesboro,GA",2010- 2- 71-MIN,MLB,2017-2020,2010-2020,28.214
+Brian Goodwin,Active,Cincinnati Reds,LF-CF,6-0,190,L,R,1990-11-02,"Rocky Mount,NC",2011- 1- 34-WAS,MLB,2016-2020,2010-2020,29.331
+Alex Gordon,Active,Kansas City Royals,LF-OF,6-1,220,L,R,1984-02-10,"Lincoln,NE",2005- 1- 2-KCA,MLB,2007-2020,2003-2020,36.231
+Dee Gordon,Active,Seattle Mariners,2B-CF,5-11,150,L,R,1988-04-22,"Windermere,FL",2008- 4- 127-LAN,MLB,2011-2020,2008-2020,32.159
+Phil Gosselin,Active,Philadelphia Phillies,2B-3B,6-1,185,R,R,1988-10-03,"West Chester,PA",2010- 5- 164-ATL,MLB,2013-2020,2008-2020,31.361
+Trevor Gott,Active,San Francisco Giants,P,6-0,190,R,R,1992-08-26,"Lexington,KY",2013- 6- 178-SDN,MLB,2015-2020,2011-2020,28.033
+Ashton Goudeau,Active,Colorado Rockies,P,6-6,205,R,R,1992-07-23,"Bossier City,LA",2012- 27- 823-KCA,MLB,2020-2020,2012-2020,28.067
+Yasmani Grandal,Active,Chicago White Sox,C-1B-,6-2,215,B,R,1988-11-08,"Miami,FL",2010- 1- 12-CIN,MLB,2012-2020,2008-2020,31.325
+Brusdar Graterol,Active,Los Angeles Dodgers,P,6-1,180,R,R,1998-08-26,"Calobozo,VZ",2014- 0- 0-MIN,MLB,2019-2020,2015-2020,22.034
+Kendall Graveman,Active,Seattle Mariners,P,6-1,189,R,R,1990-12-21,"Alexander City,AL",2013- 8- 235-TOR,MLB,2014-2020,2010-2020,29.282
+Jon Gray,Active,Colorado Rockies,P,6-5,245,R,R,1991-11-05,"Chandler,OK",2013- 1- 3-COL,MLB,2015-2020,2012-2020,28.329
+Sonny Gray,Active,Cincinnati Reds,P,6-0,185,R,R,1989-11-07,"Smyrna,TN",2011- 1- 18-OAK,MLB,2013-2020,2009-2020,30.326
+Chad Green,Active,New York Yankees,P,6-4,190,R,R,1991-05-24,"Greenville,SC",2013- 11- 336-DET,MLB,2016-2020,2011-2020,29.128
+Shane Greene,Active,Atlanta Braves,P,6-4,210,R,R,1988-11-17,"Orlando,FL",2009- 15- 465-NYA,MLB,2014-2020,2008-2020,31.316
+Didi Gregorius,Active,Philadelphia Phillies,SS-DH,6-1,152,L,R,1990-02-18,"Amsterdam,NT",2007- 0- 0-CIN,MLB,2012-2020,2008-2020,30.223
+Grayson Greiner,Active,Detroit Tigers,C,6-6,239,R,R,1992-10-11,"Columbia,SC",2014- 3- 99-DET,MLB,2018-2020,2012-2020,27.353
+Zack Greinke,Active,Houston Astros,P,6-2,190,R,R,1983-10-21,"Orlando,FL",2002- 1- 6-KCA,MLB,2004-2020,2002-2020,36.344
+Randal Grichuk,Active,Toronto Blue Jays,RF-OF,6-0,195,R,R,1991-08-13,"Rosenberg,TX",2009- 1- 24-ANA,MLB,2014-2020,2009-2020,29.047
+Foster Griffin,DL-60,Kansas City Royals,P,6-3,200,R,L,1995-07-27,"Orlando,FL",2014- 1- 28-KCA,MLB,2020-2020,2014-2020,25.064
+Trent Grisham,Active,San Diego Padres,CF-RF,6-0,205,L,L,1996-11-01,"Fort Worth,TX",2015- 1- 15-MIL,MLB,2019-2020,2015-2020,23.332
+Robbie Grossman,Active,Oakland Athletics,LF-OF,6-0,200,B,L,1989-09-16,"Cypress,TX",2008- 6- 174-PIT,MLB,2013-2020,2008-2020,31.013
+Deivi Grullon,Active,Boston Red Sox,C-1B-,6-1,180,R,R,1996-02-17,"Bonao,DR",2012- 0- 0-PHI,MLB,2019-2020,2013-2020,24.224
+Robert Gsellman,DL-60,New York Mets,P,6-4,210,R,R,1993-07-18,"Santa Monica,CA",2011- 13- 402-NYN,MLB,2016-2020,2011-2020,27.073
+Javier Guerra,DL-10,San Diego Padres,SS-P-,5-11,155,L,R,1995-09-29,"David,PN",2012- 0- 0-BOS,MLB,2018-2020,2013-2020,25.000
+Javy Guerra,Active,Washington Nationals,P,6-1,185,R,R,1985-10-31,"Denton,TX",2004- 4- 118-LAN,MLB,2011-2020,2004-2020,34.333
+Junior Guerra,Active,Arizona Diamondbacks,P,5-11,180,R,R,1985-01-16,"Guayana,VZ",2001- 0- 0-ATL,MLB,2015-2020,2003-2020,35.256
+Vladimir Guerrero,Active,Toronto Blue Jays,3B-DH,6-1,200,R,R,1999-03-16,"Montreal,QC",2015- 0- 0-TOR,MLB,2019-2020,2016-2020,21.197
+Taylor Guilbeau,DL-60,Seattle Mariners,P,6-3,170,L,L,1993-05-12,"Baton Rouge,LA",2015- 10- 314-WAS,MLB,2019-2020,2012-2020,27.140
+Luis Guillorme,Active,New York Mets,SS-2B,5-10,170,L,R,1994-09-27,"Davie,FL",2013- 10- 296-NYN,MLB,2018-2020,2013-2020,26.002
+Lourdes Gurriel,Active,Toronto Blue Jays,SS-LF,6-2,185,R,R,1993-10-19,"Sancti Spiritus,CU",2016- 0- 0-TOR,MLB,2018-2020,2017-2020,26.345
+Yuli Gurriel,Active,Houston Astros,1B-3B,6-0,190,R,R,1984-06-09,"Sancti Spiritus,CU",2016- 0- 0-HOU,MLB,2016-2020,2016-2020,36.112
+Kelvin Gutierrez,Active,Kansas City Royals,3B-1B,6-3,185,R,R,1994-08-28,"Pimentel,DR",2013- 0- 0-WAS,MLB,2019-2020,2013-2020,26.032
+Jeison Guzman,Active,Kansas City Royals,SS-3B,6-2,180,L,R,1998-10-08,"Santo Domingo,DR",2015- 0- 0-KCA,A,,2016-2019,21.356
+Ronald Guzman,Active,Texas Rangers,1B-DH,6-5,205,L,L,1994-10-20,"La Vega,DR",2011- 0- 0-TEX,MLB,2018-2020,2012-2020,25.344
+Jedd Gyorko,Active,Milwaukee Brewers,3B-2B,5-10,215,R,R,1988-09-23,"Morgantown,WV",2010- 2- 59-SDN,MLB,2013-2020,2008-2020,32.005
+Eric Haase,Active,Detroit Tigers,C-DH,5-10,180,R,R,1992-12-18,"Westland,MI",2011- 7- 218-CLE,MLB,2018-2020,2011-2020,27.285
+Josh Hader,Active,Milwaukee Brewers,P,6-3,160,L,L,1994-04-07,"Millersville,MD",2012- 19- 582-BAL,MLB,2017-2020,2012-2020,26.175
+Sam Haggerty,Active,Seattle Mariners,3B-2B,5-11,175,B,R,1994-05-26,"Phoenix,AZ",2015- 24- 724-CLE,MLB,2019-2020,2013-2020,26.126
+Jesse Hahn,Active,Kansas City Royals,P,6-5,182,R,R,1989-07-30,"Norwich,CT",2010- 6- 191-TBA,MLB,2014-2020,2008-2020,31.061
+David Hale,Active,Philadelphia Phillies,P,6-2,195,R,R,1987-09-27,"Marietta,GA",2009- 3- 87-ATL,MLB,2013-2020,2007-2020,33.002
+Matt Hall,Active,Boston Red Sox,P,6-1,190,L,L,1993-07-23,"Independence,MO",2015- 6- 190-DET,MLB,2018-2020,2013-2020,27.068
+Cole Hamels,DL-60,Atlanta Braves,P,6-3,170,L,L,1983-12-27,"San Diego,CA",2002- 1- 17-PHI,MLB,2006-2020,2003-2020,36.276
+Billy Hamilton,Active,Chicago Cubs,CF-OF,6-1,160,B,R,1990-09-09,"Taylorsville,MS",2009- 2- 57-CIN,MLB,2013-2020,2009-2020,30.020
+Ian Hamilton,Active,Seattle Mariners,P,6-0,195,R,R,1995-06-16,"Vancouver,WA",2016- 11- 326-CHA,MLB,2018-2020,2014-2020,25.105
+Garrett Hampson,Active,Colorado Rockies,2B-SS,5-11,188,R,R,1994-10-10,"Reno,NV",2016- 3- 81-COL,MLB,2018-2020,2014-2020,25.354
+Brad Hand,Active,Cleveland Indians,P,6-2,185,L,L,1990-03-20,"Chaska,MN",2008- 2- 52-MIA,MLB,2011-2020,2008-2020,30.193
+Mitch Haniger,DL-60,Seattle Mariners,RF-OF,6-2,215,R,R,1990-12-23,"Mountain View,CA",2012- 1- 38-MIL,MLB,2016-2019,2010-2019,29.280
+Ian Happ,Active,Chicago Cubs,CF-OF,6-0,205,B,R,1994-08-12,"Pittsburgh,PA",2015- 1- 9-CHN,MLB,2017-2020,2013-2020,26.048
+J.A. Happ,Active,New York Yankees,P,6-5,205,L,L,1982-10-19,"Spring Valley,IL",2004- 3- 92-PHI,MLB,2007-2020,2002-2020,37.345
+Bryce Harper,Active,Philadelphia Phillies,RF-OF,6-3,205,L,R,1992-10-16,"Las Vegas,NV",2010- 1- 1-WAS,MLB,2012-2020,2011-2020,27.348
+Ryne Harper,Active,Washington Nationals,P,6-3,190,R,R,1989-03-27,"Clarksville,TN",2011- 37-1136-ATL,MLB,2019-2020,2008-2020,31.186
+Will Harris,Active,Washington Nationals,P,6-3,230,R,R,1984-08-28,"Slidell,LA",2006- 9- 258-COL,MLB,2012-2020,2003-2020,36.032
+Josh Harrison,Active,Washington Nationals,2B-3B,5-8,175,R,R,1987-07-08,"Cincinnati,OH",2008- 6- 191-CHN,MLB,2011-2020,2006-2020,33.083
+Monte Harrison,Active,Miami Marlins,CF-RF,6-3,200,R,R,1995-08-10,"Lees Summit,MO",2014- 2- 50-MIL,MLB,2020-2020,2014-2020,25.050
+Kyle Hart,DL-60,Boston Red Sox,P,6-5,205,L,L,1992-11-23,"Cincinnati,OH",2016- 19- 568-BOS,MLB,2020-2020,2012-2020,27.310
+Geoff Hartlieb,Active,Pittsburgh Pirates,P,6-6,210,R,R,1993-12-09,"Highland,IL",2016- 29- 885-PIT,MLB,2019-2020,2014-2020,26.294
+Hunter Harvey,Active,Baltimore Orioles,P,6-3,175,R,R,1994-12-09,"Catawba,NC",2013- 1- 22-BAL,MLB,2019-2020,2013-2020,25.294
+Joe Harvey,DL-60,Colorado Rockies,P,6-2,235,R,R,1992-01-09,"Audobon,PA",2014- 19- 572-NYA,MLB,2019-2020,2012-2020,28.264
+Matt Harvey,DL-60,Kansas City Royals,P,6-4,210,R,R,1989-03-27,"New London,CT",2010- 1- 7-NYN,MLB,2012-2020,2008-2020,31.186
+Adam Haseley,Active,Philadelphia Phillies,CF-LF,6-1,195,L,L,1996-04-12,"Windermere,FL",2017- 1- 8-PHI,MLB,2019-2020,2015-2020,24.169
+Thomas Hatch,Active,Toronto Blue Jays,P,6-1,190,R,R,1994-09-29,"Tulsa,OK",2016- 3- 104-CHN,MLB,2020-2020,2014-2020,26.000
+Ke'Bryan Hayes,Active,Pittsburgh Pirates,3B,6-1,210,R,R,1997-01-28,"Spring,TX",2015- 1- 32-PIT,MLB,2020-2020,2015-2020,23.244
+Austin Hays,Active,Baltimore Orioles,CF-RF,6-1,195,R,R,1995-07-05,"Port Orange,FL",2016- 3- 91-BAL,MLB,2017-2020,2014-2020,25.086
+Ryon Healy,Active,Milwaukee Brewers,1B-3B,6-5,215,R,R,1992-01-10,"West Hills,CA",2013- 3- 100-OAK,MLB,2016-2020,2011-2020,28.262
+Andrew Heaney,Active,Los Angeles Angels,P,6-2,164,L,L,1991-06-05,"Oklahoma City,OK",2012- 1- 9-MIA,MLB,2014-2020,2010-2020,29.116
+Taylor Hearn,Active,Texas Rangers,P,6-5,210,L,L,1994-08-30,"Royse City,TX",2015- 5- 164-WAS,MLB,2019-2020,2013-2020,26.030
+Nick Heath,Active,Kansas City Royals,CF-RF,6-0,171,L,L,1993-11-27,"Junction City,KS",2016- 16- 493-KCA,MLB,2020-2020,2014-2020,26.306
+Adeiny Hechavarria,Active,Atlanta Braves,SS-2B,5-11,180,R,R,1989-04-15,"Santiago De Cuba,CU",2010- 0- 0-TOR,MLB,2012-2020,2010-2020,31.167
+Austin Hedges,Active,Cleveland Indians,C-3B-,6-1,190,R,R,1992-08-18,"San Juan Capistrano,CA",2011- 2- 82-SDN,MLB,2015-2020,2011-2020,28.042
+Jonah Heim,Active,Oakland Athletics,C,6-3,189,B,R,1995-06-27,"Amherst,NY",2013- 4- 129-BAL,MLB,2020-2020,2013-2020,25.094
+Tyler Heineman,Active,San Francisco Giants,C-1B,5-10,175,B,R,1991-06-19,"Los Angeles,CA",2012- 8- 249-HOU,MLB,2019-2020,2010-2020,29.102
+Ben Heller,DL-60,New York Yankees,P,6-3,205,R,R,1991-08-05,"Delevan,WI",2013- 22- 651-CLE,MLB,2016-2020,2013-2020,29.055
+Ryan Helsley,Active,St. Louis Cardinals,P,6-2,205,R,R,1994-07-18,"Tahlequah,OK",2015- 5- 161-SLN,MLB,2019-2020,2014-2020,26.073
+Heath Hembree,Active,Philadelphia Phillies,P,6-4,205,R,R,1989-01-13,"Spartanburg,SC",2010- 5- 168-SFN,MLB,2013-2020,2008-2020,31.259
+Kyle Hendricks,Active,Chicago Cubs,P,6-2,175,R,R,1989-12-07,"Newport Beach,CA",2011- 8- 264-TEX,MLB,2014-2020,2009-2020,30.296
+Liam Hendriks,Active,Oakland Athletics,P,6-1,197,R,R,1989-02-10,"Perth,AU",2007- 0- 0-MIN,MLB,2011-2020,2007-2020,31.231
+Guillermo Heredia,Active,New York Mets,CF-OF,5-10,180,R,L,1991-01-31,"Matanzas,CU",2016- 0- 0-SEA,MLB,2016-2020,2016-2020,29.241
+Jimmy Herget,Active,Texas Rangers,P-LF,6-3,155,R,R,1993-09-09,"Tampa,FL",2015- 6- 175-CIN,MLB,2019-2020,2013-2020,27.020
+Carlos Hernandez,Active,Kansas City Royals,P,6-4,175,R,R,1997-03-11,"Guayana,VZ",2016- 0- 0-KCA,MLB,2020-2020,2017-2020,23.202
+Cesar Hernandez,Active,Cleveland Indians,2B-DH,5-10,166,B,R,1990-05-23,"Valencia,VZ",2006- 0- 0-PHI,MLB,2013-2020,2009-2020,30.129
+Darwinzon Hernandez,Active,Boston Red Sox,P,6-2,180,L,L,1996-12-17,"Ciudad Bolivar,VZ",2013- 0- 0-BOS,MLB,2019-2020,2014-2020,23.286
+Elieser Hernandez,DL-60,Miami Marlins,P,6-1,170,R,R,1995-05-03,"Ocumare del Tuy,VZ",2011- 0- 0-HOU,MLB,2018-2020,2012-2020,25.149
+Enrique Hernandez,Active,Los Angeles Dodgers,2B-OF,5-11,170,R,R,1991-08-24,"Toa Baja,PR",2009- 6- 191-HOU,MLB,2014-2020,2009-2020,29.036
+Jonathan Hernandez,Active,Texas Rangers,P,6-2,150,R,R,1996-07-06,"Maracay,VZ",2013- 0- 0-TEX,MLB,2019-2020,2013-2020,24.085
+Teoscar Hernandez,Active,Toronto Blue Jays,LF-OF,6-2,180,R,R,1992-10-15,"Cotui,DR",2011- 0- 0-HOU,MLB,2016-2020,2011-2020,27.349
+David Hess,Active,Baltimore Orioles,P,6-1,198,R,R,1993-07-10,"Tullahoma,TN",2014- 5- 151-BAL,MLB,2018-2020,2012-2020,27.081
+Codi Heuer,Active,Chicago White Sox,P,6-4,185,R,R,1996-07-03,"Missoula,MT",2018- 6- 168-CHA,MLB,2020-2020,2016-2020,24.088
+Jason Heyward,Active,Chicago Cubs,RF-OF,6-4,220,L,L,1989-08-09,"McDonough,GA",2007- 1- 14-ATL,MLB,2010-2020,2007-2020,31.051
+Aaron Hicks,Active,New York Yankees,CF-OF,6-2,170,B,R,1989-10-02,"Long Beach,CA",2008- 1- 14-MIN,MLB,2013-2020,2008-2020,30.362
+Kyle Higashioka,Active,New York Yankees,C-DH,6-1,190,R,R,1990-04-20,"Huntington Beach,CA",2008- 7- 230-NYA,MLB,2017-2020,2008-2020,30.162
+Cameron Hill,Active,Cleveland Indians,P,6-1,185,R,R,1994-05-24,"El Reno,OK",2014- 17- 518-CLE,MLB,2020-2020,2013-2020,26.128
+Derek Hill,Active,Detroit Tigers,CF-RF,6-2,195,R,R,1995-12-30,"Des Moines,IA",2014- 1- 23-DET,MLB,2020-2020,2014-2020,24.273
+Rich Hill,Active,Minnesota Twins,P,6-4,180,L,L,1980-03-11,"Boston,MA",2002- 4- 112-CHN,MLB,2005-2020,2000-2020,40.201
+Tim Hill,Active,San Diego Padres,P,6-2,200,L,L,1990-02-10,"Sylmar,CA",2014- 32- 963-KCA,MLB,2018-2020,2013-2020,30.231
+Sam Hilliard,Active,Colorado Rockies,RF-CF,6-5,225,L,L,1994-02-21,"Arlington,TX",2015- 15- 437-COL,MLB,2019-2020,2013-2020,26.220
+Yoshihisa Hirano,Active,Seattle Mariners,P,6-1,185,R,R,1984-03-08,"Kyoto,JP",2017- 0- 0-ARI,MLB,2018-2020,2006-2020,36.204
+Keston Hiura,Active,Milwaukee Brewers,2B,5-11,185,R,R,1996-08-02,"Valencia,CA",2017- 1- 9-MIL,MLB,2019-2020,2015-2020,24.058
+Nico Hoerner,Active,Chicago Cubs,SS-2B,5-11,190,R,R,1997-05-13,"Oakland,CA",2018- 1- 24-CHN,MLB,2019-2020,2016-2020,23.139
+Jeff Hoffman,Active,Colorado Rockies,P,6-4,182,R,R,1993-01-08,"Latham,NY",2014- 1- 9-TOR,MLB,2016-2020,2012-2020,27.264
+Bryan Holaday,Active,Baltimore Orioles,C-P,5-11,190,R,R,1987-11-19,"Dallas,TX",2010- 6- 193-DET,MLB,2012-2020,2008-2020,32.314
+Jonathan Holder,Active,New York Yankees,P,6-2,247,R,R,1993-06-09,"Gulfport,MS",2014- 6- 182-NYA,MLB,2016-2020,2012-2020,27.112
+Derek Holland,Active,Pittsburgh Pirates,P,6-2,185,B,L,1986-10-09,"Newark,OH",2006- 25- 748-TEX,MLB,2009-2020,2007-2020,33.355
+Greg Holland,Active,Kansas City Royals,P,5-11,180,R,R,1985-11-20,"Morganton,NC",2007- 10- 306-KCA,MLB,2010-2020,2005-2020,34.313
+Jordan Holloway,DL-10,Miami Marlins,P,6-4,190,R,R,1996-06-13,"Arvada,CO",2014- 20- 587-MIA,MLB,2020-2020,2014-2020,24.108
+Clay Holmes,DL-60,Pittsburgh Pirates,P,6-5,230,R,R,1993-03-27,"Slocomb,AL",2011- 9- 272-PIT,MLB,2018-2020,2012-2020,27.186
+Brock Holt,Active,Washington Nationals,2B-SS,5-10,165,L,R,1988-06-11,"Fort Worth,TX",2009- 9- 265-PIT,MLB,2012-2020,2009-2020,32.109
+Rhys Hoskins,Active,Philadelphia Phillies,1B-LF,6-4,215,R,R,1993-03-17,"Sacramento,CA",2014- 5- 142-PHI,MLB,2017-2020,2012-2020,27.196
+Eric Hosmer,Active,San Diego Padres,1B-DH,6-4,215,L,L,1989-10-24,"Cooper City,FL",2008- 1- 3-KCA,MLB,2011-2020,2008-2020,30.340
+Tanner Houck,Active,Boston Red Sox,P,6-5,220,R,R,1996-06-29,"Collinsville,IL",2017- 1- 24-BOS,MLB,2020-2020,2015-2020,24.092
+Adrian Houser,Active,Milwaukee Brewers,P,6-4,205,R,R,1993-02-02,"Locust Grove,OK",2011- 2- 69-HOU,MLB,2015-2020,2011-2020,27.239
+Sam Howard,Active,Pittsburgh Pirates,P,6-3,170,R,L,1993-03-05,"Cartersville,GA",2014- 3- 82-COL,MLB,2018-2020,2012-2020,27.208
+Spencer Howard,Active,Philadelphia Phillies,P,6-3,205,R,R,1996-07-28,"Templeton,CA",2017- 2- 45-PHI,MLB,2020-2020,2016-2020,24.062
+James Hoyt,Active,Miami Marlins,P,6-5,230,R,R,1986-09-30,"Boise,ID",2012- 0- 0-ATL,MLB,2016-2020,2010-2020,33.364
+Dakota Hudson,DL-60,St. Louis Cardinals,P,6-4,185,R,R,1994-09-15,"Dunlap,TN",2016- 1- 34-SLN,MLB,2018-2020,2014-2020,26.014
+Daniel Hudson,Active,Washington Nationals,P,6-3,225,R,R,1987-03-09,"Virginia Beach,VA",2008- 5- 150-CHA,MLB,2009-2020,2006-2020,33.204
+Joe Hudson,Active,St. Louis Cardinals,C-1B-,6-1,190,R,R,1991-05-21,"Odessa,FL",2012- 6- 202-CIN,MLB,2018-2020,2010-2020,29.131
+Sam Huff,Active,Texas Rangers,C-1B,6-4,190,R,R,1998-01-14,"Phoenix,AZ",2016- 7- 219-TEX,MLB,2020-2020,2016-2020,22.258
+Jared Hughes,Active,Houston Astros,P,6-7,220,R,R,1985-07-04,"Laguna Beach,CA",2006- 4- 110-PIT,MLB,2011-2020,2004-2020,35.087
+Tommy Hunter,Active,Philadelphia Phillies,P,6-3,255,R,R,1986-07-03,"Indianapolis,IN",2007- 1- 54-TEX,MLB,2008-2020,2006-2020,34.088
+Jose Iglesias,Active,Baltimore Orioles,SS-DH,5-11,175,R,R,1990-01-05,"Havana,CU",2009- 0- 0-BOS,MLB,2011-2020,2010-2020,30.267
+Raisel Iglesias,Active,Cincinnati Reds,P,5-11,163,R,R,1990-01-04,"Isla de la Juventud,CU",2014- 0- 0-CIN,MLB,2015-2020,2015-2020,30.268
+Ender Inciarte,Active,Atlanta Braves,CF-OF,5-11,155,L,L,1990-10-29,"Barquisimeto,VZ",2008- 0- 0-ARI,MLB,2014-2020,2009-2020,29.335
+Luke Jackson,Active,Atlanta Braves,P,6-2,180,R,R,1991-08-24,"Ormond Beach,FL",2010- 1- 45-TEX,MLB,2015-2020,2011-2020,29.036
+Joshua James,DL-10,Houston Astros,P,6-3,206,R,R,1993-03-08,"Hollywood,FL",2014- 34-1006-HOU,MLB,2018-2020,2012-2020,27.205
+Danny Jansen,Active,Toronto Blue Jays,C-DH,6-2,215,R,R,1995-04-15,"Appleton,WI",2013- 16- 475-TOR,MLB,2018-2020,2013-2020,25.167
+Kenley Jansen,Active,Los Angeles Dodgers,P,6-2,178,B,R,1987-09-30,"Willemstad,CC",2004- 0- 0-LAN,MLB,2010-2020,2005-2020,32.364
+Cristian Javier,Active,Houston Astros,P,6-1,170,R,R,1997-03-26,"Santo Domingo,DR",2015- 0- 0-HOU,MLB,2020-2020,2015-2020,23.187
+Jon Jay,Active,Arizona Diamondbacks,OF-RF,5-11,200,L,L,1985-03-15,"Miami,FL",2006- 2- 74-SLN,MLB,2010-2020,2004-2020,35.198
+Ryan Jeffers,Active,Minnesota Twins,C,6-4,225,R,R,1997-06-03,"Raleigh,NC",2018- 2- 59-MIN,MLB,2020-2020,2016-2020,23.118
+Jeremy Jeffress,Active,Chicago Cubs,P,6-0,175,R,R,1987-09-21,"South Boston,VA",2006- 1- 16-MIL,MLB,2010-2020,2006-2020,33.008
+Eloy Jimenez,Active,Chicago White Sox,LF-RF,6-4,205,R,R,1996-11-27,"Santo Domingo,DR",2013- 0- 0-CHN,MLB,2019-2020,2014-2020,23.306
+Joe Jimenez,Active,Detroit Tigers,P,6-3,220,R,R,1995-01-17,"Bayamon,PR",2013- 0- 0-DET,MLB,2017-2020,2013-2020,25.255
+Chase Johnson,Active,San Francisco Giants,P,6-3,185,R,R,1992-01-09,"Fallbrook,CA",2013- 3- 101-SFN,AAA,,2011-2019,28.264
+Pierce Johnson,Active,San Diego Padres,P,6-1,170,R,R,1991-05-10,"Denver,CO",2012- 1- 43-CHN,MLB,2017-2020,2010-2020,29.142
+JaCoby Jones,DL-60,Detroit Tigers,CF-OF,6-3,190,R,R,1992-05-10,"Richton,MS",2013- 3- 87-PIT,MLB,2016-2020,2011-2020,28.142
+Jahmai Jones,Active,Los Angeles Angels,2B-CF,5-11,210,R,R,1997-08-04,"Norcross,GA",2015- 2- 70-ANA,MLB,2020-2020,2015-2020,23.056
+Matt Joyce,Active,Miami Marlins,LF-OF,6-2,185,L,R,1984-08-03,"Riverview,FL",2005- 12- 360-DET,MLB,2008-2020,2003-2020,36.056
+Aaron Judge,Active,New York Yankees,RF-OF,6-7,282,R,R,1992-04-26,"Sacramento,CA",2013- 1- 32-NYA,MLB,2016-2020,2011-2020,28.155
+Jake Junis,Active,Kansas City Royals,P,6-3,210,R,R,1992-09-16,"Rock Falls,IL",2011- 29- 876-KCA,MLB,2017-2020,2012-2020,28.013
+Tom Kahnle,DL-60,New York Yankees,P,6-1,220,R,R,1989-08-07,"Latham,NY",2010- 5- 175-NYA,MLB,2014-2020,2010-2020,31.053
+James Karinchak,Active,Cleveland Indians,P,6-2,180,R,R,1995-09-22,"Walden,NY",2017- 9- 282-CLE,MLB,2019-2020,2015-2020,25.007
+Keone Kela,DL-60,Pittsburgh Pirates,P,6-1,190,R,R,1993-04-16,"Seattle,WA",2012- 12- 396-TEX,MLB,2015-2020,2012-2020,27.166
+Brad Keller,Active,Kansas City Royals,P,6-5,230,R,R,1995-07-27,"Flowery Branch,GA",2013- 8- 240-ARI,MLB,2018-2020,2013-2020,25.064
+Mitch Keller,Active,Pittsburgh Pirates,P,6-3,195,R,R,1996-04-04,"Cedar Rapids,IA",2014- 2- 64-PIT,MLB,2019-2020,2014-2020,24.177
+Carson Kelly,Active,Arizona Diamondbacks,C-1B-,6-2,200,R,R,1994-07-14,"Portland,OR",2012- 2- 86-SLN,MLB,2016-2020,2012-2020,26.077
+Joe Kelly,Active,Los Angeles Dodgers,P,6-1,165,R,R,1988-06-09,"Anaheim,CA",2009- 3- 98-SLN,MLB,2012-2020,2007-2020,32.112
+Merrill Kelly,DL-60,Arizona Diamondbacks,P,6-2,190,R,R,1988-10-14,"Houston,TX",2010- 8- 251-TBA,MLB,2019-2020,2008-2020,31.350
+Matt Kemp,Active,Colorado Rockies,OF-LF,6-4,210,R,R,1984-09-23,"Midwest City,OK",2003- 6- 181-LAN,MLB,2006-2020,2003-2020,36.005
+Tony Kemp,Active,Oakland Athletics,OF-LF,5-6,160,L,R,1991-10-31,"Nashville,TN",2013- 5- 137-HOU,MLB,2016-2020,2011-2020,28.333
+Howie Kendrick,Active,Washington Nationals,2B-1B,5-10,170,R,R,1983-07-12,"Jacksonville,FL",2002- 10- 294-ANA,MLB,2006-2020,2002-2020,37.079
+Brett Kennedy,Active,San Diego Padres,P,6-1,190,R,R,1994-08-04,"Brigantine,NJ",2015- 11- 327-SDN,MLB,2018-2018,2013-2019,26.056
+Ian Kennedy,Active,Kansas City Royals,P,5-11,185,R,R,1984-12-19,"Huntington Beach,CA",2006- 1- 21-NYA,MLB,2007-2020,2004-2020,35.284
+Max Kepler,Active,Minnesota Twins,RF-OF,6-4,215,L,L,1993-02-10,"Stuttgart,GE",2009- 0- 0-MIN,MLB,2015-2020,2010-2020,27.231
+Clayton Kershaw,Active,Los Angeles Dodgers,P,6-3,220,L,L,1988-03-19,"Dallas,TX",2006- 1- 7-LAN,MLB,2008-2020,2006-2020,32.193
+Dallas Keuchel,Active,Chicago White Sox,P,6-3,200,L,L,1988-01-01,"Tulsa,OK",2009- 7- 221-HOU,MLB,2012-2020,2007-2020,32.272
+Mike Kickham,Active,Boston Red Sox,P,6-4,205,L,L,1988-12-12,"St. Louis,MO",2011- 33-1007-DET,MLB,2013-2020,2010-2020,31.291
+Carter Kieboom,Active,Washington Nationals,SS-2B,6-2,190,R,R,1997-09-03,"Marietta,GA",2016- 1- 28-WAS,MLB,2019-2020,2016-2020,23.026
+Kevin Kiermaier,Active,Tampa Bay Rays,CF-OF,6-1,200,L,R,1990-04-22,"Fort Wayne,IN",2010- 31- 941-TBA,MLB,2013-2020,2010-2020,30.160
+Yusei Kikuchi,Active,Seattle Mariners,P,6-0,194,L,L,1991-06-17,"Morioka,JP",,MLB,2019-2020,2011-2020,29.104
+Franklyn Kilome,Active,New York Mets,P,6-6,175,R,R,1995-06-25,"La Romana,DR",2013- 0- 0-PHI,MLB,2020-2020,2014-2020,25.096
+Kwang-Hyun Kim,Active,St. Louis Cardinals,P,6-2,176,L,L,1988-07-22,"Seoul,KR",2019- 0- 0-SLN,MLB,2020-2020,2020-2020,32.069
+Craig Kimbrel,Active,Chicago Cubs,P,5-11,205,R,R,1988-05-28,"Huntsville,AL",2008- 3- 96-ATL,MLB,2010-2020,2008-2020,32.123
+Isiah Kiner-Falefa,Active,Texas Rangers,C-3B-,5-10,165,R,R,1995-03-23,"Honolulu,HI",2013- 4- 130-TEX,MLB,2018-2020,2013-2020,25.190
+John King,Active,Texas Rangers,P,6-2,215,L,L,1994-09-14,"Missouri City,TX",2017- 10- 314-TEX,MLB,2020-2020,2014-2020,26.015
+Scott Kingery,Active,Philadelphia Phillies,SS-CF,5-10,180,R,R,1994-04-29,"Phoenix,AZ",2015- 2- 48-PHI,MLB,2018-2020,2013-2020,26.153
+Tyler Kinley,Active,Colorado Rockies,P,6-4,205,R,R,1991-01-31,"Plantation,FL",2013- 16- 472-MIA,MLB,2018-2020,2012-2020,29.241
+Brandon Kintzler,Active,Miami Marlins,P,6-1,180,R,R,1984-08-01,"Las Vegas,NV",2004- 40-1182-SDN,MLB,2010-2020,2004-2020,36.059
+Jason Kipnis,Active,Chicago Cubs,2B-CF,5-10,175,L,R,1987-04-03,"Evanston,IL",2009- 2- 63-CLE,MLB,2011-2020,2006-2020,33.179
+Alejandro Kirk,Active,Toronto Blue Jays,C,5-9,220,R,R,1998-11-06,"Tijuana,MX",2016- 0- 0-TOR,MLB,2020-2020,2017-2020,21.327
+Andrew Kittredge,DL-60,Tampa Bay Rays,P,6-1,202,R,R,1990-03-17,"Spokane,WA",2011- 0- 0-SEA,MLB,2017-2020,2009-2020,30.196
+Branden Kline,Active,Baltimore Orioles,P,6-3,185,R,R,1991-09-29,"Frederick,MD",2012- 2- 65-BAL,MLB,2019-2020,2010-2020,29.000
+Corey Kluber,DL-60,Texas Rangers,P,6-4,215,R,R,1986-04-10,"Birmingham,AL",2007- 4- 134-SDN,MLB,2011-2020,2005-2020,34.172
+Andrew Knapp,Active,Philadelphia Phillies,C-1B-,6-1,175,B,R,1991-11-09,"Granite Bay,CA",2013- 2- 53-PHI,MLB,2017-2020,2011-2020,28.325
+Corey Knebel,Active,Milwaukee Brewers,P,6-4,220,R,R,1991-11-26,"Georgetown,TX",2013- 1- 39-DET,MLB,2014-2020,2011-2020,28.307
+Adam Kolarek,Active,Los Angeles Dodgers,P-1B,6-3,210,L,L,1989-01-14,"Baltimore,MD",2010- 11- 332-NYN,MLB,2017-2020,2008-2020,31.258
+Kevin Kramer,DL-60,Pittsburgh Pirates,2B-3B,6-0,195,L,R,1993-10-03,"Turlock,CA",2015- 2- 62-PIT,MLB,2018-2019,2012-2019,26.361
+Erik Kratz,Active,New York Yankees,C-1B-,6-4,240,R,R,1980-06-15,"Telford,PA",2002- 29- 866-TOR,MLB,2010-2020,2002-2020,40.105
+Dean Kremer,Active,Baltimore Orioles,P,6-2,185,R,R,1996-01-07,"Stockton,CA",2016- 14- 431-LAN,MLB,2020-2020,2015-2020,24.265
+Chad Kuhl,Active,Pittsburgh Pirates,P,6-3,215,R,R,1992-09-10,"Bear,DE",2013- 9- 269-PIT,MLB,2016-2020,2011-2020,28.018
+Tommy La Stella,Active,Oakland Athletics,2B-3B,5-11,190,L,R,1989-01-31,"Closter,NJ",2011- 8- 266-ATL,MLB,2014-2020,2008-2020,31.241
+Brady Lail,Active,Seattle Mariners,P,6-2,170,R,R,1993-08-09,"South Jordan,UT",2012- 18- 577-NYA,MLB,2019-2020,2012-2020,27.051
+Travis Lakins,Active,Baltimore Orioles,P,6-1,175,R,R,1994-06-29,"Franklin,OH",2015- 6- 171-BOS,MLB,2019-2020,2014-2020,26.092
+Jake Lamb,Active,Oakland Athletics,3B-1B,6-3,195,L,R,1990-10-09,"Seattle,WA",2012- 6- 213-ARI,MLB,2014-2020,2010-2020,29.355
+John Lamb,Active,Los Angeles Angels,P,6-3,185,L,L,1990-07-10,"Laguna Hills,CA",2008- 5- 145-KCA,MLB,2015-2018,2009-2018,30.081
+Jimmy Lambert,DL-60,Chicago White Sox,P,6-2,170,R,R,1994-11-18,"Arcadia,CA",2016- 5- 146-CHA,MLB,2020-2020,2014-2020,25.315
+Peter Lambert,DL-60,Colorado Rockies,P,6-2,185,R,R,1997-04-18,"San Dimas,CA",2015- 2- 44-COL,MLB,2019-2019,2015-2019,23.164
+Dinelson Lamet,Active,San Diego Padres,P,6-4,187,R,R,1992-07-18,---,2014- 0- 0-SDN,MLB,2017-2020,2014-2020,28.073
+Ramon Laureano,Active,Oakland Athletics,CF-RF,5-11,185,R,R,1994-07-15,"Santo Domingo,DR",2014- 16- 466-HOU,MLB,2018-2020,2013-2020,26.076
+Justin Lawrence,Active,Colorado Rockies,P,6-4,220,R,R,1994-11-25,"Jacksonville,FL",2015- 12- 347-COL,AAA,,2014-2019,25.308
+Wade LeBlanc,DL-60,Baltimore Orioles,P,6-2,180,L,L,1984-08-07,"Lake Charles,LA",2006- 2- 61-SDN,MLB,2008-2020,2004-2020,36.052
+Jose Leclerc,DL-60,Texas Rangers,P,6-0,165,R,R,1993-12-19,"Esperanza,DR",2010- 0- 0-TEX,MLB,2016-2020,2011-2020,26.284
+Brandon Leibrandt,DL-60,Philadelphia Phillies,P,6-4,180,L,L,1992-12-13,"Alpharetta,GA",2014- 6- 172-PHI,MLB,2020-2020,2012-2020,27.290
+DJ LeMahieu,Active,New York Yankees,2B-3B,6-4,195,R,R,1988-07-13,"Visalia,CA",2009- 2- 79-CHN,MLB,2011-2020,2008-2020,32.078
+Sandy Leon,Active,Cleveland Indians,C-1B-,5-11,175,B,R,1989-03-13,"Caracas,VZ",2007- 0- 0-WAS,MLB,2012-2020,2007-2020,31.200
+Jon Lester,Active,Chicago Cubs,P,6-3,200,L,L,1984-01-07,"Tacoma,WA",2002- 2- 57-BOS,MLB,2006-2020,2002-2020,36.265
+Artie Lewicki,Active,Arizona Diamondbacks,P,6-3,195,R,R,1992-04-08,"Wyckoff,NJ",2014- 8- 250-DET,MLB,2017-2020,2011-2020,28.173
+Kyle Lewis,Active,Seattle Mariners,CF-LF,6-4,195,R,R,1995-07-13,"Snellville,GA",2016- 1- 11-SEA,MLB,2019-2020,2014-2020,25.078
+Domingo Leyba,Active,Arizona Diamondbacks,2B-SS,5-11,160,B,R,1995-09-11,"Santo Domingo,DR",2012- 0- 0-DET,MLB,2019-2019,2013-2019,25.018
+Robin Leyer,Active,Boston Red Sox,P,6-2,175,R,R,1993-03-13,"El Seibo,DR",2011- 0- 0-CHA,MLB,2020-2020,2012-2020,27.200
+Tzu-Wei Lin,Active,Boston Red Sox,SS-2B,5-9,155,L,R,1994-02-15,"Kaohsiung City,TW",2012- 0- 0-BOS,MLB,2017-2020,2012-2020,26.226
+Josh Lindblom,Active,Milwaukee Brewers,P,6-5,240,R,R,1987-06-15,"Lafayette,IN",2008- 2- 61-LAN,MLB,2011-2020,2006-2020,33.106
+Francisco Lindor,Active,Cleveland Indians,SS-DH,5-11,175,B,R,1993-11-14,"Caguas,PR",2011- 1- 8-CLE,MLB,2015-2020,2011-2020,26.319
+Jonathan Loaisiga,Active,New York Yankees,P,5-11,165,R,R,1994-11-02,"Managua,NI",,MLB,2018-2020,2013-2020,25.331
+Tim Locastro,Active,Arizona Diamondbacks,CF-LF,6-1,175,R,R,1992-07-14,"Auburn,NY",2013- 13- 385-TOR,MLB,2017-2020,2012-2020,28.077
+Walker Lockett,Active,Seattle Mariners,P,6-5,225,R,R,1994-05-03,"Jacksonville,FL",2012- 4- 135-SDN,MLB,2018-2020,2012-2020,26.149
+Shed Long,Active,Seattle Mariners,2B-LF,5-10,175,L,R,1995-08-22,"Oxford,AL",2013- 12- 375-CIN,MLB,2019-2020,2013-2020,25.038
+Evan Longoria,Active,San Francisco Giants,3B,6-2,180,R,R,1985-10-07,"Downey,CA",2006- 1- 3-TBA,MLB,2008-2020,2005-2020,34.357
+Timmy Lopes,Active,Seattle Mariners,2B-3B,5-11,180,R,R,1994-06-24,"Huntington Beach,CA",2012- 6- 191-SEA,MLB,2019-2020,2012-2020,26.097
+Jorge Lopez,Active,Baltimore Orioles,P,6-4,165,R,R,1993-02-10,"Cayey,PR",2011- 2- 70-MIL,MLB,2015-2020,2011-2020,27.231
+Nicky Lopez,Active,Kansas City Royals,SS-2B,5-11,175,L,R,1995-03-13,"Bolingbrook,IL",2016- 5- 163-KCA,MLB,2019-2020,2014-2020,25.200
+Pablo Lopez,Active,Miami Marlins,P,6-3,200,R,R,1996-03-07,"Cabimas,VZ",2012- 0- 0-SEA,MLB,2018-2020,2015-2020,24.206
+Reynaldo Lopez,Active,Chicago White Sox,P,6-0,185,R,R,1994-01-04,"San Pedro de Macoris,DR",2012- 0- 0-WAS,MLB,2016-2020,2012-2020,26.268
+Yoan Lopez,Active,Arizona Diamondbacks,P,6-3,185,R,R,1993-01-02,"Nueva Gerona,CU",2015- 0- 0-ARI,MLB,2018-2020,2015-2020,27.270
+Michael Lorenzen,Active,Cincinnati Reds,P-CF-,6-2,180,R,R,1992-01-04,"Fullerton,CA",2013- 1- 38-CIN,MLB,2015-2020,2011-2020,28.268
+Aaron Loup,Active,Tampa Bay Rays,P,6-0,175,L,L,1987-12-19,"Raceland,LA",2009- 9- 280-TOR,MLB,2012-2020,2007-2020,32.284
+Richard Lovelady,Active,Kansas City Royals,P,6-0,170,L,L,1995-07-07,"Hinesville,GA",2016- 10- 313-KCA,MLB,2019-2020,2016-2020,25.084
+Brandon Lowe,Active,Tampa Bay Rays,2B-LF,6-0,185,L,R,1994-07-06,"Suffolk,VA",2015- 3- 87-TBA,MLB,2018-2020,2014-2020,26.085
+Nate Lowe,Active,Tampa Bay Rays,1B-DH,6-4,230,L,R,1995-07-07,"Chesapeake,VA",2016- 13- 390-TBA,MLB,2019-2020,2014-2020,25.084
+Jed Lowrie,DL-60,New York Mets,2B-3B,6-0,180,B,R,1984-04-17,"Salem,OR",2005- 1- 45-BOS,MLB,2008-2019,2003-2019,36.165
+Elvis Luciano,DL-10,Toronto Blue Jays,P,6-2,184,R,R,2000-02-15,"Boca Chica,DR",,MLB,2019-2019,2017-2019,20.226
+Seth Lugo,Active,New York Mets,P,6-4,185,R,R,1989-11-17,"Bossier City,LA",2011- 34-1032-NYN,MLB,2016-2020,2009-2020,30.316
+Jordan Luplow,Active,Cleveland Indians,LF-RF,6-0,180,R,R,1993-09-26,"Clovis,CA",2014- 3- 100-PIT,MLB,2017-2020,2012-2020,27.003
+Gavin Lux,Active,Los Angeles Dodgers,SS-2B,6-2,170,L,R,1997-11-23,"Kenosha,WI",2016- 1- 20-LAN,MLB,2019-2020,2016-2020,22.310
+Jesus Luzardo,Active,Oakland Athletics,P,5-11,209,L,L,1997-09-30,"Parkland,FL",2016- 3- 94-WAS,MLB,2019-2020,2017-2020,22.364
+Jordan Lyles,Active,Texas Rangers,P,6-4,185,R,R,1990-10-19,"Hartsville,SC",2008- 1- 38-HOU,MLB,2011-2020,2008-2020,29.345
+Lance Lynn,Active,Texas Rangers,P,6-5,250,R,R,1987-05-12,"Brownsburg,IN",2008- 1- 39-SLN,MLB,2011-2020,2006-2020,33.140
+Manny Machado,Active,San Diego Padres,SS-3B,6-3,185,R,R,1992-07-06,"Hialeah,FL",2010- 1- 3-BAL,MLB,2012-2020,2010-2020,28.085
+Vimael Machin,Active,Oakland Athletics,2B-SS,5-10,173,L,R,1993-09-25,"San Lorenzo,PR",2015- 10- 293-CHN,MLB,2020-2020,2012-2020,27.004
+Nick Madrigal,Active,Chicago White Sox,2B-SS,5-7,165,R,R,1997-03-05,"Elk Grove,CA",2018- 1- 4-CHA,MLB,2020-2020,2016-2020,23.208
+Kenta Maeda,Active,Minnesota Twins,P,6-0,154,R,R,1988-04-11,"Osaka,JP",2016- 0- 0-LAN,MLB,2016-2020,2008-2020,32.170
+Matt Magill,DL-60,Seattle Mariners,P,6-3,175,R,R,1989-11-10,"Simi Valley,CA",2008- 31- 937-LAN,MLB,2013-2020,2008-2020,30.323
+Tyler Mahle,Active,Cincinnati Reds,P,6-2,175,R,R,1994-09-29,"Westminster,CA",2013- 7- 225-CIN,MLB,2017-2020,2013-2020,26.000
+Luke Maile,DL-60,Pittsburgh Pirates,C-P,6-3,195,R,R,1991-02-06,"Crestview Hills,KY",2012- 8- 272-TBA,MLB,2015-2019,2010-2019,29.235
+Martin Maldonado,Active,Houston Astros,C-1B,6-1,180,R,R,1986-08-16,"Naguabo,PR",2004- 27- 803-ANA,MLB,2011-2020,2004-2020,34.044
+Sean Manaea,Active,Oakland Athletics,P,6-5,235,R,L,1992-02-01,"Wantah,IN",2013- 1- 34-KCA,MLB,2016-2020,2011-2020,28.241
+Trey Mancini,DL-60,Baltimore Orioles,LF-1B,6-4,230,R,R,1992-03-18,"Winter Haven,FL",2013- 8- 249-BAL,MLB,2016-2019,2011-2019,28.195
+Rafael Marchan,Active,Philadelphia Phillies,C,5-9,170,R,R,1999-02-25,"San Cristobal,VZ",2015- 0- 0-PHI,MLB,2020-2020,2016-2020,21.216
+Nick Margevicius,Active,Seattle Mariners,P,6-4,220,L,L,1996-06-18,"North Royalton,OH",2017- 7- 198-SDN,MLB,2019-2020,2015-2020,24.103
+Manuel Margot,Active,Tampa Bay Rays,CF-OF,5-11,170,R,R,1994-09-28,"San Cristobal,DR",2011- 0- 0-BOS,MLB,2016-2020,2012-2020,26.001
+Jake Marisnick,Active,New York Mets,CF-OF,6-4,200,R,R,1991-03-30,"Riverside,CA",2009- 3- 104-TOR,MLB,2013-2020,2010-2020,29.183
+Nick Markakis,Active,Atlanta Braves,RF-OF,6-2,195,L,L,1983-11-17,"Glen Cove,NY",2003- 1- 7-BAL,MLB,2006-2020,2003-2020,36.317
+Parker Markel,DL-10,Los Angeles Angels,P,6-4,220,R,R,1990-09-15,"Peoria,AZ",2010- 39-1181-TBA,MLB,2019-2019,2010-2019,30.014
+Jose Marmolejos,Active,Seattle Mariners,1B-LF,6-1,185,L,L,1993-01-02,"Perth Amboy,NJ",2011- 0- 0-WAS,MLB,2020-2020,2011-2020,27.270
+Brailyn Marquez,Active,Chicago Cubs,P,6-4,185,L,L,1999-01-30,"Santo Domingo,DR",2015- 0- 0-CHN,MLB,2020-2020,2016-2020,21.242
+German Marquez,Active,Colorado Rockies,P,6-1,184,R,R,1995-02-22,"San Felix,VZ",2011- 0- 0-TBA,MLB,2016-2020,2013-2020,25.219
+Evan Marshall,DL-10,Chicago White Sox,P,6-1,195,R,R,1990-04-18,"Mountain View,CA",2011- 4- 124-ARI,MLB,2014-2020,2009-2020,30.164
+Ketel Marte,Active,Arizona Diamondbacks,2B-CF,6-1,180,B,R,1993-10-12,"Nizao,DR",2010- 0- 0-SEA,MLB,2015-2020,2011-2020,26.352
+Starling Marte,Active,Miami Marlins,CF-OF,6-2,190,R,R,1988-10-09,"Santo Domingo,DR",2006- 0- 0-PIT,MLB,2012-2020,2009-2020,31.355
+Brett Martin,Active,Texas Rangers,P,6-4,190,L,L,1995-04-28,"Morristown,TN",2014- 4- 126-TEX,MLB,2019-2020,2014-2020,25.154
+Chris Martin,Active,Atlanta Braves,P,6-7,175,R,R,1986-06-02,"Cabot,AR",2005- 21- 627-COL,MLB,2014-2020,2010-2020,34.119
+Corbin Martin,DL-60,Arizona Diamondbacks,P,6-2,190,R,R,1995-12-28,"Houston,TX",2017- 2- 56-HOU,MLB,2019-2019,2015-2019,24.276
+Jason Martin,Active,Pittsburgh Pirates,CF-LF,5-10,175,L,R,1995-09-05,"Corona,CA",2013- 8- 227-HOU,MLB,2019-2020,2013-2020,25.024
+Richie Martin,DL-60,Baltimore Orioles,SS-2B,6-0,185,R,R,1994-12-22,"Brandon,FL",2015- 1- 20-OAK,MLB,2019-2019,2013-2019,25.281
+Carlos Martinez,DL-10,St. Louis Cardinals,P,6-0,165,R,R,1991-09-21,"Colinas del sur,DR",2012- 0- 0-SLN,MLB,2013-2020,2010-2020,29.008
+JD Martinez,Active,Boston Red Sox,DH-OF,6-3,175,R,R,1987-08-21,"Pembroke Pines,FL",2009- 20- 611-HOU,MLB,2011-2020,2009-2020,33.039
+Jorge Mateo,Active,San Diego Padres,SS-2B,6-0,188,R,R,1995-06-23,"Santo Domingo,DR",2012- 0- 0-NYA,MLB,2020-2020,2012-2020,25.098
+Jeff Mathis,Active,Texas Rangers,C-P-2,6-0,180,R,R,1983-03-31,"Marianna,FL",2001- 1- 33-ANA,MLB,2005-2020,2001-2020,37.182
+Wyatt Mathisen,Active,Arizona Diamondbacks,3B-1B,6-1,205,R,R,1993-12-30,"Corpus Christi,TX",2012- 2- 69-PIT,MLB,2020-2020,2012-2020,26.273
+Phil Maton,Active,Cleveland Indians,P,6-3,180,R,R,1993-03-25,"Chatham,IL",2015- 20- 597-SDN,MLB,2017-2020,2012-2020,27.188
+Steven Matz,Active,New York Mets,P,6-2,192,R,L,1991-05-29,"Stony Brook,NY",2009- 2- 72-NYN,MLB,2015-2020,2012-2020,29.123
+Tyler Matzek,Active,Atlanta Braves,P,6-3,210,L,L,1990-10-19,"Mission Viejo,CA",2009- 1- 11-COL,MLB,2014-2020,2010-2020,29.345
+Dustin May,Active,Los Angeles Dodgers,P,6-6,180,R,R,1997-09-06,"Justin,TX",2016- 3- 101-LAN,MLB,2019-2020,2016-2020,23.023
+Trevor May,Active,Minnesota Twins,P,6-5,215,R,R,1989-09-23,"Kelso,WA",2008- 4- 136-PHI,MLB,2014-2020,2008-2020,31.006
+Cameron Maybin,Active,Chicago Cubs,OF-LF,6-3,200,R,R,1987-04-04,"Asheville,NC",2005- 1- 10-DET,MLB,2007-2020,2006-2020,33.178
+Mike Mayers,Active,Los Angeles Angels,P,6-3,195,R,R,1991-12-06,"Grove City,OH",2013- 3- 93-SLN,MLB,2016-2020,2011-2020,28.298
+Jack Mayfield,Active,Houston Astros,SS-2B,5-10,167,R,R,1990-09-30,"Del Rio,TX",2013- 0- 0-HOU,MLB,2019-2020,2010-2020,29.364
+Nomar Mazara,Active,Texas Rangers,RF-OF,6-4,195,L,L,1995-04-26,"Santo Domingo,DR",2011- 0- 0-TEX,MLB,2016-2020,2012-2020,25.156
+Patrick Mazeika,Active,New York Mets,C-1B,6-3,210,L,R,1993-10-14,"Springfield,MA",2015- 8- 239-NYN,AA,,2013-2019,26.350
+Chris Mazza,Active,Boston Red Sox,P,6-4,175,R,R,1989-10-17,"Clayton,CA",2011- 27- 838-MIN,MLB,2019-2020,2012-2020,30.347
+Ryan McBroom,Active,Kansas City Royals,1B-RF,6-3,220,R,L,1992-04-09,"Fredericksburg,VA",2014- 15- 444-TOR,MLB,2019-2020,2011-2020,28.173
+James McCann,Active,Chicago White Sox,C-DH,6-2,185,B,R,1990-06-13,"Santa Barbara,CA",2011- 2- 76-DET,MLB,2014-2020,2009-2020,30.108
+Kevin McCarthy,Active,Kansas City Royals,P,6-3,200,R,R,1992-02-22,"Malverne,NY",2013- 16- 474-KCA,MLB,2016-2020,2011-2020,28.219
+Lance McCullers,Active,Houston Astros,P,6-1,190,L,R,1993-10-02,"Tampa,FL",2012- 1- 41-HOU,MLB,2015-2020,2012-2020,26.362
+Andrew McCutchen,Active,Philadelphia Phillies,OF-RF,5-11,195,R,R,1986-10-10,"Fort Meade,FL",2005- 1- 11-PIT,MLB,2009-2020,2005-2020,33.354
+TJ McFarland,Active,Oakland Athletics,P,6-3,190,L,L,1989-06-08,"Palos Park,IL",2007- 4- 137-CLE,MLB,2013-2020,2008-2020,31.113
+Kyle Mcgowin,Active,Washington Nationals,P,6-3,180,R,R,1991-11-27,"Sag Harbor,NY",2013- 5- 157-ANA,MLB,2018-2020,2011-2020,28.307
+Ryan McKenna,Active,Baltimore Orioles,CF-LF,5-11,185,R,R,1997-02-14,"Dover,NH",2015- 4- 133-BAL,AA,,2015-2019,23.227
+Triston McKenzie,Active,Cleveland Indians,P,6-5,165,R,R,1997-08-02,"West Palm Beach,FL",2015- 1- 42-CLE,MLB,2020-2020,2015-2020,23.058
+Billy McKinney,Active,Milwaukee Brewers,RF-LF,6-1,195,L,L,1994-08-23,"Plano,TX",2013- 1- 24-OAK,MLB,2018-2020,2013-2020,26.037
+Ryan McMahon,Active,Colorado Rockies,2B-1B,6-2,185,L,R,1994-12-14,"Yorba Linda,CA",2013- 2- 42-COL,MLB,2017-2020,2013-2020,25.289
+Jeff McNeil,Active,New York Mets,2B-LF,6-1,150,L,R,1992-04-08,"Santa Barbara,CA",2013- 12- 356-NYN,MLB,2018-2020,2011-2020,28.173
+Sam McWilliams,Active,Kansas City Royals,P,6-7,190,R,R,1995-09-04,"Hendersonville,TN",2014- 8- 232-PHI,AAA,,2014-2019,25.025
+Austin Meadows,DL-10,Tampa Bay Rays,RF-LF,6-2,195,L,L,1995-05-03,"Atlanta,GA",2013- 1- 9-PIT,MLB,2018-2020,2013-2020,25.149
+John Means,Active,Baltimore Orioles,P,6-3,230,L,L,1993-04-24,"Olathe,KS",2014- 11- 331-BAL,MLB,2018-2020,2012-2020,27.158
+Erick Mejia,Active,Kansas City Royals,2B-SS,5-11,155,B,R,1994-11-09,"Villa Mella,DR",,MLB,2019-2020,2012-2020,25.324
+Humberto Mejia,Active,Arizona Diamondbacks,P,6-3,175,R,R,1997-03-03,"Panama City,PN",2013- 0- 0-MIA,MLB,2020-2020,2015-2020,23.210
+Mark Melancon,Active,Arizona Diamondbacks,P,6-1,175,R,R,1985-03-28,"Wheat Ridge,CO",2006- 9- 284-NYA,MLB,2009-2020,2004-2020,35.185
+Keury Mella,Active,Cincinnati Reds,P,6-2,200,R,R,1993-08-02,"Bonao,DR",2011- 0- 0-SFN,MLB,2017-2020,2012-2020,27.058
+Oscar Mercado,Active,Cleveland Indians,CF-LF,6-2,180,R,R,1994-12-16,"Tampa,FL",2013- 2- 57-SLN,MLB,2019-2020,2013-2020,25.287
+Whit Merrifield,Active,Kansas City Royals,2B-RF,6-0,165,R,R,1989-01-24,"Advance,NC",2010- 9- 269-KCA,MLB,2016-2020,2008-2020,31.248
+Julian Merryweather,DL-10,Toronto Blue Jays,P,6-4,200,R,R,1991-10-14,"Berkeley,CA",2014- 5- 158-CLE,MLB,2020-2020,2013-2020,28.351
+Miles Mikolas,DL-10,St. Louis Cardinals,P,6-5,220,R,R,1988-08-23,"Jupiter,FL",2009- 7- 204-SDN,MLB,2012-2019,2009-2019,32.036
+Wade Miley,Active,Cincinnati Reds,P,6-2,195,L,L,1986-11-13,"Hammond,LA",2008- 1- 43-ARI,MLB,2011-2020,2006-2020,33.320
+Andrew Miller,Active,St. Louis Cardinals,P,6-6,175,L,L,1985-05-21,"Gainesville,FL",2006- 1- 6-DET,MLB,2006-2020,2004-2020,35.131
+Brad Miller,Active,St. Louis Cardinals,2B-1B,6-1,185,L,R,1989-10-18,"Orlando,FL",2011- 2- 62-SEA,MLB,2013-2020,2008-2020,30.346
+Alec Mills,Active,Chicago Cubs,P,6-3,165,R,R,1991-11-30,"Clarksville,TN",2012- 22- 673-KCA,MLB,2016-2020,2010-2020,28.303
+Hoby Milner,Active,Los Angeles Angels,P,6-3,165,L,L,1991-01-13,"Dallas,TX",2012- 7- 248-PHI,MLB,2017-2020,2010-2020,29.259
+Tommy Milone,DL-10,Atlanta Braves,P,6-1,205,L,L,1987-02-16,"Saugus,CA",2008- 10- 301-WAS,MLB,2011-2020,2006-2020,33.225
+Mike Minor,Active,Oakland Athletics,P,6-4,210,R,L,1987-12-26,"Chapel Hill,TN",2009- 1- 7-ATL,MLB,2010-2020,2007-2020,32.277
+AJ Minter,Active,Atlanta Braves,P,5-11,205,L,L,1993-09-02,"Whitehouse,TX",2015- 2- 75-ATL,MLB,2017-2020,2013-2020,27.027
+Anthony Misiewicz,Active,Seattle Mariners,P,6-1,186,R,L,1994-11-01,"Chesterfield,MI",2015- 18- 545-SEA,MLB,2020-2020,2013-2020,25.332
+Casey Mize,Active,Detroit Tigers,P,6-3,220,R,R,1997-05-01,"Springville,AL",2018- 1- 1-DET,MLB,2020-2020,2016-2020,23.151
+Yadier Molina,Active,St. Louis Cardinals,C-1B-,5-11,187,R,R,1982-07-13,"Vega Alta,PR",2000- 4- 113-SLN,MLB,2004-2020,2001-2020,38.078
+Yoan Moncada,Active,Chicago White Sox,2B-3B,6-2,205,B,R,1995-05-27,"Abreus,CU",2015- 0- 0-BOS,MLB,2016-2020,2015-2020,25.125
+Adalberto Mondesi,Active,Kansas City Royals,SS-2B,5-10,180,R,R,1995-07-27,"San Antonio,TX",2011- 0- 0-KCA,MLB,2016-2020,2012-2020,25.064
+Frankie Montas,Active,Oakland Athletics,P,6-2,185,R,R,1993-03-21,"San Cristobal,DR",2009- 0- 0-BOS,MLB,2015-2020,2010-2020,27.192
+Rafael Montero,Active,Texas Rangers,P,6-0,170,R,R,1990-10-17,"Higuerito,DR",2011- 0- 0-NYN,MLB,2014-2020,2011-2020,29.347
+Jordan Montgomery,Active,New York Yankees,P,6-3,215,L,L,1992-12-27,"Sumter,SC",2014- 4- 122-NYA,MLB,2017-2020,2012-2020,27.276
+Mike Montgomery,Active,Kansas City Royals,P,6-5,180,L,L,1989-07-01,"Valencia,CA",2008- 1- 36-KCA,MLB,2015-2020,2008-2020,31.090
+Dylan Moore,Active,Seattle Mariners,3B-2B,6-0,187,R,R,1992-08-02,"Newport Beach,CA",2015- 7- 198-TEX,MLB,2019-2020,2012-2020,28.058
+Brian Moran,DL-60,Miami Marlins,P,6-3,188,L,L,1988-09-30,"Rye,NY",2009- 7- 203-SEA,MLB,2019-2020,2007-2020,31.364
+Colin Moran,Active,Pittsburgh Pirates,3B-2B,6-3,180,L,R,1992-10-01,"Port Chester,NY",2013- 1- 6-MIA,MLB,2016-2020,2011-2020,27.363
+Adrian Morejon,Active,San Diego Padres,P,6-0,175,L,L,1999-02-27,"Havana,CU",2016- 0- 0-SDN,MLB,2019-2020,2017-2020,21.214
+Mitch Moreland,Active,San Diego Padres,1B-DH,6-2,230,L,L,1985-09-06,"Amory,MS",2007- 17- 530-TEX,MLB,2010-2020,2005-2020,35.023
+Adam Morgan,Active,Philadelphia Phillies,P,6-1,180,L,L,1990-02-27,"Marietta,GA",2011- 3- 120-PHI,MLB,2015-2020,2009-2020,30.214
+Mike Morin,DL-10,Miami Marlins,P,6-4,220,R,R,1991-05-03,"Andover,MN",2012- 13- 417-ANA,MLB,2014-2020,2010-2020,29.149
+Reyes Moronta,DL-60,San Francisco Giants,P,6-0,175,R,R,1993-01-06,"Santiago,DR",2010- 0- 0-SFN,MLB,2017-2019,2011-2019,27.266
+Charlie Morton,Active,Tampa Bay Rays,P,6-4,190,R,R,1983-11-12,"Flemington,NJ",2002- 3- 95-ATL,MLB,2008-2020,2002-2020,36.322
+Ryan Mountcastle,Active,Baltimore Orioles,3B-1B,6-3,195,R,R,1997-02-18,"Winter Springs,FL",2015- 1- 36-BAL,MLB,2020-2020,2015-2020,23.223
+Mike Moustakas,Active,Cincinnati Reds,3B-2B,6-0,195,L,R,1988-09-11,"Los Angeles,CA",2007- 1- 2-KCA,MLB,2011-2020,2007-2020,32.017
+Jose Mujica,Active,Colorado Rockies,P,6-2,200,R,R,1996-06-29,"Valencia,VZ",2012- 0- 0-TBA,MLB,2020-2020,2013-2020,24.092
+Cedric Mullins,Active,Baltimore Orioles,CF-OF,5-8,175,B,L,1994-10-01,"Snellville,GA",2015- 13- 403-BAL,MLB,2018-2020,2013-2020,25.363
+Max Muncy,Active,Los Angeles Dodgers,1B-2B,6-0,190,L,R,1990-08-25,"Midland,TX",2012- 5- 169-OAK,MLB,2015-2020,2010-2020,30.035
+Andres Munoz,DL-60,Seattle Mariners,P,6-2,165,R,R,1999-01-16,"Las Matas de Farfan,DR",2015- 0- 0-SDN,MLB,2019-2019,2016-2019,21.256
+Yairo Munoz,Active,Boston Red Sox,SS-3B,6-1,165,R,R,1995-01-23,---,2012- 0- 0-OAK,MLB,2018-2020,2012-2020,25.249
+Daniel Murphy,Active,Colorado Rockies,1B-2B,6-1,215,L,R,1985-04-01,"Jacksonville,FL",2006- 13- 394-NYN,MLB,2008-2020,2004-2020,35.181
+John Ryan Murphy,Active,Pittsburgh Pirates,C-P-D,5-10,170,R,R,1991-05-13,"Bradenton,FL",2009- 2- 76-NYA,MLB,2013-2020,2009-2020,29.139
+Patrick Murphy,Active,Toronto Blue Jays,P,6-4,195,R,R,1995-06-10,"Chandler,AZ",2013- 3- 83-TOR,MLB,2020-2020,2014-2020,25.111
+Sean Murphy,Active,Oakland Athletics,C-DH,6-0,194,R,R,1994-10-04,"Dayton,OH",2016- 3- 83-OAK,MLB,2019-2020,2014-2020,25.360
+Tom Murphy,DL-60,Seattle Mariners,C-DH-,6-1,200,R,R,1991-04-03,"West Monroe,NY",2012- 3- 105-COL,MLB,2015-2019,2010-2019,29.179
+Joe Musgrove,Active,Pittsburgh Pirates,P,6-5,230,R,R,1992-12-04,"El Cajon,CA",2011- 1- 46-TOR,MLB,2016-2020,2011-2020,27.299
+Wil Myers,Active,San Diego Padres,LF-CF,6-3,190,R,R,1990-12-10,"Thomasville,NC",2009- 3- 91-KCA,MLB,2013-2020,2009-2020,29.293
+Tyler Naquin,Active,Cleveland Indians,RF-OF,6-0,165,L,R,1991-04-24,"Houston,TX",2012- 1- 15-CLE,MLB,2016-2020,2010-2020,29.158
+Omar Narvaez,Active,Milwaukee Brewers,C-DH-,5-10,172,B,R,1992-02-10,"Maracay,VZ",2008- 0- 0-TBA,MLB,2016-2020,2011-2020,28.231
+Josh Naylor,Active,Cleveland Indians,LF-RF,6-0,225,L,L,1997-06-22,"Mississauga,ON",2015- 1- 12-MIA,MLB,2019-2020,2015-2020,23.099
+Jimmy Nelson,DL-60,Los Angeles Dodgers,P,6-6,225,R,R,1989-06-05,"Klamath Falls,OR",2010- 2- 64-MIL,MLB,2013-2019,2008-2019,31.116
+Nick Nelson,Active,New York Yankees,P,6-1,195,R,R,1995-12-05,"Panama City,FL",2016- 4- 128-NYA,MLB,2020-2020,2015-2020,24.299
+Hector Neris,Active,Philadelphia Phillies,P,6-2,175,R,R,1989-06-14,"San Cristobal,DR",2010- 0- 0-PHI,MLB,2014-2020,2010-2020,31.107
+Dovydas Neverauskas,Active,Pittsburgh Pirates,P,6-3,175,R,R,1993-01-14,"Vilnius,LT",2009- 0- 0-PIT,MLB,2017-2020,2010-2020,27.258
+Tyler Nevin,Active,Baltimore Orioles,1B-3B,6-4,200,R,R,1997-05-29,"Van Nuys,CA",2015- 1- 38-COL,AA,,2015-2019,23.123
+Jake Newberry,Active,Kansas City Royals,P,6-2,195,R,R,1994-11-20,"San Diego,CA",2012- 37-1123-KCA,MLB,2018-2020,2012-2020,25.313
+Kevin Newman,Active,Pittsburgh Pirates,SS-2B,6-1,180,R,R,1993-08-04,"Poway,CA",2015- 1- 19-PIT,MLB,2018-2020,2013-2020,27.056
+Ljay Newsome,Active,Seattle Mariners,P,5-11,210,R,R,1996-11-08,"La Plata,MD",2015- 26- 785-SEA,MLB,2020-2020,2015-2020,23.325
+Juan Nicasio,Active,Texas Rangers,P,6-3,190,R,R,1986-08-31,"San Francisco de Macoris,DR",2006- 0- 0-COL,MLB,2011-2020,2007-2020,34.029
+Tomas Nido,DL-10,New York Mets,C,6-0,200,R,R,1994-04-12,"Oviedo,FL",2012- 8- 260-NYN,MLB,2017-2020,2012-2020,26.170
+Brandon Nimmo,Active,New York Mets,OF-CF,6-3,185,L,R,1993-03-27,"Cheyenne,WY",2011- 1- 13-NYN,MLB,2016-2020,2011-2020,27.186
+Aaron Nola,Active,Philadelphia Phillies,P,6-2,170,R,R,1993-06-04,"Baton Rouge,LA",2014- 1- 7-PHI,MLB,2015-2020,2012-2020,27.117
+Austin Nola,Active,San Diego Padres,C-1B-,6-2,200,R,R,1989-12-28,"Baton Rouge,LA",2012- 5- 167-MIA,MLB,2019-2020,2009-2020,30.275
+Jake Noll,Active,Washington Nationals,3B-1B,6-1,187,R,R,1994-03-08,"Punta Gorda,FL",2016- 7- 214-WAS,MLB,2019-2020,2014-2020,26.205
+Daniel Norris,Active,Detroit Tigers,P,6-2,180,L,L,1993-04-25,"Johnson City,TN",2011- 2- 74-TOR,MLB,2014-2020,2012-2020,27.157
+James Norwood,DL-60,Chicago Cubs,P,6-2,200,R,R,1993-12-24,"Manhattan,NY",2014- 7- 199-CHN,MLB,2018-2020,2012-2020,26.279
+Jacob Nottingham,Active,Milwaukee Brewers,C-1B,6-3,200,R,R,1995-04-03,"Redlands,CA",2013- 6- 167-HOU,MLB,2018-2020,2013-2020,25.179
+Ivan Nova,DL-60,Detroit Tigers,P,6-4,210,R,R,1987-01-12,"San Cristobal,DR",2004- 0- 0-NYA,MLB,2010-2020,2006-2020,33.260
+Dom Nunez,Active,Colorado Rockies,C,6-0,170,L,R,1995-01-17,"Elk Grove,CA",2013- 6- 169-COL,MLB,2019-2019,2013-2019,25.255
+Eduardo Nunez,DL-60,New York Mets,2B-3B,6-0,155,B,R,1987-06-15,"Moca,DR",2004- 0- 0-NYA,MLB,2010-2020,2005-2020,33.106
+Renato Nunez,Active,Baltimore Orioles,3B-DH,6-1,185,R,R,1994-04-04,"Valencia,VZ",2010- 0- 0-OAK,MLB,2016-2020,2011-2020,26.178
+Darren O'Day,Active,Atlanta Braves,P,6-4,222,R,R,1982-10-22,"Jacksonville,FL",2006- 0- 0-ANA,MLB,2008-2020,2003-2020,37.342
+Ryan O'Hearn,Active,Kansas City Royals,1B-LF,6-2,215,L,L,1993-07-26,"Frisco,TX",2014- 8- 243-KCA,MLB,2018-2020,2012-2020,27.065
+Tyler O'Neill,Active,St. Louis Cardinals,LF-RF,5-11,205,R,R,1995-06-22,"Maple Ridge,BC",2013- 3- 85-SEA,MLB,2018-2020,2013-2020,25.099
+Scott Oberg,DL-60,Colorado Rockies,P,6-1,180,R,R,1990-03-13,"Tewksbury,MA",2012- 15- 468-COL,MLB,2015-2019,2009-2019,30.200
+Joseph Odom,Active,Seattle Mariners,C-1B,6-2,205,R,R,1992-01-09,"Birmingham,AL",2013- 13- 403-ATL,MLB,2020-2020,2013-2020,28.264
+Rougned Odor,Active,Texas Rangers,2B-DH,5-11,170,L,R,1994-02-03,"Maracaibo,VZ",2011- 0- 0-TEX,MLB,2014-2020,2011-2020,26.238
+Jake Odorizzi,DL-10,Minnesota Twins,P,6-2,175,R,R,1990-03-27,"Highland,IL",2008- 1- 32-MIL,MLB,2012-2020,2008-2020,30.186
+Shohei Ohtani,Active,Los Angeles Angels,DH-P,6-3,198,L,R,1994-07-05,"Iwate,JP",2017- 0- 0-ANA,MLB,2018-2020,2013-2020,26.086
+Jared Oliva,Active,Pittsburgh Pirates,CF-LF,6-2,181,R,R,1995-11-27,"Saugus,CA",2017- 7- 208-PIT,MLB,2020-2020,2015-2020,24.307
+Edward Olivares,Active,Kansas City Royals,CF-RF,6-2,186,R,R,1996-03-06,"Caracas,VZ",2014- 0- 0-TOR,MLB,2020-2020,2014-2020,24.207
+Matt Olson,Active,Oakland Athletics,1B,6-4,236,L,R,1994-03-29,"Lilburn,GA",2012- 1- 47-OAK,MLB,2016-2020,2012-2020,26.184
+Nate Orf,Active,Oakland Athletics,RF-2B,5-8,165,R,R,1990-02-01,"Wentzville,MO",2013- 0- 0-MIL,MLB,2018-2020,2009-2020,30.240
+Jose Osuna,Active,Pittsburgh Pirates,3B-1B,6-2,213,R,R,1992-12-12,"Trujillo,VZ",2010- 0- 0-PIT,MLB,2017-2020,2011-2020,27.291
+Roberto Osuna,DL-60,Houston Astros,P,6-2,230,R,R,1995-02-07,"Juan Jose Rios,MX",2011- 0- 0-TOR,MLB,2015-2020,2012-2020,25.234
+Corey Oswalt,Active,New York Mets,P,6-4,200,R,R,1993-09-03,"San Diego,CA",2012- 7- 230-NYN,MLB,2018-2020,2012-2020,27.026
+Adam Ottavino,Active,New York Yankees,P,6-5,230,L,R,1985-11-22,"New York,NY",2006- 1- 30-SLN,MLB,2010-2020,2004-2020,34.311
+Johan Oviedo,Active,St. Louis Cardinals,P,6-6,210,R,R,1998-03-02,"Havana,CU",2016- 0- 0-SLN,MLB,2020-2020,2016-2020,22.211
+Chris Owings,Active,Colorado Rockies,OF-2B,5-11,170,R,R,1991-08-12,"Leesville,SC",2009- 1- 41-ARI,MLB,2013-2020,2009-2020,29.048
+Marcell Ozuna,Active,Atlanta Braves,LF-OF,6-2,190,R,R,1990-11-12,"Santo Domingo,DR",2008- 0- 0-MIA,MLB,2013-2020,2009-2020,29.321
+Chris Paddack,Active,San Diego Padres,P,6-4,195,R,R,1996-01-08,"Cedar Park,TX",2015- 8- 236-MIA,MLB,2019-2020,2015-2020,24.265
+Emilio Pagan,Active,San Diego Padres,P,6-2,180,L,R,1991-05-07,"Simpsonville,SC",2013- 10- 297-SEA,MLB,2017-2020,2010-2020,29.145
+Joe Palumbo,DL-60,Texas Rangers,P,6-1,150,L,L,1994-10-26,"Holbrook,NY",2013- 30- 910-TEX,MLB,2019-2020,2013-2020,25.338
+Joe Panik,Active,Toronto Blue Jays,2B-1B,6-1,193,L,R,1990-10-30,"Yonkers,NY",2011- 1- 29-SFN,MLB,2014-2020,2009-2020,29.334
+Enoli Paredes,Active,Houston Astros,P,5-11,165,R,R,1995-09-28,"El Limon,DR",2015- 0- 0-HOU,MLB,2020-2020,2016-2020,25.001
+Isaac Paredes,Active,Detroit Tigers,SS-3B,5-11,175,R,R,1999-02-18,"Hermosillo,MX",2015- 0- 0-CHN,MLB,2020-2020,2016-2020,21.223
+Blake Parker,Active,Philadelphia Phillies,P,6-3,200,R,R,1985-06-19,"Fayetteville,AR",2006- 16- 479-CHN,MLB,2012-2020,2004-2020,35.102
+James Paxton,DL-60,New York Yankees,P,6-3,200,L,L,1988-11-06,"Richmond,BC",2010- 4- 132-SEA,MLB,2013-2020,2007-2020,31.327
+Joel Payamps,Active,Arizona Diamondbacks,P,6-2,170,R,R,1994-04-07,"Santo Domingo,DR",,MLB,2019-2020,2011-2020,26.175
+Brad Peacock,DL-10,Houston Astros,P,6-1,175,R,R,1988-02-02,"Miami,FL",2006- 41-1231-WAS,MLB,2011-2020,2007-2020,32.239
+Nate Pearson,Active,Toronto Blue Jays,P,6-6,245,R,R,1996-08-20,"Oldsmar,FL",2017- 1- 28-TOR,MLB,2020-2020,2016-2020,24.040
+Joc Pederson,Active,Los Angeles Dodgers,LF-OF,6-1,185,L,L,1992-04-21,"Palo Alto,CA",2010- 11- 352-LAN,MLB,2014-2020,2010-2020,28.161
+Dustin Pedroia,DL-60,Boston Red Sox,2B-DH,5-9,180,R,R,1983-08-17,"Woodland,CA",2004- 2- 65-BOS,MLB,2006-2019,2002-2019,37.043
+Felix Pena,Active,Los Angeles Angels,P,6-2,186,R,R,1990-02-25,"San Pedro de Macoris,DR",2009- 0- 0-CHN,MLB,2016-2020,2010-2020,30.216
+David Peralta,Active,Arizona Diamondbacks,LF-OF,6-2,225,L,L,1987-08-14,"Carabobo,VZ",2004- 0- 0-SLN,MLB,2014-2020,2006-2020,33.046
+Freddy Peralta,Active,Milwaukee Brewers,P,5-11,175,R,R,1996-06-04,"Moca,DR",2013- 0- 0-SEA,MLB,2018-2020,2013-2020,24.116
+Wandy Peralta,Active,San Francisco Giants,P,6-1,205,L,L,1991-07-27,"San Francisco de Macoris,DR",2009- 0- 0-CIN,MLB,2016-2020,2010-2020,29.064
+Jose Peraza,Active,Boston Red Sox,SS-2B,5-11,167,R,R,1994-04-30,"Barinas,VZ",2010- 0- 0-LAN,MLB,2015-2020,2011-2020,26.152
+Franklin Perez,Active,Detroit Tigers,P,6-3,197,R,R,1997-12-06,"Valencia,VZ",2014- 0- 0-HOU,AA,,2015-2019,22.297
+Martin Perez,Active,Boston Red Sox,P,6-0,165,L,L,1991-04-04,"Guanare estado Portuguesa,VZ",2007- 0- 0-TEX,MLB,2012-2020,2008-2020,29.178
+Michael Perez,Active,Tampa Bay Rays,C-1B,5-11,180,L,R,1992-08-07,"Catano,PR",2011- 5- 154-ARI,MLB,2018-2020,2011-2020,28.052
+Oliver Perez,Active,Cleveland Indians,P,6-3,160,L,L,1981-08-15,"Culiacan,MX",1999- 0- 0-SDN,MLB,2002-2020,1999-2020,39.045
+Roberto Perez,DL-10,Cleveland Indians,C-DH,6-0,205,R,R,1988-12-23,"Mayaguez,PR",2008- 33-1011-CLE,MLB,2014-2020,2009-2020,31.280
+Salvador Perez,Active,Kansas City Royals,C-DH-,6-3,175,R,R,1990-05-10,"Valencia,VZ",2006- 0- 0-KCA,MLB,2011-2020,2007-2020,30.142
+David Peterson,Active,New York Mets,P,6-6,215,L,L,1995-09-03,"Denver,CO",2017- 1- 20-NYN,MLB,2020-2020,2015-2020,25.026
+Jace Peterson,Active,Milwaukee Brewers,3B-LF,6-0,205,L,R,1990-05-09,"Lake Charles,LA",2011- 1- 58-SDN,MLB,2014-2020,2009-2020,30.143
+Yusmeiro Petit,Active,Oakland Athletics,P,6-0,180,R,R,1984-11-22,"Maracaibo,VZ",2001- 0- 0-NYN,MLB,2006-2020,2003-2020,35.311
+Philip Pfeifer,Active,Atlanta Braves,P,6-0,190,L,L,1992-07-15,"Knoxville,TN",2015- 3- 101-LAN,AAA,,2012-2019,28.075
+Tommy Pham,Active,San Diego Padres,LF-OF,6-1,175,R,R,1988-03-08,"Las Vegas,NV",2006- 16- 496-SLN,MLB,2014-2020,2006-2020,32.204
+David Phelps,Active,Philadelphia Phillies,P,6-3,180,R,R,1986-10-09,"St. Louis,MO",2008- 14- 440-NYA,MLB,2012-2020,2006-2020,33.355
+Brett Phillips,Active,Tampa Bay Rays,RF-CF,6-0,175,L,R,1994-05-30,"Seminole,FL",2012- 6- 189-HOU,MLB,2017-2020,2012-2020,26.122
+Evan Phillips,Active,Baltimore Orioles,P,6-2,215,R,R,1994-09-11,"Salisbury,MD",2015- 17- 510-ATL,MLB,2018-2020,2013-2020,26.018
+Kevin Pillar,Active,Colorado Rockies,CF-OF,6-0,200,R,R,1989-01-04,"Tarzana,CA",2011- 32- 979-TOR,MLB,2013-2020,2011-2020,31.268
+Manny Pina,DL-10,Milwaukee Brewers,C-1B-,5-11,165,R,R,1987-06-05,"Barquisimeto,VZ",2004- 0- 0-TEX,MLB,2011-2020,2005-2020,33.116
+Chad Pinder,Active,Oakland Athletics,LF-OF,6-2,192,R,R,1992-03-29,"Richmond,VA",2013- 2- 71-OAK,MLB,2016-2020,2011-2020,28.184
+Michael Pineda,Active,Minnesota Twins,P,6-5,180,R,R,1989-01-18,"San Cristobal,DR",2005- 0- 0-SEA,MLB,2011-2020,2008-2020,31.254
+Stephen Piscotty,Active,Oakland Athletics,RF-OF,6-3,185,R,R,1991-01-14,"Pleasanton,CA",2012- 1- 36-SLN,MLB,2015-2020,2010-2020,29.258
+Nick Pivetta,Active,Boston Red Sox,P,6-5,210,R,R,1993-02-14,"Victoria,BC",2013- 4- 136-WAS,MLB,2017-2020,2013-2020,27.227
+Kevin Plawecki,Active,Boston Red Sox,C-1B-,6-1,200,R,R,1991-02-26,"Hinsdale,IL",2012- 1- 35-NYN,MLB,2015-2020,2010-2020,29.215
+Zach Plesac,Active,Cleveland Indians,P,6-3,200,R,R,1995-01-21,"Crown Point,IN",2016- 12- 362-CLE,MLB,2019-2020,2014-2020,25.251
+Adam Plutko,Active,Cleveland Indians,P,6-3,180,R,R,1991-10-03,"Glendora,CA",2013- 11- 321-CLE,MLB,2016-2020,2011-2020,28.361
+Colin Poche,DL-60,Tampa Bay Rays,P,6-3,185,L,L,1994-01-17,"Flower Mound,TX",2016- 14- 419-ARI,MLB,2019-2019,2013-2019,26.255
+Gregory Polanco,Active,Pittsburgh Pirates,RF-OF,6-4,220,L,L,1991-09-14,"Santo Domingo,DR",2009- 0- 0-PIT,MLB,2014-2020,2010-2020,29.015
+Jorge Polanco,Active,Minnesota Twins,SS-DH,5-11,165,B,R,1993-07-05,"San Pedro de Macoris,DR",2009- 0- 0-MIN,MLB,2014-2020,2010-2020,27.086
+AJ Pollock,Active,Los Angeles Dodgers,CF-OF,6-1,200,R,R,1987-12-05,"Hebron,CT",2009- 1- 17-ARI,MLB,2012-2020,2007-2020,32.299
+Drew Pomeranz,Active,San Diego Padres,P,6-5,190,R,L,1988-11-22,"Collierville,TN",2010- 1- 5-CLE,MLB,2011-2020,2008-2020,31.311
+Cody Ponce,Active,Pittsburgh Pirates,P,6-6,240,R,R,1994-04-25,"Upland,CA",2015- 2- 55-MIL,MLB,2020-2020,2013-2020,26.157
+Rick Porcello,Active,New York Mets,P,6-5,195,R,R,1988-12-27,"Morristown,NJ",2007- 1- 27-DET,MLB,2009-2020,2008-2020,31.276
+Ryan Pressly,Active,Houston Astros,P,6-3,175,R,R,1988-12-15,"Dallas,TX",2007- 11- 354-BOS,MLB,2013-2020,2008-2020,31.288
+Jurickson Profar,Active,San Diego Padres,2B-SS,5-11,165,B,R,1993-02-20,"Willemstad,CC",2009- 0- 0-TEX,MLB,2012-2020,2010-2020,27.221
+Austin Pruitt,DL-60,Houston Astros,P,5-11,165,R,R,1989-08-31,"Plano,TX",2013- 9- 278-TBA,MLB,2017-2019,2012-2019,31.029
+Cesar Puello,Active,Boston Red Sox,LF-RF,6-2,195,R,R,1991-04-01,"La Romana,DR",2007- 0- 0-NYN,MLB,2017-2020,2008-2020,29.181
+Albert Pujols,Active,Los Angeles Angels,1B-DH,6-3,230,R,R,1980-01-16,"Santo Domingo,DR",1999- 13- 402-SLN,MLB,2001-2020,2000-2020,40.257
+AJ Puk,DL-60,Oakland Athletics,P,6-6,205,L,L,1995-04-25,"Cedar Rapids,IA",2016- 1- 6-OAK,MLB,2019-2019,2014-2019,25.157
+Cal Quantrill,Active,Cleveland Indians,P,6-3,195,L,R,1995-02-10,"Port Hope,ON",2016- 1- 8-SDN,MLB,2019-2020,2014-2020,25.231
+Roman Quinn,Active,Philadelphia Phillies,CF-OF,5-10,170,R,R,1993-05-14,"Port St. Joe,FL",2011- 2- 66-PHI,MLB,2016-2020,2012-2020,27.138
+Jose Quintana,Active,Chicago Cubs,P,6-0,170,L,L,1989-01-24,"Arjona,CB",2006- 0- 0-NYN,MLB,2012-2020,2010-2020,31.248
+Tanner Rainey,Active,Washington Nationals,P,6-2,210,R,R,1992-12-25,"Folsom,LA",2015- 2- 71-CIN,MLB,2018-2020,2012-2020,27.278
+Brooks Raley,Active,Houston Astros,P,6-0,170,L,L,1988-06-29,"San Antonio,TX",2009- 6- 200-CHN,MLB,2012-2020,2008-2020,32.092
+Erasmo Ramirez,Active,New York Mets,P,5-11,180,R,R,1990-05-02,"Rivas,NI",2007- 0- 0-SEA,MLB,2012-2020,2010-2020,30.150
+Harold Ramirez,DL-60,Miami Marlins,RF-LF,5-11,170,R,R,1994-09-06,"Cartagena,CB",2011- 0- 0-PIT,MLB,2019-2020,2012-2020,26.023
+Jose Ramirez,Active,Cleveland Indians,3B-2B,5-9,165,B,R,1992-09-17,"Bani,DR",2009- 0- 0-CLE,MLB,2013-2020,2011-2020,28.012
+Nick Ramirez,Active,Detroit Tigers,P-1B,6-3,225,L,L,1989-08-01,"Anaheim,CA",2011- 4- 131-MIL,MLB,2019-2020,2009-2020,31.059
+Noe Ramirez,Active,Los Angeles Angels,P,6-3,180,R,R,1989-12-22,"Los Angeles,CA",2011- 4- 142-BOS,MLB,2015-2020,2009-2020,30.281
+Yohan Ramirez,Active,Seattle Mariners,P,6-4,190,R,R,1995-05-06,"Villa Mella,DR",2016- 0- 0-HOU,MLB,2020-2020,2016-2020,25.146
+AJ Ramos,Active,Colorado Rockies,P,5-10,200,R,R,1986-09-20,"Lubbock,TX",2009- 21- 638-MIA,MLB,2012-2020,2006-2020,34.009
+Wilson Ramos,Active,New York Mets,C-DH,6-0,178,R,R,1987-08-10,"Valencia,VZ",2004- 0- 0-MIN,MLB,2010-2020,2006-2020,33.050
+Drew Rasmussen,Active,Milwaukee Brewers,P,6-1,225,R,R,1995-07-27,"Colbert,WA",2018- 6- 185-MIL,MLB,2020-2020,2015-2020,25.064
+Rangel Ravelo,Active,St. Louis Cardinals,1B-LF,6-2,207,R,R,1992-04-24,"Hialeah,FL",2010- 6- 188-CHA,MLB,2019-2020,2010-2020,28.158
+Robbie Ray,Active,Toronto Blue Jays,P,6-2,169,L,L,1991-10-01,"Brentwood,TN",2010- 12- 356-WAS,MLB,2014-2020,2011-2020,28.364
+J.T. Realmuto,Active,Philadelphia Phillies,C-1B-,6-1,190,R,R,1991-03-18,"Midwest City,OK",2010- 3- 104-MIA,MLB,2014-2020,2010-2020,29.195
+Josh Reddick,Active,Houston Astros,RF-OF,6-2,180,L,R,1987-02-19,"Guyton,GA",2006- 17- 523-BOS,MLB,2009-2020,2007-2020,33.222
+Cody Reed,DL-60,Tampa Bay Rays,P,6-5,220,L,L,1993-04-15,"Horn Lake,MS",2013- 2- 46-KCA,MLB,2016-2020,2012-2020,27.167
+Zach Reks,DL-10,Los Angeles Dodgers,LF-1B,6-2,195,L,R,1993-11-12,"Orland Park,IL",2017- 10- 310-LAN,AAA,,2013-2019,26.321
+Anthony Rendon,Active,Los Angeles Angels,3B-2B,5-11,170,R,R,1990-06-06,"Houston,TX",2011- 1- 6-WAS,MLB,2013-2020,2009-2020,30.115
+Hunter Renfroe,Active,Tampa Bay Rays,RF-LF,6-2,211,R,R,1992-01-28,"Jackson,MS",2013- 1- 13-SDN,MLB,2016-2020,2011-2020,28.245
+Luis Rengifo,Active,Los Angeles Angels,2B-SS,5-10,165,B,R,1997-02-26,"Naguanagua,VZ",2013- 0- 0-SEA,MLB,2019-2020,2015-2020,23.215
+Alex Reyes,Active,St. Louis Cardinals,P,6-3,185,R,R,1994-08-29,"Elizabeth,NJ",2012- 0- 0-SLN,MLB,2016-2020,2013-2020,26.031
+Franmil Reyes,Active,Cleveland Indians,RF-OF,6-4,200,R,R,1995-07-05,"San Cristobal,DR",,MLB,2018-2020,2012-2020,25.086
+Victor Reyes,Active,Detroit Tigers,CF-OF,6-3,170,L,R,1994-10-05,"Barcelona,VZ",2011- 0- 0-ATL,MLB,2018-2020,2012-2020,25.359
+Bryan Reynolds,Active,Pittsburgh Pirates,LF-CF,6-2,195,B,R,1995-01-27,"Baltimore,MD",2016- 2- 59-SFN,MLB,2019-2020,2014-2020,25.245
+Garrett Richards,Active,San Diego Padres,P,6-3,200,R,R,1988-05-27,"Riverside,CA",2009- 1- 42-ANA,MLB,2011-2020,2007-2020,32.124
+Joey Rickard,DL-60,San Francisco Giants,LF-OF,6-1,171,R,L,1991-05-21,"Redding,CA",2012- 9- 302-TBA,MLB,2016-2020,2010-2020,29.131
+J.T. Riddle,Active,Pittsburgh Pirates,SS-CF,6-3,175,L,R,1991-10-12,"Frankfort,KY",2013- 13- 382-MIA,MLB,2017-2020,2011-2020,28.352
+Austin Riley,Active,Atlanta Braves,3B-LF,6-2,230,R,R,1997-04-02,"Southaven,MS",2015- 1- 41-ATL,MLB,2019-2020,2015-2020,23.180
+Edwin Rios,Active,Los Angeles Dodgers,3B-1B,6-3,170,L,R,1994-04-21,"Kissimmee,FL",2015- 6- 192-LAN,MLB,2019-2020,2013-2020,26.161
+Yacksel Rios,DL-60,Pittsburgh Pirates,P,6-3,185,R,R,1993-06-27,"Caguas,PR",2011- 12- 391-PHI,MLB,2017-2020,2011-2020,27.094
+Rene Rivera,DL-60,New York Mets,C-1B-,5-10,190,R,R,1983-07-31,"Bayamon,PR",2001- 2- 49-SEA,MLB,2004-2020,2001-2020,37.060
+Yadiel Rivera,Active,Texas Rangers,SS-3B,6-2,175,R,R,1992-05-02,"Caguas,PR",2010- 9- 279-MIL,MLB,2015-2020,2010-2020,28.150
+Anthony Rizzo,Active,Chicago Cubs,1B-2B,6-3,220,L,L,1989-08-08,"Fort Lauderdale,FL",2007- 6- 204-BOS,MLB,2011-2020,2007-2020,31.052
+Tanner Roark,Active,Toronto Blue Jays,P,6-2,200,R,R,1986-10-05,"Wilmington,IL",2008- 25- 753-TEX,MLB,2013-2020,2006-2020,33.359
+Luis Robert,Active,Chicago White Sox,CF-RF,6-3,185,R,R,1997-08-03,"La Habana,CU",2017- 0- 0-CHA,MLB,2020-2020,2017-2020,23.057
+Daniel Robertson,Active,San Francisco Giants,2B-SS,6-0,190,R,R,1994-03-22,"Upland,CA",2012- 1- 34-OAK,MLB,2017-2020,2012-2020,26.191
+David Robertson,DL-60,Philadelphia Phillies,P,5-11,180,R,R,1985-04-09,"Birmingham,AL",2006- 17- 524-NYA,MLB,2008-2019,2005-2019,35.173
+Hansel Robles,Active,Los Angeles Angels,P,5-11,185,R,R,1990-08-13,"Bonao,DR",2008- 0- 0-NYN,MLB,2015-2020,2010-2020,30.047
+Victor Robles,Active,Washington Nationals,CF-OF,6-0,185,R,R,1997-05-19,"Santo Domingo,DR",2013- 0- 0-WAS,MLB,2017-2020,2014-2020,23.133
+Brendan Rodgers,Active,Colorado Rockies,SS-2B,6-0,180,R,R,1996-08-09,"Lake Mary,FL",2015- 1- 3-COL,MLB,2019-2020,2015-2020,24.051
+Carlos Rodon,Active,Chicago White Sox,P,6-2,234,L,L,1992-12-10,"Miami,FL",2014- 1- 3-CHA,MLB,2015-2020,2012-2020,27.293
+Dereck Rodriguez,Active,Detroit Tigers,P,6-1,160,R,R,1992-06-05,"Plantation,FL",2011- 6- 208-MIN,MLB,2018-2020,2011-2020,28.116
+Eduardo Rodriguez,DL-10,Boston Red Sox,P,6-2,175,L,L,1993-04-07,"Valencia,VZ",2010- 0- 0-BAL,MLB,2015-2019,2010-2019,27.175
+Jefry Rodriguez,DL-60,Cleveland Indians,P,6-5,185,R,R,1993-07-26,"Haina,DR",,MLB,2018-2019,2012-2019,27.065
+Joely Rodriguez,Active,Texas Rangers,P,6-1,175,L,L,1991-11-14,"Santo Domingo,DR",2009- 0- 0-PIT,MLB,2016-2020,2010-2020,28.319
+Manuel Rodriguez,DL-60,Chicago Cubs,P,6-0,174,R,R,1996-08-06,"Uman,MX",2016- 0- 0-CHN,AAA,,2014-2019,24.054
+Nivaldo Rodriguez,Active,Houston Astros,P,6-1,170,R,R,1997-04-16,"Naguanagua,VZ",2016- 0- 0-HOU,MLB,2020-2020,2016-2020,23.166
+Richard Rodriguez,Active,Pittsburgh Pirates,P,6-4,185,R,R,1990-03-04,"Santiago,DR",2010- 0- 0-HOU,MLB,2017-2020,2010-2020,30.209
+Chaz Roe,DL-10,Tampa Bay Rays,P,6-5,180,R,R,1986-10-09,"Lexington,KY",2005- 1- 32-COL,MLB,2013-2020,2005-2020,33.355
+Jake Rogers,Active,Detroit Tigers,C-1B-,6-2,185,R,R,1995-04-18,"Canyon,TX",2016- 3- 97-HOU,MLB,2019-2019,2014-2019,25.164
+Taylor Rogers,Active,Minnesota Twins,P,6-3,175,L,L,1990-12-17,"Denver,CO",2012- 11- 340-MIN,MLB,2016-2020,2010-2020,29.286
+Trevor Rogers,Active,Miami Marlins,P,6-6,185,L,L,1997-11-13,"Carlsbad,NM",2017- 1- 13-MIA,MLB,2020-2020,2018-2020,22.320
+Tyler Rogers,Active,San Francisco Giants,P,6-4,190,R,R,1990-12-17,"Littleton,CO",2013- 10- 312-SFN,MLB,2019-2020,2012-2020,29.286
+Josh Rojas,Active,Arizona Diamondbacks,LF-2B,6-1,185,L,R,1994-06-30,"Glendale,AZ",2017- 26- 781-HOU,MLB,2019-2020,2015-2020,26.091
+Miguel Rojas,Active,Miami Marlins,SS-1B,6-0,150,R,R,1989-02-24,"Los Teques,VZ",2005- 0- 0-CIN,MLB,2014-2020,2008-2020,31.217
+Jordan Romano,DL-10,Toronto Blue Jays,P,6-6,200,R,R,1993-04-21,"Markham,ON",2014- 10- 294-TOR,MLB,2019-2020,2013-2020,27.161
+Sal Romano,Active,Cincinnati Reds,P,6-5,225,L,R,1993-10-12,"Southington,CT",2011- 23- 715-CIN,MLB,2017-2020,2012-2020,26.352
+Seth Romero,DL-60,Washington Nationals,P,6-1,242,L,L,1996-04-19,"West Columbia,TX",2017- 1- 25-WAS,MLB,2020-2020,2015-2020,24.162
+Andrew Romine,Active,Texas Rangers,SS-1B,6-1,180,B,R,1985-12-24,"Winter Haven,FL",2007- 5- 178-ANA,MLB,2010-2020,2005-2020,34.279
+Austin Romine,Active,Detroit Tigers,C-P,6-1,195,R,R,1988-11-22,"Lake Forest,CA",2007- 2- 94-NYA,MLB,2011-2020,2007-2020,31.311
+Sergio Romo,Active,Minnesota Twins,P-3B,6-0,185,R,R,1983-03-04,"Brawley,CA",2005- 28- 852-SFN,MLB,2008-2020,2005-2020,37.209
+Hector Rondon,Active,Arizona Diamondbacks,P,6-3,165,R,R,1988-02-26,"Guatire,VZ",2004- 0- 0-CLE,MLB,2013-2020,2006-2020,32.215
+Brent Rooker,DL-10,Minnesota Twins,LF-1B,6-3,210,R,R,1994-11-01,"Germantown,TN",2017- 1- 35-MIN,MLB,2020-2020,2015-2020,25.332
+Amed Rosario,Active,New York Mets,SS-DH,6-2,170,R,R,1995-11-20,"Santo Domingo,DR",2012- 0- 0-NYN,MLB,2017-2020,2013-2020,24.314
+Eddie Rosario,Active,Minnesota Twins,LF-OF,6-0,170,L,R,1991-09-28,"Guayama,PR",2010- 4- 135-MIN,MLB,2015-2020,2010-2020,29.001
+Trevor Rosenthal,Active,San Diego Padres,P,6-2,190,R,R,1990-05-29,"Lee's Summit,MO",2009- 21- 639-SLN,MLB,2012-2020,2009-2020,30.123
+Darin Ruf,Active,San Francisco Giants,1B-LF,6-3,220,R,R,1986-07-28,"Omaha,NE",2009- 20- 617-PHI,MLB,2012-2020,2006-2020,34.063
+Rio Ruiz,Active,Baltimore Orioles,3B-1B,6-1,180,L,R,1994-05-22,"Covina,CA",2012- 4- 129-HOU,MLB,2016-2020,2012-2020,26.130
+Kyle Ryan,Active,Chicago Cubs,P,6-5,215,L,L,1991-09-25,"Auburndale,FL",2010- 12- 373-DET,MLB,2014-2020,2010-2020,29.004
+Hyun-Jin Ryu,Active,Toronto Blue Jays,P,6-2,215,L,L,1987-03-25,"Inchoen,KR",2012- 0- 0-LAN,MLB,2013-2020,2013-2020,33.188
+Casey Sadler,Active,Seattle Mariners,P,6-4,200,R,R,1990-07-13,"Ripley,OK",2010- 25- 747-PIT,MLB,2014-2020,2010-2020,30.078
+Chris Sale,DL-60,Boston Red Sox,P,6-6,172,L,L,1989-03-30,"Lakeland,FL",2010- 1- 13-CHA,MLB,2010-2019,2008-2019,31.183
+Adrian Sanchez,DL-60,Washington Nationals,2B-3B,6-0,160,B,R,1990-08-16,"Maracaibo,VZ",2007- 0- 0-WAS,MLB,2017-2019,2009-2019,30.044
+Anibal Sanchez,Active,Washington Nationals,P,6-0,180,R,R,1984-02-27,"Maracay,VZ",2001- 0- 0-BOS,MLB,2006-2020,2004-2020,36.215
+Gary Sanchez,Active,New York Yankees,C-DH,6-2,195,R,R,1992-12-02,"Santo Domingo,DR",2009- 0- 0-NYA,MLB,2015-2020,2010-2020,27.301
+Ricardo Sanchez,DL-60,St. Louis Cardinals,P,5-11,170,L,L,1997-04-11,"Puerto Cabello,VZ",2013- 0- 0-LAN,MLB,2020-2020,2014-2020,23.171
+Sixto Sanchez,Active,Miami Marlins,P,5-10,160,R,R,1998-07-29,"San Cristobal,DR",2015- 0- 0-PHI,MLB,2020-2020,2015-2020,22.062
+Yolmer Sanchez,Active,Chicago White Sox,2B-3B,5-11,175,B,R,1992-06-29,"Maracay,VZ",2009- 0- 0-CHA,MLB,2014-2020,2010-2020,28.092
+Pablo Sandoval,Active,Atlanta Braves,3B-1B,5-11,180,B,R,1986-08-11,"Carabobo,VZ",2002- 0- 0-SFN,MLB,2008-2020,2004-2020,34.049
+Patrick Sandoval,Active,Los Angeles Angels,P,6-3,190,L,L,1996-10-18,"Mission Viejo,CA",2015- 11- 319-HOU,MLB,2019-2020,2015-2020,23.346
+Miguel Sano,Active,Minnesota Twins,3B-1B,6-3,195,R,R,1993-05-11,"San Pedro de Macoris,DR",2009- 0- 0-MIN,MLB,2015-2020,2010-2020,27.141
+Carlos Santana,Active,Cleveland Indians,1B-DH,5-11,170,B,R,1986-04-08,"Santo Domingo,DR",2004- 0- 0-LAN,MLB,2010-2020,2005-2020,34.174
+Danny Santana,Active,Texas Rangers,CF-1B,5-11,150,B,R,1990-11-07,"Monte Plata,DR",2007- 0- 0-MIN,MLB,2014-2020,2009-2020,29.326
+Anthony Santander,Active,Baltimore Orioles,RF-LF,6-2,187,B,R,1994-10-19,"Margarita,VZ",2011- 0- 0-CLE,MLB,2017-2020,2012-2020,25.345
+Antonio Santos,Active,Colorado Rockies,P,6-3,180,R,R,1996-10-06,"Villa Gonzalez,DR",2015- 0- 0-COL,MLB,2020-2020,2015-2020,23.358
+Max Scherzer,Active,Washington Nationals,P,6-3,190,R,R,1984-07-27,"St. Louis,MO",2006- 1- 11-ARI,MLB,2008-2020,2004-2020,36.063
+Clarke Schmidt,Active,New York Yankees,P,6-1,200,R,R,1996-02-20,"Acworth,GA",2017- 1- 16-NYA,MLB,2020-2020,2015-2020,24.222
+Jonathan Schoop,DL-60,Detroit Tigers,2B-SS,6-1,187,R,R,1991-10-06,"Willemstad,CC",2008- 0- 0-BAL,MLB,2013-2020,2010-2020,28.359
+John Schreiber,Active,Detroit Tigers,P,6-3,215,R,R,1994-03-05,"Rockwood,MI",2016- 15- 445-DET,MLB,2019-2020,2015-2020,26.208
+Kyle Schwarber,Active,Chicago Cubs,LF-OF,6-0,230,L,R,1993-03-05,"Middletown,OH",2014- 1- 4-CHN,MLB,2015-2020,2012-2020,27.208
+Tanner Scott,Active,Baltimore Orioles,P,6-2,220,R,L,1994-07-22,"Warren,OH",2014- 6- 181-BAL,MLB,2017-2020,2014-2020,26.069
+Andre Scrubb,Active,Houston Astros,P,6-4,265,R,R,1995-01-13,"Woodbridge,VA",2016- 8- 251-LAN,MLB,2020-2020,2014-2020,25.259
+Corey Seager,Active,Los Angeles Dodgers,SS,6-4,205,L,R,1994-04-27,"Kannapolis,NC",2012- 1- 18-LAN,MLB,2015-2020,2012-2020,26.155
+Kyle Seager,Active,Seattle Mariners,3B-DH,6-1,194,L,R,1987-11-03,"Charlotte,NC",2009- 3- 82-SEA,MLB,2011-2020,2007-2020,32.330
+Jean Segura,Active,Philadelphia Phillies,SS,5-11,155,R,R,1990-03-17,"San Juan,DR",2007- 0- 0-ANA,MLB,2012-2020,2008-2020,30.196
+Sam Selman,Active,San Francisco Giants,P,6-3,165,R,L,1990-11-14,"Austin,TX",2012- 2- 66-KCA,MLB,2019-2020,2010-2020,29.319
+Marcus Semien,Active,Oakland Athletics,SS,6-0,175,R,R,1990-09-17,"El Cerrito,CA",2011- 6- 201-CHA,MLB,2013-2020,2009-2020,30.012
+Antonio Senzatela,Active,Colorado Rockies,P,6-1,180,R,R,1995-01-21,"Caracas,VZ",2011- 0- 0-COL,MLB,2017-2020,2012-2020,25.251
+Nick Senzel,Active,Cincinnati Reds,CF-2B,6-1,205,R,R,1995-06-29,"Atlanta,GA",2016- 1- 2-CIN,MLB,2019-2020,2014-2020,25.092
+Luis Severino,DL-60,New York Yankees,P,6-0,195,R,R,1994-02-20,"Sabana del Mar,DR",2012- 0- 0-NYA,MLB,2015-2019,2012-2019,26.221
+Pedro Severino,Active,Baltimore Orioles,C-DH,6-1,180,R,R,1993-07-20,"Bonao,DR",2010- 0- 0-WAS,MLB,2015-2020,2011-2020,27.071
+Paul Sewald,Active,New York Mets,P,6-2,180,R,R,1990-05-26,"Las Vegas,NV",2012- 10- 320-NYN,MLB,2017-2020,2009-2020,30.126
+Travis Shaw,Active,Toronto Blue Jays,3B-2B,6-3,210,L,R,1990-04-16,"Washington Court House,OH",2011- 9- 292-BOS,MLB,2015-2020,2009-2020,30.166
+Justus Sheffield,Active,Seattle Mariners,P,5-10,196,L,L,1996-05-13,"Tullahoma,TN",2014- 1- 31-CLE,MLB,2018-2020,2014-2020,24.139
+Ryan Sherriff,Active,Tampa Bay Rays,P,6-1,185,L,L,1990-05-25,"Culver City,CA",2011- 28- 860-SLN,MLB,2017-2020,2011-2020,30.127
+Matt Shoemaker,Active,Toronto Blue Jays,P,6-2,225,R,R,1986-09-27,"Wyandotte,MI",2008- 0- 0-ANA,MLB,2013-2020,2006-2020,34.002
+Zack Short,Active,Detroit Tigers,SS-2B,5-9,155,R,R,1995-05-29,"Hurley,NY",2016- 17- 524-CHN,AAA,,2014-2019,25.123
+Chasen Shreve,Active,New York Mets,P,6-3,180,L,L,1990-07-12,"Las Vegas,NV",2010- 11- 344-ATL,MLB,2014-2020,2010-2020,30.079
+Magneuris Sierra,Active,Miami Marlins,CF-RF,5-11,160,L,L,1996-04-07,"San Cristobal,DR",2012- 0- 0-SLN,MLB,2017-2020,2013-2020,24.174
+Lucas Sims,Active,Cincinnati Reds,P,6-1,200,R,R,1994-05-10,"Lawrenceville,GA",2012- 1- 21-ATL,MLB,2017-2020,2012-2020,26.142
+Brady Singer,Active,Kansas City Royals,P,6-5,180,R,R,1996-08-04,"Eustis,FL",2018- 1- 18-KCA,MLB,2020-2020,2016-2020,24.055
+Chance Sisco,Active,Baltimore Orioles,C-DH-,6-2,193,L,R,1995-02-24,"Corona,CA",2013- 2- 61-BAL,MLB,2017-2020,2013-2020,25.217
+Tarik Skubal,Active,Detroit Tigers,P,6-2,230,L,L,1996-11-20,"Kingman,AZ",2018- 9- 255-DET,MLB,2020-2020,2015-2020,23.313
+Austin Slater,Active,San Francisco Giants,RF-1B,6-2,205,R,R,1992-12-13,"Jacksonville,FL",2014- 8- 238-SFN,MLB,2017-2020,2012-2020,27.290
+Aaron Slegers,Active,Tampa Bay Rays,P,6-10,245,R,R,1992-09-04,"Scottsdale,AZ",2013- 5- 140-MIN,MLB,2017-2020,2011-2020,28.024
+Devin Smeltzer,Active,Minnesota Twins,P,6-3,185,R,L,1995-09-07,"Voorhees,NJ",2016- 5- 161-LAN,MLB,2019-2020,2015-2020,25.022
+Burch Smith,DL-60,Oakland Athletics,P,6-4,190,R,R,1990-04-12,"Tyler,TX",2011- 14- 443-SDN,MLB,2013-2020,2011-2020,30.170
+Caleb Smith,Active,Arizona Diamondbacks,P,6-2,185,L,L,1991-07-28,"Huntsville,TX",2013- 14- 434-NYA,MLB,2017-2020,2011-2020,29.063
+Dominic Smith,Active,New York Mets,1B-LF,6-0,185,L,L,1995-06-15,"Los Angeles,CA",2013- 1- 11-NYN,MLB,2017-2020,2013-2020,25.106
+Drew Smith,Active,New York Mets,P,6-1,170,R,R,1993-09-24,"Crowley,TX",2015- 3- 99-DET,MLB,2018-2020,2013-2020,27.005
+Josh Smith,DL-10,Miami Marlins,P,6-3,210,R,R,1987-08-07,"Margate,FL",2010- 21- 637-CIN,MLB,2015-2020,2006-2020,33.053
+Kevan Smith,Active,Tampa Bay Rays,C-DH,6-3,225,R,R,1988-06-28,"Cranberry Township,PA",2011- 7- 231-CHA,MLB,2016-2020,2008-2020,32.093
+Pavin Smith,Active,Arizona Diamondbacks,1B-RF,6-2,210,L,L,1996-02-06,"Jupiter,FL",2017- 1- 7-ARI,MLB,2020-2020,2015-2020,24.235
+Riley Smith,Active,Arizona Diamondbacks,P,6-2,180,R,R,1995-01-15,"Lufkin,TX",2016- 24- 719-ARI,MLB,2020-2020,2014-2020,25.257
+Will Smith,Active,Los Angeles Dodgers,C-3B-,5-10,195,R,R,1995-03-28,"Louisville,KY",2016- 1- 32-LAN,MLB,2019-2020,2014-2020,25.185
+Will Smith,Active,Atlanta Braves,P,6-5,220,L,L,1989-07-10,"Newnan,GA",2008- 7- 229-ANA,MLB,2012-2020,2008-2020,31.081
+Drew Smyly,Active,San Francisco Giants,P,6-3,190,L,L,1989-06-13,"Little Rock,AR",2010- 2- 68-DET,MLB,2012-2020,2009-2020,31.108
+Cy Sneed,Active,Houston Astros,P,6-4,185,R,R,1992-10-01,"Twin Falls,ID",2014- 3- 85-MIL,MLB,2019-2020,2012-2020,27.363
+Blake Snell,Active,Tampa Bay Rays,P,6-4,180,L,L,1992-12-04,"Seattle,WA",2011- 1- 52-TBA,MLB,2016-2020,2011-2020,27.299
+Chad Sobotka,Active,Atlanta Braves,P,6-6,195,R,R,1993-07-10,"Sarasota,FL",2014- 4- 133-ATL,MLB,2018-2020,2012-2020,27.081
+Eric Sogard,Active,Milwaukee Brewers,2B-SS,5-10,180,L,R,1986-05-22,"Phoenix,AZ",2007- 2- 81-SDN,MLB,2010-2020,2005-2020,34.130
+Nick Solak,Active,Texas Rangers,2B-LF,5-11,163,R,R,1995-01-11,"Woodridge,IL",2016- 2- 62-NYA,MLB,2019-2020,2014-2020,25.261
+Donovan Solano,Active,San Francisco Giants,SS-2B,5-10,165,R,R,1987-12-17,"Barranquilla,CB",2005- 0- 0-SLN,MLB,2012-2020,2005-2020,32.287
+Jorge Soler,Active,Kansas City Royals,DH-RF,6-3,205,R,R,1992-02-25,"Havana,CU",2012- 0- 0-CHN,MLB,2014-2020,2012-2020,28.216
+Joakim Soria,Active,Oakland Athletics,P,6-3,180,R,R,1984-05-18,"Monclova,MX",2001- 0- 0-LAN,MLB,2007-2020,2002-2020,36.134
+Mike Soroka,DL-60,Atlanta Braves,P,6-5,225,R,R,1997-08-04,"Calgary,AB",2015- 1- 28-ATL,MLB,2018-2020,2015-2020,23.056
+Elliot Soto,Active,Los Angeles Angels,SS-3B,5-9,150,R,R,1989-08-21,"Algonquin,IL",2010- 15- 460-CHN,MLB,2020-2020,2008-2020,31.039
+Gregory Soto,Active,Detroit Tigers,P,6-1,180,L,L,1995-02-11,"Haina,DR",,MLB,2019-2020,2013-2020,25.230
+Juan Soto,Active,Washington Nationals,LF-OF,6-1,185,L,L,1998-10-25,"Santo Domingo,DR",2015- 0- 0-WAS,MLB,2018-2020,2016-2020,21.339
+Cory Spangenberg,Active,Milwaukee Brewers,2B-3B,6-0,184,L,R,1991-03-16,"Clarks Summit,PA",2011- 1- 10-SDN,MLB,2014-2019,2010-2019,29.197
+Glenn Sparkman,DL-60,Kansas City Royals,P,6-2,210,B,R,1992-05-11,"Ganado,TX",2013- 20- 594-KCA,MLB,2017-2020,2011-2020,28.140
+Zach Spears,Active,Pittsburgh Pirates,P,6-7,237,L,L,1997-06-03,"Greenfield,IN",2018- 8- 234-PIT,A-,,2016-2018,23.118
+Gabe Speier,Active,Kansas City Royals,P,6-0,175,R,R,1995-04-12,"Santa Barbara,CA",2013- 19- 563-BOS,MLB,2019-2020,2013-2020,25.170
+George Springer,Active,Houston Astros,CF-RF,6-3,205,R,R,1989-09-19,"New Britain,CT",2011- 1- 11-HOU,MLB,2014-2020,2009-2020,31.010
+Jeffrey Springs,Active,Boston Red Sox,P,6-1,160,L,L,1992-09-20,"Belmont,NC",2015- 30- 888-TEX,MLB,2018-2020,2012-2020,28.009
+Jacob Stallings,Active,Pittsburgh Pirates,C-P,6-5,200,R,R,1989-12-22,"Lawrence,KS",2012- 7- 226-PIT,MLB,2016-2020,2009-2020,30.281
+Craig Stammen,Active,San Diego Padres,P,6-3,200,R,R,1984-03-09,"Coldwater,OH",2005- 12- 354-WAS,MLB,2009-2020,2003-2020,36.204
+Ryne Stanek,Active,Miami Marlins,P,6-4,180,R,R,1991-07-26,"Overland Park,KS",2013- 1- 29-TBA,MLB,2017-2020,2011-2020,29.065
+Giancarlo Stanton,Active,New York Yankees,DH-OF,6-5,210,R,R,1989-11-08,"Panorama City,CA",2007- 2- 76-MIA,MLB,2010-2020,2007-2020,30.325
+Bubba Starling,Active,Kansas City Royals,CF-RF,6-4,180,R,R,1992-08-03,"Gardner,KS",2011- 1- 5-KCA,MLB,2019-2020,2012-2020,28.056
+Cody Stashak,Active,Minnesota Twins,P,6-2,180,R,R,1994-06-04,"Mays Landing,NJ",2015- 13- 380-MIN,MLB,2019-2020,2015-2020,26.117
+Max Stassi,Active,Los Angeles Angels,C-1B-,5-10,205,R,R,1991-03-15,"Woodland,CA",2009- 4- 123-OAK,MLB,2013-2020,2009-2020,29.198
+Josh Staumont,Active,Kansas City Royals,P,6-3,200,R,R,1993-12-21,"La Habra Heights,CA",2015- 2- 64-KCA,MLB,2019-2020,2013-2020,26.282
+Drew Steckenrider,DL-60,Miami Marlins,P,6-5,213,B,R,1991-01-10,"Atlanta,GA",2012- 8- 257-MIA,MLB,2017-2019,2010-2019,29.262
+Robert Stephenson,Active,Cincinnati Reds,P,6-2,190,R,R,1993-02-24,"Martinez,CA",2011- 1- 27-CIN,MLB,2016-2020,2013-2020,27.217
+Andrew Stevenson,Active,Washington Nationals,CF-LF,6-0,185,L,L,1994-06-01,"Lafayette,LA",2015- 2- 58-WAS,MLB,2017-2020,2013-2020,26.120
+Christin Stewart,Active,Detroit Tigers,LF-OF,6-0,215,L,R,1993-12-10,"Lawrenceville,GA",2015- 1- 34-DET,MLB,2018-2020,2013-2020,26.293
+DJ Stewart,Active,Baltimore Orioles,RF-LF,6-0,215,L,R,1993-11-30,"Yulee,FL",2015- 1- 25-BAL,MLB,2018-2020,2013-2020,26.303
+Kohl Stewart,Active,Baltimore Orioles,P,6-3,210,R,R,1994-10-07,"Houston,TX",2013- 1- 4-MIN,MLB,2018-2019,2013-2019,25.357
+Robert Stock,Active,Boston Red Sox,P,6-1,190,L,R,1989-11-21,"Westlake,CA",2009- 2- 67-SLN,MLB,2018-2020,2007-2020,30.312
+Troy Stokes,Active,Detroit Tigers,LF-CF,5-8,182,R,R,1996-02-02,"Baltimore,MD",2014- 4- 116-MIL,AAA,,2014-2019,24.239
+Trevor Story,Active,Colorado Rockies,SS,6-1,175,R,R,1992-11-15,"Irving,TX",2011- 1- 45-COL,MLB,2016-2020,2011-2020,27.318
+Matt Strahm,Active,San Diego Padres,P,6-4,180,R,L,1991-11-12,"Fargo,ND",2012- 21- 643-KCA,MLB,2016-2020,2012-2020,28.322
+Stephen Strasburg,DL-60,Washington Nationals,P,6-4,220,R,R,1988-07-20,"San Diego,CA",2009- 1- 1-WAS,MLB,2010-2020,2007-2020,32.070
+Chris Stratton,Active,Pittsburgh Pirates,P,6-2,194,R,R,1990-08-22,"Tupelo,MS",2012- 1- 20-SFN,MLB,2016-2020,2010-2020,30.038
+Myles Straw,Active,Houston Astros,CF-SS,5-10,180,R,R,1994-10-17,"Garden Grove,CA",2015- 12- 349-HOU,MLB,2018-2020,2014-2020,25.347
+Ross Stripling,Active,Toronto Blue Jays,P,6-3,190,R,R,1989-11-23,"Blue Bell,PA",2012- 5- 176-LAN,MLB,2016-2020,2009-2020,30.310
+Eugenio Suarez,Active,Cincinnati Reds,3B-SS,5-11,155,B,R,1991-07-18,"Puerto Ordaz,VZ",2008- 0- 0-DET,MLB,2014-2020,2011-2020,29.073
+Ranger Suarez,Active,Philadelphia Phillies,P,6-0,177,L,L,1995-08-26,"Carora,VZ",2012- 0- 0-PHI,MLB,2018-2020,2015-2020,25.034
+Wander Suero,Active,Washington Nationals,P,6-3,175,R,R,1991-09-15,"Sabana Larga,DR",2010- 0- 0-WAS,MLB,2018-2020,2010-2020,29.014
+Cole Sulser,Active,Baltimore Orioles,P,6-1,170,R,R,1990-03-12,"Poway,CA",2013- 25- 741-CLE,MLB,2019-2020,2009-2020,30.201
+Andrew Susac,Active,Pittsburgh Pirates,C,6-1,200,R,R,1990-03-22,"Roseville,CA",2011- 2- 86-SFN,MLB,2014-2020,2010-2020,30.191
+Brent Suter,Active,Milwaukee Brewers,P,6-4,185,L,L,1989-08-29,"Cincinnati,OH",2012- 31- 965-MIL,MLB,2016-2020,2009-2020,31.031
+Kurt Suzuki,Active,Washington Nationals,C-DH,5-11,200,R,R,1983-10-04,"Wailuku,HI",2004- 2- 67-OAK,MLB,2007-2020,2002-2020,36.360
+Dansby Swanson,Active,Atlanta Braves,SS,6-0,170,R,R,1994-02-11,"Marietta,GA",2015- 1- 1-ARI,MLB,2016-2020,2013-2020,26.230
+Erik Swanson,DL-10,Seattle Mariners,P,6-3,220,R,R,1993-09-04,"Terrace Park,OH",2014- 8- 246-TEX,MLB,2019-2020,2013-2020,27.025
+Noah Syndergaard,DL-60,New York Mets,P,6-5,200,L,R,1992-08-29,"Mansfield,TX",2010- 1- 38-TOR,MLB,2015-2019,2010-2019,28.031
+Jameson Taillon,DL-60,Pittsburgh Pirates,P,6-6,225,R,R,1991-11-18,"The Woodlands,TX",2010- 1- 2-PIT,MLB,2016-2019,2011-2019,28.315
+Bo Takahashi,Active,Arizona Diamondbacks,P,5-11,180,R,R,1997-01-23,"Presidente Prudente,BR",2013- 0- 0-ARI,AA,,2014-2019,23.249
+Masahiro Tanaka,Active,New York Yankees,P,6-2,205,R,R,1988-11-01,"Itami,JP",2014- 0- 0-NYA,MLB,2014-2020,2007-2020,31.332
+Domingo Tapia,Active,Boston Red Sox,P,6-4,186,R,R,1991-12-16,"Santo Domingo,DR",,MLB,2020-2020,2010-2020,28.288
+Raimel Tapia,Active,Colorado Rockies,LF-CF,6-2,160,L,L,1994-02-04,"San Pedro de Macoris,DR",2010- 0- 0-COL,MLB,2016-2020,2011-2020,26.237
+Stephen Tarpley,Active,Miami Marlins,P,6-1,185,R,L,1993-02-17,"Gilbert,AZ",2013- 3- 98-BAL,MLB,2018-2020,2012-2020,27.224
+Dillon Tate,Active,Baltimore Orioles,P,6-2,185,R,R,1994-05-01,"Harbor City,CA",2015- 1- 4-TEX,MLB,2019-2020,2013-2020,26.151
+Fernando Tatis,Active,San Diego Padres,SS,6-3,185,R,R,1999-01-02,"San Pedro de Macoris,DR",2015- 0- 0-CHA,MLB,2019-2020,2016-2020,21.270
+Mike Tauchman,Active,New York Yankees,CF-LF,6-1,200,L,L,1990-12-03,"Palatine,IL",2013- 10- 289-COL,MLB,2017-2020,2010-2020,29.300
+Leody Taveras,Active,Texas Rangers,CF-RF,6-1,170,B,R,1998-09-08,"Tenares,DR",2015- 0- 0-TEX,MLB,2020-2020,2016-2020,22.021
+Blake Taylor,Active,Houston Astros,P,6-3,220,L,L,1995-08-17,"Mission Viejo,CA",2013- 2- 51-PIT,MLB,2020-2020,2013-2020,25.043
+Chris Taylor,Active,Los Angeles Dodgers,SS-LF,6-0,170,R,R,1990-08-29,"Virginia Beach,VA",2012- 5- 161-SEA,MLB,2014-2020,2010-2020,30.031
+Josh Taylor,Active,Boston Red Sox,P,6-5,225,L,L,1993-03-02,"Phoenix,AZ",2014- 0- 0-PHI,MLB,2019-2020,2013-2020,27.211
+Michael Taylor,Active,Washington Nationals,CF-OF,6-2,190,R,R,1991-03-26,"Fort Lauderdale,FL",2009- 6- 172-WAS,MLB,2014-2020,2010-2020,29.187
+Tyrone Taylor,Active,Milwaukee Brewers,CF-RF,6-0,185,R,R,1994-01-22,"Torrance,CA",2012- 2- 92-MIL,MLB,2019-2020,2012-2020,26.250
+Julio Teheran,Active,Los Angeles Angels,P,6-2,150,R,R,1991-01-27,"Cartagena,CB",2007- 0- 0-ATL,MLB,2011-2020,2008-2020,29.245
+Anderson Tejeda,Active,Texas Rangers,SS-2B,5-11,160,L,R,1998-05-01,"Bani,DR",2014- 0- 0-TEX,MLB,2020-2020,2015-2020,22.151
+Rowdy Tellez,DL-10,Toronto Blue Jays,1B-DH,6-4,220,L,L,1995-03-16,"Elk Grove,CA",2013- 30- 895-TOR,MLB,2018-2020,2013-2020,25.197
+Ryan Tepera,Active,Chicago Cubs,P,6-1,173,R,R,1987-11-03,"Lake Jackson,TX",2009- 19- 580-TOR,MLB,2015-2020,2008-2020,32.330
+Eric Thames,Active,Washington Nationals,1B-RF,6-0,195,L,R,1986-11-10,"Santa Clara,CA",2008- 7- 219-TOR,MLB,2011-2020,2007-2020,33.323
+Caleb Thielbar,Active,Minnesota Twins,P,6-0,200,L,R,1987-01-31,"Northfield,MN",2009- 18- 556-MIL,MLB,2013-2020,2006-2020,33.241
+Cody Thomas,DL-10,Los Angeles Dodgers,RF-LF,6-5,215,L,R,1994-10-08,"Colleyville,TX",2016- 13- 401-LAN,AA,,2014-2019,25.356
+Tyler Thornburg,DL-60,Cincinnati Reds,P,5-11,175,R,R,1988-09-29,"Atlanta,GA",2010- 3- 96-MIL,MLB,2012-2020,2008-2020,32.000
+Trent Thornton,DL-60,Toronto Blue Jays,P,6-0,170,R,R,1993-09-30,"Pittsburgh,PA",2015- 5- 139-HOU,MLB,2019-2020,2013-2020,26.364
+Daniel Tillo,DL-10,Kansas City Royals,P,6-5,225,L,L,1996-06-13,"Sioux City,IA",2017- 3- 90-KCA,AA,,2016-2019,24.108
+Jesus Tinoco,Active,Colorado Rockies,P,6-4,190,R,R,1995-04-30,"San Antonio de Maturin,VZ",2011- 0- 0-TOR,MLB,2019-2020,2012-2020,25.152
+Josh Tomlin,Active,Atlanta Braves,P,6-1,175,R,R,1984-10-19,"Tyler,TX",2006- 19- 581-CLE,MLB,2010-2020,2006-2020,35.345
+Justin Topa,Active,Milwaukee Brewers,P,6-4,195,R,R,1991-03-07,"Binghamton,NY",2013- 17- 509-PIT,MLB,2020-2020,2010-2020,29.206
+Abraham Toro,Active,Houston Astros,3B-2B,6-0,190,B,R,1996-12-20,"Greenfield Park,QC",2016- 5- 157-HOU,MLB,2019-2020,2016-2020,23.283
+Luis Torrens,Active,Seattle Mariners,C-1B,6-0,171,R,R,1996-05-02,"Caracas,VZ",2012- 0- 0-NYA,MLB,2017-2020,2013-2020,24.150
+Gleyber Torres,Active,New York Yankees,2B-SS,6-1,175,R,R,1996-12-13,"Caracas,VZ",2013- 0- 0-CHN,MLB,2018-2020,2014-2020,23.290
+Touki Toussaint,Active,Atlanta Braves,P,6-3,185,R,R,1996-06-20,"Coral Springs,FL",2014- 1- 16-ARI,MLB,2018-2020,2014-2020,24.101
+Wilfredo Tovar,DL-10,Minnesota Twins,SS-2B,5-10,150,R,R,1991-08-11,"Miranda,VZ",2007- 0- 0-NYN,MLB,2013-2019,2009-2019,29.049
+Sam Travis,Active,Texas Rangers,1B-LF,6-0,195,R,R,1993-08-27,"Orland Park,IL",2014- 2- 67-BOS,MLB,2017-2019,2012-2019,27.033
+Blake Treinen,Active,Los Angeles Dodgers,P,6-4,200,R,R,1988-06-30,"Osage City,KS",2011- 7- 226-OAK,MLB,2014-2020,2010-2020,32.090
+Jose Trevino,Active,Texas Rangers,C,5-11,195,R,R,1992-11-28,"Corpus Christi,TX",2014- 6- 186-TEX,MLB,2018-2020,2012-2020,27.305
+Andrew Triggs,Active,Boston Red Sox,P,6-3,210,R,R,1989-03-16,"Nashville,TN",2012- 19- 583-KCA,MLB,2016-2020,2009-2020,31.197
+Lou Trivino,Active,Oakland Athletics,P,6-5,225,R,R,1991-10-01,"Green Lane,PA",2013- 11- 341-OAK,MLB,2018-2020,2011-2020,28.364
+Chadwick Tromp,Active,San Francisco Giants,C,5-9,180,R,R,1995-03-21,"Oranjestad,AA",2013- 0- 0-CIN,MLB,2020-2020,2013-2020,25.192
+Nick Tropeano,Active,Pittsburgh Pirates,P,6-4,205,R,R,1990-08-27,"West Islip,NY",2011- 5- 160-HOU,MLB,2014-2020,2009-2020,30.033
+Mike Trout,Active,Los Angeles Angels,CF-OF,6-1,200,R,R,1991-08-07,"Millville,NJ",2009- 1- 25-ANA,MLB,2011-2020,2009-2020,29.053
+Yoshitomo Tsutsugo,Active,Tampa Bay Rays,1B-OF,6-0,209,L,R,1991-11-26,"Wakayama,JP",,MLB,2020-2020,2010-2020,28.307
+Cole Tucker,Active,Pittsburgh Pirates,SS-2B,6-3,185,B,R,1996-07-03,"Phoenix,AZ",2014- 1- 24-PIT,MLB,2019-2020,2014-2020,24.088
+Kyle Tucker,Active,Houston Astros,RF-LF,6-4,190,L,R,1997-01-17,"Tampa,FL",2015- 1- 5-HOU,MLB,2018-2020,2015-2020,23.255
+Nik Turley,Active,Pittsburgh Pirates,P,6-3,210,L,L,1989-09-11,"La Canada,CA",2008- 50-1502-NYA,MLB,2017-2020,2008-2020,31.018
+Spencer Turnbull,Active,Detroit Tigers,P,6-3,205,R,R,1992-09-18,"Demopolis,AL",2014- 2- 63-DET,MLB,2018-2020,2012-2020,28.010
+Justin Turner,Active,Los Angeles Dodgers,3B-DH,5-11,180,R,R,1984-11-23,"Long Beach,CA",2006- 7- 204-CIN,MLB,2009-2020,2003-2020,35.310
+Trea Turner,Active,Washington Nationals,SS,6-2,160,R,R,1993-06-30,"Lake Worth,FL",2014- 1- 13-SDN,MLB,2015-2020,2012-2020,27.091
+Edwin Uceta,DL-10,Los Angeles Dodgers,P,6-0,155,R,R,1998-01-09,"Villa Los Almacigos,DR",2016- 0- 0-LAN,AA,,2016-2019,22.263
+Duane Underwood,Active,Chicago Cubs,P-1B-,6-2,205,R,R,1994-07-20,"Marietta,GA",2012- 2- 67-CHN,MLB,2018-2020,2012-2020,26.071
+Justin Upton,Active,Los Angeles Angels,LF-OF,6-2,205,R,R,1987-08-25,"Chesapeake,VA",2005- 1- 1-ARI,MLB,2007-2020,2006-2020,33.035
+Jose Urena,Active,Miami Marlins,P,6-3,172,R,R,1991-09-12,"Santo Domingo,DR",2008- 0- 0-MIA,MLB,2015-2020,2010-2020,29.017
+Julio Urias,Active,Los Angeles Dodgers,P,5-11,160,L,L,1996-08-12,"Culiacan,MX",2012- 0- 0-LAN,MLB,2016-2020,2013-2020,24.047
+Luis Urias,Active,Milwaukee Brewers,2B-SS,5-9,160,R,R,1997-06-03,"Magdalena de Kino,MX",2013- 0- 0-SDN,MLB,2018-2020,2014-2020,23.118
+Ramon Urias,Active,Baltimore Orioles,2B-3B,5-10,150,R,R,1994-06-03,"Magdalena de Kino,MX",2010- 0- 0-TEX,MLB,2020-2020,2011-2020,26.118
+Jose Urquidy,Active,Houston Astros,P,6-0,180,R,R,1995-05-01,"Mazatlan,MX",2014- 0- 0-HOU,MLB,2019-2020,2015-2020,25.151
+Gio Urshela,Active,New York Yankees,3B-SS,6-0,185,R,R,1991-10-11,"Cartagena,CB",2008- 0- 0-CLE,MLB,2015-2020,2009-2020,28.353
+Pat Valaika,Active,Baltimore Orioles,2B-SS,5-11,195,R,R,1992-09-09,"Valencia,CA",2013- 9- 259-COL,MLB,2016-2020,2011-2020,28.020
+Cesar Valdez,Active,Baltimore Orioles,P,6-2,200,R,R,1985-03-17,"Santo Domingo,DR",2005- 0- 0-ARI,MLB,2010-2020,2006-2020,35.196
+Framber Valdez,Active,Houston Astros,P,5-11,170,L,L,1993-11-19,"Palenque,DR",2015- 0- 0-HOU,MLB,2018-2020,2015-2020,26.314
+Phillips Valdez,Active,Boston Red Sox,P,6-2,160,R,R,1991-11-16,"San Pedro de Macoris,DR",2009- 0- 0-CLE,MLB,2019-2020,2010-2020,28.318
+Josh Van Meter,Active,Arizona Diamondbacks,2B-LF,5-11,165,L,R,1995-03-10,"Ossian,IN",2013- 5- 148-SDN,MLB,2019-2020,2013-2020,25.203
+Emilio Vargas,Active,Arizona Diamondbacks,P,6-3,200,R,R,1996-08-12,"Moca,DR",,AA,,2013-2019,24.047
+Ildemaro Vargas,DL-10,Chicago Cubs,SS-2B,6-0,170,B,R,1991-07-16,"Carpito,VZ",2007- 0- 0-SLN,MLB,2017-2020,2010-2020,29.075
+Daulton Varsho,Active,Arizona Diamondbacks,C-CF,5-10,190,L,R,1996-07-02,"Chili,WI",2017- 2- 68-ARI,MLB,2020-2020,2015-2020,24.089
+Christian Vazquez,Active,Boston Red Sox,C-DH-,5-9,195,R,R,1990-08-21,"Bayamon,PR",2008- 9- 292-BOS,MLB,2014-2020,2008-2020,30.039
+Vincent Velasquez,Active,Philadelphia Phillies,P-LF,6-3,185,B,R,1992-06-07,"Pomona,CA",2010- 2- 58-HOU,MLB,2015-2020,2010-2020,28.113
+Andrew Velazquez,Active,Baltimore Orioles,SS-CF,5-8,175,B,R,1994-07-14,"Bronx,NY",2012- 7- 243-ARI,MLB,2018-2020,2012-2020,26.077
+Pat Venditte,DL-60,Miami Marlins,P,6-1,180,R,B,1985-06-30,"Omaha,NE",2008- 20- 620-NYA,MLB,2015-2020,2005-2020,35.091
+Alex Verdugo,Active,Boston Red Sox,CF-RF,6-0,200,L,L,1996-05-15,"Tucson,AZ",2014- 2- 62-LAN,MLB,2017-2020,2014-2020,24.136
+Justin Verlander,DL-10,Houston Astros,P,6-5,200,R,R,1983-02-20,"Manakin-Sabot,VA",2004- 1- 2-DET,MLB,2005-2020,2002-2020,37.221
+Jonathan Villar,Active,Toronto Blue Jays,2B-SS,6-1,180,B,R,1991-05-02,"La Vega,DR",2008- 0- 0-PHI,MLB,2013-2020,2009-2020,29.150
+Meibrys Viloria,Active,Kansas City Royals,C-DH,5-11,175,L,R,1997-02-15,"Cartagena,CB",2013- 0- 0-KCA,MLB,2018-2020,2014-2020,23.226
+Nick Vincent,Active,Miami Marlins,P,6-0,175,R,R,1986-07-12,"Ramona,CA",2008- 18- 555-SDN,MLB,2012-2020,2008-2020,34.079
+Dan Vogelbach,Active,Milwaukee Brewers,1B-DH,6-0,250,L,R,1992-12-17,"North Fort Myers,FL",2011- 2- 68-CHN,MLB,2016-2020,2011-2020,27.286
+Stephen Vogt,Active,Arizona Diamondbacks,C-LF-,6-0,220,L,R,1984-11-01,"Visalia,CA",2007- 12- 365-TBA,MLB,2012-2020,2007-2020,35.332
+Luke Voit,Active,New York Yankees,1B-DH,6-3,225,R,R,1991-02-13,"St. Louis,MO",2013- 22- 665-SLN,MLB,2017-2020,2010-2020,29.228
+Edinson Volquez,DL-60,Texas Rangers,P,6-1,160,R,R,1983-07-03,"La Segunda,DR",2001- 0- 0-TEX,MLB,2005-2020,2003-2020,37.088
+Austin Voth,Active,Washington Nationals,P,6-1,189,R,R,1992-06-26,"Redmond,WA",2013- 5- 166-WAS,MLB,2018-2020,2011-2020,28.094
+Joey Votto,Active,Cincinnati Reds,1B-DH,6-3,200,L,R,1983-09-10,"Toronto,ON",2002- 2- 44-CIN,MLB,2007-2020,2002-2020,37.019
+Michael Wacha,Active,New York Mets,P,6-6,195,R,R,1991-07-01,"Iowa City,IA",2012- 1- 19-SLN,MLB,2013-2020,2010-2020,29.090
+Tyler Wade,Active,New York Yankees,SS-2B,6-1,180,L,R,1994-11-23,"Murrieta,CA",2013- 4- 134-NYA,MLB,2017-2020,2013-2020,25.310
+Jacob Waguespack,DL-10,Toronto Blue Jays,P,6-5,215,R,R,1993-11-05,"Prairieville,LA",2015- 0- 0-PHI,MLB,2019-2020,2013-2020,26.328
+Adam Wainwright,Active,St. Louis Cardinals,P,6-6,190,R,R,1981-08-30,"St. Simons Island,GA",2000- 1- 29-ATL,MLB,2005-2020,2000-2020,39.030
+Marcus Walden,Active,Boston Red Sox,P,6-0,195,R,R,1988-09-13,"Fresno,CA",2007- 9- 295-TOR,MLB,2018-2020,2007-2020,32.016
+Christian Walker,Active,Arizona Diamondbacks,1B-LF,6-2,225,R,R,1991-03-28,"Limerick,PA",2012- 4- 132-BAL,MLB,2014-2020,2010-2020,29.185
+Jeremy Walker,DL-60,Atlanta Braves,P,6-4,185,R,R,1995-06-12,"Advance,NC",2016- 5- 139-ATL,MLB,2019-2019,2014-2019,25.109
+Taijuan Walker,Active,Toronto Blue Jays,P,6-4,195,R,R,1992-08-13,"Yucaipa,CA",2010- 1- 43-SEA,MLB,2013-2020,2010-2020,28.047
+Chad Wallach,Active,Miami Marlins,C,6-3,210,R,R,1991-11-04,"Orange,CA",2013- 5- 142-MIA,MLB,2017-2020,2011-2020,28.329
+Jared Walsh,Active,Los Angeles Angels,1B-RF,6-0,210,L,L,1993-07-30,"Duluth,GA",2015- 39-1185-ANA,MLB,2019-2020,2012-2020,27.061
+Taylor Ward,Active,Los Angeles Angels,3B-LF,6-2,190,R,R,1993-12-14,"Indio,CA",2015- 1- 26-ANA,MLB,2018-2020,2013-2020,26.289
+Tony Watson,Active,San Francisco Giants,P,6-4,210,L,L,1985-05-30,"Sioux City,IA",2007- 9- 278-PIT,MLB,2011-2020,2004-2020,35.122
+Luke Weaver,Active,Arizona Diamondbacks,P,6-1,154,R,R,1993-08-21,"DeLand,FL",2014- 1- 27-SLN,MLB,2016-2020,2012-2020,27.039
+Jacob Webb,Active,Atlanta Braves,P,6-1,200,R,R,1993-08-15,"Riverside,CA",2014- 18- 553-ATL,MLB,2019-2020,2013-2020,27.045
+Logan Webb,Active,San Francisco Giants,P,6-2,195,R,R,1996-11-18,"Rocklin,CA",2014- 4- 118-SFN,MLB,2019-2020,2014-2020,23.315
+Tyler Webb,Active,St. Louis Cardinals,P,6-6,210,L,L,1990-07-20,"Nassawdox,VA",2013- 10- 314-NYA,MLB,2017-2020,2010-2020,30.071
+Ryan Weber,Active,Boston Red Sox,P,6-0,170,R,R,1990-08-12,"St. Petersburg,FL",2009- 22- 658-ATL,MLB,2015-2020,2009-2020,30.048
+Jordan Weems,Active,Oakland Athletics,P,6-3,165,L,R,1992-11-07,"Columbus,GA",2011- 3- 111-BOS,MLB,2020-2020,2011-2020,27.326
+J.B. Wendelken,DL-10,Oakland Athletics,P,6-1,235,R,R,1993-03-24,"Guyton,GA",2012- 13- 421-BOS,MLB,2016-2020,2012-2020,27.189
+Joey Wendle,Active,Tampa Bay Rays,2B-3B,5-11,190,L,R,1990-04-26,"Lincoln University,PA",2012- 6- 203-CLE,MLB,2016-2020,2012-2020,30.156
+Zack Wheeler,Active,Philadelphia Phillies,P,6-3,180,R,R,1990-05-30,"Dallas,GA",2009- 1- 6-SFN,MLB,2013-2020,2010-2020,30.122
+Eli White,Active,Texas Rangers,SS-2B,6-2,175,R,R,1994-06-26,"Greenville,SC",2016- 11- 322-OAK,MLB,2020-2020,2014-2020,26.095
+Evan White,Active,Seattle Mariners,1B,6-3,200,R,L,1996-04-26,"Columbus,OH",2017- 1- 17-SEA,MLB,2020-2020,2015-2020,24.155
+Kodi Whitley,Active,St. Louis Cardinals,P,6-3,215,R,R,1995-02-21,"Clayton,NC",2017- 27- 814-SLN,MLB,2020-2020,2014-2020,25.220
+Rowan Wick,DL-10,Chicago Cubs,P,6-2,215,L,R,1992-11-09,"North Vancouver,BC",2012- 9- 300-SLN,MLB,2018-2020,2011-2020,27.324
+Taylor Widener,Active,Arizona Diamondbacks,P,6-1,190,L,R,1994-10-24,"Aiken,SC",2016- 12- 368-NYA,MLB,2020-2020,2014-2020,25.340
+Brad Wieck,DL-60,Chicago Cubs,P,6-9,255,L,L,1991-10-14,"Canyon,TX",2014- 7- 205-NYN,MLB,2018-2020,2013-2020,28.351
+Matt Wieters,Active,St. Louis Cardinals,C,6-4,225,B,R,1986-05-21,"Charleston,SC",2007- 1- 5-BAL,MLB,2009-2020,2005-2020,34.131
+Austen Williams,Active,Washington Nationals,P,6-3,210,R,R,1992-12-19,"Fort Worth,TX",2014- 6- 184-WAS,MLB,2018-2020,2012-2020,27.284
+Devin Williams,Active,Milwaukee Brewers,P,6-3,165,R,R,1994-09-21,"Florissant,MO",2013- 2- 54-MIL,MLB,2019-2020,2013-2020,26.008
+Trevor Williams,Active,Pittsburgh Pirates,P,6-3,221,R,R,1992-04-25,"San Diego,CA",2013- 2- 44-MIA,MLB,2016-2020,2011-2020,28.157
+Bryse Wilson,Active,Atlanta Braves,P,6-1,224,R,R,1997-12-20,"Durham,NC",2016- 4- 109-ATL,MLB,2018-2020,2016-2020,22.283
+Justin Wilson,Active,New York Mets,P,6-2,210,L,L,1987-08-18,"Orange,CA",2008- 5- 144-PIT,MLB,2012-2020,2006-2020,33.042
+Marcus Wilson,Active,Boston Red Sox,CF-RF,6-3,175,R,R,1996-08-15,"Los Angeles,CA",2014- 2- 69-ARI,AA,,2014-2019,24.044
+Trey Wingenter,DL-60,San Diego Padres,P,6-7,195,R,R,1994-04-15,"Madison,AL",2015- 17- 507-SDN,MLB,2018-2019,2013-2019,26.167
+Jesse Winker,Active,Cincinnati Reds,LF-OF,6-3,200,L,L,1993-08-17,"Windermere,FL",2012- 1- 49-CIN,MLB,2017-2020,2012-2020,27.043
+Matt Wisler,Active,Minnesota Twins,P,6-3,175,R,R,1992-09-12,"Bryan,OH",2011- 7- 233-SDN,MLB,2015-2020,2011-2020,28.017
+Nick Wittgren,Active,Cleveland Indians,P,6-3,205,R,R,1991-05-29,"Torrance,CA",2012- 9- 287-MIA,MLB,2016-2020,2011-2020,29.123
+Tony Wolters,Active,Colorado Rockies,C-2B-,5-10,165,L,R,1992-06-09,"San Diego,CA",2010- 3- 87-CLE,MLB,2016-2020,2010-2020,28.112
+Kolten Wong,Active,St. Louis Cardinals,2B,5-8,175,L,R,1990-10-10,"Hilo,HI",2011- 1- 22-SLN,MLB,2013-2020,2009-2020,29.354
+Alex Wood,Active,Los Angeles Dodgers,P,6-4,216,L,L,1991-01-12,"Charlotte,NC",2012- 2- 85-ATL,MLB,2013-2020,2010-2020,29.260
+Brandon Woodruff,Active,Milwaukee Brewers,P,6-2,221,R,R,1993-02-10,"Tupelo,MS",2014- 11- 326-MIL,MLB,2017-2020,2012-2020,27.231
+Brandon Workman,Active,Philadelphia Phillies,P,6-4,195,R,R,1988-08-13,"Arlington,TX",2010- 2- 57-BOS,MLB,2013-2020,2008-2020,32.047
+Kyle Wright,Active,Atlanta Braves,P,6-4,200,R,R,1995-10-02,"Huntsville,AL",2017- 1- 5-ATL,MLB,2018-2020,2015-2020,24.363
+Austin Wynns,Active,Baltimore Orioles,C-DH,6-2,190,R,R,1990-12-10,"Poway,CA",2013- 10- 309-BAL,MLB,2018-2019,2010-2019,29.293
+Shun Yamaguchi,Active,Toronto Blue Jays,P,6-2,198,R,R,1987-07-11,"Oita,JP",2019- 0- 0-TOR,MLB,2020-2020,2006-2020,33.080
+Ryan Yarbrough,Active,Tampa Bay Rays,P,6-6,205,L,L,1991-12-31,"Lakeland,FL",2014- 4- 111-SEA,MLB,2018-2020,2013-2020,28.272
+Eric Yardley,Active,Milwaukee Brewers,P,6-1,165,R,R,1990-08-18,"Richland,WA",,MLB,2019-2020,2010-2020,30.042
+Michael Yastrzemski,Active,San Francisco Giants,LF-RF,5-11,185,L,L,1990-08-23,"Andover,MA",2013- 14- 429-BAL,MLB,2019-2020,2010-2020,30.037
+Kirby Yates,DL-60,San Diego Padres,P,5-10,170,L,R,1987-03-25,"Koloa,HI",2005- 26- 798-BOS,MLB,2014-2020,2008-2020,33.188
+Christian Yelich,Active,Milwaukee Brewers,RF-OF,6-3,195,L,R,1991-12-05,"Thousand Oaks,CA",2010- 1- 23-MIA,MLB,2013-2020,2010-2020,28.299
+Alex Young,Active,Arizona Diamondbacks,P,6-3,180,L,L,1993-09-09,"Hawthorn Woods,IL",2015- 2- 43-ARI,MLB,2019-2020,2013-2020,27.020
+Andy Young,Active,Arizona Diamondbacks,2B-3B,5-11,190,R,R,1994-05-10,"Fargo,ND",2016- 37-1126-SLN,MLB,2020-2020,2014-2020,26.142
+Daniel Zamora,Active,New York Mets,P,6-2,185,L,L,1993-04-15,"La Puente,CA",2015- 40-1207-PIT,MLB,2018-2019,2013-2019,27.167
+TJ Zeuch,Active,Toronto Blue Jays,P,6-7,220,R,R,1995-08-01,"Mason,OH",2016- 1- 21-TOR,MLB,2019-2020,2014-2020,25.059
+Kyle Zimmer,DL-60,Kansas City Royals,P,6-3,185,R,R,1991-09-13,"La Jolla,CA",2012- 1- 5-KCA,MLB,2019-2020,2010-2020,29.016
+Bruce Zimmermann,Active,Baltimore Orioles,P,6-2,190,L,L,1995-02-09,"Baltimore,MD",2017- 5- 140-ATL,MLB,2020-2020,2014-2020,25.232
+Jordan Zimmermann,Active,Detroit Tigers,P,6-2,200,R,R,1986-05-23,"Auburndale,WI",2007- 2- 67-WAS,MLB,2009-2020,2007-2020,34.129
+Tyler Zuber,Active,Kansas City Royals,P,5-10,185,R,R,1995-06-16,"White Hall,AR",2017- 6- 180-KCA,MLB,2020-2020,2014-2020,25.105
+Mike Zunino,Active,Tampa Bay Rays,C-DH,6-2,220,R,R,1991-03-25,"Cape Coral,FL",2012- 1- 3-SEA,MLB,2013-2020,2010-2020,29.188
