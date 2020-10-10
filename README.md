@@ -28,7 +28,7 @@ Using metrics we've identified below, we wanted to run them through various mode
 
 ## Data Acquisition
 
-We pulled data in from thebaseballcube.com and baseball-reference.com. Since we pulled in data from two different sources, each source had their own naming conventions for teams. We had to create a new dataframe with the team names along with their accroynms to be able to cross reference one another. We created [functions] to help clean up the data and reorganize into a way we can feed it into our models.
+We pulled data in from thebaseballcube.com and baseball-reference.com. Since we pulled in data from two different sources, each source had their own naming conventions for teams. We had to create a new dataframe with the team names along with their accroynms to be able to cross reference one another. We created [functions](Code/functions.py) to help clean up the data and reorganize into a way we can feed it into our models.
 
 We pulled everyones pitching data along with team's average batting data for the years 2013 through 2019. For the records of win/loses we used the Astros. We pulled in their schedules from 2013 through 2019. We weren't able to pull in 2020 data as the season was still going, and it required a premium membership to pull it in. 
 

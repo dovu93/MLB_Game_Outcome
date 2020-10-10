@@ -1,0 +1,163 @@
+Game#,Game Date,Seq,Team,Lg,Opp,LgOpp,Hm/Aw,TimeDay,Att,GameTime,WL,Result,Inn,Boxscore,Record,Div Rk,Lg Rk,MLB Rk,GBL,Strk,Winning Pitcher,Losing Pitcher,Save Pitcher,Home Runs
+1,2019-03-28,-,ATL,NL,PHI,NL,Away,Day,"44,469",3:04,L,4-10,9,Box | PBP,0-1,3,10,18,1.0,L1,Aaron Nola,Julio Teheran,---,Joyce
+2,2019-03-30,-,ATL,NL,PHI,NL,Away,Day,"44,597",3:27,L,6-8,9,Box | PBP,0-2,4,13,27,2.0,L2,Adam Morgan,Wes Parsons,---,"Culberson, Swanson"
+3,2019-03-31,-,ATL,NL,PHI,NL,Away,Night,"41,410",3:17,L,1-5,9,Box | PBP,0-3,5,15,30,3.0,L3,Jake Arrieta,Kyle Wright,---,---
+4,2019-04-01,-,ATL,NL,CHN,NL,Home,Night,"41,912",3:12,W,8-0,9,Box | PBP,1-3,5,14,26,2.5,W1,Wes Parsons,Kyle Hendricks,---,"Acuna, Inciarte"
+5,2019-04-03,-,ATL,NL,CHN,NL,Home,Night,"37,398",3:32,W,6-4,9,Box | PBP,2-3,3,9,17,2.5,W2,Luke Jackson,Steve Cishek,Arodys Vizcaino,"Albies, Swanson"
+6,2019-04-04,-,ATL,NL,CHN,NL,Home,Night,"33,815",3:29,W,9-4,9,Box | PBP,3-3,3,6,13,1.5,W3,Max Fried,Yu Darvish,---,---
+7,2019-04-05,-,ATL,NL,MIA,NL,Home,Night,"29,218",2:35,W,4-0,9,Box | PBP,4-3,3,6,11,1.5,W4,Kevin Gausman,Pablo Lopez,---,"Acuna, Flowers"
+8,2019-04-06,-,ATL,NL,MIA,NL,Home,Night,"35,618",3:16,L,2-4,9,Box | PBP,4-4,3,8,14,2.0,L1,Sergio Romo,A.J. Minter,Adam Conley,---
+9,2019-04-07,-,ATL,NL,MIA,NL,Home,Day,"32,551",2:33,W,4-3,9,Box | PBP,5-4,3,7,12,1.5,W1,Arodys Vizcaino,Adam Conley,---,"Freeman, Swanson"
+10,2019-04-08,-,ATL,NL,COL,NL,Away,Night,"25,199",2:59,W,8-6,9,Box | PBP,6-4,3,6,11,1.5,W2,Julio Teheran,Kyle Freeland,A.J. Minter,Acuna
+11,2019-04-09,-,ATL,NL,COL,NL,Away,Night,"26,124",3:12,W,7-1,9,Box | PBP,7-4,2,4,8,0.5,W3,Max Fried,German Marquez,---,"Acuna, Swanson"
+12,2019-04-11,-,ATL,NL,NYN,NL,Home,Night,"24,015",3:14,L,3-6,9,Box | PBP,7-5,3,6,12,1.0,L1,Steven Matz,Kevin Gausman,Edwin Diaz,"Acuna, Camargo"
+13,2019-04-12,-,ATL,NL,NYN,NL,Home,Night,"33,334",3:07,L,2-6,9,Box | PBP,7-6,3,7,14,2.0,L2,Zack Wheeler,Kyle Wright,---,---
+14,2019-04-13,-,ATL,NL,NYN,NL,Home,Night,"40,117",3:34,W,11-7,9,Box | PBP,8-6,3,5,9,1.0,W1,Touki Toussaint,Corey Oswalt,---,"Donaldson, Markakis"
+15,2019-04-14,-,ATL,NL,NYN,NL,Home,Night,"23,385",3:36,W,7-3,9,Box | PBP,9-6,2,4,8,0.5,W2,Julio Teheran,Jacob deGrom,---,"Culberson, Donaldson, Markakis"
+16,2019-04-16,-,ATL,NL,ARI,NL,Home,Night,"22,407",3:36,L,6-9,9,Box | PBP,9-7,3,7,12,1.0,L1,Yoshihisa Hirano,A.J. Minter,Greg Holland,"Acuna, Albies"
+17,2019-04-17,-,ATL,NL,ARI,NL,Home,Night,"22,356",3:32,L,2-3,10,Box | PBP,9-8,3,8,14,2.0,L2,Archie Bradley,Jesse Biddle,Greg Holland,---
+18,2019-04-18,-,ATL,NL,ARI,NL,Home,Day,"24,193",3:25,L,1-4,9,Box | PBP,9-9,4,10,17,2.0,L3,Luke Weaver,Mike Soroka,Yoshihisa Hirano,Freeman
+19,2019-04-20,1,ATL,NL,CLE,AL,Away,Day,-,3:04,L,4-8,9,Box | PBP,10-10,3,8,14,2.0,W1,Corey Kluber,Julio Teheran,---,"Joyce, McCann"
+20,2019-04-20,2,ATL,NL,CLE,AL,Away,Night,"23,035",3:54,W,8-7,9,Box | PBP,10-10,3,8,14,2.0,W1,Luke Jackson,Adam Cimber,A.J. Minter,Swanson
+21,2019-04-21,-,ATL,NL,CLE,AL,Away,Night,"16,039",3:22,W,11-5,9,Box | PBP,11-10,2,6,12,1.0,W2,Max Fried,Shane Bieber,---,Donaldson (2)
+22,2019-04-23,-,ATL,NL,CIN,NL,Away,Night,"12,789",3:22,L,6-7,9,Box | PBP,11-11,3,10,18,1.5,L1,Robert Stephenson,Kevin Gausman,Raisel Iglesias,---
+23,2019-04-24,-,ATL,NL,CIN,NL,Away,Night,"12,949",2:58,W,3-1,9,Box | PBP,12-11,3,9,15,0.5,W1,Mike Soroka,Tanner Roark,A.J. Minter,Albies
+24,2019-04-25,-,ATL,NL,CIN,NL,Away,Night,"14,792",2:54,L,2-4,9,Box | PBP,12-12,3,9,16,1.0,L1,Luis Castillo,Julio Teheran,Raisel Iglesias,Freeman
+25,2019-04-26,-,ATL,NL,COL,NL,Home,Night,"40,282",3:21,L,4-8,9,Box | PBP,12-13,3,10,17,1.5,L2,Antonio Senzatela,Max Fried,Wade Davis,Flowers (2)
+26,2019-04-27,-,ATL,NL,COL,NL,Home,Night,"38,243",2:58,L,5-9,9,Box | PBP,12-14,3,11,21,2.5,L3,Bryan Shaw,A.J. Minter,---,"Freeman, Inciarte"
+27,2019-04-28,-,ATL,NL,COL,NL,Home,Day,"33,919",3:47,W,8-7,9,Box | PBP,13-14,3,9,17,2.5,W1,Jacob Webb,Seung Hwan Oh,Luke Jackson,"Albies (2), Donaldson, Freeman"
+28,2019-04-29,-,ATL,NL,SDN,NL,Home,Night,"19,353",2:33,W,3-1,9,Box | PBP,14-14,2,8,15,2.0,W2,Mike Soroka,Nick Margevicius,Jacob Webb,Albies
+29,2019-04-30,-,ATL,NL,SDN,NL,Home,Night,"18,626",2:42,L,3-4,9,Box | PBP,14-15,3,9,16,2.0,L1,Chris Paddack,Julio Teheran,Kirby Yates,---
+30,2019-05-01,-,ATL,NL,SDN,NL,Home,Night,"20,394",2:39,W,5-1,9,Box | PBP,15-15,2,8,14,2.0,W1,Max Fried,Cal Quantrill,---,Swanson
+31,2019-05-02,-,ATL,NL,SDN,NL,Home,Day,"23,746",2:53,L,2-11,9,Box | PBP,15-16,3,10,16,2.5,L1,Matt Strahm,Mike Foltynewicz,---,---
+32,2019-05-03,-,ATL,NL,MIA,NL,Away,Night,"7,198",3:08,W,7-2,9,Box | PBP,16-16,2,8,14,2.5,W1,Touki Toussaint,Jose Urena,---,"Freeman, McCann"
+33,2019-05-04,-,ATL,NL,MIA,NL,Away,Night,"10,229",3:15,W,9-2,9,Box | PBP,17-16,2,8,13,1.5,W2,Mike Soroka,Nick Anderson,---,Albies
+34,2019-05-05,-,ATL,NL,MIA,NL,Away,Day,"11,885",3:29,W,3-1,10,Box | PBP,18-16,2,8,13,1.5,W3,Josh Tomlin,Tayron Guerrero,Luke Jackson,Markakis
+35,2019-05-06,-,ATL,NL,LAN,NL,Away,Night,"43,393",2:45,L,3-5,9,Box | PBP,18-17,2,9,14,1.5,L1,Walker Buehler,Kevin Gausman,Julio Urias,"Freeman, Markakis"
+36,2019-05-07,-,ATL,NL,LAN,NL,Away,Night,"47,337",2:42,L,0-9,9,Box | PBP,18-18,2,9,14,2.5,L2,Hyun-Jin Ryu,Max Fried,---,---
+37,2019-05-08,-,ATL,NL,LAN,NL,Away,Night,"53,707",2:58,L,4-9,9,Box | PBP,18-19,2,9,17,3.5,L3,Clayton Kershaw,Mike Foltynewicz,---,Acuna
+38,2019-05-09,-,ATL,NL,ARI,NL,Away,Night,"17,751",3:13,L,2-3,10,Box | PBP,18-20,2,9,17,4.0,L4,Jon Duplantier,A.J. Minter,---,Donaldson
+39,2019-05-10,-,ATL,NL,ARI,NL,Away,Night,"21,932",3:00,W,2-1,9,Box | PBP,19-20,2,9,16,3.0,W1,Daniel Winkler,Yoan Lopez,Luke Jackson,Acuna
+40,2019-05-11,-,ATL,NL,ARI,NL,Away,Night,"33,168",3:09,W,6-4,9,Box | PBP,20-20,2,9,15,3.0,W2,Kevin Gausman,Merrill Kelly,Jonny Venters,"Camargo, McCann"
+41,2019-05-12,-,ATL,NL,ARI,NL,Away,Day,"27,460",3:21,W,5-3,9,Box | PBP,21-20,2,9,15,3.0,W3,Max Fried,Zack Godley,Luke Jackson,---
+42,2019-05-14,-,ATL,NL,SLN,NL,Home,Night,"23,718",3:00,L,3-14,9,Box | PBP,21-21,2,9,15,3.5,L1,Jack Flaherty,Mike Foltynewicz,---,---
+43,2019-05-15,-,ATL,NL,SLN,NL,Home,Night,"23,367",2:40,W,4-0,9,Box | PBP,22-21,2,8,14,2.5,W1,Mike Soroka,Michael Wacha,Luke Jackson,"Culberson, Riley"
+44,2019-05-16,-,ATL,NL,SLN,NL,Home,Night,"28,783",3:16,W,10-2,9,Box | PBP,23-21,2,6,12,1.5,W2,Julio Teheran,Adam Wainwright,---,Freeman
+45,2019-05-17,-,ATL,NL,MIL,NL,Home,Night,"36,222",3:25,W,12-8,9,Box | PBP,24-21,2,6,11,1.5,W3,Max Fried,Jhoulys Chacin,Luke Jackson,"Donaldson, Flowers, Freeman, Swanson"
+46,2019-05-18,-,ATL,NL,MIL,NL,Home,Night,"39,121",3:34,W,4-3,10,Box | PBP,25-21,2,6,11,1.5,W4,Jacob Webb,Josh Hader,---,"Freeman, Riley"
+47,2019-05-19,-,ATL,NL,MIL,NL,Home,Day,"36,548",2:44,L,2-3,10,Box | PBP,25-22,2,7,12,2.5,L1,Josh Hader,Wes Parsons,---,"Acuna, Freeman"
+48,2019-05-20,-,ATL,NL,SFN,NL,Away,Night,"29,815",2:23,W,4-1,9,Box | PBP,26-22,2,6,11,2.5,W1,Mike Soroka,Andrew Suarez,Sean Newcomb,"Acuna (2), Riley"
+49,2019-05-21,-,ATL,NL,SFN,NL,Away,Night,"28,030",3:16,L,3-4,9,Box | PBP,26-23,2,6,11,2.5,L1,Trevor Gott,Luke Jackson,---,---
+50,2019-05-22,-,ATL,NL,SFN,NL,Away,Night,"31,402",2:48,W,9-2,9,Box | PBP,27-23,2,5,9,1.5,W1,Max Fried,Jeff Samardzija,---,"Freeman, Riley, Swanson"
+51,2019-05-23,-,ATL,NL,SFN,NL,Away,Day,"32,463",4:21,W,5-4,13,Box | PBP,28-23,2,5,9,1.5,W2,Luke Jackson,Reyes Moronta,---,"Flowers, Riley"
+52,2019-05-24,-,ATL,NL,SLN,NL,Away,Night,"44,630",2:44,W,5-2,9,Box | PBP,29-23,2,4,8,1.5,W3,Mike Foltynewicz,Miles Mikolas,---,"Freeman, Swanson (2)"
+53,2019-05-25,-,ATL,NL,SLN,NL,Away,Night,"45,760",2:40,L,3-6,9,Box | PBP,29-24,2,4,8,2.5,L1,Andrew Miller,Daniel Winkler,Jordan Hicks,---
+54,2019-05-26,-,ATL,NL,SLN,NL,Away,Night,"45,152",4:07,W,4-3,10,Box | PBP,30-24,2,4,8,1.5,W1,Jacob Webb,Tyler Webb,Luke Jackson,---
+55,2019-05-28,-,ATL,NL,WAS,NL,Home,Night,"27,573",3:21,L,4-5,9,Box | PBP,30-25,2,5,9,2.5,L1,Stephen Strasburg,Max Fried,Sean Doolittle,Riley
+56,2019-05-29,-,ATL,NL,WAS,NL,Home,Night,"37,726",3:11,L,4-14,9,Box | PBP,30-26,2,5,9,3.5,L2,Anibal Sanchez,Kevin Gausman,Kyle McGowin,Riley
+57,2019-05-31,-,ATL,NL,DET,AL,Home,Night,"35,524",2:52,L,2-8,9,Box | PBP,30-27,2,5,9,3.0,L3,Spencer Turnbull,Mike Foltynewicz,---,---
+58,2019-06-01,-,ATL,NL,DET,AL,Home,Day,"37,108",2:51,W,10-5,9,Box | PBP,31-27,2,5,9,2.0,W1,Mike Soroka,Daniel Norris,Luke Jackson,"Freeman, Riley, Swanson"
+59,2019-06-02,-,ATL,NL,DET,AL,Home,Day,"28,978",3:18,W,7-4,9,Box | PBP,32-27,2,5,9,1.0,W2,Touki Toussaint,Joe Jimenez,---,Swanson
+60,2019-06-04,-,ATL,NL,PIT,NL,Away,Night,"13,963",3:46,W,12-5,9,Box | PBP,33-27,2,5,9,0.5,W3,Daniel Winkler,Kyle Crick,---,"Donaldson, Freeman, Riley"
+61,2019-06-05,-,ATL,NL,PIT,NL,Away,Night,"13,904",2:48,L,4-7,9,Box | PBP,33-28,2,5,9,1.5,L1,Joe Musgrove,Kevin Gausman,---,"Acuna, Swanson"
+62,2019-06-06,-,ATL,NL,PIT,NL,Away,Day,"18,232",2:58,L,1-6,9,Box | PBP,33-29,2,5,10,2.0,L2,Chris Archer,Mike Foltynewicz,Felipe Vazquez,Freeman
+63,2019-06-07,-,ATL,NL,MIA,NL,Away,Night,"8,589",2:42,W,7-1,9,Box | PBP,34-29,2,5,9,2.0,W1,Mike Soroka,Jose Urena,---,"Acuna, Freeman"
+64,2019-06-08,-,ATL,NL,MIA,NL,Away,Day,"9,771",2:57,W,1-0,9,Box | PBP,35-29,2,5,9,2.0,W2,Julio Teheran,Trevor Richards,Luke Jackson,---
+65,2019-06-09,-,ATL,NL,MIA,NL,Away,Day,"10,959",4:26,W,7-6,12,Box | PBP,36-29,2,5,9,1.0,W3,Daniel Winkler,Adam Conley,Josh Tomlin,Acuna
+66,2019-06-10,-,ATL,NL,PIT,NL,Home,Night,"21,822",3:35,W,13-7,9,Box | PBP,37-29,1,4,8,--,W4,Sean Newcomb,Alex McRae,Jacob Webb,"Acuna, Albies (2), Freeman, Markakis"
+67,2019-06-11,-,ATL,NL,PIT,NL,Home,Night,"31,305",3:15,W,7-5,8,Box | PBP,38-29,1,2,6,--,W5,Touki Toussaint,Chris Archer,Anthony Swarzak,"Albies, Donaldson, Markakis, McCann (2)"
+68,2019-06-12,-,ATL,NL,PIT,NL,Home,Night,"24,428",4:17,W,8-7,11,Box | PBP,39-29,1,2,6,--,W6,Jacob Webb,Michael Feliz,---,Riley
+69,2019-06-13,-,ATL,NL,PIT,NL,Home,Day,"35,108",3:30,W,6-5,9,Box | PBP,40-29,1,2,6,--,W7,Julio Teheran,Joe Musgrove,Luke Jackson,---
+70,2019-06-14,-,ATL,NL,PHI,NL,Home,Night,"41,975",3:30,W,9-8,9,Box | PBP,41-29,1,2,6,--,W8,Jerry Blevins,Hector Neris,---,"Donaldson, Freeman, McCann"
+71,2019-06-15,-,ATL,NL,PHI,NL,Home,Night,"43,593",3:55,L,5-6,9,Box | PBP,41-30,1,2,6,--,L1,Edubray Ramos,Luke Jackson,Hector Neris,"Donaldson, Riley"
+72,2019-06-16,-,ATL,NL,PHI,NL,Home,Day,"40,855",3:09,W,15-1,9,Box | PBP,42-30,1,2,6,--,W1,Mike Foltynewicz,Vincent Velasquez,---,"Acuna, Donaldson, Flowers"
+73,2019-06-17,-,ATL,NL,NYN,NL,Home,Night,"24,660",3:05,W,12-3,9,Box | PBP,43-30,1,2,6,--,W2,Mike Soroka,Zack Wheeler,---,"Acuna, Albies, McCann"
+74,2019-06-18,-,ATL,NL,NYN,NL,Home,Night,"24,791",3:04,L,2-10,9,Box | PBP,43-31,1,2,6,--,L1,Jacob deGrom,Julio Teheran,---,"Donaldson, Freeman"
+75,2019-06-19,-,ATL,NL,NYN,NL,Home,Night,"37,104",3:03,W,7-2,9,Box | PBP,44-31,1,2,5,--,W1,Max Fried,Steven Matz,---,"Donaldson, Freeman"
+76,2019-06-21,-,ATL,NL,WAS,NL,Away,Night,"34,212",3:01,L,3-4,9,Box | PBP,44-32,1,2,5,--,L1,Stephen Strasburg,Dallas Keuchel,Wander Suero,Riley
+77,2019-06-22,-,ATL,NL,WAS,NL,Away,Night,"37,492",3:42,W,13-9,9,Box | PBP,45-32,1,2,5,--,W1,A.J. Minter,Joe Ross,---,"Flowers, Swanson"
+78,2019-06-23,-,ATL,NL,WAS,NL,Away,Day,"34,256",3:09,W,4-3,10,Box | PBP,46-32,1,2,5,--,W2,A.J. Minter,Tanner Rainey,Luke Jackson,"Acuna, Camargo, Donaldson"
+79,2019-06-24,-,ATL,NL,CHN,NL,Away,Night,"37,603",3:01,L,3-8,9,Box | PBP,46-33,1,2,5,--,L1,Jon Lester,Julio Teheran,---,Swanson
+80,2019-06-25,-,ATL,NL,CHN,NL,Away,Night,"37,333",2:59,W,3-2,9,Box | PBP,47-33,1,2,5,--,W1,Max Fried,Mike Montgomery,Luke Jackson,"Acuna, Albies"
+81,2019-06-26,-,ATL,NL,CHN,NL,Away,Night,"38,017",3:02,W,5-3,9,Box | PBP,48-33,1,2,5,--,W2,Dallas Keuchel,Yu Darvish,A.J. Minter,"Markakis, McCann"
+82,2019-06-27,-,ATL,NL,CHN,NL,Away,Day,"39,823",3:02,L,7-9,9,Box | PBP,48-34,1,2,5,--,L1,Tyler Chatwood,Josh Tomlin,Craig Kimbrel,"Albies, Freeman"
+83,2019-06-28,-,ATL,NL,NYN,NL,Away,Night,"36,421",2:55,W,6-2,9,Box | PBP,49-34,1,2,5,--,W1,Mike Soroka,Jacob deGrom,---,Riley
+84,2019-06-29,-,ATL,NL,NYN,NL,Away,Day,"40,809",3:39,W,5-4,9,Box | PBP,50-34,1,2,5,--,W2,Sean Newcomb,Seth Lugo,Luke Jackson,"Markakis, Riley"
+85,2019-06-30,-,ATL,NL,NYN,NL,Away,Night,"31,743",3:27,L,5-8,9,Box | PBP,50-35,1,2,5,--,L1,Wilmer Font,Sean Newcomb,Edwin Diaz,Acuna
+86,2019-07-02,-,ATL,NL,PHI,NL,Home,Night,"40,180",2:48,L,0-2,9,Box | PBP,50-36,1,2,5,--,L2,Aaron Nola,Dallas Keuchel,Hector Neris,---
+87,2019-07-03,-,ATL,NL,PHI,NL,Home,Night,"40,147",2:36,W,9-2,9,Box | PBP,51-36,1,2,5,--,W1,Bryse Wilson,Nick Pivetta,---,"Donaldson, Joyce, Riley"
+88,2019-07-04,-,ATL,NL,PHI,NL,Home,Night,"40,633",3:32,W,12-6,9,Box | PBP,52-36,1,2,5,--,W2,A.J. Minter,Zach Eflin,---,"Albies, Donaldson, Freeman, Swanson (2)"
+89,2019-07-05,-,ATL,NL,MIA,NL,Home,Night,"41,102",3:00,W,1-0,9,Box | PBP,53-36,1,2,5,--,W3,Luke Jackson,Jose Quijada,---,---
+90,2019-07-06,-,ATL,NL,MIA,NL,Home,Day,"37,216",3:19,L,4-5,9,Box | PBP,53-37,1,2,5,--,L1,Caleb Smith,Max Fried,Sergio Romo,"Acuna, Riley"
+91,2019-07-07,-,ATL,NL,MIA,NL,Home,Day,"30,514",3:02,W,4-3,9,Box | PBP,54-37,1,2,5,--,W1,Dallas Keuchel,Trevor Richards,Luke Jackson,Donaldson
+92,2019-07-12,-,ATL,NL,SDN,NL,Away,Night,"34,692",3:03,W,5-3,9,Box | PBP,55-37,1,2,5,--,W2,Dallas Keuchel,Dinelson Lamet,Luke Jackson,"Acuna, Donaldson (2)"
+93,2019-07-13,-,ATL,NL,SDN,NL,Away,Night,"43,148",4:05,W,7-5,10,Box | PBP,56-37,1,2,5,--,W3,Sean Newcomb,Luis Perdomo,Luke Jackson,"Acuna, Donaldson"
+94,2019-07-14,-,ATL,NL,SDN,NL,Away,Day,"34,739",3:15,W,4-1,9,Box | PBP,57-37,1,2,5,--,W4,Mike Soroka,Trey Wingenter,A.J. Minter,Freeman
+95,2019-07-15,-,ATL,NL,MIL,NL,Away,Night,"31,850",3:02,W,4-2,9,Box | PBP,58-37,1,2,5,--,W5,Max Fried,Adrian Houser,Luke Jackson,Freeman
+96,2019-07-16,-,ATL,NL,MIL,NL,Away,Night,"31,599",3:29,L,1-13,9,Box | PBP,58-38,1,2,5,--,L1,Brandon Woodruff,Bryse Wilson,---,Flowers
+97,2019-07-17,-,ATL,NL,MIL,NL,Away,Day,"36,928",3:07,L,4-5,9,Box | PBP,58-39,1,2,5,--,L2,Chase Anderson,Dallas Keuchel,Josh Hader,Donaldson
+98,2019-07-18,-,ATL,NL,WAS,NL,Home,Night,"39,363",3:44,L,4-13,9,Box | PBP,58-40,1,2,5,--,L3,Stephen Strasburg,Kyle Wright,---,Markakis
+99,2019-07-19,-,ATL,NL,WAS,NL,Home,Night,"39,344",3:30,W,4-3,9,Box | PBP,59-40,1,2,5,--,W1,Luke Jackson,Fernando Rodney,---,---
+100,2019-07-20,-,ATL,NL,WAS,NL,Home,Night,"42,467",3:14,L,3-5,9,Box | PBP,59-41,1,2,5,--,L1,Anibal Sanchez,Mike Soroka,Sean Doolittle,McCann
+101,2019-07-21,-,ATL,NL,WAS,NL,Home,Night,"31,848",3:02,W,7-1,9,Box | PBP,60-41,1,2,5,--,W1,Kevin Gausman,Joe Ross,---,"Acuna, Donaldson"
+102,2019-07-23,-,ATL,NL,KCA,AL,Home,Night,"36,570",3:30,L,4-5,9,Box | PBP,60-42,1,2,5,--,L1,Tim Hill,Anthony Swarzak,Ian Kennedy,---
+103,2019-07-24,-,ATL,NL,KCA,AL,Home,Night,"38,865",2:43,L,0-2,9,Box | PBP,60-43,1,2,6,--,L2,Brad Keller,Julio Teheran,Ian Kennedy,---
+104,2019-07-26,-,ATL,NL,PHI,NL,Away,Night,"31,268",3:02,W,9-2,9,Box | PBP,61-43,1,2,6,--,W1,Sean Newcomb,Jake Arrieta,---,McCann
+105,2019-07-27,-,ATL,NL,PHI,NL,Away,Night,"39,340",3:34,W,15-7,9,Box | PBP,62-43,1,2,6,--,W2,Max Fried,Zach Eflin,---,"Acuna, Albies, Duvall, Inciarte"
+106,2019-07-28,-,ATL,NL,PHI,NL,Away,Day,"37,037",3:13,L,4-9,9,Box | PBP,62-44,1,2,6,--,L1,Aaron Nola,Kevin Gausman,---,"Camargo, Inciarte"
+107,2019-07-29,-,ATL,NL,WAS,NL,Away,Night,"24,292",3:23,L,3-6,9,Box | PBP,62-45,1,2,6,--,L2,Patrick Corbin,Dallas Keuchel,---,Culberson
+108,2019-07-30,-,ATL,NL,WAS,NL,Away,Night,"26,566",3:47,W,11-8,9,Box | PBP,63-45,1,2,6,--,W1,Julio Teheran,Erick Fedde,---,"Donaldson, Duvall (2)"
+109,2019-07-31,-,ATL,NL,WAS,NL,Away,Day,"31,576",3:14,W,5-4,10,Box | PBP,64-45,1,2,6,--,W2,Sean Newcomb,Sean Doolittle,Josh Tomlin,"Donaldson, Duvall"
+110,2019-08-01,-,ATL,NL,CIN,NL,Home,Night,"28,677",2:08,W,4-1,6,Box | PBP,65-45,1,2,5,--,W3,Max Fried,Anthony DeSclafani,---,"Duvall, Freeman"
+111,2019-08-02,-,ATL,NL,CIN,NL,Home,Night,"37,743",3:01,L,2-5,9,Box | PBP,65-46,1,2,6,--,L1,Alex Wood,Kevin Gausman,Raisel Iglesias,"Acuna, Riley"
+112,2019-08-03,-,ATL,NL,CIN,NL,Home,Night,"42,085",3:47,W,5-4,10,Box | PBP,66-46,1,2,6,--,W1,Luke Jackson,Jared Hughes,---,---
+113,2019-08-04,-,ATL,NL,CIN,NL,Home,Day,"33,083",3:54,L,4-6,10,Box | PBP,66-47,1,2,6,--,L1,Robert Stephenson,Shane Greene,David Hernandez,"Acuna, Donaldson, Flowers"
+114,2019-08-05,-,ATL,NL,MIN,AL,Away,Night,"26,722",3:01,L,3-5,9,Box | PBP,66-48,1,2,6,--,L2,Trevor May,Chris Martin,---,Freeman
+115,2019-08-06,-,ATL,NL,MIN,AL,Away,Night,"36,721",3:27,W,12-7,9,Box | PBP,67-48,1,2,6,--,W1,Mike Foltynewicz,Jose Berrios,---,"Acuna, Freeman"
+116,2019-08-07,-,ATL,NL,MIN,AL,Away,Day,"35,682",3:33,W,11-7,9,Box | PBP,68-48,1,2,6,--,W2,Max Fried,Martin Perez,---,"Acuna, Albies (2), Freeman"
+117,2019-08-08,-,ATL,NL,MIA,NL,Away,Night,"8,948",3:04,L,2-9,9,Box | PBP,68-49,1,2,6,--,L1,Elieser Hernandez,Dallas Keuchel,---,Acuna
+118,2019-08-09,-,ATL,NL,MIA,NL,Away,Night,"8,057",3:19,W,8-4,9,Box | PBP,69-49,1,2,6,--,W1,Julio Teheran,Caleb Smith,---,"Acuna (2), Albies"
+119,2019-08-10,-,ATL,NL,MIA,NL,Away,Night,"29,720",3:34,L,6-7,10,Box | PBP,69-50,1,2,6,--,L1,Jeff Brigham,Sean Newcomb,---,Camargo
+120,2019-08-11,-,ATL,NL,MIA,NL,Away,Day,"12,338",3:23,W,5-4,9,Box | PBP,70-50,1,2,6,--,W1,Mike Foltynewicz,Hector Noesi,Luke Jackson,"Acuna, Inciarte"
+121,2019-08-13,-,ATL,NL,NYN,NL,Home,Night,"27,627",3:18,W,5-3,9,Box | PBP,71-50,1,2,6,--,W2,Max Fried,Zack Wheeler,Mark Melancon,Acuna
+122,2019-08-14,-,ATL,NL,NYN,NL,Home,Night,"23,582",3:15,W,6-4,9,Box | PBP,72-50,1,2,6,--,W3,Chris Martin,Seth Lugo,Jerry Blevins,---
+123,2019-08-15,-,ATL,NL,NYN,NL,Home,Night,"25,424",3:33,L,8-10,9,Box | PBP,72-51,1,2,6,--,L1,Marcus Stroman,Julio Teheran,Edwin Diaz,"Acuna, Donaldson (2), Freeman (2), Joyce"
+124,2019-08-16,-,ATL,NL,LAN,NL,Home,Night,"41,413",3:06,L,3-8,9,Box | PBP,72-52,1,2,6,--,L2,Adam Kolarek,Sean Newcomb,Julio Urias,---
+125,2019-08-17,-,ATL,NL,LAN,NL,Home,Night,"43,619",3:17,W,4-3,9,Box | PBP,73-52,1,2,6,--,W1,Sean Newcomb,Hyun-Jin Ryu,Mark Melancon,"Donaldson, Duvall"
+126,2019-08-18,-,ATL,NL,LAN,NL,Home,Day,"37,617",3:11,W,5-3,9,Box | PBP,74-52,1,2,6,--,W2,Anthony Swarzak,Dustin May,Mark Melancon,Ortega
+127,2019-08-20,-,ATL,NL,MIA,NL,Home,Night,"21,271",3:00,W,5-1,9,Box | PBP,75-52,1,2,5,--,W3,Dallas Keuchel,Tyler Kinley,---,Freeman (2)
+128,2019-08-21,-,ATL,NL,MIA,NL,Home,Night,"23,537",2:44,W,5-0,9,Box | PBP,76-52,1,2,5,--,W4,Julio Teheran,Caleb Smith,---,"Acuna, Hechavarria"
+129,2019-08-22,-,ATL,NL,MIA,NL,Home,Night,"23,967",2:40,W,3-2,9,Box | PBP,77-52,1,2,5,--,W5,Mark Melancon,Ryne Stanek,---,Freeman
+130,2019-08-23,-,ATL,NL,NYN,NL,Away,Night,"31,437",4:37,W,2-1,14,Box | PBP,78-52,1,2,5,--,W6,Luke Jackson,Jeurys Familia,Mark Melancon,---
+131,2019-08-24,-,ATL,NL,NYN,NL,Away,Night,"38,300",3:14,W,9-5,9,Box | PBP,79-52,1,2,5,--,W7,Josh Tomlin,Brad Brach,---,"Albies, Donaldson, Freeman"
+132,2019-08-25,-,ATL,NL,NYN,NL,Away,Day,"30,170",2:45,W,2-1,9,Box | PBP,80-52,1,2,5,--,W8,Dallas Keuchel,Steven Matz,Mark Melancon,Donaldson (2)
+133,2019-08-26,-,ATL,NL,COL,NL,Away,Day,"29,803",3:27,L,1-3,9,Box | PBP,80-53,1,2,5,--,L1,Jairo Diaz,Anthony Swarzak,---,---
+134,2019-08-27,-,ATL,NL,TOR,AL,Away,Night,"24,578",2:57,L,1-3,9,Box | PBP,80-54,1,2,5,--,L2,Zack Godley,Mike Soroka,Ken Giles,---
+135,2019-08-28,-,ATL,NL,TOR,AL,Away,Night,"23,112",3:33,W,9-4,9,Box | PBP,81-54,1,2,5,--,W1,Luke Jackson,Jacob Waguespack,---,"Freeman, Joyce"
+136,2019-08-30,-,ATL,NL,CHA,AL,Home,Night,"39,097",3:28,W,10-7,9,Box | PBP,82-54,1,2,5,--,W2,Max Fried,Ivan Nova,Mark Melancon,Flowers
+137,2019-08-31,-,ATL,NL,CHA,AL,Home,Night,"36,664",3:52,W,11-5,9,Box | PBP,83-54,1,2,5,--,W3,Dallas Keuchel,Reynaldo Lopez,---,Donaldson
+138,2019-09-01,-,ATL,NL,CHA,AL,Home,Night,"41,397",3:08,W,5-3,9,Box | PBP,84-54,1,2,5,--,W4,Julio Teheran,Lucas Giolito,Mark Melancon,Freeman (2)
+139,2019-09-02,-,ATL,NL,TOR,AL,Home,Day,"28,987",2:52,W,6-3,9,Box | PBP,85-54,1,2,5,--,W5,Mike Soroka,Jacob Waguespack,Mark Melancon,"Camargo, Donaldson"
+140,2019-09-03,-,ATL,NL,TOR,AL,Home,Night,"25,427",2:46,W,7-2,9,Box | PBP,86-54,1,2,5,--,W6,Mike Foltynewicz,Wilmer Font,---,---
+141,2019-09-05,-,ATL,NL,WAS,NL,Home,Night,"28,831",2:57,W,4-2,9,Box | PBP,87-54,1,2,5,--,W7,Max Fried,Stephen Strasburg,---,Acuna
+142,2019-09-06,-,ATL,NL,WAS,NL,Home,Night,"37,181",3:20,W,4-3,9,Box | PBP,88-54,1,2,4,--,W8,Dallas Keuchel,Patrick Corbin,Shane Greene,"Albies, Donaldson"
+143,2019-09-07,-,ATL,NL,WAS,NL,Home,Night,"40,467",3:29,W,5-4,9,Box | PBP,89-54,1,2,4,--,W9,Julio Teheran,Austin Voth,Mark Melancon,"Albies, Donaldson, Joyce, McCann"
+144,2019-09-08,-,ATL,NL,WAS,NL,Home,Day,"31,789",3:16,L,4-9,9,Box | PBP,89-55,1,2,4,--,L1,Max Scherzer,Mike Soroka,---,"Culberson, Joyce"
+145,2019-09-09,-,ATL,NL,PHI,NL,Away,Night,"25,071",2:47,W,7-2,9,Box | PBP,90-55,1,2,4,--,W1,Mike Foltynewicz,Aaron Nola,---,"Acuna, Donaldson"
+146,2019-09-10,-,ATL,NL,PHI,NL,Away,Night,"24,220",3:06,L,5-6,9,Box | PBP,90-56,1,2,5,--,L1,Blake Parker,Max Fried,Hector Neris,Camargo
+147,2019-09-11,-,ATL,NL,PHI,NL,Away,Night,"23,243",3:31,W,3-1,9,Box | PBP,91-56,1,2,4,--,W1,Dallas Keuchel,Zach Eflin,Mark Melancon,Flowers
+148,2019-09-12,-,ATL,NL,PHI,NL,Away,Night,"27,022",3:35,L,5-9,9,Box | PBP,91-57,1,2,4,--,L1,Jared Hughes,Julio Teheran,Hector Neris,"Acuna, Albies, Duvall"
+149,2019-09-13,-,ATL,NL,WAS,NL,Away,Night,"39,730",3:16,W,5-0,9,Box | PBP,92-57,1,2,4,--,W1,Mike Soroka,Max Scherzer,---,Albies
+150,2019-09-14,-,ATL,NL,WAS,NL,Away,Day,"39,664",3:29,W,10-1,9,Box | PBP,93-57,1,2,4,--,W2,Mike Foltynewicz,Wander Suero,---,---
+151,2019-09-15,-,ATL,NL,WAS,NL,Away,Day,"29,350",3:03,L,0-7,9,Box | PBP,93-58,1,2,4,--,L1,Anibal Sanchez,Max Fried,---,---
+152,2019-09-17,-,ATL,NL,PHI,NL,Home,Night,"28,843",3:26,L,4-5,9,Box | PBP,93-59,1,2,5,--,L2,Vincent Velasquez,Dallas Keuchel,Hector Neris,"Duvall, Hechavarria"
+153,2019-09-18,-,ATL,NL,PHI,NL,Home,Night,"27,937",2:59,L,1-4,9,Box | PBP,93-60,1,2,5,--,L3,Zach Eflin,Julio Teheran,Hector Neris,---
+154,2019-09-19,-,ATL,NL,PHI,NL,Home,Day,"33,223",3:10,W,5-4,9,Box | PBP,94-60,1,2,5,--,W1,Mike Soroka,Aaron Nola,Mark Melancon,"Acuna, Riley"
+155,2019-09-20,-,ATL,NL,SFN,NL,Home,Night,"37,419",2:21,W,6-0,9,Box | PBP,95-60,1,2,5,--,W2,Mike Foltynewicz,Tyler Beede,---,"Acuna, McCann"
+156,2019-09-21,-,ATL,NL,SFN,NL,Home,Night,"40,899",2:35,W,8-1,9,Box | PBP,96-60,1,2,4,--,W3,Max Fried,Johnny Cueto,---,"Cervelli, Duvall"
+157,2019-09-22,-,ATL,NL,SFN,NL,Home,Day,"33,674",3:07,L,1-4,9,Box | PBP,96-61,1,2,5,--,L1,Logan Webb,Dallas Keuchel,Will Smith,---
+158,2019-09-24,-,ATL,NL,KCA,AL,Away,Night,"16,688",3:28,L,6-9,9,Box | PBP,96-62,1,2,5,--,L2,Danny Duffy,Julio Teheran,---,"Albies, Cervelli"
+159,2019-09-25,-,ATL,NL,KCA,AL,Away,Night,"16,931",3:31,W,10-2,9,Box | PBP,97-62,1,2,5,--,W1,Luke Jackson,Jacob Barnes,---,---
+160,2019-09-27,-,ATL,NL,NYN,NL,Away,Night,"26,264",3:09,L,2-4,9,Box | PBP,97-63,1,2,5,--,L1,Marcus Stroman,Dallas Keuchel,Seth Lugo,---
+161,2019-09-28,-,ATL,NL,NYN,NL,Away,Night,"32,210",2:33,L,0-3,9,Box | PBP,97-64,1,2,5,--,L2,Steven Matz,Mike Foltynewicz,Edwin Diaz,---
+162,2019-09-29,-,ATL,NL,NYN,NL,Away,Day,"31,523",3:44,L,6-7,11,Box | PBP,97-65,1,2,5,--,L3,Chris Mazza,Grant Dayton,---,"Duvall, Hechavarria (2), Ortega"

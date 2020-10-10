@@ -1,0 +1,163 @@
+Game#,Game Date,Seq,Team,Lg,Opp,LgOpp,Hm/Aw,TimeDay,Att,GameTime,WL,Result,Inn,Boxscore,Record,Div Rk,Lg Rk,MLB Rk,GBL,Strk,Winning Pitcher,Losing Pitcher,Save Pitcher,Home Runs
+1,2018-03-29,-,ARI,NL,COL,NL,Home,Night,"48,703",3:36,W,8-2,9,Box | PBP,1-0,1,1,9,--,W1,Patrick Corbin,Jon Gray,---,---
+2,2018-03-30,-,ARI,NL,COL,NL,Home,Night,"23,937",3:22,W,9-8,9,Box | PBP,2-0,1,1,9,--,W2,Robbie Ray,Antonio Senzatela,Brad Boxberger,Ahmed
+3,2018-03-31,-,ARI,NL,COL,NL,Home,Night,"33,346",2:54,L,1-2,9,Box | PBP,2-1,1,5,11,--,L1,Bryan Shaw,Fernando Salas,Wade Davis,---
+4,2018-04-02,-,ARI,NL,LAN,NL,Home,Night,"21,735",5:46,W,8-7,15,Box | PBP,3-1,1,3,6,--,W1,Fernando Salas,Wilmer Font,---,Owings
+5,2018-04-03,-,ARI,NL,LAN,NL,Home,Night,"27,574",2:48,W,6-1,9,Box | PBP,4-1,1,3,4,--,W2,Zack Godley,Clayton Kershaw,---,"Descalso, Murphy, Peralta"
+6,2018-04-04,-,ARI,NL,LAN,NL,Home,Day,"25,754",2:25,W,3-0,9,Box | PBP,5-1,1,1,2,--,W3,Patrick Corbin,Alex Wood,Brad Boxberger,---
+7,2018-04-05,-,ARI,NL,SLN,NL,Away,Night,"46,512",3:32,W,3-1,9,Box | PBP,6-1,1,1,1,--,W4,Robbie Ray,Adam Wainwright,Brad Boxberger,---
+8,2018-04-07,-,ARI,NL,SLN,NL,Away,Day,"41,113",2:58,L,3-5,9,Box | PBP,6-2,1,2,4,--,L1,Michael Wacha,Zack Greinke,Bud Norris,---
+9,2018-04-08,-,ARI,NL,SLN,NL,Away,Day,"40,468",2:53,W,4-1,9,Box | PBP,7-2,1,2,4,--,W1,Yoshihisa Hirano,Dominic Leone,Brad Boxberger,"Peralta, Pollock"
+10,2018-04-09,-,ARI,NL,SFN,NL,Away,Night,"36,997",2:33,W,2-1,9,Box | PBP,8-2,1,2,4,--,W2,Zack Godley,Derek Holland,Archie Bradley,---
+11,2018-04-10,-,ARI,NL,SFN,NL,Away,Night,"37,869",3:24,L,4-5,9,Box | PBP,8-3,1,3,6,--,L1,Hunter Strickland,Jorge de la Rosa,---,Goldschmidt
+12,2018-04-11,-,ARI,NL,SFN,NL,Away,Day,"35,041",3:09,W,7-3,9,Box | PBP,9-3,1,2,4,--,W1,Fernando Salas,Andrew Suarez,---,"Goldschmidt, Murphy"
+13,2018-04-13,-,ARI,NL,LAN,NL,Away,Night,"43,791",3:30,W,8-7,9,Box | PBP,10-3,1,2,4,--,W2,Zack Greinke,Kenta Maeda,Brad Boxberger,"Ahmed, Descalso"
+14,2018-04-14,-,ARI,NL,LAN,NL,Away,Night,"44,306",3:10,W,9-1,9,Box | PBP,11-3,1,2,4,--,W3,T.J. McFarland,Rich Hill,---,"Avila, Goldschmidt, Pollock (2)"
+15,2018-04-15,-,ARI,NL,LAN,NL,Away,Day,"47,527",3:09,L,2-7,9,Box | PBP,11-4,1,2,4,--,L1,Clayton Kershaw,Zack Godley,---,Goldschmidt
+16,2018-04-17,-,ARI,NL,SFN,NL,Home,Night,"19,669",2:05,W,1-0,9,Box | PBP,12-4,1,1,3,--,W1,Patrick Corbin,Tony Watson,---,---
+17,2018-04-18,-,ARI,NL,SFN,NL,Home,Night,"16,976",3:44,L,3-4,10,Box | PBP,12-5,1,2,4,--,L1,Hunter Strickland,Brad Boxberger,Cory Gearrin,---
+18,2018-04-19,-,ARI,NL,SFN,NL,Home,Night,"18,736",2:23,W,3-1,9,Box | PBP,13-5,1,1,2,--,W1,Zack Greinke,Ty Blach,Brad Boxberger,"Marte, Pollock"
+19,2018-04-20,-,ARI,NL,SDN,NL,Home,Night,"24,902",2:54,L,1-4,9,Box | PBP,13-6,1,2,3,--,L1,Brad Hand,Brad Boxberger,---,---
+20,2018-04-21,-,ARI,NL,SDN,NL,Home,Night,"38,820",2:55,W,6-2,9,Box | PBP,14-6,1,1,2,--,W1,Zack Godley,Clayton Richard,---,Pollock
+21,2018-04-22,-,ARI,NL,SDN,NL,Home,Day,"31,061",2:42,W,4-2,9,Box | PBP,15-6,1,1,2,--,W2,Patrick Corbin,Joey Lucchesi,Archie Bradley,Ahmed
+22,2018-04-24,-,ARI,NL,PHI,NL,Away,Night,"18,195",3:49,W,8-4,9,Box | PBP,16-6,1,1,2,--,W3,Fernando Salas,Vincent Velasquez,---,"Avila, Descalso, Dyson"
+23,2018-04-25,-,ARI,NL,PHI,NL,Away,Night,"21,349",2:55,L,3-5,9,Box | PBP,16-7,1,1,2,--,L1,Jake Arrieta,Zack Greinke,Hector Neris,---
+24,2018-04-26,-,ARI,NL,PHI,NL,Away,Day,"20,335",3:12,W,8-2,9,Box | PBP,17-7,1,1,2,--,W1,Matt Koch,Ben Lively,---,"Ahmed, Dyson, Peralta"
+25,2018-04-27,-,ARI,NL,WAS,NL,Away,Night,"26,517",3:02,W,5-4,9,Box | PBP,18-7,1,1,2,--,W2,Zack Godley,Stephen Strasburg,Brad Boxberger,Pollock
+26,2018-04-28,-,ARI,NL,WAS,NL,Away,Day,"32,963",3:16,W,4-3,10,Box | PBP,19-7,1,1,1,--,W3,Yoshihisa Hirano,Sammy Solis,Brad Boxberger,Peralta (2)
+27,2018-04-29,-,ARI,NL,WAS,NL,Away,Day,"30,285",2:49,L,1-3,9,Box | PBP,19-8,1,1,2,--,L1,Gio Gonzalez,T.J. McFarland,Sean Doolittle,---
+28,2018-04-30,-,ARI,NL,LAN,NL,Home,Night,"17,562",3:27,W,8-5,9,Box | PBP,20-8,1,1,2,--,W1,Zack Greinke,Ross Stripling,Brad Boxberger,"Ahmed, Pollock (3)"
+29,2018-05-01,-,ARI,NL,LAN,NL,Home,Night,"18,940",3:12,W,4-3,9,Box | PBP,21-8,1,1,1,--,W2,Silvino Bracho,Adam Liberatore,Brad Boxberger,"Pollock, Walker"
+30,2018-05-02,-,ARI,NL,LAN,NL,Home,Night,"19,531",3:12,L,1-2,9,Box | PBP,21-9,1,1,2,--,L1,Daniel Hudson,Zack Godley,Kenley Jansen,---
+31,2018-05-03,-,ARI,NL,LAN,NL,Home,Day,"21,407",3:17,L,2-5,9,Box | PBP,21-10,1,1,2,--,L2,J.T. Chargois,Fernando Salas,Kenley Jansen,---
+32,2018-05-04,-,ARI,NL,HOU,AL,Home,Night,"29,463",2:50,L,0-8,9,Box | PBP,21-11,1,1,3,--,L3,Gerrit Cole,Kris Medlen,---,---
+33,2018-05-05,-,ARI,NL,HOU,AL,Home,Night,"39,154",3:34,W,4-3,9,Box | PBP,22-11,1,1,3,--,W1,Brad Boxberger,Chris Devenski,---,Peralta
+34,2018-05-06,-,ARI,NL,HOU,AL,Home,Day,"35,632",2:55,W,3-1,9,Box | PBP,23-11,1,1,3,--,W2,Matt Koch,Justin Verlander,Brad Boxberger,---
+35,2018-05-08,-,ARI,NL,LAN,NL,Away,Night,"45,894",4:29,W,8-5,12,Box | PBP,24-11,1,1,3,--,W3,T.J. McFarland,Yimi Garcia,---,"Descalso, Murphy, Owings, Pollock"
+36,2018-05-09,-,ARI,NL,LAN,NL,Away,Night,"45,600",3:48,L,3-6,9,Box | PBP,24-12,1,1,3,--,L1,Pedro Baez,Fernando Salas,Kenley Jansen,Ahmed
+37,2018-05-10,-,ARI,NL,WAS,NL,Home,Night,"17,397",3:42,L,1-2,11,Box | PBP,24-13,1,1,3,--,L2,Brandon Kintzler,Fernando Salas,Sean Doolittle,---
+38,2018-05-11,-,ARI,NL,WAS,NL,Home,Night,"22,901",2:24,L,1-3,9,Box | PBP,24-14,1,1,3,--,L3,Max Scherzer,Matt Koch,Sean Doolittle,Peralta
+39,2018-05-12,-,ARI,NL,WAS,NL,Home,Day,"29,428",3:17,L,1-2,9,Box | PBP,24-15,1,1,3,--,L4,Stephen Strasburg,Troy Scribner,Ryan Madson,---
+40,2018-05-13,-,ARI,NL,WAS,NL,Home,Night,"31,906",3:09,L,4-6,9,Box | PBP,24-16,1,2,6,--,L5,Ryan Madson,Archie Bradley,Sean Doolittle,---
+41,2018-05-14,-,ARI,NL,MIL,NL,Home,Night,"17,390",3:06,L,2-7,9,Box | PBP,24-17,1,4,8,--,L6,Junior Guerra,Patrick Corbin,---,---
+42,2018-05-15,-,ARI,NL,MIL,NL,Home,Night,"17,914",2:40,W,2-1,9,Box | PBP,25-17,1,2,6,--,W1,Archie Bradley,Taylor Williams,Brad Boxberger,---
+43,2018-05-16,-,ARI,NL,MIL,NL,Home,Day,"16,762",3:04,L,2-8,9,Box | PBP,25-18,1,5,10,--,L1,Brandon Woodruff,Matt Koch,---,Descalso
+44,2018-05-18,-,ARI,NL,NYN,NL,Away,Night,"31,285",2:36,L,1-3,9,Box | PBP,25-19,1,7,11,--,L2,Jacob deGrom,Zack Godley,Jeurys Familia,---
+45,2018-05-19,-,ARI,NL,NYN,NL,Away,Night,"39,515",3:04,L,4-5,9,Box | PBP,25-20,1,7,12,--,L3,Jeurys Familia,Andrew Chafin,---,"Goldschmidt, Murphy"
+46,2018-05-20,-,ARI,NL,NYN,NL,Away,Day,"34,894",2:41,L,1-4,9,Box | PBP,25-21,1,8,14,--,L4,Noah Syndergaard,Jorge de la Rosa,Robert Gsellman,---
+47,2018-05-21,-,ARI,NL,MIL,NL,Away,Night,"27,094",2:31,L,2-4,9,Box | PBP,25-22,2,10,16,0.5,L5,Chase Anderson,Zack Greinke,Corey Knebel,Lamb
+48,2018-05-22,-,ARI,NL,MIL,NL,Away,Night,"27,065",2:40,L,0-1,9,Box | PBP,25-23,2,10,16,0.5,L6,Matt Albers,Matt Koch,Corey Knebel,---
+49,2018-05-23,-,ARI,NL,MIL,NL,Away,Day,"29,237",3:04,L,2-9,9,Box | PBP,25-24,2,10,17,0.5,L7,Brent Suter,Zack Godley,---,"Goldschmidt, Murphy"
+50,2018-05-25,-,ARI,NL,OAK,AL,Away,Night,"22,691",3:02,W,7-1,9,Box | PBP,26-24,2,10,15,0.5,W1,Patrick Corbin,Sean Manaea,---,Ahmed
+51,2018-05-26,-,ARI,NL,OAK,AL,Away,Day,"17,580",2:15,L,0-3,9,Box | PBP,26-25,2,10,16,0.5,L1,Daniel Mengden,Clay Buchholz,---,---
+52,2018-05-27,-,ARI,NL,OAK,AL,Away,Day,"13,947",2:38,L,1-2,9,Box | PBP,26-26,2,10,17,1.5,L2,Frankie Montas,Zack Greinke,Blake Treinen,---
+53,2018-05-28,-,ARI,NL,CIN,NL,Home,Day,"29,924",3:19,W,12-5,9,Box | PBP,27-26,2,10,17,1.5,W1,Matt Koch,Homer Bailey,---,"Ahmed, Murphy, Owings"
+54,2018-05-29,-,ARI,NL,CIN,NL,Home,Night,"20,046",2:40,W,5-2,9,Box | PBP,28-26,2,9,14,1.5,W2,Zack Godley,Luis Castillo,Brad Boxberger,Descalso
+55,2018-05-30,-,ARI,NL,CIN,NL,Home,Day,"18,340",3:06,L,4-7,9,Box | PBP,28-27,2,10,17,1.5,L1,Sal Romano,Patrick Corbin,Raisel Iglesias,"Goldschmidt, Murphy"
+56,2018-06-01,-,ARI,NL,MIA,NL,Home,Night,"25,866",2:40,W,9-1,9,Box | PBP,29-27,2,9,15,0.5,W1,Clay Buchholz,Elieser Hernandez,---,"Descalso, Lamb, Marte (2), Murphy, Peralta"
+57,2018-06-02,-,ARI,NL,MIA,NL,Home,Night,"34,117",3:01,W,6-2,9,Box | PBP,30-27,1,7,12,--,W2,Zack Greinke,Caleb Smith,---,"Goldschmidt, Peralta"
+58,2018-06-03,-,ARI,NL,MIA,NL,Home,Day,"31,727",2:47,W,6-1,9,Box | PBP,31-27,1,7,11,--,W3,Matt Koch,Dan Straily,---,Peralta
+59,2018-06-04,-,ARI,NL,SFN,NL,Away,Night,"36,542",3:11,L,3-10,9,Box | PBP,31-28,1,7,12,--,L1,Pierce Johnson,Zack Godley,---,---
+60,2018-06-05,-,ARI,NL,SFN,NL,Away,Night,"36,925",3:05,W,3-2,9,Box | PBP,32-28,1,7,12,--,W1,Patrick Corbin,Madison Bumgarner,Brad Boxberger,---
+61,2018-06-06,-,ARI,NL,SFN,NL,Away,Day,"41,042",3:38,L,4-5,10,Box | PBP,32-29,1,7,14,--,L1,Hunter Strickland,Andrew Chafin,---,---
+62,2018-06-08,-,ARI,NL,COL,NL,Away,Night,"38,917",2:51,W,9-4,9,Box | PBP,33-29,1,6,12,--,W1,Zack Greinke,German Marquez,---,"Goldschmidt (2), Lamb, Peralta"
+63,2018-06-09,-,ARI,NL,COL,NL,Away,Night,"43,197",3:34,W,12-7,9,Box | PBP,34-29,1,6,11,--,W2,Silvino Bracho,Bryan Shaw,---,"Ahmed, Goldschmidt (2)"
+64,2018-06-10,-,ARI,NL,COL,NL,Away,Day,"36,433",3:23,W,8-3,9,Box | PBP,35-29,1,6,11,--,W3,Zack Godley,Kyle Freeland,---,Marte
+65,2018-06-11,-,ARI,NL,PIT,NL,Home,Night,"20,927",3:07,W,9-5,9,Box | PBP,36-29,1,6,10,--,W4,Archie Bradley,Kyle Crick,---,Lamb
+66,2018-06-12,-,ARI,NL,PIT,NL,Home,Night,"22,488",3:56,W,13-8,9,Box | PBP,37-29,1,5,9,--,W5,Fernando Salas,Trevor Williams,---,Jay
+67,2018-06-13,-,ARI,NL,PIT,NL,Home,Day,"32,803",3:07,L,4-5,9,Box | PBP,37-30,1,5,9,--,L1,Jameson Taillon,Zack Greinke,Felipe Vazquez,Peralta
+68,2018-06-14,-,ARI,NL,NYN,NL,Home,Night,"23,300",2:38,W,6-3,9,Box | PBP,38-30,1,5,9,--,W1,Matt Koch,Jason Vargas,Brad Boxberger,"Goldschmidt, Lamb, Peralta (2)"
+69,2018-06-15,-,ARI,NL,NYN,NL,Home,Night,"32,170",3:20,W,7-3,9,Box | PBP,39-30,1,5,9,--,W2,Zack Godley,Seth Lugo,Brad Boxberger,"Descalso, Goldschmidt"
+70,2018-06-16,-,ARI,NL,NYN,NL,Home,Night,"31,824",2:56,L,1-5,9,Box | PBP,39-31,1,5,9,--,L1,Steven Matz,Patrick Corbin,---,---
+71,2018-06-17,-,ARI,NL,NYN,NL,Home,Day,"47,907",3:27,L,3-5,9,Box | PBP,39-32,1,5,9,--,L2,Jeurys Familia,Brad Boxberger,Robert Gsellman,---
+72,2018-06-18,-,ARI,NL,ANA,AL,Away,Night,"33,809",3:21,W,7-4,9,Box | PBP,40-32,1,4,8,--,W1,Zack Greinke,Jaime Barria,Archie Bradley,"Ahmed, Goldschmidt, Marte"
+73,2018-06-19,-,ARI,NL,ANA,AL,Away,Night,"33,088",3:11,L,4-5,9,Box | PBP,40-33,1,5,9,--,L1,Jose Alvarez,Matt Koch,Blake Parker,Goldschmidt
+74,2018-06-21,-,ARI,NL,PIT,NL,Away,Night,"20,554",3:11,W,9-3,9,Box | PBP,41-33,1,4,8,--,W1,Zack Godley,Chad Kuhl,---,"Avila, Marte"
+75,2018-06-22,-,ARI,NL,PIT,NL,Away,Night,"24,843",3:51,W,2-1,13,Box | PBP,42-33,1,4,8,--,W2,Andrew Chafin,Tyler Glasnow,T.J. McFarland,---
+76,2018-06-23,-,ARI,NL,PIT,NL,Away,Day,"21,121",2:52,W,7-2,9,Box | PBP,43-33,1,4,8,--,W3,Zack Greinke,Joe Musgrove,---,Goldschmidt
+77,2018-06-24,-,ARI,NL,PIT,NL,Away,Day,"19,207",2:32,W,3-0,9,Box | PBP,44-33,1,3,7,--,W4,Clay Buchholz,Trevor Williams,Brad Boxberger,"Murphy, Peralta"
+78,2018-06-25,-,ARI,NL,MIA,NL,Away,Night,"6,105",3:14,L,5-9,9,Box | PBP,44-34,1,3,7,--,L1,Dan Straily,Shelby Miller,---,Lamb
+79,2018-06-26,-,ARI,NL,MIA,NL,Away,Night,"6,159",3:24,W,5-3,9,Box | PBP,45-34,1,3,7,--,W1,Zack Godley,Elieser Hernandez,Brad Boxberger,---
+80,2018-06-27,-,ARI,NL,MIA,NL,Away,Night,"6,382",2:52,W,2-1,9,Box | PBP,46-34,1,2,6,--,W2,Robbie Ray,Wei-Yin Chen,Brad Boxberger,Descalso
+81,2018-06-28,-,ARI,NL,MIA,NL,Away,Day,"12,715",3:06,W,4-0,9,Box | PBP,47-34,1,2,6,--,W3,Zack Greinke,Trevor Richards,---,---
+82,2018-06-29,-,ARI,NL,SFN,NL,Home,Night,"30,981",2:49,L,1-2,9,Box | PBP,47-35,1,3,7,--,L1,Andrew Suarez,Andrew Chafin,Will Smith,---
+83,2018-06-30,-,ARI,NL,SFN,NL,Home,Night,"38,117",2:51,L,0-7,9,Box | PBP,47-36,1,4,8,--,L2,Dereck Rodriguez,Shelby Miller,---,---
+84,2018-07-01,-,ARI,NL,SFN,NL,Home,Day,"29,721",3:45,L,6-9,9,Box | PBP,47-37,1,4,8,--,L3,Cory Gearrin,Zack Godley,Will Smith,Goldschmidt
+85,2018-07-02,-,ARI,NL,SLN,NL,Home,Night,"20,334",2:52,L,3-6,9,Box | PBP,47-38,1,4,9,--,L4,Carlos Martinez,Robbie Ray,Bud Norris,---
+86,2018-07-03,-,ARI,NL,SLN,NL,Home,Night,"25,843",2:51,W,4-2,9,Box | PBP,48-38,1,4,9,--,W1,Zack Greinke,Jack Flaherty,Brad Boxberger,Goldschmidt
+87,2018-07-04,-,ARI,NL,SLN,NL,Home,Night,"44,072",3:47,L,4-8,9,Box | PBP,48-39,1,5,11,--,L1,Miles Mikolas,Yoshihisa Hirano,---,---
+88,2018-07-05,-,ARI,NL,SDN,NL,Home,Night,"17,982",3:15,L,3-6,9,Box | PBP,48-40,2,6,12,--,L2,Eric Lauer,Shelby Miller,Brad Hand,Marte
+89,2018-07-06,-,ARI,NL,SDN,NL,Home,Night,"25,128",2:52,W,3-1,9,Box | PBP,49-40,1,5,10,--,W1,Zack Godley,Joey Lucchesi,Brad Boxberger,---
+90,2018-07-07,-,ARI,NL,SDN,NL,Home,Night,"27,091",3:23,W,20-5,9,Box | PBP,50-40,1,5,10,--,W2,Randall Delgado,Tyson Ross,---,"Ahmed, Avila, Goldschmidt, Marte, Souza"
+91,2018-07-08,-,ARI,NL,SDN,NL,Home,Day,"24,869",5:31,L,3-4,16,Box | PBP,50-41,1,5,11,--,L1,Brad Hand,Jeff Mathis,---,---
+92,2018-07-10,-,ARI,NL,COL,NL,Away,Night,"43,405",3:40,W,5-3,9,Box | PBP,51-41,1,5,10,--,W1,Randall Delgado,Jake McGee,Brad Boxberger,"Ahmed, Peralta, Pollock"
+93,2018-07-11,-,ARI,NL,COL,NL,Away,Night,"33,919",3:05,L,2-19,9,Box | PBP,51-42,1,5,11,--,L1,German Marquez,Shelby Miller,---,Goldschmidt
+94,2018-07-12,-,ARI,NL,COL,NL,Away,Day,"41,410",3:17,L,1-5,9,Box | PBP,51-43,2,6,12,0.5,L2,Scott Oberg,Robbie Ray,---,---
+95,2018-07-13,-,ARI,NL,ATL,NL,Away,Night,"42,130",3:05,W,2-1,9,Box | PBP,52-43,2,6,12,0.5,W1,Zack Godley,Sam Freeman,Brad Boxberger,---
+96,2018-07-14,-,ARI,NL,ATL,NL,Away,Day,"40,862",2:53,W,3-0,9,Box | PBP,53-43,1,4,9,--,W2,Zack Greinke,Sean Newcomb,Brad Boxberger,Marte
+97,2018-07-15,-,ARI,NL,ATL,NL,Away,Day,"27,323",2:42,L,1-5,9,Box | PBP,53-44,2,6,12,0.5,L1,Julio Teheran,Patrick Corbin,---,Jay
+98,2018-07-20,-,ARI,NL,COL,NL,Home,Night,"29,546",4:02,L,10-11,9,Box | PBP,53-45,2,6,12,1.5,L2,Scott Oberg,Archie Bradley,Adam Ottavino,---
+99,2018-07-21,-,ARI,NL,COL,NL,Home,Night,"43,340",3:21,L,5-6,9,Box | PBP,53-46,3,7,13,1.5,L3,Scott Oberg,Yoshihisa Hirano,Wade Davis,---
+100,2018-07-22,-,ARI,NL,COL,NL,Home,Day,"32,985",2:45,W,6-1,9,Box | PBP,54-46,2,6,12,1.5,W1,Zack Greinke,Antonio Senzatela,---,---
+101,2018-07-23,-,ARI,NL,CHN,NL,Away,Night,"40,859",2:55,W,7-1,9,Box | PBP,55-46,2,6,12,1.5,W2,Patrick Corbin,Luke Farrell,---,Goldschmidt
+102,2018-07-24,-,ARI,NL,CHN,NL,Away,Night,"40,869",3:13,W,5-1,9,Box | PBP,56-46,2,6,11,0.5,W3,Clay Buchholz,Kyle Hendricks,---,---
+103,2018-07-25,-,ARI,NL,CHN,NL,Away,Day,"35,548",2:39,L,1-2,9,Box | PBP,56-47,2,6,12,0.5,L1,Carl Edwards,T.J. McFarland,Pedro Strop,Pollock
+104,2018-07-26,-,ARI,NL,CHN,NL,Away,Day,"38,979",3:22,L,6-7,9,Box | PBP,56-48,2,6,12,1.5,L2,Eddie Butler,Brad Boxberger,---,"Ahmed, Avila"
+105,2018-07-27,-,ARI,NL,SDN,NL,Away,Night,"34,725",2:37,W,6-2,9,Box | PBP,57-48,2,5,11,1.5,W1,Zack Greinke,Luis Perdomo,---,---
+106,2018-07-28,-,ARI,NL,SDN,NL,Away,Night,"37,149",3:15,W,9-4,9,Box | PBP,58-48,2,5,10,1.5,W2,Archie Bradley,Phil Maton,---,---
+107,2018-07-29,-,ARI,NL,SDN,NL,Away,Day,"32,529",3:18,W,5-4,9,Box | PBP,59-48,2,5,10,0.5,W3,Clay Buchholz,Joey Lucchesi,Brad Boxberger,"Ahmed, Goldschmidt, Pollock"
+108,2018-07-30,-,ARI,NL,TEX,AL,Home,Night,"20,639",3:33,L,5-9,9,Box | PBP,59-49,2,5,10,0.5,L1,Eddie Butler,Matt Andriese,---,Souza
+109,2018-07-31,-,ARI,NL,TEX,AL,Home,Night,"21,877",2:45,W,6-0,9,Box | PBP,60-49,1,4,9,--,W1,Zack Godley,Bartolo Colon,---,Pollock
+110,2018-08-02,-,ARI,NL,SFN,NL,Home,Night,"22,980",3:26,L,1-8,9,Box | PBP,60-50,2,6,12,1.0,L1,Madison Bumgarner,Zack Greinke,---,---
+111,2018-08-03,-,ARI,NL,SFN,NL,Home,Night,"27,581",2:59,W,6-3,9,Box | PBP,61-50,1,5,10,--,W1,Patrick Corbin,Chris Stratton,Brad Boxberger,"Goldschmidt, Peralta"
+112,2018-08-04,-,ARI,NL,SFN,NL,Home,Night,"38,093",2:59,W,9-3,9,Box | PBP,62-50,1,4,9,--,W2,Clay Buchholz,Andrew Suarez,---,"Ahmed (2), Marte"
+113,2018-08-05,-,ARI,NL,SFN,NL,Home,Day,"27,884",3:15,L,2-3,9,Box | PBP,62-51,1,5,11,--,L1,Ray Black,Archie Bradley,Will Smith,Souza
+114,2018-08-06,-,ARI,NL,PHI,NL,Home,Night,"21,131",4:38,W,3-2,14,Box | PBP,63-51,1,5,11,--,W1,Yoshihisa Hirano,Austin Davis,---,Peralta (2)
+115,2018-08-07,-,ARI,NL,PHI,NL,Home,Night,"22,382",3:08,L,2-5,9,Box | PBP,63-52,2,6,12,0.5,L1,Nick Pivetta,Zack Greinke,Pat Neshek,---
+116,2018-08-08,-,ARI,NL,PHI,NL,Home,Day,"23,384",2:58,W,6-0,9,Box | PBP,64-52,1,5,11,--,W1,Patrick Corbin,Vincent Velasquez,---,---
+117,2018-08-10,-,ARI,NL,CIN,NL,Away,Night,"19,089",2:30,L,0-3,9,Box | PBP,64-53,1,5,12,--,L1,Anthony DeSclafani,Clay Buchholz,Raisel Iglesias,---
+118,2018-08-11,-,ARI,NL,CIN,NL,Away,Night,"29,348",3:04,L,3-6,9,Box | PBP,64-54,1,5,12,--,L2,Amir Garrett,Archie Bradley,Raisel Iglesias,"Escobar, Peralta"
+119,2018-08-12,-,ARI,NL,CIN,NL,Away,Day,"17,909",2:53,W,9-2,9,Box | PBP,65-54,1,5,11,--,W1,Zack Godley,Luis Castillo,---,"Descalso, Escobar, Goldschmidt (2), Peralta"
+120,2018-08-13,-,ARI,NL,TEX,AL,Away,Night,"18,204",2:51,L,3-5,9,Box | PBP,65-55,1,5,11,--,L1,Bartolo Colon,Zack Greinke,Jose Leclerc,---
+121,2018-08-14,-,ARI,NL,TEX,AL,Away,Night,"19,353",3:08,W,6-4,9,Box | PBP,66-55,1,5,11,--,W1,Patrick Corbin,Yovani Gallardo,Brad Boxberger,"Avila, Goldschmidt"
+122,2018-08-16,-,ARI,NL,SDN,NL,Away,Night,"20,617",3:00,W,5-1,9,Box | PBP,67-55,1,5,11,--,W2,Clay Buchholz,Jacob Nix,---,Peralta
+123,2018-08-17,-,ARI,NL,SDN,NL,Away,Night,"20,010",3:46,W,9-4,9,Box | PBP,68-55,1,4,10,--,W3,Yoshihisa Hirano,Joey Lucchesi,---,"Escobar, Goldschmidt"
+124,2018-08-18,-,ARI,NL,SDN,NL,Away,Night,"24,440",2:54,L,6-7,9,Box | PBP,68-56,1,4,11,--,L1,Craig Stammen,Andrew Chafin,---,---
+125,2018-08-19,-,ARI,NL,SDN,NL,Away,Day,"22,346",3:09,W,4-3,9,Box | PBP,69-56,1,3,9,--,W1,Archie Bradley,Kirby Yates,Brad Boxberger,"Descalso, Peralta, Pollock"
+126,2018-08-21,-,ARI,NL,ANA,AL,Home,Night,"30,420",2:54,W,5-4,9,Box | PBP,70-56,1,3,9,--,W2,Brad Boxberger,Cam Bedrosian,---,Peralta
+127,2018-08-22,-,ARI,NL,ANA,AL,Home,Night,"23,584",3:05,W,5-1,9,Box | PBP,71-56,1,3,9,--,W3,Clay Buchholz,Odrisamer Despaigne,---,"Goldschmidt, Peralta"
+128,2018-08-24,-,ARI,NL,SEA,AL,Home,Night,"43,867",2:47,L,3-6,9,Box | PBP,71-57,1,4,10,--,L1,Erasmo Ramirez,Zack Godley,Edwin Diaz,---
+129,2018-08-25,-,ARI,NL,SEA,AL,Home,Night,"34,968",4:11,L,3-4,10,Box | PBP,71-58,1,4,11,--,L2,Alex Colome,Jake Diekman,Edwin Diaz,Escobar
+130,2018-08-26,-,ARI,NL,SEA,AL,Home,Day,"37,175",2:48,W,5-2,9,Box | PBP,72-58,1,4,10,--,W1,Zack Greinke,Mike Leake,Brad Boxberger,Goldschmidt
+131,2018-08-27,-,ARI,NL,SFN,NL,Away,Night,"38,808",2:32,L,0-2,9,Box | PBP,72-59,1,5,11,--,L1,Chris Stratton,Patrick Corbin,Hunter Strickland,---
+132,2018-08-28,-,ARI,NL,SFN,NL,Away,Night,"37,276",3:03,L,0-1,9,Box | PBP,72-60,1,5,12,--,L2,Will Smith,Brad Ziegler,---,---
+133,2018-08-29,-,ARI,NL,SFN,NL,Away,Night,"35,626",2:45,W,3-1,9,Box | PBP,73-60,1,5,11,--,W1,Zack Godley,Dereck Rodriguez,Brad Boxberger,Souza
+134,2018-08-30,-,ARI,NL,LAN,NL,Away,Night,"45,150",3:14,W,3-1,9,Box | PBP,74-60,1,5,11,--,W2,Robbie Ray,Rich Hill,Brad Boxberger,Peralta
+135,2018-08-31,-,ARI,NL,LAN,NL,Away,Night,"48,965",2:33,L,2-3,9,Box | PBP,74-61,1,5,11,--,L1,Dylan Floro,Zack Greinke,Kenley Jansen,Goldschmidt
+136,2018-09-01,-,ARI,NL,LAN,NL,Away,Night,"52,394",2:59,L,2-3,9,Box | PBP,74-62,1,5,11,--,L2,Kenta Maeda,Archie Bradley,Kenley Jansen,"Escobar, Walker"
+137,2018-09-02,-,ARI,NL,LAN,NL,Away,Day,"48,517",3:35,L,2-3,9,Box | PBP,74-63,3,7,13,1.0,L3,Kenley Jansen,Brad Boxberger,---,Descalso
+138,2018-09-03,-,ARI,NL,SDN,NL,Home,Night,"22,514",3:19,L,2-6,9,Box | PBP,74-64,3,7,14,1.5,L4,Bryan Mitchell,Zack Godley,---,---
+139,2018-09-04,-,ARI,NL,SDN,NL,Home,Night,"18,556",2:47,W,6-0,9,Box | PBP,75-64,3,7,14,1.5,W1,Robbie Ray,Joey Lucchesi,---,---
+140,2018-09-06,-,ARI,NL,ATL,NL,Home,Night,"21,903",4:11,L,6-7,10,Box | PBP,75-65,3,7,14,2.5,L1,Jesse Biddle,Brad Boxberger,Brad Brach,Goldschmidt
+141,2018-09-07,-,ARI,NL,ATL,NL,Home,Night,"31,308",3:48,W,5-3,9,Box | PBP,76-65,3,7,14,1.5,W1,Patrick Corbin,Kevin Gausman,Brad Boxberger,Goldschmidt
+142,2018-09-08,-,ARI,NL,ATL,NL,Home,Night,"40,482",4:07,L,4-5,10,Box | PBP,76-66,3,7,14,2.5,L1,Chad Sobotka,Andrew Chafin,A.J. Minter,---
+143,2018-09-09,-,ARI,NL,ATL,NL,Home,Day,"28,339",3:45,L,5-9,9,Box | PBP,76-67,3,7,14,2.5,L2,Sam Freeman,Brad Boxberger,---,---
+144,2018-09-10,-,ARI,NL,COL,NL,Away,Night,"25,114",3:09,L,2-13,9,Box | PBP,76-68,3,7,14,3.5,L3,German Marquez,Zack Godley,---,---
+145,2018-09-11,-,ARI,NL,COL,NL,Away,Night,"26,510",3:14,W,6-3,9,Box | PBP,77-68,3,7,14,2.5,W1,Zack Greinke,Antonio Senzatela,Yoshihisa Hirano,Peralta
+146,2018-09-12,-,ARI,NL,COL,NL,Away,Night,"31,687",3:07,L,4-5,9,Box | PBP,77-69,3,7,14,3.5,L1,Wade Davis,Yoshihisa Hirano,---,"Avila, Escobar"
+147,2018-09-13,-,ARI,NL,COL,NL,Away,Day,"31,783",3:04,L,3-10,9,Box | PBP,77-70,3,7,14,4.5,L2,Kyle Freeland,Matt Koch,---,Pollock
+148,2018-09-14,-,ARI,NL,HOU,AL,Away,Night,"36,924",3:36,W,4-2,9,Box | PBP,78-70,3,7,14,3.5,W1,Brad Ziegler,Hector Rondon,Yoshihisa Hirano,---
+149,2018-09-15,-,ARI,NL,HOU,AL,Away,Night,"38,345",3:17,L,4-10,9,Box | PBP,78-71,3,7,14,4.0,L1,Charlie Morton,Zack Godley,---,"Escobar, Marte"
+150,2018-09-16,-,ARI,NL,HOU,AL,Away,Day,"37,889",3:09,L,4-5,9,Box | PBP,78-72,3,7,14,4.5,L2,Justin Verlander,Zack Greinke,Roberto Osuna,"Descalso, Peralta"
+151,2018-09-17,-,ARI,NL,CHN,NL,Home,Night,"27,662",2:46,L,1-5,9,Box | PBP,78-73,3,7,14,5.0,L3,Kyle Hendricks,Patrick Corbin,---,Pollock
+152,2018-09-18,-,ARI,NL,CHN,NL,Home,Night,"26,095",3:10,L,1-9,9,Box | PBP,78-74,3,8,15,6.0,L4,Mike Montgomery,Matt Andriese,---,Marte
+153,2018-09-19,-,ARI,NL,CHN,NL,Home,Night,"25,715",2:20,W,9-0,9,Box | PBP,79-74,3,8,15,6.0,W1,Robbie Ray,Cole Hamels,---,"Mathis, Owings, Walker"
+154,2018-09-21,-,ARI,NL,COL,NL,Home,Night,"28,833",2:54,L,2-6,9,Box | PBP,79-75,3,7,14,6.0,L1,German Marquez,Zack Greinke,---,Peralta
+155,2018-09-22,-,ARI,NL,COL,NL,Home,Night,"35,094",3:02,L,1-5,9,Box | PBP,79-76,3,8,15,7.0,L2,Antonio Senzatela,Patrick Corbin,---,Pollock
+156,2018-09-23,-,ARI,NL,COL,NL,Home,Day,"29,191",3:15,L,0-2,9,Box | PBP,79-77,3,8,15,8.0,L3,Kyle Freeland,Zack Godley,Wade Davis,---
+157,2018-09-24,-,ARI,NL,LAN,NL,Home,Night,"26,067",3:33,L,4-7,9,Box | PBP,79-78,3,9,16,9.0,L4,Clayton Kershaw,Andrew Chafin,---,"Marte, Pollock"
+158,2018-09-25,-,ARI,NL,LAN,NL,Home,Night,"25,774",3:23,W,4-3,9,Box | PBP,80-78,3,8,16,8.0,W1,Brad Boxberger,Kenta Maeda,---,Escobar
+159,2018-09-26,-,ARI,NL,LAN,NL,Home,Night,"31,149",3:14,W,7-2,9,Box | PBP,81-78,3,8,16,7.5,W2,Zack Greinke,Ross Stripling,---,"Brito, Peralta, Pollock"
+160,2018-09-28,-,ARI,NL,SDN,NL,Away,Night,"28,055",5:02,L,2-3,15,Box | PBP,81-79,3,8,16,9.0,L1,Colten Brewer,Matt Andriese,---,---
+161,2018-09-29,-,ARI,NL,SDN,NL,Away,Night,"28,024",2:49,W,5-4,9,Box | PBP,82-79,3,7,15,8.0,W1,Zack Godley,Jacob Nix,Yoshihisa Hirano,Vargas
+162,2018-09-30,-,ARI,NL,SDN,NL,Away,Day,"31,243",3:29,L,3-4,10,Box | PBP,82-80,3,8,16,9.0,L1,Jose Castillo,Jake Barrett,---,"Marte, Souza"

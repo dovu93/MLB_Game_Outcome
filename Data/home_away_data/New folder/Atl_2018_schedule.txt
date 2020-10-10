@@ -1,0 +1,163 @@
+Game#,Game Date,Seq,Team,Lg,Opp,LgOpp,Hm/Aw,TimeDay,Att,GameTime,WL,Result,Inn,Boxscore,Record,Div Rk,Lg Rk,MLB Rk,GBL,Strk,Winning Pitcher,Losing Pitcher,Save Pitcher,Home Runs
+1,2018-03-29,-,ATL,NL,PHI,NL,Home,Day,"40,208",3:28,W,8-5,9,Box | PBP,1-0,1,5,10,--,W1,Arodys Vizcaino,Hector Neris,---,"Albies, Freeman, Markakis"
+2,2018-03-30,-,ATL,NL,PHI,NL,Home,Night,"35,123",4:16,L,4-5,11,Box | PBP,1-1,3,10,17,0.5,L1,Drew Hutchison,Shane Carle,---,---
+3,2018-03-31,-,ATL,NL,PHI,NL,Home,Night,"37,777",3:21,W,15-2,9,Box | PBP,2-1,3,6,10,0.5,W1,Brandon McCarthy,Vincent Velasquez,---,Adams
+4,2018-04-02,-,ATL,NL,WAS,NL,Home,Night,"25,054",2:55,L,1-8,9,Box | PBP,2-2,3,7,15,2.0,L1,Tanner Roark,Sean Newcomb,---,---
+5,2018-04-03,-,ATL,NL,WAS,NL,Home,Night,"26,782",3:10,W,13-6,9,Box | PBP,3-2,3,6,11,1.0,W1,Shane Carle,A.J. Cole,---,"Freeman, Tucker"
+6,2018-04-04,-,ATL,NL,WAS,NL,Home,Day,"29,834",3:06,W,7-1,9,Box | PBP,4-2,2,5,8,0.5,W2,Mike Foltynewicz,Max Scherzer,---,Tucker
+7,2018-04-06,-,ATL,NL,COL,NL,Away,Day,"48,216",2:56,W,8-3,9,Box | PBP,5-2,2,4,7,0.5,W3,Brandon McCarthy,German Marquez,---,Albies
+8,2018-04-07,-,ATL,NL,COL,NL,Away,Night,"40,120",3:28,L,2-3,10,Box | PBP,5-3,2,4,7,1.5,L1,Adam Ottavino,Arodys Vizcaino,---,---
+9,2018-04-08,-,ATL,NL,COL,NL,Away,Day,"42,031",2:26,W,4-0,9,Box | PBP,6-3,2,4,7,1.5,W1,Sean Newcomb,Kyle Freeland,---,"Albies, Markakis, Swanson"
+10,2018-04-09,-,ATL,NL,WAS,NL,Away,Night,"19,528",2:21,L,0-2,9,Box | PBP,6-4,2,4,8,2.5,L1,Max Scherzer,Julio Teheran,---,---
+11,2018-04-10,-,ATL,NL,WAS,NL,Away,Night,"19,357",2:44,L,1-4,9,Box | PBP,6-5,2,5,11,3.5,L2,Stephen Strasburg,Mike Foltynewicz,Ryan Madson,---
+12,2018-04-11,-,ATL,NL,WAS,NL,Away,Day,"21,109",3:43,W,5-3,12,Box | PBP,7-5,2,4,11,3.5,W1,Shane Carle,Ryan Madson,---,"Albies, Suzuki (2)"
+13,2018-04-13,-,ATL,NL,CHN,NL,Away,Day,"29,775",3:09,W,4-0,9,Box | PBP,8-5,2,4,10,3.5,W2,Anibal Sanchez,Yu Darvish,---,Tucker
+14,2018-04-14,-,ATL,NL,CHN,NL,Away,Day,"36,788",3:43,L,10-14,9,Box | PBP,8-6,3,5,12,3.5,L1,Justin Wilson,Jose Ramirez,---,Albies
+15,2018-04-16,-,ATL,NL,PHI,NL,Home,Night,"17,812",2:40,W,2-1,9,Box | PBP,9-6,2,4,10,3.0,W1,Julio Teheran,Aaron Nola,Arodys Vizcaino,---
+16,2018-04-17,-,ATL,NL,PHI,NL,Home,Night,"17,913",3:36,L,1-5,10,Box | PBP,9-7,3,7,14,3.0,L1,Hector Neris,Jose Ramirez,---,---
+17,2018-04-18,-,ATL,NL,PHI,NL,Home,Night,"22,135",3:08,W,7-3,9,Box | PBP,10-7,2,6,10,3.0,W1,Brandon McCarthy,Vincent Velasquez,---,"Flaherty, Swanson"
+18,2018-04-19,-,ATL,NL,NYN,NL,Home,Night,"23,610",3:00,W,12-4,9,Box | PBP,11-7,2,5,9,2.0,W2,Matt Wisler,Matt Harvey,---,Suzuki
+19,2018-04-20,-,ATL,NL,NYN,NL,Home,Night,"39,016",3:51,L,3-5,12,Box | PBP,11-8,3,5,10,3.0,L1,Robert Gsellman,Josh Ravin,Jeurys Familia,Albies
+20,2018-04-21,-,ATL,NL,NYN,NL,Home,Night,"41,396",3:07,W,4-3,9,Box | PBP,12-8,3,4,8,2.0,W1,Jesse Biddle,Jeurys Familia,---,---
+21,2018-04-23,-,ATL,NL,CIN,NL,Away,Night,"9,463",3:11,L,4-10,9,Box | PBP,12-9,3,6,11,2.5,L1,Sal Romano,Sam Freeman,Raisel Iglesias,Markakis
+22,2018-04-24,-,ATL,NL,CIN,NL,Away,Night,"14,139",4:06,L,7-9,12,Box | PBP,12-10,3,8,15,3.5,L2,Jared Hughes,Max Fried,---,"Freeman (2), Suzuki"
+23,2018-04-25,-,ATL,NL,CIN,NL,Away,Night,"13,113",3:07,W,5-4,9,Box | PBP,13-10,3,6,12,2.5,W1,Daniel Winkler,Kevin Shackelford,A.J. Minter,Albies
+24,2018-04-26,-,ATL,NL,CIN,NL,Away,Day,"11,919",2:41,W,7-4,9,Box | PBP,14-10,3,6,11,1.5,W2,Sam Freeman,Wandy Peralta,Arodys Vizcaino,"Acuna, Albies"
+25,2018-04-27,-,ATL,NL,PHI,NL,Away,Night,"27,076",2:50,L,3-7,9,Box | PBP,14-11,3,8,14,2.5,L1,Aaron Nola,Max Fried,---,---
+26,2018-04-28,-,ATL,NL,PHI,NL,Away,Night,"27,794",3:10,W,4-1,9,Box | PBP,15-11,3,6,12,1.5,W1,Mike Foltynewicz,Nick Pivetta,Arodys Vizcaino,Markakis
+27,2018-04-29,-,ATL,NL,PHI,NL,Away,Day,"31,010",3:26,W,10-1,9,Box | PBP,16-11,2,5,9,1.5,W2,Brandon McCarthy,Vincent Velasquez,---,"Albies, Camargo"
+28,2018-05-01,-,ATL,NL,NYN,NL,Away,Night,"22,527",2:43,W,3-2,9,Box | PBP,17-11,2,3,7,0.5,W3,Mike Soroka,Noah Syndergaard,Arodys Vizcaino,---
+29,2018-05-02,-,ATL,NL,NYN,NL,Away,Night,"23,528",2:24,W,7-0,9,Box | PBP,18-11,1,2,5,--,W4,Sean Newcomb,Paul Sewald,---,"Camargo, Flaherty, Inciarte"
+30,2018-05-03,-,ATL,NL,NYN,NL,Away,Day,"26,882",2:40,W,11-0,9,Box | PBP,19-11,1,2,4,--,W5,Julio Teheran,Jason Vargas,---,"Acuna, Albies, Markakis, Suzuki"
+31,2018-05-04,-,ATL,NL,SFN,NL,Home,Night,"41,807",2:45,L,4-9,9,Box | PBP,19-12,1,2,6,--,L1,Chris Stratton,Mike Foltynewicz,---,"Freeman, Markakis"
+32,2018-05-05,-,ATL,NL,SFN,NL,Home,Night,"38,264",2:58,L,2-11,9,Box | PBP,19-13,1,3,7,--,L2,Ty Blach,Brandon McCarthy,---,---
+33,2018-05-06,-,ATL,NL,SFN,NL,Home,Day,"37,896",3:09,L,3-4,9,Box | PBP,19-14,1,3,7,--,L3,Andrew Suarez,Mike Soroka,Hunter Strickland,---
+34,2018-05-08,-,ATL,NL,TBA,AL,Away,Night,"15,382",2:55,W,1-0,9,Box | PBP,20-14,1,2,6,--,W1,Sean Newcomb,Blake Snell,Arodys Vizcaino,Acuna
+35,2018-05-09,-,ATL,NL,TBA,AL,Away,Night,"12,082",2:51,W,5-2,9,Box | PBP,21-14,1,2,6,--,W2,Julio Teheran,Ryan Yarbrough,Arodys Vizcaino,Markakis
+36,2018-05-10,-,ATL,NL,MIA,NL,Away,Night,"8,277",3:00,W,9-2,9,Box | PBP,22-14,1,2,6,--,W3,Mike Foltynewicz,Caleb Smith,Luiz Gohara,"Albies, Freeman"
+37,2018-05-11,-,ATL,NL,MIA,NL,Away,Night,"9,149",2:42,L,3-6,9,Box | PBP,22-15,1,3,7,--,L1,Dan Straily,Brandon McCarthy,Brad Ziegler,Albies
+38,2018-05-12,-,ATL,NL,MIA,NL,Away,Night,"12,383",3:26,W,10-5,9,Box | PBP,23-15,1,2,5,--,W1,A.J. Minter,Drew Steckenrider,---,"Bautista, Freeman (2), Inciarte"
+39,2018-05-13,-,ATL,NL,MIA,NL,Away,Day,"7,435",2:50,W,4-3,9,Box | PBP,24-15,1,1,4,--,W2,Sean Newcomb,Jose Urena,Arodys Vizcaino,Inciarte
+40,2018-05-14,-,ATL,NL,CHN,NL,Away,Day,"35,946",3:14,W,6-5,9,Box | PBP,25-15,1,1,3,--,W3,Julio Teheran,Jose Quintana,A.J. Minter,"Albies, Bautista, Flowers"
+41,2018-05-15,-,ATL,NL,CHN,NL,Home,Night,"34,452",2:51,L,2-3,9,Box | PBP,25-16,1,1,4,--,L1,Carl Edwards,Arodys Vizcaino,Brandon Morrow,"Acuna, Inciarte"
+42,2018-05-16,-,ATL,NL,CHN,NL,Home,Night,"28,264",2:55,W,4-1,9,Box | PBP,26-16,1,1,4,--,W1,A.J. Minter,Carl Edwards,Arodys Vizcaino,---
+43,2018-05-18,-,ATL,NL,MIA,NL,Home,Night,"27,705",2:36,L,0-2,9,Box | PBP,26-17,1,1,4,--,L1,Dan Straily,Matt Wisler,Brad Ziegler,---
+44,2018-05-19,-,ATL,NL,MIA,NL,Home,Night,"37,715",2:28,W,8-1,9,Box | PBP,27-17,1,1,4,--,W1,Sean Newcomb,Jose Urena,---,"Freeman, Suzuki"
+45,2018-05-20,-,ATL,NL,MIA,NL,Home,Day,"28,352",3:19,W,10-9,9,Box | PBP,28-17,1,1,4,--,W2,A.J. Minter,Tayron Guerrero,---,---
+46,2018-05-21,-,ATL,NL,PHI,NL,Away,Night,"21,284",2:33,L,0-3,9,Box | PBP,28-18,1,1,4,--,L1,Nick Pivetta,Mike Foltynewicz,Hector Neris,---
+47,2018-05-22,-,ATL,NL,PHI,NL,Away,Night,"18,545",3:18,W,3-1,9,Box | PBP,29-18,1,1,4,--,W1,Brandon McCarthy,Vincent Velasquez,Arodys Vizcaino,Albies
+48,2018-05-23,-,ATL,NL,PHI,NL,Away,Night,"27,647",2:51,L,0-4,9,Box | PBP,29-19,1,2,6,--,L1,Jake Arrieta,Luiz Gohara,---,---
+49,2018-05-25,-,ATL,NL,BOS,AL,Away,Night,"37,008",3:13,L,2-6,9,Box | PBP,29-20,1,2,6,--,L2,Eduardo Rodriguez,Julio Teheran,---,---
+50,2018-05-26,-,ATL,NL,BOS,AL,Away,Day,"36,510",3:29,L,6-8,9,Box | PBP,29-21,2,3,7,0.5,L3,Steven Wright,Sam Freeman,Craig Kimbrel,"Acuna, Swanson"
+51,2018-05-27,-,ATL,NL,BOS,AL,Away,Day,"36,543",2:53,W,7-1,9,Box | PBP,30-21,1,2,6,--,W1,Mike Foltynewicz,Chris Sale,---,Flowers
+52,2018-05-28,1,ATL,NL,NYN,NL,Home,Day,"32,377",3:05,W,4-3,9,Box | PBP,31-22,1,3,7,--,L1,Shane Carle,Seth Lugo,---,"Culberson, Flowers"
+53,2018-05-28,2,ATL,NL,NYN,NL,Home,Night,"31,779",3:21,L,5-8,9,Box | PBP,31-22,1,3,7,--,L1,Robert Gsellman,A.J. Minter,Jeurys Familia,Suzuki
+54,2018-05-29,-,ATL,NL,NYN,NL,Home,Night,"19,443",3:11,W,7-6,9,Box | PBP,32-22,1,3,7,--,W1,Daniel Winkler,Gerson Bautista,---,Camargo
+55,2018-05-30,-,ATL,NL,NYN,NL,Home,Night,"21,449",2:42,L,1-4,9,Box | PBP,32-23,2,3,7,1.0,L1,Jason Vargas,Julio Teheran,Robert Gsellman,Camargo
+56,2018-05-31,-,ATL,NL,WAS,NL,Home,Night,"22,380",2:39,W,4-2,9,Box | PBP,33-23,1,2,6,--,W1,Sean Newcomb,Tanner Roark,Arodys Vizcaino,---
+57,2018-06-01,-,ATL,NL,WAS,NL,Home,Night,"33,845",2:24,W,4-0,9,Box | PBP,34-23,1,2,6,--,W2,Mike Foltynewicz,Stephen Strasburg,---,Swanson
+58,2018-06-02,-,ATL,NL,WAS,NL,Home,Day,"39,578",4:00,L,3-5,14,Box | PBP,34-24,1,3,7,--,L1,Justin Miller,Miguel Socolovich,Sean Doolittle,Camargo
+59,2018-06-03,-,ATL,NL,WAS,NL,Home,Day,"33,132",2:47,W,4-2,9,Box | PBP,35-24,1,2,6,--,W1,Arodys Vizcaino,Tanner Roark,---,"Culberson, Swanson"
+60,2018-06-04,-,ATL,NL,SDN,NL,Away,Night,"19,419",2:57,L,4-11,9,Box | PBP,35-25,1,3,7,--,L1,Clayton Richard,Julio Teheran,---,---
+61,2018-06-05,-,ATL,NL,SDN,NL,Away,Night,"21,049",2:55,W,14-1,9,Box | PBP,36-25,1,2,6,--,W1,Sean Newcomb,Jordan Lyles,Luke Jackson,"Freeman, Markakis, Swanson"
+62,2018-06-06,-,ATL,NL,SDN,NL,Away,Day,"20,898",2:47,L,1-3,9,Box | PBP,36-26,2,4,8,0.5,L1,Jose Castillo,Mike Foltynewicz,Brad Hand,Freeman
+63,2018-06-08,-,ATL,NL,LAN,NL,Away,Night,"47,262",2:52,L,3-7,9,Box | PBP,36-27,2,4,8,0.5,L2,Walker Buehler,Brandon McCarthy,---,Camargo
+64,2018-06-09,-,ATL,NL,LAN,NL,Away,Night,"52,718",3:11,W,5-3,9,Box | PBP,37-27,2,4,8,0.5,W1,Anibal Sanchez,Alex Wood,Arodys Vizcaino,---
+65,2018-06-10,-,ATL,NL,LAN,NL,Away,Day,"47,711",2:37,L,2-7,9,Box | PBP,37-28,2,4,8,0.5,L1,Ross Stripling,Sean Newcomb,---,"Albies, Freeman"
+66,2018-06-12,-,ATL,NL,NYN,NL,Home,Night,"29,892",2:45,W,8-2,9,Box | PBP,38-28,1,3,7,--,W1,Shane Carle,Zack Wheeler,---,"Albies, Freeman"
+67,2018-06-13,-,ATL,NL,NYN,NL,Home,Day,"32,015",2:12,W,2-0,9,Box | PBP,39-28,1,3,7,--,W2,Mike Soroka,Jacob deGrom,Arodys Vizcaino,Freeman
+68,2018-06-14,-,ATL,NL,SDN,NL,Home,Night,"25,250",2:26,W,4-2,9,Box | PBP,40-28,1,2,6,--,W3,Anibal Sanchez,Tyson Ross,Arodys Vizcaino,Inciarte
+69,2018-06-15,-,ATL,NL,SDN,NL,Home,Night,"41,497",2:50,L,3-9,9,Box | PBP,40-29,1,3,7,--,L1,Clayton Richard,Sam Freeman,---,Freeman
+70,2018-06-16,-,ATL,NL,SDN,NL,Home,Night,"41,916",2:19,W,1-0,9,Box | PBP,41-29,1,3,7,--,W1,Sean Newcomb,Jordan Lyles,Arodys Vizcaino,Culberson
+71,2018-06-17,-,ATL,NL,SDN,NL,Home,Day,"40,251",3:10,W,4-1,9,Box | PBP,42-29,1,2,6,--,W2,Julio Teheran,Jose Castillo,Arodys Vizcaino,Flowers
+72,2018-06-19,-,ATL,NL,TOR,AL,Away,Night,"32,466",3:03,W,11-4,9,Box | PBP,43-29,1,1,5,--,W3,Sam Freeman,Jaime Garcia,---,"Camargo, Culberson"
+73,2018-06-20,-,ATL,NL,TOR,AL,Away,Day,"45,563",2:30,L,4-5,9,Box | PBP,43-30,1,2,7,--,L1,J.A. Happ,Anibal Sanchez,Ryan Tepera,"Bourjos, Suzuki"
+74,2018-06-22,-,ATL,NL,BAL,AL,Home,Night,"37,192",5:21,L,7-10,15,Box | PBP,43-31,1,2,6,--,L2,Mike Wright,Peter Moylan,---,---
+75,2018-06-23,-,ATL,NL,BAL,AL,Home,Day,"40,333",3:08,L,5-7,9,Box | PBP,43-32,1,2,6,--,L3,Dylan Bundy,Julio Teheran,Zach Britton,---
+76,2018-06-24,-,ATL,NL,BAL,AL,Home,Day,"33,794",2:54,W,7-3,9,Box | PBP,44-32,1,2,6,--,W1,Brandon McCarthy,David Hess,---,Swanson
+77,2018-06-25,-,ATL,NL,CIN,NL,Home,Night,"27,851",3:45,W,5-4,11,Box | PBP,45-32,1,1,5,--,W2,Luke Jackson,Dylan Floro,---,Albies
+78,2018-06-26,-,ATL,NL,CIN,NL,Home,Night,"28,356",3:20,L,3-5,9,Box | PBP,45-33,1,2,6,--,L1,Matt Harvey,Anibal Sanchez,Raisel Iglesias,---
+79,2018-06-27,-,ATL,NL,CIN,NL,Home,Day,"30,207",3:01,L,5-6,9,Box | PBP,45-34,1,3,7,--,L2,Jackson Stephens,Sam Freeman,Raisel Iglesias,---
+80,2018-06-29,-,ATL,NL,SLN,NL,Away,Night,"46,226",3:14,W,5-1,9,Box | PBP,46-34,1,2,6,--,W1,Julio Teheran,Miles Mikolas,Daniel Winkler,---
+81,2018-06-30,-,ATL,NL,SLN,NL,Away,Night,"46,667",3:11,W,11-4,9,Box | PBP,47-34,1,2,6,--,W2,Max Fried,Luke Weaver,---,"Acuna, Markakis"
+82,2018-07-01,-,ATL,NL,SLN,NL,Away,Day,"46,448",3:11,W,6-5,9,Box | PBP,48-34,1,1,5,--,W3,Mike Foltynewicz,John Gant,A.J. Minter,Freeman
+83,2018-07-02,-,ATL,NL,NYA,AL,Away,Night,"43,792",3:53,W,5-3,11,Box | PBP,49-34,1,1,5,--,W4,Jesse Biddle,David Robertson,A.J. Minter,"Acuna, Camargo"
+84,2018-07-03,-,ATL,NL,NYA,AL,Away,Night,"45,448",3:46,L,5-8,9,Box | PBP,49-35,1,2,6,--,L1,A.J. Cole,Sean Newcomb,Aroldis Chapman,"Albies, Inciarte, Markakis"
+85,2018-07-04,-,ATL,NL,NYA,AL,Away,Day,"46,658",3:07,L,2-6,9,Box | PBP,49-36,1,3,7,--,L2,CC Sabathia,Julio Teheran,---,Camargo
+86,2018-07-05,-,ATL,NL,MIL,NL,Away,Night,"27,557",2:45,L,2-7,9,Box | PBP,49-37,1,3,7,--,L3,Jhoulys Chacin,Max Fried,Dan Jennings,---
+87,2018-07-06,-,ATL,NL,MIL,NL,Away,Night,"31,452",2:47,L,4-5,9,Box | PBP,49-38,2,4,9,--,L4,Freddy Peralta,Mike Foltynewicz,Corey Knebel,---
+88,2018-07-07,-,ATL,NL,MIL,NL,Away,Day,"38,813",3:06,W,5-1,9,Box | PBP,50-38,2,4,8,--,W1,Anibal Sanchez,Aaron Wilkerson,---,---
+89,2018-07-08,-,ATL,NL,MIL,NL,Away,Day,"43,262",3:24,L,3-10,9,Box | PBP,50-39,2,4,8,--,L1,Junior Guerra,Sean Newcomb,---,---
+90,2018-07-10,-,ATL,NL,TOR,AL,Home,Night,"31,747",2:58,L,2-6,9,Box | PBP,50-40,2,4,8,1.0,L2,Marcus Stroman,A.J. Minter,---,---
+91,2018-07-11,-,ATL,NL,TOR,AL,Home,Night,"27,839",2:58,W,9-5,9,Box | PBP,51-40,1,3,7,--,W1,Mike Foltynewicz,Sam Gaviglio,---,Albies (2)
+92,2018-07-13,-,ATL,NL,ARI,NL,Home,Night,"42,130",3:05,L,1-2,9,Box | PBP,51-41,2,4,9,1.5,L1,Zack Godley,Sam Freeman,Brad Boxberger,---
+93,2018-07-14,-,ATL,NL,ARI,NL,Home,Day,"40,862",2:53,L,0-3,9,Box | PBP,51-42,2,5,10,1.5,L2,Zack Greinke,Sean Newcomb,Brad Boxberger,---
+94,2018-07-15,-,ATL,NL,ARI,NL,Home,Day,"27,323",2:42,W,5-1,9,Box | PBP,52-42,2,4,9,0.5,W1,Julio Teheran,Patrick Corbin,---,Tucker
+95,2018-07-20,-,ATL,NL,WAS,NL,Away,Night,"41,008",2:57,W,8-5,9,Box | PBP,53-42,2,3,8,0.5,W2,Anibal Sanchez,Stephen Strasburg,A.J. Minter,"Acuna, Culberson"
+96,2018-07-22,-,ATL,NL,WAS,NL,Away,Day,"39,063",3:26,L,2-6,9,Box | PBP,53-43,2,5,10,1.0,L1,Max Scherzer,Mike Foltynewicz,Kelvin Herrera,---
+97,2018-07-23,-,ATL,NL,MIA,NL,Away,Night,"8,259",2:48,W,12-1,9,Box | PBP,54-43,1,4,9,--,W1,Sean Newcomb,Jose Urena,---,"Freeman, Swanson"
+98,2018-07-24,-,ATL,NL,MIA,NL,Away,Day,"21,673",2:37,L,3-9,9,Box | PBP,54-44,2,5,10,1.0,L1,Wei-Yin Chen,Julio Teheran,---,Camargo
+99,2018-07-26,-,ATL,NL,LAN,NL,Home,Night,"40,706",2:55,L,2-8,9,Box | PBP,54-45,2,5,10,2.5,L2,Rich Hill,Anibal Sanchez,---,Acuna
+100,2018-07-27,-,ATL,NL,LAN,NL,Home,Night,"41,647",2:51,L,1-4,9,Box | PBP,54-46,2,6,12,2.5,L3,Clayton Kershaw,Mike Foltynewicz,Kenley Jansen,---
+101,2018-07-28,-,ATL,NL,LAN,NL,Home,Night,"41,758",3:22,L,1-5,9,Box | PBP,54-47,2,7,13,2.5,L4,Alex Wood,Max Fried,---,Camargo
+102,2018-07-29,-,ATL,NL,LAN,NL,Home,Day,"40,303",2:47,W,4-1,9,Box | PBP,55-47,2,7,13,1.5,W1,Sean Newcomb,Ross Stripling,---,Markakis
+103,2018-07-30,-,ATL,NL,MIA,NL,Home,Night,"21,230",2:49,W,5-3,9,Box | PBP,56-47,2,6,11,0.5,W2,Julio Teheran,Wei-Yin Chen,A.J. Minter,"Acuna, Freeman"
+104,2018-07-31,-,ATL,NL,MIA,NL,Home,Night,"18,627",2:53,W,11-6,9,Box | PBP,57-47,2,5,10,0.5,W3,Kolby Allard,Dan Straily,---,"Acuna, Camargo, Markakis"
+105,2018-08-02,-,ATL,NL,NYN,NL,Away,Night,"24,525",2:49,W,4-2,9,Box | PBP,58-47,2,5,10,0.5,W4,Mike Foltynewicz,Jason Vargas,A.J. Minter,---
+106,2018-08-03,-,ATL,NL,NYN,NL,Away,Night,"25,101",2:26,W,2-1,9,Box | PBP,59-47,2,4,9,0.5,W5,Anibal Sanchez,Jacob deGrom,A.J. Minter,Camargo
+107,2018-08-04,-,ATL,NL,NYN,NL,Away,Night,"36,946",2:41,L,0-3,9,Box | PBP,59-48,2,5,10,1.5,L1,Zack Wheeler,Kevin Gausman,Robert Gsellman,---
+108,2018-08-05,-,ATL,NL,NYN,NL,Away,Day,"27,134",3:19,W,5-4,10,Box | PBP,60-48,2,4,9,1.5,W1,A.J. Minter,Tyler Bashlor,Jesse Biddle,"Inciarte, Markakis, Teheran"
+109,2018-08-07,1,ATL,NL,WAS,NL,Away,Day,"26,965",3:08,L,3-8,9,Box | PBP,61-49,2,4,9,1.5,W1,Jefry Rodriguez,Kolby Allard,---,Culberson
+110,2018-08-07,2,ATL,NL,WAS,NL,Away,Night,"28,970",2:54,W,3-1,9,Box | PBP,61-49,2,4,9,1.5,W1,Jesse Biddle,Kelvin Herrera,A.J. Minter,Culberson
+111,2018-08-08,-,ATL,NL,WAS,NL,Away,Night,"30,203",3:04,W,8-3,9,Box | PBP,62-49,2,4,9,0.5,W2,Mike Foltynewicz,Tom Milone,---,"Acuna, Culberson, Flowers"
+112,2018-08-09,-,ATL,NL,WAS,NL,Away,Day,"28,347",2:30,L,3-6,9,Box | PBP,62-50,2,4,10,1.0,L1,Gio Gonzalez,Wes Parsons,---,"Acuna, Markakis"
+113,2018-08-10,-,ATL,NL,MIL,NL,Home,Night,"36,519",2:59,W,10-1,9,Box | PBP,63-50,1,2,7,--,W1,Kevin Gausman,Freddy Peralta,---,---
+114,2018-08-11,-,ATL,NL,MIL,NL,Home,Night,"40,297",2:42,L,2-4,9,Box | PBP,63-51,2,4,10,1.0,L1,Corbin Burnes,Jesse Biddle,Josh Hader,Acuna
+115,2018-08-12,-,ATL,NL,MIL,NL,Home,Day,"25,360",3:19,W,8-7,9,Box | PBP,64-51,1,2,8,--,W1,Jonny Venters,Dan Jennings,A.J. Minter,"Acuna, Albies, Swanson"
+116,2018-08-13,1,ATL,NL,MIA,NL,Home,Day,"16,049",2:39,W,9-1,9,Box | PBP,66-51,1,2,8,--,W3,Touki Toussaint,Pablo Lopez,---,Acuna
+117,2018-08-13,2,ATL,NL,MIA,NL,Home,Night,"18,186",2:58,W,6-1,9,Box | PBP,66-51,1,2,8,--,W3,Mike Foltynewicz,Merandy Gonzalez,---,"Acuna, Freeman"
+118,2018-08-14,-,ATL,NL,MIA,NL,Home,Night,"19,409",2:52,W,10-6,9,Box | PBP,67-51,1,2,8,--,W4,Jesse Biddle,Adam Conley,---,"Acuna (2), Culberson, Freeman"
+119,2018-08-15,-,ATL,NL,MIA,NL,Home,Night,"19,045",2:50,W,5-2,9,Box | PBP,68-51,1,2,8,--,W5,Kevin Gausman,Jarlin Garcia,A.J. Minter,Swanson
+120,2018-08-16,-,ATL,NL,COL,NL,Home,Night,"23,428",2:53,L,3-5,9,Box | PBP,68-52,1,2,8,--,L1,Seung Hwan Oh,Brad Brach,Wade Davis,Suzuki
+121,2018-08-17,-,ATL,NL,COL,NL,Home,Night,"28,964",3:37,L,5-11,9,Box | PBP,68-53,1,2,8,--,L2,Kyle Freeland,Sean Newcomb,---,---
+122,2018-08-18,-,ATL,NL,COL,NL,Home,Night,"42,143",3:31,L,3-5,10,Box | PBP,68-54,1,2,8,--,L3,Adam Ottavino,Luke Jackson,Wade Davis,---
+123,2018-08-19,-,ATL,NL,COL,NL,Home,Day,"33,942",2:41,L,2-4,9,Box | PBP,68-55,1,2,8,--,L4,German Marquez,Anibal Sanchez,Wade Davis,---
+124,2018-08-20,-,ATL,NL,PIT,NL,Away,Night,"16,445",3:10,W,1-0,9,Box | PBP,69-55,1,2,8,--,W1,Bryse Wilson,Chris Archer,Daniel Winkler,---
+125,2018-08-21,-,ATL,NL,PIT,NL,Away,Night,"13,280",2:36,W,6-1,9,Box | PBP,70-55,1,2,8,--,W2,Kevin Gausman,Ivan Nova,---,Swanson (2)
+126,2018-08-22,-,ATL,NL,PIT,NL,Away,Night,"14,249",2:36,W,2-1,9,Box | PBP,71-55,1,2,7,--,W3,Julio Teheran,Kyle Crick,Jonny Venters,Acuna
+127,2018-08-23,-,ATL,NL,MIA,NL,Away,Night,"6,587",3:00,W,5-0,9,Box | PBP,72-55,1,2,7,--,W4,Sean Newcomb,Elieser Hernandez,---,"Acuna, Culberson, Inciarte"
+128,2018-08-24,-,ATL,NL,MIA,NL,Away,Night,"7,792",2:48,L,0-1,9,Box | PBP,72-56,1,2,8,--,L1,Dan Straily,Mike Foltynewicz,Adam Conley,---
+129,2018-08-25,-,ATL,NL,MIA,NL,Away,Night,"7,823",2:54,L,1-3,9,Box | PBP,72-57,1,2,8,--,L2,Wei-Yin Chen,Anibal Sanchez,Drew Steckenrider,Swanson
+130,2018-08-26,-,ATL,NL,MIA,NL,Away,Day,"12,770",3:16,W,4-0,9,Box | PBP,73-57,1,2,8,--,W1,Kevin Gausman,Pablo Lopez,---,---
+131,2018-08-28,-,ATL,NL,TBA,AL,Home,Night,"21,216",3:10,W,9-5,9,Box | PBP,74-57,1,2,7,--,W2,Brad Brach,Chaz Roe,---,"Flowers, Inciarte"
+132,2018-08-29,-,ATL,NL,TBA,AL,Home,Night,"20,876",3:06,L,5-8,9,Box | PBP,74-58,1,2,7,--,L1,Jalen Beeks,Sean Newcomb,Jose Alvarado,Camargo
+133,2018-08-30,-,ATL,NL,CHN,NL,Home,Night,"37,603",2:42,L,4-5,9,Box | PBP,74-59,1,3,9,--,L2,Brandon Kintzler,Mike Foltynewicz,Pedro Strop,---
+134,2018-08-31,-,ATL,NL,PIT,NL,Home,Night,"36,650",2:55,L,2-3,9,Box | PBP,74-60,1,4,10,--,L3,Jameson Taillon,Brad Brach,Felipe Vazquez,"Acuna, Camargo"
+135,2018-09-01,-,ATL,NL,PIT,NL,Home,Night,"33,705",2:53,W,5-3,9,Box | PBP,75-60,1,3,9,--,W1,Jonny Venters,Keone Kela,A.J. Minter,Swanson
+136,2018-09-02,-,ATL,NL,PIT,NL,Home,Night,"37,475",2:44,W,5-1,9,Box | PBP,76-60,1,2,7,--,W2,Jonny Venters,Steven Brault,---,Acuna
+137,2018-09-03,-,ATL,NL,BOS,AL,Home,Day,"40,394",3:40,L,2-8,9,Box | PBP,76-61,1,3,9,--,L1,Brandon Workman,Touki Toussaint,---,Albies
+138,2018-09-04,-,ATL,NL,BOS,AL,Home,Night,"35,333",3:03,L,1-5,9,Box | PBP,76-62,1,4,11,--,L2,Rick Porcello,Sean Newcomb,---,Suzuki
+139,2018-09-05,-,ATL,NL,BOS,AL,Home,Day,"28,386",3:44,L,8-9,9,Box | PBP,76-63,1,5,11,--,L3,Brandon Workman,A.J. Minter,Craig Kimbrel,"Acuna, Freeman"
+140,2018-09-06,-,ATL,NL,ARI,NL,Away,Night,"21,903",4:11,W,7-6,10,Box | PBP,77-63,1,5,11,--,W1,Jesse Biddle,Brad Boxberger,Brad Brach,"Camargo, Suzuki"
+141,2018-09-07,-,ATL,NL,ARI,NL,Away,Night,"31,308",3:48,L,3-5,9,Box | PBP,77-64,1,5,12,--,L1,Patrick Corbin,Kevin Gausman,Brad Boxberger,Camargo
+142,2018-09-08,-,ATL,NL,ARI,NL,Away,Night,"40,482",4:07,W,5-4,10,Box | PBP,78-64,1,4,9,--,W1,Chad Sobotka,Andrew Chafin,A.J. Minter,Suzuki
+143,2018-09-09,-,ATL,NL,ARI,NL,Away,Day,"28,339",3:45,W,9-5,9,Box | PBP,79-64,1,3,8,--,W2,Sam Freeman,Brad Boxberger,---,"Acuna, Camargo, Duda, Inciarte"
+144,2018-09-10,-,ATL,NL,SFN,NL,Away,Night,"35,996",2:33,W,4-1,9,Box | PBP,80-64,1,3,9,--,W3,Sean Newcomb,Dereck Rodriguez,A.J. Minter,---
+145,2018-09-11,-,ATL,NL,SFN,NL,Away,Night,"35,285",2:31,W,4-1,9,Box | PBP,81-64,1,3,9,--,W4,Mike Foltynewicz,Andrew Suarez,---,Culberson
+146,2018-09-12,-,ATL,NL,SFN,NL,Away,Day,"38,156",2:59,W,2-1,9,Box | PBP,82-64,1,3,8,--,W5,Daniel Winkler,Will Smith,Jonny Venters,---
+147,2018-09-14,-,ATL,NL,WAS,NL,Home,Night,"39,268",3:54,W,10-5,9,Box | PBP,83-64,1,3,7,--,W6,Kevin Gausman,Max Scherzer,---,---
+148,2018-09-15,-,ATL,NL,WAS,NL,Home,Day,"36,050",3:41,L,1-7,9,Box | PBP,83-65,1,3,8,--,L1,Jefry Rodriguez,Julio Teheran,---,---
+149,2018-09-16,-,ATL,NL,WAS,NL,Home,Day,"33,403",3:15,L,4-6,9,Box | PBP,83-66,1,3,8,--,L2,Tanner Roark,Sean Newcomb,Sean Doolittle,"Culberson, Flowers"
+150,2018-09-17,-,ATL,NL,SLN,NL,Home,Night,"24,304",3:38,L,6-11,9,Box | PBP,83-67,1,3,10,--,L3,Miles Mikolas,Mike Foltynewicz,---,Freeman
+151,2018-09-18,-,ATL,NL,SLN,NL,Home,Night,"23,083",3:18,L,1-8,9,Box | PBP,83-68,1,5,12,--,L4,Austin Gomber,Anibal Sanchez,---,Acuna
+152,2018-09-19,-,ATL,NL,SLN,NL,Home,Day,"25,195",3:09,W,7-3,9,Box | PBP,84-68,1,4,11,--,W1,Touki Toussaint,Jack Flaherty,---,"Flowers, Freeman"
+153,2018-09-20,-,ATL,NL,PHI,NL,Home,Night,"27,474",3:25,W,8-3,9,Box | PBP,85-68,1,4,9,--,W2,Jesse Biddle,Tommy Hunter,---,---
+154,2018-09-21,-,ATL,NL,PHI,NL,Home,Night,"34,370",3:24,W,6-5,9,Box | PBP,86-68,1,3,8,--,W3,Jonny Venters,Pat Neshek,A.J. Minter,Albies
+155,2018-09-22,-,ATL,NL,PHI,NL,Home,Day,"35,616",2:38,W,5-3,9,Box | PBP,87-68,1,3,7,--,W4,Mike Foltynewicz,Jake Arrieta,Arodys Vizcaino,---
+156,2018-09-23,-,ATL,NL,PHI,NL,Home,Day,"34,214",2:43,W,2-1,9,Box | PBP,88-68,1,3,7,--,W5,Anibal Sanchez,Aaron Nola,Shane Carle,Adams
+157,2018-09-25,-,ATL,NL,NYN,NL,Away,Night,"21,943",3:24,W,7-3,9,Box | PBP,89-68,1,3,7,--,W6,Daniel Winkler,Robert Gsellman,---,Albies
+158,2018-09-26,-,ATL,NL,NYN,NL,Away,Night,"23,205",2:22,L,0-3,9,Box | PBP,89-69,1,3,8,--,L1,Jacob deGrom,Luke Jackson,Seth Lugo,---
+159,2018-09-27,-,ATL,NL,NYN,NL,Away,Night,"24,824",2:41,L,1-4,9,Box | PBP,89-70,1,3,7,--,L2,Jason Vargas,Julio Teheran,Robert Gsellman,---
+160,2018-09-28,-,ATL,NL,PHI,NL,Away,Night,"24,306",3:42,W,10-2,9,Box | PBP,90-70,1,3,9,--,W1,Mike Foltynewicz,Jerad Eickhoff,---,Camargo
+161,2018-09-29,-,ATL,NL,PHI,NL,Away,Night,"30,886",2:43,L,0-3,9,Box | PBP,90-71,1,3,9,--,L1,Aaron Nola,Jonny Venters,Seranthony Dominguez,---
+162,2018-09-30,-,ATL,NL,PHI,NL,Away,Day,"34,202",2:57,L,1-3,9,Box | PBP,90-72,1,5,10,--,L2,Tommy Hunter,Kevin Gausman,Seranthony Dominguez,---

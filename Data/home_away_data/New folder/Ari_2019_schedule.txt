@@ -1,0 +1,163 @@
+Game#,Game Date,Seq,Team,Lg,Opp,LgOpp,Hm/Aw,TimeDay,Att,GameTime,WL,Result,Inn,Boxscore,Record,Div Rk,Lg Rk,MLB Rk,GBL,Strk,Winning Pitcher,Losing Pitcher,Save Pitcher,Home Runs
+1,2019-03-28,-,ARI,NL,LAN,NL,Away,Day,"53,086",2:49,L,5-12,9,Box | PBP,0-1,4,9,17,1.0,L1,Hyun-Jin Ryu,Zack Greinke,---,"Jones, Walker"
+2,2019-03-29,-,ARI,NL,LAN,NL,Away,Night,"42,266",6:05,W,5-4,13,Box | PBP,1-1,3,7,12,1.0,W1,Matt Andriese,Yimi Garcia,Greg Holland,Walker
+3,2019-03-30,-,ARI,NL,LAN,NL,Away,Night,"50,626",3:14,L,5-18,9,Box | PBP,1-2,4,9,20,1.0,L1,Kenta Maeda,Zack Godley,---,"Avila, Dyson, Jones, Peralta"
+4,2019-03-31,-,ARI,NL,LAN,NL,Away,Day,"43,815",3:29,L,7-8,9,Box | PBP,1-3,4,12,25,2.0,L2,Dylan Floro,Yoshihisa Hirano,Kenley Jansen,Weaver
+5,2019-04-01,-,ARI,NL,SDN,NL,Away,Night,"18,683",3:04,W,10-3,9,Box | PBP,2-3,3,6,15,1.0,W1,Merrill Kelly,Matt Strahm,Jon Duplantier,Jones
+6,2019-04-02,-,ARI,NL,SDN,NL,Away,Night,"22,504",3:21,W,8-5,9,Box | PBP,3-3,2,5,11,1.0,W2,Zack Greinke,Eric Lauer,Greg Holland,"Greinke (2), Marte, Murphy, Walker"
+7,2019-04-03,-,ARI,NL,SDN,NL,Away,Day,"19,376",2:59,L,1-4,9,Box | PBP,3-4,3,7,14,2.0,L1,Joey Lucchesi,Robbie Ray,---,---
+8,2019-04-05,-,ARI,NL,BOS,AL,Home,Day,"48,338",3:23,W,15-8,9,Box | PBP,4-4,3,7,15,2.0,W1,Zack Godley,Rick Porcello,---,"Avila, Jones, Marte (2), Vargas"
+9,2019-04-06,-,ARI,NL,BOS,AL,Home,Night,"35,969",3:19,W,5-4,9,Box | PBP,5-4,3,7,12,2.0,W2,Greg Holland,Colten Brewer,---,---
+10,2019-04-07,-,ARI,NL,BOS,AL,Home,Day,"31,565",2:29,L,0-1,9,Box | PBP,5-5,3,8,14,3.0,L1,Marcus Walden,Merrill Kelly,Ryan Brasier,---
+11,2019-04-09,-,ARI,NL,TEX,AL,Home,Night,"16,620",2:48,W,5-4,9,Box | PBP,6-5,3,8,14,1.5,W1,Matt Andriese,Jose Leclerc,---,"Ahmed, Dyson, Murphy"
+12,2019-04-10,-,ARI,NL,TEX,AL,Home,Night,"15,871",3:35,L,2-5,9,Box | PBP,6-6,3,10,17,1.5,L1,Lance Lynn,Andrew Chafin,Kyle Bird,---
+13,2019-04-11,-,ARI,NL,SDN,NL,Home,Night,"15,449",3:13,L,6-7,9,Box | PBP,6-7,3,10,19,2.5,L2,Craig Stammen,Archie Bradley,Trey Wingenter,Escobar
+14,2019-04-12,-,ARI,NL,SDN,NL,Home,Night,"22,209",2:38,L,1-2,9,Box | PBP,6-8,3,10,19,3.5,L3,Gerardo Reyes,Luke Weaver,Kirby Yates,---
+15,2019-04-13,-,ARI,NL,SDN,NL,Home,Night,"27,256",3:41,L,4-5,9,Box | PBP,6-9,4,11,21,4.5,L4,Craig Stammen,Matt Andriese,Kirby Yates,---
+16,2019-04-14,-,ARI,NL,SDN,NL,Home,Day,"25,489",2:49,W,8-4,9,Box | PBP,7-9,3,10,19,3.5,W1,Zack Greinke,Eric Lauer,---,"Marte, Peralta, Walker"
+17,2019-04-16,-,ARI,NL,ATL,NL,Away,Night,"22,407",3:36,W,9-6,9,Box | PBP,8-9,3,9,18,2.0,W2,Yoshihisa Hirano,A.J. Minter,Greg Holland,Walker
+18,2019-04-17,-,ARI,NL,ATL,NL,Away,Night,"22,356",3:32,W,3-2,10,Box | PBP,9-9,3,9,16,2.0,W3,Archie Bradley,Jesse Biddle,Greg Holland,Jones
+19,2019-04-18,-,ARI,NL,ATL,NL,Away,Day,"24,193",3:25,W,4-1,9,Box | PBP,10-9,3,9,15,2.0,W4,Luke Weaver,Mike Soroka,Yoshihisa Hirano,Walker
+20,2019-04-19,-,ARI,NL,CHN,NL,Away,Day,"33,938",3:24,L,1-5,9,Box | PBP,10-10,3,8,14,3.0,L1,Kyle Hendricks,Merrill Kelly,Pedro Strop,---
+21,2019-04-20,-,ARI,NL,CHN,NL,Away,Day,"37,667",3:08,W,6-0,9,Box | PBP,11-10,2,7,13,2.0,W1,Zack Greinke,Yu Darvish,Taylor Clarke,"Escobar, Murphy, Peralta"
+22,2019-04-21,-,ARI,NL,CHN,NL,Away,Day,"38,181",2:28,L,1-2,9,Box | PBP,11-11,3,9,16,3.0,L1,Pedro Strop,Archie Bradley,---,Dyson
+23,2019-04-22,-,ARI,NL,PIT,NL,Away,Night,"9,233",3:35,W,12-4,9,Box | PBP,12-11,2,8,15,2.5,W1,Matt Andriese,Kyle Crick,---,"Escobar, Walker"
+24,2019-04-23,-,ARI,NL,PIT,NL,Away,Night,"8,558",2:53,W,2-1,9,Box | PBP,13-11,2,5,13,1.5,W2,Luke Weaver,Trevor Williams,Greg Holland,---
+25,2019-04-24,-,ARI,NL,PIT,NL,Away,Night,"9,450",2:49,W,11-2,9,Box | PBP,14-11,2,3,9,0.5,W3,Merrill Kelly,Jordan Lyles,---,"Ahmed, Marte (2)"
+26,2019-04-25,-,ARI,NL,PIT,NL,Away,Day,"9,365",2:41,W,5-0,9,Box | PBP,15-11,2,3,8,0.5,W4,Zack Greinke,Jameson Taillon,---,---
+27,2019-04-26,-,ARI,NL,CHN,NL,Home,Night,"30,664",3:04,W,8-3,9,Box | PBP,16-11,2,3,7,0.5,W5,Robbie Ray,Kyle Hendricks,Matt Andriese,---
+28,2019-04-27,-,ARI,NL,CHN,NL,Home,Night,"27,793",3:05,L,1-9,9,Box | PBP,16-12,3,4,10,1.5,L1,Yu Darvish,Zack Godley,---,Peralta
+29,2019-04-28,-,ARI,NL,CHN,NL,Home,Day,"29,477",5:36,L,5-6,15,Box | PBP,16-13,3,5,11,2.5,L2,Tyler Chatwood,Matt Andriese,Allen Webster,Escobar (2)
+30,2019-04-30,-,ARI,NL,NYA,AL,Home,Night,"36,352",2:33,W,3-1,9,Box | PBP,17-13,2,3,8,2.0,W1,Zack Greinke,CC Sabathia,Greg Holland,Flores
+31,2019-05-01,-,ARI,NL,NYA,AL,Home,Day,"31,365",3:12,W,3-2,9,Box | PBP,18-13,2,3,5,1.0,W2,Merrill Kelly,Masahiro Tanaka,Greg Holland,Marte
+32,2019-05-03,-,ARI,NL,COL,NL,Away,Night,"29,574",3:24,W,10-9,9,Box | PBP,19-13,2,3,5,1.0,W3,Robbie Ray,Tyler Anderson,Greg Holland,"Escobar, Jones, Marte (2)"
+33,2019-05-04,-,ARI,NL,COL,NL,Away,Night,"37,765",2:51,W,9-2,9,Box | PBP,20-13,2,2,4,1.0,W4,Luke Weaver,Kyle Freeland,---,"Ahmed, Kelly, Peralta"
+34,2019-05-05,-,ARI,NL,COL,NL,Away,Day,"40,262",3:09,L,7-8,9,Box | PBP,20-14,2,3,5,1.0,L1,Scott Oberg,Archie Bradley,Wade Davis,"Escobar, Swihart"
+35,2019-05-06,-,ARI,NL,TBA,AL,Away,Night,"8,124",2:54,L,1-12,9,Box | PBP,20-15,2,4,8,2.0,L2,Blake Snell,Merrill Kelly,---,---
+36,2019-05-07,-,ARI,NL,TBA,AL,Away,Night,"8,059",3:19,L,3-6,9,Box | PBP,20-16,2,6,10,3.0,L3,Jalen Beeks,Taylor Clarke,---,"Flores, Kelly"
+37,2019-05-08,-,ARI,NL,TBA,AL,Away,Day,"8,663",4:39,W,3-2,13,Box | PBP,21-16,2,5,9,3.0,W1,Archie Bradley,Adam Kolarek,Zack Godley,---
+38,2019-05-09,-,ARI,NL,ATL,NL,Home,Night,"17,751",3:13,W,3-2,10,Box | PBP,22-16,2,5,9,2.0,W2,Jon Duplantier,A.J. Minter,---,Peralta
+39,2019-05-10,-,ARI,NL,ATL,NL,Home,Night,"21,932",3:00,L,1-2,9,Box | PBP,22-17,2,5,9,3.0,L1,Daniel Winkler,Yoan Lopez,Luke Jackson,---
+40,2019-05-11,-,ARI,NL,ATL,NL,Home,Night,"33,168",3:09,L,4-6,9,Box | PBP,22-18,2,5,9,3.0,L2,Kevin Gausman,Merrill Kelly,Jonny Venters,"Jones, Swihart"
+41,2019-05-12,-,ARI,NL,ATL,NL,Home,Day,"27,460",3:21,L,3-5,9,Box | PBP,22-19,2,6,11,4.0,L3,Max Fried,Zack Godley,Luke Jackson,Jones
+42,2019-05-13,-,ARI,NL,PIT,NL,Home,Night,"15,418",3:27,W,9-3,9,Box | PBP,23-19,2,5,9,3.5,W1,Robbie Ray,Nick Kingham,---,"Escobar, Walker"
+43,2019-05-14,-,ARI,NL,PIT,NL,Home,Night,"21,047",2:45,L,2-6,9,Box | PBP,23-20,2,7,12,4.5,L1,Joe Musgrove,Luke Weaver,---,Kelly
+44,2019-05-15,-,ARI,NL,PIT,NL,Home,Day,"17,258",2:58,W,11-1,9,Box | PBP,24-20,2,5,9,4.5,W1,Zack Greinke,Chris Archer,---,"Escobar, Jones, Swihart"
+45,2019-05-17,-,ARI,NL,SFN,NL,Home,Night,"26,806",3:06,W,7-0,9,Box | PBP,25-20,2,5,9,4.5,W2,Merrill Kelly,Jeff Samardzija,---,Peralta
+46,2019-05-18,-,ARI,NL,SFN,NL,Home,Night,"25,014",3:24,L,5-8,9,Box | PBP,25-21,2,5,10,4.5,L1,Madison Bumgarner,Zack Godley,---,"Escobar, Kelly"
+47,2019-05-19,-,ARI,NL,SFN,NL,Home,Day,"24,061",3:28,L,2-3,10,Box | PBP,25-22,2,6,11,5.5,L2,Sam Dyson,Yoshihisa Hirano,Will Smith,---
+48,2019-05-20,-,ARI,NL,SDN,NL,Away,Night,"17,578",2:40,L,1-2,9,Box | PBP,25-23,2,7,13,6.0,L3,Chris Paddack,Luke Weaver,Kirby Yates,---
+49,2019-05-21,-,ARI,NL,SDN,NL,Away,Night,"19,969",2:21,L,2-3,9,Box | PBP,25-24,2,8,14,7.0,L4,Matt Strahm,Zack Greinke,Kirby Yates,"Escobar, Murphy"
+50,2019-05-22,-,ARI,NL,SDN,NL,Away,Day,"18,715",2:57,L,2-5,9,Box | PBP,25-25,3,9,17,7.0,L5,Eric Lauer,Merrill Kelly,Kirby Yates,---
+51,2019-05-24,-,ARI,NL,SFN,NL,Away,Night,"31,777",3:35,W,18-2,9,Box | PBP,26-25,3,8,16,7.0,W1,Robbie Ray,Drew Pomeranz,Zack Godley,"Escobar, Jones, Marte, Vargas"
+52,2019-05-25,-,ARI,NL,SFN,NL,Away,Day,"31,531",3:06,W,10-4,9,Box | PBP,27-25,3,7,12,7.0,W2,Taylor Clarke,Andrew Suarez,---,Marte
+53,2019-05-26,-,ARI,NL,SFN,NL,Away,Day,"37,017",3:17,W,6-2,9,Box | PBP,28-25,2,6,11,7.0,W3,Luke Weaver,Shaun Anderson,Greg Holland,Marte
+54,2019-05-27,-,ARI,NL,COL,NL,Away,Day,"35,604",4:23,L,3-4,11,Box | PBP,28-26,2,6,12,8.0,L1,Seung Hwan Oh,Matt Andriese,---,Ahmed
+55,2019-05-28,-,ARI,NL,COL,NL,Away,Night,"21,583",3:02,L,2-6,9,Box | PBP,28-27,3,7,13,8.0,L2,Jairo Diaz,Merrill Kelly,Chad Bettis,Escobar
+56,2019-05-29,-,ARI,NL,COL,NL,Away,Night,"24,261",3:11,L,4-5,9,Box | PBP,28-28,3,7,15,9.0,L3,Jeff Hoffman,Robbie Ray,Scott Oberg,"Jones, Kelly"
+57,2019-05-30,-,ARI,NL,COL,NL,Away,Day,"30,371",3:51,L,10-11,10,Box | PBP,28-29,4,8,16,10.0,L4,Seung Hwan Oh,Yoshihisa Hirano,---,"Clarke, Escobar, Walker"
+58,2019-05-31,-,ARI,NL,NYN,NL,Home,Night,"24,664",3:14,L,4-5,9,Box | PBP,28-30,4,11,20,11.0,L5,Zack Wheeler,Matt Andriese,Robert Gsellman,"Marte, Walker"
+59,2019-06-01,-,ARI,NL,NYN,NL,Home,Night,"34,888",3:42,W,6-5,11,Box | PBP,29-30,4,9,17,11.0,W1,Yoshihisa Hirano,Tyler Bashlor,---,Jones
+60,2019-06-02,-,ARI,NL,NYN,NL,Home,Day,"26,945",2:37,W,7-1,9,Box | PBP,30-30,4,9,15,11.0,W2,Merrill Kelly,Steven Matz,---,"Escobar, Marte"
+61,2019-06-03,-,ARI,NL,LAN,NL,Home,Night,"24,124",2:26,L,1-3,9,Box | PBP,30-31,4,9,16,12.0,L1,Walker Buehler,Robbie Ray,Kenley Jansen,Walker
+62,2019-06-04,-,ARI,NL,LAN,NL,Home,Night,"29,784",3:07,L,0-9,9,Box | PBP,30-32,4,9,17,13.0,L2,Hyun-Jin Ryu,Taylor Clarke,---,---
+63,2019-06-05,-,ARI,NL,LAN,NL,Home,Day,"22,753",3:27,W,3-2,11,Box | PBP,31-32,4,9,17,12.0,W1,Zack Godley,Scott Alexander,---,---
+64,2019-06-07,-,ARI,NL,TOR,AL,Away,Night,"16,555",2:50,W,8-2,9,Box | PBP,32-32,4,9,17,11.0,W2,Merrill Kelly,Marcus Stroman,---,"Cron, Kelly, Peralta"
+65,2019-06-08,-,ARI,NL,TOR,AL,Away,Day,"22,954",3:09,W,6-0,9,Box | PBP,33-32,3,7,14,11.0,W3,Zack Greinke,Aaron Sanchez,---,"Avila, Cron"
+66,2019-06-09,-,ARI,NL,TOR,AL,Away,Day,"19,661",3:04,W,8-2,9,Box | PBP,34-32,3,7,12,11.0,W4,Robbie Ray,Clayton Richard,---,"Kelly, Marte"
+67,2019-06-10,-,ARI,NL,PHI,NL,Away,Night,"26,255",3:50,W,13-8,9,Box | PBP,35-32,3,7,12,10.0,W5,Zack Godley,Jerad Eickhoff,---,"Avila, Dyson, Escobar (2), Marte, Peralta, Vargas (2)"
+68,2019-06-11,-,ARI,NL,PHI,NL,Away,Night,"26,321",3:16,L,4-7,9,Box | PBP,35-33,3,7,13,10.0,L1,Jake Arrieta,Jon Duplantier,Hector Neris,Marte
+69,2019-06-12,-,ARI,NL,PHI,NL,Away,Night,"29,047",2:16,W,2-0,9,Box | PBP,36-33,3,7,12,9.5,W1,Merrill Kelly,Zach Eflin,Greg Holland,---
+70,2019-06-13,-,ARI,NL,WAS,NL,Away,Night,"24,909",2:15,W,5-0,9,Box | PBP,37-33,3,7,12,9.5,W2,Zack Greinke,Erick Fedde,---,"Avila, Dyson"
+71,2019-06-14,-,ARI,NL,WAS,NL,Away,Night,"29,853",2:57,L,3-7,9,Box | PBP,37-34,3,7,12,10.5,L1,Max Scherzer,Robbie Ray,---,"Ahmed, Kelly"
+72,2019-06-15,-,ARI,NL,WAS,NL,Away,Day,"38,044",3:30,W,10-3,9,Box | PBP,38-34,3,7,12,9.5,W1,Yoshihisa Hirano,Stephen Strasburg,---,"Cron, Jones, Marte (2), Walker"
+73,2019-06-16,-,ARI,NL,WAS,NL,Away,Day,"29,032",3:14,L,5-15,9,Box | PBP,38-35,3,7,14,10.5,L1,Anibal Sanchez,Archie Bradley,---,Marte
+74,2019-06-18,-,ARI,NL,COL,NL,Home,Night,"22,954",2:51,L,1-8,9,Box | PBP,38-36,3,8,16,11.0,L2,Antonio Senzatela,Merrill Kelly,---,---
+75,2019-06-19,-,ARI,NL,COL,NL,Home,Night,"21,773",2:55,L,4-6,9,Box | PBP,38-37,3,8,17,12.0,L3,Jon Gray,Zack Greinke,Wade Davis,Cron
+76,2019-06-20,-,ARI,NL,COL,NL,Home,Day,"23,294",4:08,L,4-6,10,Box | PBP,38-38,4,9,18,13.0,L4,Scott Oberg,Yoshihisa Hirano,---,Walker
+77,2019-06-21,-,ARI,NL,SFN,NL,Home,Night,"29,312",3:09,L,5-11,9,Box | PBP,38-39,4,9,18,14.0,L5,Jeff Samardzija,Taylor Clarke,---,Ahmed
+78,2019-06-22,-,ARI,NL,SFN,NL,Home,Night,"32,082",3:20,L,4-7,9,Box | PBP,38-40,4,9,18,15.0,L6,Trevor Gott,Zack Godley,Will Smith,---
+79,2019-06-23,-,ARI,NL,SFN,NL,Home,Day,"25,071",3:13,W,3-2,10,Box | PBP,39-40,3,8,17,15.0,W1,Matt Andriese,Mark Melancon,---,---
+80,2019-06-24,-,ARI,NL,LAN,NL,Home,Night,"24,675",3:12,W,8-5,9,Box | PBP,40-40,3,8,16,14.0,W2,Yoan Lopez,Dylan Floro,Greg Holland,"Greinke, Walker"
+81,2019-06-25,-,ARI,NL,LAN,NL,Home,Night,"27,927",3:07,L,2-3,9,Box | PBP,40-41,3,8,17,15.0,L1,Julio Urias,Robbie Ray,Kenley Jansen,---
+82,2019-06-26,-,ARI,NL,LAN,NL,Home,Day,"28,752",3:01,W,8-2,9,Box | PBP,41-41,3,8,17,14.0,W1,Taylor Clarke,Tony Gonsolin,---,Escobar
+83,2019-06-27,-,ARI,NL,SFN,NL,Away,Night,"30,790",2:42,W,5-1,9,Box | PBP,42-41,3,8,17,14.0,W2,Alex Young,Tyler Beede,---,"Ahmed, Kelly"
+84,2019-06-28,-,ARI,NL,SFN,NL,Away,Night,"35,391",3:07,L,3-6,9,Box | PBP,42-42,4,9,18,14.0,L1,Shaun Anderson,Merrill Kelly,---,---
+85,2019-06-29,-,ARI,NL,SFN,NL,Away,Night,"31,600",3:18,W,4-3,9,Box | PBP,43-42,4,8,16,13.0,W1,Zack Greinke,Sam Dyson,Greg Holland,---
+86,2019-06-30,-,ARI,NL,SFN,NL,Away,Day,"31,778",3:09,L,4-10,9,Box | PBP,43-43,4,9,17,14.0,L1,Madison Bumgarner,Robbie Ray,---,---
+87,2019-07-02,-,ARI,NL,LAN,NL,Away,Night,"52,969",3:26,L,4-5,9,Box | PBP,43-44,3,8,17,15.0,L2,Yimi Garcia,Greg Holland,---,Ahmed
+88,2019-07-03,-,ARI,NL,LAN,NL,Away,Night,"53,327",3:19,L,4-5,10,Box | PBP,43-45,3,10,20,16.0,L3,Joe Kelly,Yoan Lopez,---,"Kelly, Walker"
+89,2019-07-05,-,ARI,NL,COL,NL,Home,Night,"43,056",2:52,W,8-0,9,Box | PBP,44-45,3,9,18,15.5,W1,Zack Greinke,Antonio Senzatela,---,Walker (2)
+90,2019-07-06,-,ARI,NL,COL,NL,Home,Night,"28,276",3:11,W,4-2,9,Box | PBP,45-45,2,8,17,14.5,W2,Robbie Ray,Jon Gray,Greg Holland,Lamb
+91,2019-07-07,-,ARI,NL,COL,NL,Home,Day,"22,964",2:36,W,5-3,9,Box | PBP,46-45,2,7,15,13.5,W3,Alex Young,German Marquez,Greg Holland,Ahmed
+92,2019-07-12,-,ARI,NL,SLN,NL,Away,Night,"44,960",2:56,W,4-2,9,Box | PBP,47-45,2,6,14,12.5,W4,Robbie Ray,Andrew Miller,Greg Holland,"Lamb, Marte, Walker"
+93,2019-07-13,-,ARI,NL,SLN,NL,Away,Night,"46,152",3:04,L,2-4,9,Box | PBP,47-46,2,7,16,13.5,L1,Dakota Hudson,Merrill Kelly,Carlos Martinez,Escobar
+94,2019-07-14,-,ARI,NL,SLN,NL,Away,Day,"43,439",2:52,L,2-5,9,Box | PBP,47-47,2,8,17,14.5,L2,Adam Wainwright,Zack Greinke,Carlos Martinez,---
+95,2019-07-16,-,ARI,NL,TEX,AL,Away,Night,"19,202",3:23,W,9-2,9,Box | PBP,48-47,2,8,17,14.0,W1,Alex Young,Lance Lynn,---,Vargas
+96,2019-07-17,-,ARI,NL,TEX,AL,Away,Night,"26,681",3:14,W,19-4,9,Box | PBP,49-47,2,7,16,14.0,W2,Robbie Ray,Jesse Chavez,---,"Cron, Dyson, Escobar (2), Kelly"
+97,2019-07-18,-,ARI,NL,MIL,NL,Home,Night,"23,985",2:59,L,1-5,9,Box | PBP,49-48,2,8,17,14.0,L1,Zach Davies,Yoan Lopez,---,---
+98,2019-07-19,-,ARI,NL,MIL,NL,Home,Night,"28,505",3:44,W,10-7,9,Box | PBP,50-48,2,8,16,14.0,W1,Archie Bradley,Jhoulys Chacin,Greg Holland,"Escobar, Walker"
+99,2019-07-20,-,ARI,NL,MIL,NL,Home,Night,"38,567",3:17,L,3-8,9,Box | PBP,50-49,2,8,17,15.0,L1,Adrian Houser,Andrew Chafin,---,---
+100,2019-07-21,-,ARI,NL,MIL,NL,Home,Day,"33,111",3:39,L,4-7,9,Box | PBP,50-50,2,8,17,16.0,L2,Freddy Peralta,Yoan Lopez,Josh Hader,Avila
+101,2019-07-22,-,ARI,NL,BAL,AL,Home,Night,"19,192",2:55,W,6-3,9,Box | PBP,51-50,2,8,16,15.5,W1,Robbie Ray,Aaron Brooks,Greg Holland,---
+102,2019-07-23,-,ARI,NL,BAL,AL,Home,Night,"20,253",2:57,L,2-7,9,Box | PBP,51-51,3,9,18,15.5,L1,Dylan Bundy,Merrill Kelly,---,---
+103,2019-07-24,-,ARI,NL,BAL,AL,Home,Day,"20,452",3:24,W,5-2,9,Box | PBP,52-51,2,8,16,14.5,W1,Taylor Clarke,John Means,Yoan Lopez,"Kelly, Marte"
+104,2019-07-26,-,ARI,NL,MIA,NL,Away,Night,"8,867",3:10,L,2-3,9,Box | PBP,52-52,3,9,18,15.5,L1,Jose Quijada,Greg Holland,---,---
+105,2019-07-27,-,ARI,NL,MIA,NL,Away,Night,"13,047",2:49,W,9-2,9,Box | PBP,53-52,2,8,16,15.5,W1,Alex Young,Jordan Yamamoto,---,"Ahmed, Lamb"
+106,2019-07-28,-,ARI,NL,MIA,NL,Away,Day,"11,538",3:11,L,1-5,9,Box | PBP,53-53,3,9,17,15.5,L1,Jose Quijada,Robbie Ray,---,---
+107,2019-07-29,-,ARI,NL,MIA,NL,Away,Night,"7,048",2:59,L,6-11,9,Box | PBP,53-54,3,9,18,15.5,L2,Caleb Smith,Merrill Kelly,---,"Kelly, Marte"
+108,2019-07-30,-,ARI,NL,NYA,AL,Away,Night,"47,281",3:10,W,4-2,9,Box | PBP,54-54,3,9,17,15.5,W1,Taylor Clarke,J.A. Happ,Archie Bradley,"Kelly, Walker"
+109,2019-07-31,-,ARI,NL,NYA,AL,Away,Day,"43,979",3:43,L,5-7,9,Box | PBP,54-55,3,9,18,16.5,L1,Adam Ottavino,Yoshihisa Hirano,Aroldis Chapman,Locastro
+110,2019-08-02,-,ARI,NL,WAS,NL,Home,Night,"24,298",2:43,L,0-3,9,Box | PBP,54-56,3,9,18,17.0,L2,Joe Ross,Alex Young,Sean Doolittle,---
+111,2019-08-03,-,ARI,NL,WAS,NL,Home,Night,"33,966",3:46,W,18-7,9,Box | PBP,55-56,3,9,18,17.0,W1,Robbie Ray,Stephen Strasburg,---,"Ahmed, Avila, Escobar (2), Lamb"
+112,2019-08-04,-,ARI,NL,WAS,NL,Home,Day,"22,976",3:07,W,7-5,9,Box | PBP,56-56,2,8,16,17.0,W2,Yoshihisa Hirano,Wander Suero,Archie Bradley,Marte
+113,2019-08-05,-,ARI,NL,PHI,NL,Home,Night,"18,319",3:05,L,3-7,9,Box | PBP,56-57,2,9,17,18.0,L1,Vincent Velasquez,Merrill Kelly,---,---
+114,2019-08-06,-,ARI,NL,PHI,NL,Home,Night,"17,446",3:19,W,8-4,9,Box | PBP,57-57,2,9,17,18.0,W1,Andrew Chafin,Ranger Suarez,---,"Avila, Escobar, Peralta"
+115,2019-08-07,-,ARI,NL,PHI,NL,Home,Night,"18,140",3:10,W,6-1,9,Box | PBP,58-57,2,9,17,18.0,W2,Zac Gallen,Jason Vargas,---,---
+116,2019-08-09,-,ARI,NL,LAN,NL,Away,Night,"49,538",3:49,W,3-2,11,Box | PBP,59-57,2,9,16,17.0,W3,Andrew Chafin,Julio Urias,Archie Bradley,Kelly (2)
+117,2019-08-10,-,ARI,NL,LAN,NL,Away,Night,"52,606",3:18,L,0-4,9,Box | PBP,59-58,2,9,16,18.0,L1,Kenta Maeda,Alex Young,---,---
+118,2019-08-11,-,ARI,NL,LAN,NL,Away,Day,"44,619",2:40,L,3-9,9,Box | PBP,59-59,2,9,17,19.0,L2,Hyun-Jin Ryu,Mike Leake,---,"Ahmed, Escobar"
+119,2019-08-12,-,ARI,NL,COL,NL,Away,Night,"32,160",3:30,W,8-6,9,Box | PBP,60-59,2,9,16,18.5,W1,Merrill Kelly,Chad Bettis,Archie Bradley,"Ahmed, Kelly, Lamb"
+120,2019-08-13,-,ARI,NL,COL,NL,Away,Night,"31,815",3:32,W,9-3,9,Box | PBP,61-59,2,9,16,18.5,W2,Kevin Ginkel,Jeff Hoffman,---,"Ahmed, Dyson, Peralta, Walker"
+121,2019-08-14,-,ARI,NL,COL,NL,Away,Day,"32,247",3:25,L,6-7,9,Box | PBP,61-60,2,9,16,19.5,L1,Scott Oberg,Archie Bradley,---,"Escobar, Flores"
+122,2019-08-15,-,ARI,NL,SFN,NL,Home,Night,"19,037",2:44,L,0-7,9,Box | PBP,61-61,2,9,16,19.5,L2,Dereck Rodriguez,Alex Young,---,---
+123,2019-08-16,-,ARI,NL,SFN,NL,Home,Night,"23,642",4:05,L,9-10,11,Box | PBP,61-62,3,10,17,20.5,L3,Will Smith,Yoan Lopez,Trevor Gott,"Ahmed, Escobar, Flores (2), Jones, Marte"
+124,2019-08-17,-,ARI,NL,SFN,NL,Home,Night,"35,366",3:40,L,6-11,9,Box | PBP,61-63,3,10,17,20.5,L4,Logan Webb,Taylor Clarke,---,"Ahmed, Walker"
+125,2019-08-18,-,ARI,NL,SFN,NL,Home,Day,"26,079",3:19,W,6-1,9,Box | PBP,62-63,3,10,17,19.5,W1,Merrill Kelly,Madison Bumgarner,---,"Flores, Peralta"
+126,2019-08-19,-,ARI,NL,COL,NL,Home,Night,"15,443",2:51,W,5-3,9,Box | PBP,63-63,3,10,17,19.0,W2,Yoan Lopez,Wade Davis,Archie Bradley,"Kelly, Marte"
+127,2019-08-20,-,ARI,NL,COL,NL,Home,Night,"17,691",3:13,W,8-7,9,Box | PBP,64-63,2,9,16,19.0,W3,Alex Young,Kyle Freeland,Archie Bradley,Ahmed
+128,2019-08-21,-,ARI,NL,COL,NL,Home,Day,"17,707",2:50,L,2-7,9,Box | PBP,64-64,2,9,16,20.0,L1,Tim Melville,Mike Leake,---,"Avila, Marte"
+129,2019-08-23,-,ARI,NL,MIL,NL,Away,Night,"42,209",3:06,L,1-6,9,Box | PBP,64-65,2,9,16,20.5,L2,Jordan Lyles,Merrill Kelly,---,---
+130,2019-08-24,-,ARI,NL,MIL,NL,Away,Night,"41,737",3:29,L,0-4,9,Box | PBP,64-66,3,10,17,21.5,L3,Chase Anderson,Zac Gallen,---,---
+131,2019-08-25,-,ARI,NL,MIL,NL,Away,Day,"38,920",3:44,W,5-2,9,Box | PBP,65-66,3,10,17,20.5,W1,Robbie Ray,Zach Davies,Archie Bradley,"Escobar, Walker"
+132,2019-08-26,-,ARI,NL,SFN,NL,Away,Night,"29,169",3:30,W,6-4,9,Box | PBP,66-66,2,9,16,19.5,W2,Alex Young,Tyler Beede,Archie Bradley,Jones
+133,2019-08-27,-,ARI,NL,SFN,NL,Away,Night,"28,262",2:46,W,3-2,9,Box | PBP,67-66,2,9,16,19.5,W3,Mike Leake,Sam Coonrod,Archie Bradley,Marte
+134,2019-08-29,-,ARI,NL,LAN,NL,Home,Night,"22,581",3:23,W,11-5,9,Box | PBP,68-66,2,8,15,19.0,W4,Matt Andriese,Hyun-Jin Ryu,---,Escobar
+135,2019-08-30,-,ARI,NL,LAN,NL,Home,Night,"34,149",3:41,W,5-4,9,Box | PBP,69-66,2,7,14,18.0,W5,Archie Bradley,Yimi Garcia,---,"Escobar, Rojas"
+136,2019-08-31,-,ARI,NL,LAN,NL,Home,Night,"50,180",3:11,W,6-5,9,Box | PBP,70-66,2,7,14,17.0,W6,Robbie Ray,Clayton Kershaw,Archie Bradley,"Escobar, Flores, Walker"
+137,2019-09-01,-,ARI,NL,LAN,NL,Home,Day,"34,439",3:56,L,3-4,11,Box | PBP,70-67,2,8,15,18.0,L1,Casey Sadler,Taylor Clarke,Pedro Baez,---
+138,2019-09-02,-,ARI,NL,SDN,NL,Home,Day,"23,477",3:26,W,14-7,9,Box | PBP,71-67,2,7,14,18.0,W1,Mike Leake,Cal Quantrill,---,"Escobar, Marte, Rojas, Walker"
+139,2019-09-03,-,ARI,NL,SDN,NL,Home,Night,"15,402",3:08,W,2-1,9,Box | PBP,72-67,2,7,14,18.0,W2,Merrill Kelly,Ronald Bolanos,Archie Bradley,---
+140,2019-09-04,-,ARI,NL,SDN,NL,Home,Night,"18,096",2:55,W,4-1,9,Box | PBP,73-67,2,7,14,18.0,W3,Zac Gallen,Craig Stammen,Archie Bradley,Marte
+141,2019-09-06,-,ARI,NL,CIN,NL,Away,Night,"19,048",4:10,W,7-5,9,Box | PBP,74-67,2,6,13,17.0,W4,Kevin Ginkel,Tyler Mahle,Archie Bradley,"Ahmed, Marte"
+142,2019-09-07,-,ARI,NL,CIN,NL,Away,Day,"34,804",2:39,W,2-0,9,Box | PBP,75-67,2,6,13,16.0,W5,Alex Young,Luis Castillo,Jimmie Sherfy,---
+143,2019-09-08,-,ARI,NL,CIN,NL,Away,Day,"19,717",3:12,L,3-4,9,Box | PBP,75-68,2,6,13,17.0,L1,Raisel Iglesias,Yoan Lopez,---,Marte
+144,2019-09-09,-,ARI,NL,NYN,NL,Away,Night,"21,337",2:45,L,1-3,9,Box | PBP,75-69,2,7,14,17.5,L2,Jacob deGrom,Merrill Kelly,Seth Lugo,Flores
+145,2019-09-10,-,ARI,NL,NYN,NL,Away,Night,"20,843",3:02,L,2-3,9,Box | PBP,75-70,2,8,15,18.5,L3,Zack Wheeler,Zac Gallen,Justin Wilson,Escobar
+146,2019-09-11,-,ARI,NL,NYN,NL,Away,Night,"21,841",3:06,L,0-9,9,Box | PBP,75-71,2,9,16,18.5,L4,Steven Matz,Robbie Ray,---,---
+147,2019-09-12,-,ARI,NL,NYN,NL,Away,Day,"21,856",3:25,L,1-11,9,Box | PBP,75-72,2,9,16,19.5,L5,Marcus Stroman,Alex Young,---,---
+148,2019-09-13,-,ARI,NL,CIN,NL,Home,Night,"35,158",2:48,L,3-4,9,Box | PBP,75-73,2,9,16,20.5,L6,Luis Castillo,Mike Leake,Raisel Iglesias,---
+149,2019-09-14,-,ARI,NL,CIN,NL,Home,Night,"35,151",2:15,W,1-0,9,Box | PBP,76-73,2,9,16,19.5,W1,Merrill Kelly,Anthony DeSclafani,Archie Bradley,---
+150,2019-09-15,-,ARI,NL,CIN,NL,Home,Day,"25,193",2:55,L,1-3,9,Box | PBP,76-74,2,9,16,20.5,L1,Trevor Bauer,Zac Gallen,Raisel Iglesias,---
+151,2019-09-16,-,ARI,NL,MIA,NL,Home,Night,"15,897",3:25,W,7-5,9,Box | PBP,77-74,2,9,16,20.0,W1,Yoshihisa Hirano,Tayron Guerrero,Kevin Ginkel,Escobar
+152,2019-09-17,-,ARI,NL,MIA,NL,Home,Night,"19,745",3:49,L,6-12,9,Box | PBP,77-75,2,9,16,21.0,L1,Caleb Smith,Matt Andriese,---,Cron
+153,2019-09-18,-,ARI,NL,MIA,NL,Home,Day,"17,731",2:55,W,5-4,9,Box | PBP,78-75,2,9,16,20.0,W1,Mike Leake,Sandy Alcantara,Archie Bradley,"Almonte, Walker"
+154,2019-09-20,-,ARI,NL,SDN,NL,Away,Night,"27,023",3:11,W,9-0,9,Box | PBP,79-75,2,9,16,20.0,W2,Merrill Kelly,Eric Lauer,---,---
+155,2019-09-21,-,ARI,NL,SDN,NL,Away,Night,"30,191",3:12,W,4-2,9,Box | PBP,80-75,2,9,16,19.0,W3,Taylor Clarke,Matt Strahm,Archie Bradley,---
+156,2019-09-22,-,ARI,NL,SDN,NL,Away,Day,"31,293",3:42,L,4-6,10,Box | PBP,80-76,2,9,16,20.0,L1,Matt Strahm,Yoan Lopez,---,Jones
+157,2019-09-23,-,ARI,NL,SLN,NL,Home,Night,"24,826",3:29,L,7-9,9,Box | PBP,80-77,2,9,16,20.5,L2,Adam Wainwright,Alex Young,Carlos Martinez,"Ahmed, Walker"
+158,2019-09-24,-,ARI,NL,SLN,NL,Home,Night,"26,097",6:53,W,3-2,19,Box | PBP,81-77,2,8,15,20.5,W1,Kevin Ginkel,John Brebbia,---,Vargas
+159,2019-09-25,-,ARI,NL,SLN,NL,Home,Day,"21,420",3:52,W,9-7,9,Box | PBP,82-77,2,8,15,20.5,W2,Merrill Kelly,Junior Fernandez,Archie Bradley,Flores
+160,2019-09-27,-,ARI,NL,SDN,NL,Home,Night,"32,244",3:03,W,6-3,9,Box | PBP,83-77,2,7,13,21.0,W3,Robby Scott,Luis Perdomo,Archie Bradley,Lamb
+161,2019-09-28,-,ARI,NL,SDN,NL,Home,Night,"46,477",3:05,W,6-5,9,Box | PBP,84-77,2,7,13,21.0,W4,Jimmie Sherfy,David Bednar,Kevin Ginkel,Walker (2)
+162,2019-09-29,-,ARI,NL,SDN,NL,Home,Day,"45,446",2:46,W,1-0,9,Box | PBP,85-77,2,7,13,21.0,W5,Stefan Crichton,Matt Strahm,---,---

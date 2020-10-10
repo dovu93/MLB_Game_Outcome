@@ -1,0 +1,163 @@
+Game#,Game Date,Seq,Team,Lg,Opp,LgOpp,Hm/Aw,TimeDay,Att,GameTime,WL,Result,Inn,Boxscore,Record,Div Rk,Lg Rk,MLB Rk,GBL,Strk,Winning Pitcher,Losing Pitcher,Save Pitcher,Home Runs
+1,2018-03-29,-,BAL,AL,MIN,AL,Home,Day,"45,469",3:31,W,3-2,11,Box | PBP,1-0,1,7,11,--,W1,Richard Bleier,Fernando Rodney,---,Jones
+2,2018-03-31,-,BAL,AL,MIN,AL,Home,Night,"17,763",2:50,L,2-6,9,Box | PBP,1-1,3,9,15,0.5,L1,Kyle Gibson,Andrew Cashner,---,Beckham
+3,2018-04-01,-,BAL,AL,MIN,AL,Home,Day,"17,212",2:35,L,0-7,9,Box | PBP,1-2,4,10,19,1.5,L2,Jose Berrios,Kevin Gausman,---,---
+4,2018-04-02,-,BAL,AL,HOU,AL,Away,Night,"42,675",2:52,L,1-6,9,Box | PBP,1-3,4,13,24,2.5,L3,Charlie Morton,Chris Tillman,---,Mancini
+5,2018-04-03,-,BAL,AL,HOU,AL,Away,Night,"40,081",3:19,L,6-10,9,Box | PBP,1-4,4,15,28,3.5,L4,Hector Rondon,Pedro Araujo,---,"Jones, Schoop"
+6,2018-04-04,-,BAL,AL,HOU,AL,Away,Day,"27,698",2:42,L,2-3,9,Box | PBP,1-5,4,15,29,4.0,L5,Brad Peacock,Miguel Castro,---,---
+7,2018-04-05,-,BAL,AL,NYA,AL,Away,Night,"33,653",3:15,W,5-2,9,Box | PBP,2-5,4,13,24,4.0,W1,Andrew Cashner,Masahiro Tanaka,Brad Brach,Jones
+8,2018-04-06,-,BAL,AL,NYA,AL,Away,Night,"34,244",5:20,W,7-3,14,Box | PBP,3-5,4,10,20,3.5,W2,Pedro Araujo,Jonathan Holder,---,"Alvarez, Davis, Machado (2)"
+9,2018-04-07,-,BAL,AL,NYA,AL,Away,Day,"34,388",3:03,L,3-8,9,Box | PBP,3-6,4,13,25,4.5,L1,Sonny Gray,Chris Tillman,---,---
+10,2018-04-08,-,BAL,AL,NYA,AL,Away,Day,"37,096",4:48,W,8-7,12,Box | PBP,4-6,4,10,20,4.5,W1,Richard Bleier,Adam Warren,Brad Brach,"Santander, Valencia"
+11,2018-04-09,-,BAL,AL,TOR,AL,Home,Night,"7,915",2:56,L,1-7,9,Box | PBP,4-7,4,11,22,5.0,L1,J.A. Happ,Dylan Bundy,---,Machado
+12,2018-04-10,-,BAL,AL,TOR,AL,Home,Night,"8,640",2:37,L,1-2,9,Box | PBP,4-8,4,10,23,6.0,L2,Aaron Sanchez,Darren O'Day,Roberto Osuna,---
+13,2018-04-11,-,BAL,AL,TOR,AL,Home,Night,"10,399",2:57,W,5-3,9,Box | PBP,5-8,4,9,21,5.0,W1,Kevin Gausman,Marco Estrada,Brad Brach,---
+14,2018-04-13,-,BAL,AL,BOS,AL,Away,Night,"32,610",3:22,L,3-7,9,Box | PBP,5-9,4,10,21,6.5,L1,Eduardo Rodriguez,Chris Tillman,---,---
+15,2018-04-14,-,BAL,AL,BOS,AL,Away,Day,"33,584",3:05,L,3-10,9,Box | PBP,5-10,4,11,23,7.5,L2,Hector Velazquez,Alex Cobb,Marcus Walden,Alvarez
+16,2018-04-15,-,BAL,AL,BOS,AL,Away,Day,"32,489",2:54,L,1-3,9,Box | PBP,5-11,4,12,25,8.5,L3,Heath Hembree,Dylan Bundy,Craig Kimbrel,---
+17,2018-04-17,-,BAL,AL,DET,AL,Away,Night,"15,530",2:44,L,2-4,9,Box | PBP,5-12,4,12,25,9.5,L4,Francisco Liriano,Andrew Cashner,Shane Greene,Mancini
+18,2018-04-18,-,BAL,AL,DET,AL,Away,Day,"15,178",2:46,L,5-6,9,Box | PBP,5-13,4,13,27,10.5,L5,Shane Greene,Pedro Araujo,---,"Sardinas, Valencia"
+19,2018-04-19,-,BAL,AL,DET,AL,Away,Day,"15,916",3:11,L,8-13,9,Box | PBP,5-14,5,14,28,11.5,L6,Jordan Zimmermann,Alex Cobb,---,"Davis, Machado (2)"
+20,2018-04-20,-,BAL,AL,CLE,AL,Home,Night,"20,004",2:52,W,3-1,9,Box | PBP,6-14,5,13,26,11.5,W1,Dylan Bundy,Trevor Bauer,Darren O'Day,Machado
+21,2018-04-21,-,BAL,AL,CLE,AL,Home,Day,"29,187",2:21,L,0-4,9,Box | PBP,6-15,5,13,26,11.5,L1,Mike Clevinger,Chris Tillman,---,---
+22,2018-04-22,-,BAL,AL,CLE,AL,Home,Day,"27,394",2:54,L,3-7,9,Box | PBP,6-16,5,13,26,11.5,L2,Corey Kluber,Andrew Cashner,---,Machado (2)
+23,2018-04-23,-,BAL,AL,CLE,AL,Home,Night,"10,614",2:21,L,1-2,9,Box | PBP,6-17,5,14,27,12.0,L3,Carlos Carrasco,Kevin Gausman,Cody Allen,---
+24,2018-04-25,-,BAL,AL,TBA,AL,Home,Night,"8,730",2:53,L,4-8,9,Box | PBP,6-18,5,13,27,12.5,L4,Andrew Kittredge,Alex Cobb,---,Sisco
+25,2018-04-26,-,BAL,AL,TBA,AL,Home,Night,"9,596",3:20,L,5-9,9,Box | PBP,6-19,5,14,28,13.5,L5,Chris Archer,Dylan Bundy,---,"Jones, Valencia"
+26,2018-04-27,-,BAL,AL,DET,AL,Home,Night,"14,223",2:26,W,6-0,9,Box | PBP,7-19,5,14,28,12.5,W1,Chris Tillman,Michael Fiers,---,"Alvarez (2), Machado"
+27,2018-04-28,-,BAL,AL,DET,AL,Home,Night,"20,896",3:13,L,5-9,9,Box | PBP,7-20,5,14,28,12.5,L1,Francisco Liriano,Andrew Cashner,---,---
+28,2018-04-29,-,BAL,AL,DET,AL,Home,Day,"28,089",3:01,W,5-3,9,Box | PBP,8-20,5,14,28,12.5,W1,Kevin Gausman,Daniel Norris,Darren O'Day,"Alvarez (2), Mancini"
+29,2018-05-01,-,BAL,AL,ANA,AL,Away,Night,"32,345",2:58,L,2-3,9,Box | PBP,8-21,5,14,29,13.0,L1,Cam Bedrosian,Brad Brach,---,---
+30,2018-05-02,-,BAL,AL,ANA,AL,Away,Night,"32,156",3:14,L,7-10,9,Box | PBP,8-22,5,14,29,14.0,L2,Andrew Heaney,Dylan Bundy,---,---
+31,2018-05-03,-,BAL,AL,ANA,AL,Away,Night,"35,879",3:02,L,3-12,9,Box | PBP,8-23,5,15,29,14.0,L3,Jaime Barria,Chris Tillman,---,---
+32,2018-05-04,-,BAL,AL,OAK,AL,Away,Night,"12,723",3:21,L,4-6,9,Box | PBP,8-24,5,15,29,15.0,L4,Lou Trivino,Brad Brach,Blake Treinen,Jones
+33,2018-05-05,-,BAL,AL,OAK,AL,Away,Night,"24,612",3:32,L,0-2,12,Box | PBP,8-25,5,15,29,16.0,L5,Chris Hatcher,Pedro Araujo,---,---
+34,2018-05-06,-,BAL,AL,OAK,AL,Away,Day,"17,112",2:25,L,1-2,9,Box | PBP,8-26,5,15,29,17.0,L6,Andrew Triggs,Alex Cobb,Blake Treinen,Alvarez
+35,2018-05-08,-,BAL,AL,KCA,AL,Home,Night,"10,863",3:21,L,7-15,9,Box | PBP,8-27,5,15,30,17.0,L7,Danny Duffy,Dylan Bundy,---,"Davis, Joseph, Valencia"
+36,2018-05-09,-,BAL,AL,KCA,AL,Home,Night,"14,375",2:45,W,5-3,9,Box | PBP,9-27,5,15,30,17.0,W1,Richard Bleier,Kevin McCarthy,Brad Brach,Davis
+37,2018-05-10,-,BAL,AL,KCA,AL,Home,Night,"17,842",2:57,W,11-6,9,Box | PBP,10-27,5,14,29,16.0,W2,Miguel Castro,Ian Kennedy,---,"Jones, Machado, Mancini"
+38,2018-05-11,-,BAL,AL,TBA,AL,Home,Night,"28,170",2:36,W,9-4,9,Box | PBP,11-27,5,14,29,15.0,W3,Kevin Gausman,Jacob Faria,Brad Brach,"Machado (2), Sisco, Trumbo"
+39,2018-05-12,1,BAL,AL,TBA,AL,Home,Day,-,2:27,W,6-3,9,Box | PBP,12-28,5,14,29,15.5,L1,David Hess,Chris Archer,Mychal Givens,"Machado, Schoop (2)"
+40,2018-05-12,2,BAL,AL,TBA,AL,Home,Night,"24,534",2:58,L,3-10,9,Box | PBP,12-28,5,14,29,15.5,L1,Sergio Romo,Alex Cobb,---,Mancini
+41,2018-05-13,-,BAL,AL,TBA,AL,Home,Day,"25,257",3:01,W,17-1,9,Box | PBP,13-28,5,14,29,15.5,W1,Dylan Bundy,Blake Snell,---,"Mancini, Rickard (2), Valencia"
+42,2018-05-16,-,BAL,AL,PHI,NL,Home,Day,"29,706",2:42,L,1-4,9,Box | PBP,13-29,5,13,28,15.5,L1,Nick Pivetta,Andrew Cashner,---,Jones
+43,2018-05-17,-,BAL,AL,BOS,AL,Away,Night,"36,615",2:44,L,2-6,9,Box | PBP,13-30,5,13,28,16.0,L2,David Price,Kevin Gausman,---,Machado
+44,2018-05-18,-,BAL,AL,BOS,AL,Away,Night,"34,935",3:18,W,7-4,9,Box | PBP,14-30,5,13,28,15.5,W1,Alex Cobb,Drew Pomeranz,Brad Brach,Schoop
+45,2018-05-19,-,BAL,AL,BOS,AL,Away,Night,"34,195",2:54,L,3-6,9,Box | PBP,14-31,5,13,28,16.0,L1,Rick Porcello,Dylan Bundy,Craig Kimbrel,Alvarez
+46,2018-05-20,-,BAL,AL,BOS,AL,Away,Day,"35,550",3:25,L,0-5,9,Box | PBP,14-32,5,13,28,17.0,L2,Eduardo Rodriguez,David Hess,---,---
+47,2018-05-21,-,BAL,AL,CHA,AL,Away,Night,"11,628",3:02,W,3-2,9,Box | PBP,15-32,5,13,28,17.0,W1,Andrew Cashner,Hector Santiago,Brad Brach,"Jones, Machado, Trumbo"
+48,2018-05-22,-,BAL,AL,CHA,AL,Away,Night,"12,590",3:03,L,2-3,9,Box | PBP,15-33,5,13,28,18.0,L1,Bruce Rondon,Mychal Givens,Nate Jones,---
+49,2018-05-23,-,BAL,AL,CHA,AL,Away,Night,"17,056",2:54,L,1-11,9,Box | PBP,15-34,5,15,30,19.0,L2,Dylan Covey,Alex Cobb,---,---
+50,2018-05-24,-,BAL,AL,CHA,AL,Away,Day,"19,147",3:00,W,9-3,9,Box | PBP,16-34,5,14,29,18.0,W1,Dylan Bundy,Lucas Giolito,---,"Jones, Mancini"
+51,2018-05-25,-,BAL,AL,TBA,AL,Away,Night,"11,354",2:47,W,2-0,9,Box | PBP,17-34,5,13,28,18.0,W2,David Hess,Sergio Romo,Brad Brach,Schoop
+52,2018-05-26,-,BAL,AL,TBA,AL,Away,Day,"14,744",2:28,L,1-5,9,Box | PBP,17-35,5,13,28,19.0,L1,Anthony Banda,Andrew Cashner,---,---
+53,2018-05-27,-,BAL,AL,TBA,AL,Away,Day,"13,311",3:10,L,3-8,9,Box | PBP,17-36,5,14,29,19.0,L2,Vidal Nuno,Kevin Gausman,Austin Pruitt,---
+54,2018-05-28,-,BAL,AL,WAS,NL,Home,Day,"36,139",2:44,L,0-6,9,Box | PBP,17-37,5,14,29,20.0,L3,Gio Gonzalez,Alex Cobb,---,---
+55,2018-05-29,-,BAL,AL,WAS,NL,Home,Night,"13,935",3:14,L,2-3,9,Box | PBP,17-38,5,14,29,21.0,L4,Jeremy Hellickson,Dylan Bundy,Sean Doolittle,Machado
+56,2018-05-30,-,BAL,AL,WAS,NL,Home,Night,"20,370",2:34,L,0-2,9,Box | PBP,17-39,5,14,29,22.0,L5,Max Scherzer,David Hess,Sean Doolittle,---
+57,2018-06-01,-,BAL,AL,NYA,AL,Home,Night,"26,500",3:03,L,1-4,9,Box | PBP,17-40,5,15,30,21.5,L6,Sonny Gray,Andrew Cashner,Aroldis Chapman,Machado
+58,2018-06-02,-,BAL,AL,NYA,AL,Home,Night,"32,823",3:31,L,5-8,9,Box | PBP,17-41,5,15,30,22.5,L7,Masahiro Tanaka,Kevin Gausman,---,"Jones, Machado, Rickard"
+59,2018-06-05,-,BAL,AL,NYN,NL,Away,Night,"25,342",2:33,W,2-1,9,Box | PBP,18-41,5,15,30,23.0,W1,Alex Cobb,Jason Vargas,Brad Brach,---
+60,2018-06-06,-,BAL,AL,NYN,NL,Away,Day,"30,366",2:27,W,1-0,9,Box | PBP,19-41,5,15,30,23.0,W2,Dylan Bundy,Jeurys Familia,Brad Brach,---
+61,2018-06-07,-,BAL,AL,TOR,AL,Away,Night,"24,494",3:13,L,4-5,10,Box | PBP,19-42,5,15,30,23.0,L1,Danny Barnes,Miguel Castro,---,"Trumbo, Valencia, Wynns"
+62,2018-06-08,-,BAL,AL,TOR,AL,Away,Night,"28,863",2:44,L,1-5,9,Box | PBP,19-43,5,15,30,23.0,L2,J.A. Happ,Andrew Cashner,Ryan Tepera,---
+63,2018-06-09,-,BAL,AL,TOR,AL,Away,Day,"34,643",3:19,L,3-4,10,Box | PBP,19-44,5,15,30,24.0,L3,John Axford,Mychal Givens,---,---
+64,2018-06-10,-,BAL,AL,TOR,AL,Away,Day,"33,485",3:03,L,3-13,9,Box | PBP,19-45,5,15,30,24.0,L4,Marco Estrada,Alex Cobb,---,"Mancini, Schoop"
+65,2018-06-11,-,BAL,AL,BOS,AL,Home,Night,"15,934",3:45,L,0-2,12,Box | PBP,19-46,5,15,30,24.5,L5,Heath Hembree,Mychal Givens,Craig Kimbrel,---
+66,2018-06-12,-,BAL,AL,BOS,AL,Home,Night,"21,837",3:58,L,4-6,9,Box | PBP,19-47,5,15,30,25.5,L6,Eduardo Rodriguez,David Hess,---,Rickard
+67,2018-06-13,-,BAL,AL,BOS,AL,Home,Day,"17,217",3:20,L,1-5,9,Box | PBP,19-48,5,15,30,27.0,L7,Chris Sale,Yefry Ramirez,---,---
+68,2018-06-15,-,BAL,AL,MIA,NL,Home,Night,"23,968",2:43,L,0-2,9,Box | PBP,19-49,5,15,30,27.0,L8,Jose Urena,Kevin Gausman,Kyle Barraclough,---
+69,2018-06-16,-,BAL,AL,MIA,NL,Home,Day,"23,948",2:41,L,4-5,9,Box | PBP,19-50,5,15,30,28.0,L9,Wei-Yin Chen,Alex Cobb,Drew Steckenrider,Schoop
+70,2018-06-17,-,BAL,AL,MIA,NL,Home,Day,"21,421",3:11,W,10-4,9,Box | PBP,20-50,5,15,30,27.0,W1,Dylan Bundy,Trevor Richards,---,"Peterson, Trumbo"
+71,2018-06-19,-,BAL,AL,WAS,NL,Away,Night,"33,391",2:59,L,7-9,9,Box | PBP,20-51,5,15,30,28.5,L1,Justin Miller,Tanner Scott,Sean Doolittle,"Mancini, Peterson, Rickard"
+72,2018-06-20,-,BAL,AL,WAS,NL,Away,Night,"32,153",2:34,W,3-0,9,Box | PBP,21-51,5,15,30,28.5,W1,Miguel Castro,Gio Gonzalez,---,Trumbo
+73,2018-06-21,-,BAL,AL,WAS,NL,Away,Night,"36,868",2:42,L,2-4,9,Box | PBP,21-52,5,15,30,29.5,L1,Kelvin Herrera,Mychal Givens,Sean Doolittle,"Rasmus, Trumbo"
+74,2018-06-22,-,BAL,AL,ATL,NL,Away,Night,"37,192",5:21,W,10-7,15,Box | PBP,22-52,5,15,30,28.5,W1,Mike Wright,Peter Moylan,---,"Davis, Machado"
+75,2018-06-23,-,BAL,AL,ATL,NL,Away,Day,"40,333",3:08,W,7-5,9,Box | PBP,23-52,5,14,29,27.5,W2,Dylan Bundy,Julio Teheran,Zach Britton,Trumbo
+76,2018-06-24,-,BAL,AL,ATL,NL,Away,Day,"33,794",2:54,L,3-7,9,Box | PBP,23-53,5,14,29,27.5,L1,Brandon McCarthy,David Hess,---,"Mancini, Trumbo"
+77,2018-06-25,-,BAL,AL,SEA,AL,Home,Night,"21,202",3:02,L,3-5,9,Box | PBP,23-54,5,15,30,28.5,L2,Felix Hernandez,Miguel Castro,Edwin Diaz,Schoop
+78,2018-06-26,-,BAL,AL,SEA,AL,Home,Night,"16,327",2:41,L,2-3,9,Box | PBP,23-55,5,15,30,29.5,L3,James Paxton,Darren O'Day,Edwin Diaz,Valencia
+79,2018-06-27,-,BAL,AL,SEA,AL,Home,Night,"15,502",3:39,L,7-8,11,Box | PBP,23-56,5,15,30,30.0,L4,Chasen Bradford,Mychal Givens,Edwin Diaz,"Davis, Valencia"
+80,2018-06-28,-,BAL,AL,SEA,AL,Home,Day,"14,263",3:04,L,2-4,10,Box | PBP,23-57,5,15,30,31.0,L5,James Pazos,Miguel Castro,Juan Nicasio,"Davis, Machado"
+81,2018-06-29,-,BAL,AL,ANA,AL,Home,Night,"24,007",2:53,L,1-7,9,Box | PBP,23-58,5,15,30,31.0,L6,Felix Pena,David Hess,---,---
+82,2018-06-30,-,BAL,AL,ANA,AL,Home,Day,"38,838",3:09,L,2-6,9,Box | PBP,23-59,5,15,30,32.0,L7,Justin Anderson,Mychal Givens,---,---
+83,2018-07-01,-,BAL,AL,ANA,AL,Home,Day,"18,351",2:29,W,8-2,9,Box | PBP,24-59,5,15,30,31.0,W1,Kevin Gausman,Deck McGuire,---,"Machado, Mancini, Trumbo (2)"
+84,2018-07-03,-,BAL,AL,PHI,NL,Away,Night,"28,204",2:45,L,2-3,9,Box | PBP,24-60,5,15,30,32.5,L1,Zach Eflin,Alex Cobb,Seranthony Dominguez,Trumbo
+85,2018-07-04,-,BAL,AL,PHI,NL,Away,Day,"30,943",2:55,L,1-4,9,Box | PBP,24-61,5,15,30,33.5,L2,Aaron Nola,Yefry Ramirez,Victor Arano,---
+86,2018-07-05,-,BAL,AL,MIN,AL,Away,Night,"23,895",2:29,L,2-5,9,Box | PBP,24-62,5,15,30,34.0,L3,Aaron Slegers,Andrew Cashner,Fernando Rodney,Schoop (2)
+87,2018-07-06,-,BAL,AL,MIN,AL,Away,Night,"27,570",2:51,L,2-6,9,Box | PBP,24-63,5,15,30,35.0,L4,Lance Lynn,Dylan Bundy,---,---
+88,2018-07-07,-,BAL,AL,MIN,AL,Away,Day,"25,974",2:54,L,4-5,9,Box | PBP,24-64,5,15,30,36.0,L5,Kyle Gibson,Miguel Castro,Fernando Rodney,Davis
+89,2018-07-08,-,BAL,AL,MIN,AL,Away,Day,"22,557",2:54,L,1-10,9,Box | PBP,24-65,5,15,30,37.0,L6,Jake Odorizzi,Alex Cobb,---,Davis
+90,2018-07-09,1,BAL,AL,NYA,AL,Home,Day,-,2:55,W,5-4,9,Box | PBP,25-66,5,15,30,37.5,L1,Mike Wright,CC Sabathia,Zach Britton,"Trumbo, Valencia"
+91,2018-07-09,2,BAL,AL,NYA,AL,Home,Night,"26,340",3:13,L,2-10,9,Box | PBP,25-66,5,15,30,37.5,L1,Luis Cessa,Yefry Ramirez,Giovanny Gallegos,Beckham
+92,2018-07-10,-,BAL,AL,NYA,AL,Home,Night,"18,418",3:07,W,6-5,9,Box | PBP,26-66,5,15,30,37.5,W1,Zach Britton,Dellin Betances,---,Machado (2)
+93,2018-07-11,-,BAL,AL,NYA,AL,Home,Night,"17,808",3:22,L,0-9,9,Box | PBP,26-67,5,15,30,38.5,L1,Sonny Gray,Dylan Bundy,---,---
+94,2018-07-12,-,BAL,AL,PHI,NL,Home,Night,"20,100",3:04,L,4-5,9,Box | PBP,26-68,5,15,30,39.5,L2,Nick Pivetta,Kevin Gausman,Seranthony Dominguez,"Mancini, Peterson"
+95,2018-07-13,-,BAL,AL,TEX,AL,Home,Night,"17,348",3:08,L,4-5,9,Box | PBP,26-69,5,15,30,39.5,L3,Cole Hamels,Alex Cobb,Keone Kela,---
+96,2018-07-14,-,BAL,AL,TEX,AL,Home,Night,"38,328",2:45,W,1-0,9,Box | PBP,27-69,5,15,30,39.5,W1,Brad Brach,Martin Perez,Zach Britton,---
+97,2018-07-15,-,BAL,AL,TEX,AL,Home,Day,"18,754",3:02,W,6-5,9,Box | PBP,28-69,5,14,29,39.5,W2,Tanner Scott,Mike Minor,Zach Britton,Machado
+98,2018-07-20,-,BAL,AL,TOR,AL,Away,Night,"31,115",3:01,L,7-8,10,Box | PBP,28-70,5,15,30,40.5,L1,John Axford,Paul Fry,---,"Beckham, Davis, Joseph, Schoop"
+99,2018-07-21,-,BAL,AL,TOR,AL,Away,Day,"35,912",2:30,L,1-4,9,Box | PBP,28-71,5,15,30,40.5,L2,Marcus Stroman,Alex Cobb,Ryan Tepera,---
+100,2018-07-22,-,BAL,AL,TOR,AL,Away,Day,"39,021",2:54,L,4-5,9,Box | PBP,28-72,5,15,30,41.5,L3,John Axford,Tanner Scott,Tyler Clippard,Schoop
+101,2018-07-23,-,BAL,AL,BOS,AL,Home,Night,"16,885",2:54,L,3-5,9,Box | PBP,28-73,5,15,30,42.5,L4,Rick Porcello,Kevin Gausman,Craig Kimbrel,Schoop
+102,2018-07-24,-,BAL,AL,BOS,AL,Home,Night,"13,342",3:07,W,7-6,9,Box | PBP,29-73,5,15,30,41.5,W1,Yefry Ramirez,Drew Pomeranz,Brad Brach,"Beckham, Schoop"
+103,2018-07-26,-,BAL,AL,TBA,AL,Home,Night,"19,025",3:03,L,3-4,9,Box | PBP,29-74,5,15,30,41.5,L1,Ryan Yarbrough,Alex Cobb,Austin Pruitt,"Davis, Schoop"
+104,2018-07-27,-,BAL,AL,TBA,AL,Home,Night,"15,649",3:10,W,15-5,9,Box | PBP,30-74,5,15,30,41.5,W1,Andrew Cashner,Chris Archer,---,"Jones, Schoop"
+105,2018-07-28,-,BAL,AL,TBA,AL,Home,Night,"21,526",2:53,W,11-2,9,Box | PBP,31-74,5,15,30,41.5,W2,Kevin Gausman,Ryne Stanek,---,"Mancini, Rickard"
+106,2018-07-29,-,BAL,AL,TBA,AL,Home,Day,"22,454",3:05,W,11-5,9,Box | PBP,32-74,5,15,30,41.5,W3,Dylan Bundy,Yonny Chirinos,---,"Davis (2), Schoop, Wynns"
+107,2018-07-31,-,BAL,AL,NYA,AL,Away,Night,"46,473",3:11,L,3-6,9,Box | PBP,32-75,5,15,30,42.0,L1,Masahiro Tanaka,Yefry Ramirez,Aroldis Chapman,---
+108,2018-08-01,-,BAL,AL,NYA,AL,Away,Day,"47,206",3:08,W,7-5,9,Box | PBP,33-75,5,15,30,41.5,W1,Alex Cobb,Sonny Gray,---,Mancini
+109,2018-08-02,-,BAL,AL,TEX,AL,Away,Night,"19,367",3:20,L,8-17,9,Box | PBP,33-76,5,15,30,42.5,L1,Yovani Gallardo,Andrew Cashner,Eddie Butler,"Joseph, Mancini, Trumbo"
+110,2018-08-03,-,BAL,AL,TEX,AL,Away,Night,"22,544",3:03,L,3-11,9,Box | PBP,33-77,5,15,30,43.5,L2,Ariel Jurado,David Hess,---,---
+111,2018-08-04,-,BAL,AL,TEX,AL,Away,Night,"24,300",2:25,L,1-3,9,Box | PBP,33-78,5,15,30,44.5,L3,Mike Minor,Dylan Bundy,Jose Leclerc,---
+112,2018-08-05,-,BAL,AL,TEX,AL,Away,Day,"19,961",3:19,W,9-6,9,Box | PBP,34-78,5,15,30,44.5,W1,Tanner Scott,Drew Hutchison,Mychal Givens,"Trumbo (2), Villar, Wynns"
+113,2018-08-07,-,BAL,AL,TBA,AL,Away,Night,"11,734",2:51,L,3-4,9,Box | PBP,34-79,5,14,29,45.5,L1,Sergio Romo,Miguel Castro,---,"Beckham, Mancini"
+114,2018-08-08,-,BAL,AL,TBA,AL,Away,Night,"9,474",2:52,W,5-4,9,Box | PBP,35-79,5,15,30,45.5,W1,Mike Wright,Sergio Romo,Mychal Givens,"Beckham, Jones, Trumbo"
+115,2018-08-09,-,BAL,AL,TBA,AL,Away,Night,"10,254",2:41,L,4-5,9,Box | PBP,35-80,5,15,30,45.5,L1,Yonny Chirinos,Cody Carroll,Sergio Romo,Nunez
+116,2018-08-10,-,BAL,AL,BOS,AL,Home,Night,"23,649",4:01,L,12-19,9,Box | PBP,35-81,5,15,30,46.5,L2,Drew Pomeranz,Miguel Castro,---,"Beckham, Davis, Trumbo"
+117,2018-08-11,1,BAL,AL,BOS,AL,Home,Day,"18,003",2:48,L,0-5,9,Box | PBP,35-83,5,15,30,48.5,L4,David Price,Jimmy Yacabonis,---,---
+118,2018-08-11,2,BAL,AL,BOS,AL,Home,Night,"24,051",3:39,L,4-6,9,Box | PBP,35-83,5,15,30,48.5,L4,Joe Kelly,Mike Wright,Craig Kimbrel,"Mancini, Rickard"
+119,2018-08-12,-,BAL,AL,BOS,AL,Home,Day,"25,303",3:04,L,1-4,9,Box | PBP,35-84,5,15,30,49.5,L5,Chris Sale,Alex Cobb,Craig Kimbrel,---
+120,2018-08-14,-,BAL,AL,NYN,NL,Home,Night,"20,527",2:38,W,6-3,9,Box | PBP,36-84,5,15,30,49.5,W1,Andrew Cashner,Bobby Wahl,Mychal Givens,"Beckham, Davis, Jones"
+121,2018-08-15,-,BAL,AL,NYN,NL,Home,Night,"25,045",3:27,L,5-16,9,Box | PBP,36-85,5,15,30,49.5,L1,Zack Wheeler,Dylan Bundy,---,Villar
+122,2018-08-17,-,BAL,AL,CLE,AL,Away,Night,"28,264",2:39,L,1-2,9,Box | PBP,36-86,5,15,30,50.5,L2,Carlos Carrasco,David Hess,Cody Allen,---
+123,2018-08-18,-,BAL,AL,CLE,AL,Away,Day,"35,007",2:17,W,4-2,9,Box | PBP,37-86,5,15,30,50.5,W1,Alex Cobb,Adam Plutko,---,"Mullins, Villar"
+124,2018-08-19,-,BAL,AL,CLE,AL,Away,Day,"30,555",2:56,L,0-8,9,Box | PBP,37-87,5,15,30,50.5,L1,Mike Clevinger,Yefry Ramirez,---,---
+125,2018-08-20,-,BAL,AL,TOR,AL,Away,Night,"25,031",2:34,L,3-5,9,Box | PBP,37-88,5,15,30,50.5,L2,Marco Estrada,Andrew Cashner,Ken Giles,Nunez
+126,2018-08-21,-,BAL,AL,TOR,AL,Away,Night,"25,855",2:39,L,2-8,9,Box | PBP,37-89,5,15,30,50.5,L3,Sam Gaviglio,Dylan Bundy,---,Mullins
+127,2018-08-22,-,BAL,AL,TOR,AL,Away,Day,"40,595",2:37,L,0-6,9,Box | PBP,37-90,5,15,30,51.5,L4,Thomas Pannone,David Hess,---,---
+128,2018-08-24,-,BAL,AL,NYA,AL,Home,Night,"27,150",3:29,L,5-7,10,Box | PBP,37-91,5,15,30,52.0,L5,Chad Green,Cody Carroll,Zach Britton,"Davis, Villar"
+129,2018-08-25,1,BAL,AL,NYA,AL,Home,Day,"32,445",3:06,L,3-10,9,Box | PBP,37-93,5,15,30,52.5,L7,J.A. Happ,Jimmy Yacabonis,Luis Cessa,---
+130,2018-08-25,2,BAL,AL,NYA,AL,Home,Night,"26,236",2:50,L,1-5,9,Box | PBP,37-93,5,15,30,52.5,L7,Sonny Gray,Andrew Cashner,Dellin Betances,---
+131,2018-08-26,-,BAL,AL,NYA,AL,Home,Night,"17,343",3:18,L,3-5,9,Box | PBP,37-94,5,15,30,52.5,L8,Luis Severino,Dylan Bundy,David Robertson,Mancini
+132,2018-08-27,-,BAL,AL,TOR,AL,Home,Night,"15,436",2:49,W,7-0,9,Box | PBP,38-94,5,15,30,52.0,W1,David Hess,Sam Gaviglio,---,Mancini
+133,2018-08-28,-,BAL,AL,TOR,AL,Home,Night,"11,762",3:02,W,12-5,9,Box | PBP,39-94,5,15,30,52.0,W2,Josh Rogers,Thomas Pannone,---,"Beckham, Gentry"
+134,2018-08-29,-,BAL,AL,TOR,AL,Home,Night,"11,834",3:22,W,10-5,9,Box | PBP,40-94,5,15,30,52.0,W3,Sean Gilmartin,Danny Barnes,Mychal Givens,"Jones, Mancini"
+135,2018-08-31,-,BAL,AL,KCA,AL,Away,Night,"15,394",2:39,L,2-9,9,Box | PBP,40-95,5,15,30,52.5,L1,Brad Keller,Andrew Cashner,---,Mullins
+136,2018-09-01,-,BAL,AL,KCA,AL,Away,Night,"15,358",2:56,L,4-5,9,Box | PBP,40-96,5,15,30,53.5,L2,Jake Newberry,Mychal Givens,---,"Beckham, Mancini"
+137,2018-09-02,-,BAL,AL,KCA,AL,Away,Day,"18,463",2:48,L,1-9,9,Box | PBP,40-97,5,15,30,53.5,L3,Jorge Lopez,David Hess,---,Villar
+138,2018-09-03,-,BAL,AL,SEA,AL,Away,Night,"20,579",2:33,L,1-2,9,Box | PBP,40-98,5,15,30,54.5,L4,Erasmo Ramirez,Josh Rogers,Edwin Diaz,Villar
+139,2018-09-04,-,BAL,AL,SEA,AL,Away,Night,"11,265",3:19,W,5-3,9,Box | PBP,41-98,5,15,30,54.5,W1,Alex Cobb,Adam Warren,Mychal Givens,Nunez
+140,2018-09-05,-,BAL,AL,SEA,AL,Away,Night,"15,017",3:04,L,2-5,9,Box | PBP,41-99,5,15,30,55.5,L1,Mike Leake,Andrew Cashner,Edwin Diaz,---
+141,2018-09-07,-,BAL,AL,TBA,AL,Away,Night,"12,436",3:05,L,2-14,9,Box | PBP,41-100,5,15,30,55.5,L2,Blake Snell,Dylan Bundy,---,Rickard
+142,2018-09-08,-,BAL,AL,TBA,AL,Away,Night,"10,275",3:00,L,5-10,9,Box | PBP,41-101,5,15,30,55.5,L3,Ryan Yarbrough,David Hess,---,Nunez
+143,2018-09-09,-,BAL,AL,TBA,AL,Away,Day,"13,632",2:51,L,3-8,9,Box | PBP,41-102,5,15,30,56.5,L4,Yonny Chirinos,Josh Rogers,---,---
+144,2018-09-11,-,BAL,AL,OAK,AL,Home,Night,"9,141",2:45,L,2-3,9,Box | PBP,41-103,5,15,30,57.5,L5,Michael Fiers,Mike Wright,Jeurys Familia,Villar
+145,2018-09-12,-,BAL,AL,OAK,AL,Home,Night,"10,480",2:39,L,0-10,9,Box | PBP,41-104,5,15,30,58.5,L6,Daniel Mengden,Andrew Cashner,---,---
+146,2018-09-13,-,BAL,AL,OAK,AL,Home,Night,"11,714",2:51,W,5-3,9,Box | PBP,42-104,5,15,30,58.5,W1,Dylan Bundy,Brett Anderson,Mychal Givens,---
+147,2018-09-14,-,BAL,AL,CHA,AL,Home,Night,"18,265",3:35,L,6-8,9,Box | PBP,42-105,5,15,30,58.5,L1,James Shields,Luis Ortiz,Nate Jones,Mancini (2)
+148,2018-09-15,-,BAL,AL,CHA,AL,Home,Night,"23,266",2:52,L,0-2,9,Box | PBP,42-106,5,15,30,59.5,L2,Reynaldo Lopez,Yefry Ramirez,Juan Minaya,---
+149,2018-09-16,-,BAL,AL,CHA,AL,Home,Day,"19,104",3:27,W,8-4,9,Box | PBP,43-106,5,15,30,59.5,W1,Ryan Meisinger,Lucas Giolito,Paul Fry,"Jones, Villar"
+150,2018-09-17,-,BAL,AL,TOR,AL,Home,Night,"8,198",2:16,L,0-5,9,Box | PBP,43-107,5,15,30,60.0,L1,Ryan Borucki,Evan Phillips,---,---
+151,2018-09-18,-,BAL,AL,TOR,AL,Home,Night,"9,096",2:47,L,4-6,9,Box | PBP,43-108,5,15,30,60.0,L2,Jake Petricka,Dylan Bundy,Ken Giles,Mullins
+152,2018-09-19,-,BAL,AL,TOR,AL,Home,Night,"11,337",2:34,W,2-1,9,Box | PBP,44-108,5,15,30,59.0,W1,Mike Wright,Marco Estrada,Mychal Givens,Stewart
+153,2018-09-21,-,BAL,AL,NYA,AL,Away,Night,"39,903",3:35,L,8-10,9,Box | PBP,44-109,5,15,30,60.5,L1,CC Sabathia,Yefry Ramirez,Dellin Betances,"Nunez, Stewart, Wynns"
+154,2018-09-22,-,BAL,AL,NYA,AL,Away,Day,"40,185",3:53,L,2-3,11,Box | PBP,44-110,5,15,30,60.5,L2,Tommy Kahnle,Paul Fry,---,---
+155,2018-09-23,-,BAL,AL,NYA,AL,Away,Day,"43,606",3:19,W,6-3,9,Box | PBP,45-110,5,15,30,59.5,W1,Ryan Meisinger,A.J. Cole,Mychal Givens,"Beckham (2), Nunez"
+156,2018-09-24,-,BAL,AL,BOS,AL,Away,Night,"35,619",3:06,L,2-6,9,Box | PBP,45-111,5,15,30,60.5,L1,Nathan Eovaldi,Dylan Bundy,---,---
+157,2018-09-26,1,BAL,AL,BOS,AL,Away,Day,"33,577",3:10,L,3-19,9,Box | PBP,46-112,5,15,30,60.5,W1,David Price,Ryan Meisinger,---,"Mancini, Nunez"
+158,2018-09-26,2,BAL,AL,BOS,AL,Away,Night,"34,445",3:45,W,10-3,9,Box | PBP,46-112,5,15,30,60.5,W1,Tanner Scott,Matt Barnes,Paul Fry,---
+159,2018-09-28,-,BAL,AL,HOU,AL,Home,Night,"18,434",2:39,L,1-2,9,Box | PBP,46-113,5,15,30,60.5,L1,Tony Sipp,Tanner Scott,Roberto Osuna,---
+160,2018-09-29,1,BAL,AL,HOU,AL,Home,Day,-,2:58,L,3-4,9,Box | PBP,46-115,5,15,30,61.0,L3,Will Harris,Sean Gilmartin,Hector Rondon,Stewart
+161,2018-09-29,2,BAL,AL,HOU,AL,Home,Night,"26,020",2:53,L,2-5,9,Box | PBP,46-115,5,15,30,61.0,L3,Brad Peacock,Yefry Ramirez,Ryan Pressly,---
+162,2018-09-30,-,BAL,AL,HOU,AL,Home,Day,"24,916",2:23,W,4-0,9,Box | PBP,47-115,5,15,30,61.0,W1,Paul Fry,Brad Peacock,---,---

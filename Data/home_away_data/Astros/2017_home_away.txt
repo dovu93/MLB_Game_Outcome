@@ -1,0 +1,163 @@
+Game#,Game Date,Seq,Team,Lg,Opp,LgOpp,Hm/Aw,TimeDay,Att,GameTime,WL,Result,Inn,Boxscore,Record,Div Rk,Lg Rk,MLB Rk,GBL,Strk,Winning Pitcher,Losing Pitcher,Save Pitcher,Home Runs
+1,2017-04-03,-,HOU,AL,SEA,AL,Home,Night,"41,678",2:29,W,3-0,9,Box | PBP,1-0,1,4,13,--,W1,Dallas Keuchel,Felix Hernandez,Ken Giles,"Correa, Springer"
+2,2017-04-04,-,HOU,AL,SEA,AL,Home,Night,"21,406",2:41,W,2-1,9,Box | PBP,2-0,1,5,4,--,W2,Lance McCullers,Hisashi Iwakuma,Ken Giles,"Gonzalez, McCann"
+3,2017-04-05,-,HOU,AL,SEA,AL,Home,Night,"20,303",4:25,W,5-3,13,Box | PBP,3-0,1,5,6,--,W3,Brad Peacock,Chase De Jong,---,Springer
+4,2017-04-06,-,HOU,AL,SEA,AL,Home,Night,"18,362",2:57,L,2-4,9,Box | PBP,3-1,1,5,8,--,L1,Dan Altavilla,Ken Giles,Edwin Diaz,"Gonzalez, Springer"
+5,2017-04-07,-,HOU,AL,KCA,AL,Home,Night,"30,491",3:12,L,1-5,9,Box | PBP,3-2,2,7,13,--,L2,Jason Vargas,Michael Fiers,---,---
+6,2017-04-08,-,HOU,AL,KCA,AL,Home,Night,"35,373",2:42,L,3-7,9,Box | PBP,3-3,2,7,19,1.0,L3,Danny Duffy,Luke Gregerson,---,McCann
+7,2017-04-09,-,HOU,AL,KCA,AL,Home,Day,"32,411",3:49,W,5-4,12,Box | PBP,4-3,2,7,12,1.0,W1,Chris Devenski,Matt Strahm,---,"Gonzalez, Marisnick, Springer"
+8,2017-04-10,-,HOU,AL,SEA,AL,Away,Day,"44,856",2:56,L,0-6,9,Box | PBP,4-4,2,9,17,1.5,L1,James Paxton,Charlie Morton,---,---
+9,2017-04-11,-,HOU,AL,SEA,AL,Away,Night,"18,527",3:29,W,7-5,9,Box | PBP,5-4,2,8,15,1.5,W1,Joe Musgrove,Ariel Miranda,---,Springer
+10,2017-04-12,-,HOU,AL,SEA,AL,Away,Night,"14,479",3:12,W,10-5,9,Box | PBP,6-4,2,5,10,0.5,W2,Brad Peacock,Dan Altavilla,---,---
+11,2017-04-14,-,HOU,AL,OAK,AL,Away,Night,"15,385",3:07,W,7-2,9,Box | PBP,7-4,1,3,6,--,W3,Dallas Keuchel,Ryan Madson,---,Aoki
+12,2017-04-15,-,HOU,AL,OAK,AL,Away,Day,"20,140",3:55,W,10-6,9,Box | PBP,8-4,1,2,3,--,W4,Will Harris,Santiago Casilla,---,Springer
+13,2017-04-17,-,HOU,AL,ANA,AL,Home,Night,"23,501",2:36,W,3-0,9,Box | PBP,9-4,1,3,3,--,W5,Charlie Morton,Jesse Chavez,Ken Giles,---
+14,2017-04-18,-,HOU,AL,ANA,AL,Home,Night,"21,760",3:05,L,2-5,9,Box | PBP,9-5,1,4,4,--,L1,Ricky Nolasco,Joe Musgrove,Cam Bedrosian,"Gurriel, Springer"
+15,2017-04-19,-,HOU,AL,ANA,AL,Home,Night,"24,028",2:47,W,5-1,9,Box | PBP,10-5,1,3,3,--,W1,Dallas Keuchel,J.C. Ramirez,---,Reddick
+16,2017-04-20,-,HOU,AL,ANA,AL,Home,Day,"23,173",2:37,W,2-1,9,Box | PBP,11-5,1,2,2,--,W2,Lance McCullers,Matt Shoemaker,Chris Devenski,"Beltran, Marisnick"
+17,2017-04-21,-,HOU,AL,TBA,AL,Away,Night,"17,683",3:16,W,6-3,9,Box | PBP,12-5,1,2,2,--,W3,Michael Feliz,Alex Cobb,Ken Giles,Beltran
+18,2017-04-22,-,HOU,AL,TBA,AL,Away,Night,"17,008",3:05,L,3-6,9,Box | PBP,12-6,1,2,3,--,L1,Austin Pruitt,Charlie Morton,Alex Colome,"Altuve, Gattis"
+19,2017-04-23,-,HOU,AL,TBA,AL,Away,Day,"15,548",3:39,W,6-4,10,Box | PBP,13-6,1,2,3,--,W1,Luke Gregerson,Ryan Garton,Ken Giles,"Altuve, Correa"
+20,2017-04-25,-,HOU,AL,CLE,AL,Away,Night,"14,581",2:46,W,4-2,9,Box | PBP,14-6,1,1,1,--,W2,Dallas Keuchel,Josh Tomlin,---,---
+21,2017-04-26,-,HOU,AL,CLE,AL,Away,Night,"16,052",3:12,L,6-7,9,Box | PBP,14-7,1,2,3,--,L1,Trevor Bauer,Lance McCullers,Cody Allen,"Gattis, McCann"
+22,2017-04-27,-,HOU,AL,CLE,AL,Away,Night,"14,452",2:50,L,3-4,9,Box | PBP,14-8,1,3,4,--,L2,Corey Kluber,Chris Devenski,Cody Allen,Gonzalez
+23,2017-04-28,-,HOU,AL,OAK,AL,Home,Night,"28,472",2:58,W,9-4,9,Box | PBP,15-8,1,3,4,--,W1,Charlie Morton,Jharel Cotton,---,Gurriel
+24,2017-04-29,-,HOU,AL,OAK,AL,Home,Night,"32,147",2:49,L,1-2,9,Box | PBP,15-9,1,3,5,--,L1,Andrew Triggs,Joe Musgrove,Santiago Casilla,Altuve
+25,2017-04-30,-,HOU,AL,OAK,AL,Home,Day,"34,880",2:58,W,7-2,9,Box | PBP,16-9,1,3,4,--,W1,Dallas Keuchel,Jesse Hahn,Ken Giles,Gonzalez
+26,2017-05-01,-,HOU,AL,TEX,AL,Home,Night,"22,556",2:59,W,6-2,9,Box | PBP,17-9,1,2,3,--,W2,Chris Devenski,Andrew Cashner,Ken Giles,---
+27,2017-05-02,-,HOU,AL,TEX,AL,Home,Night,"26,208",3:13,W,8-7,9,Box | PBP,18-9,1,1,1,--,W3,James Hoyt,Keone Kela,Will Harris,"Altuve, Gonzalez (2)"
+28,2017-05-03,-,HOU,AL,TEX,AL,Home,Night,"27,439",3:01,W,10-1,9,Box | PBP,19-9,1,1,1,--,W4,Charlie Morton,Nick Martinez,---,"Correa, Gonzalez, McCann, Reddick"
+29,2017-05-04,-,HOU,AL,TEX,AL,Home,Day,"27,391",3:52,L,4-10,9,Box | PBP,19-10,1,1,2,--,L1,A.J. Griffin,Joe Musgrove,---,Gonzalez
+30,2017-05-05,-,HOU,AL,ANA,AL,Away,Night,"34,556",3:05,W,7-6,10,Box | PBP,20-10,1,1,3,--,W1,Ken Giles,Bud Norris,Chris Devenski,"McCann, Reddick"
+31,2017-05-06,-,HOU,AL,ANA,AL,Away,Night,"41,097",2:47,L,1-2,9,Box | PBP,20-11,1,3,4,--,L1,Bud Norris,Chris Devenski,---,---
+32,2017-05-07,-,HOU,AL,ANA,AL,Away,Day,"38,385",3:00,W,5-3,9,Box | PBP,21-11,1,3,4,--,W1,Michael Fiers,Matt Shoemaker,Ken Giles,"Altuve, Gattis"
+33,2017-05-09,-,HOU,AL,ATL,NL,Home,Night,"28,724",2:41,W,8-3,9,Box | PBP,22-11,1,3,3,--,W2,Charlie Morton,Bartolo Colon,---,"Beltran, Correa, Reddick"
+34,2017-05-10,-,HOU,AL,ATL,NL,Home,Day,"23,676",2:49,W,4-2,9,Box | PBP,23-11,1,2,2,--,W3,Joe Musgrove,Jaime Garcia,Ken Giles,---
+35,2017-05-11,-,HOU,AL,NYA,AL,Away,Night,"39,050",3:09,W,3-2,9,Box | PBP,24-11,1,1,1,--,W4,Dallas Keuchel,Michael Pineda,Ken Giles,Correa
+36,2017-05-12,-,HOU,AL,NYA,AL,Away,Night,"41,150",3:09,W,5-1,9,Box | PBP,25-11,1,1,1,--,W5,Lance McCullers,Jordan Montgomery,---,McCann
+37,2017-05-14,1,HOU,AL,NYA,AL,Away,Day,"47,883",3:20,L,6-11,9,Box | PBP,26-12,1,1,1,--,W1,Adam Warren,Will Harris,---,---
+38,2017-05-14,2,HOU,AL,NYA,AL,Away,Night,"47,883",3:49,W,10-7,9,Box | PBP,26-12,1,1,1,--,W1,Charlie Morton,Masahiro Tanaka,---,"Bregman, Reddick, Springer (2)"
+39,2017-05-15,-,HOU,AL,MIA,NL,Away,Night,"16,448",2:57,W,7-2,9,Box | PBP,27-12,1,1,1,--,W2,Joe Musgrove,Junichi Tazawa,---,"Altuve, Gurriel"
+40,2017-05-16,-,HOU,AL,MIA,NL,Away,Night,"18,056",3:00,W,12-2,9,Box | PBP,28-12,1,1,1,--,W3,Dallas Keuchel,Tom Koehler,---,Marisnick (2)
+41,2017-05-17,-,HOU,AL,MIA,NL,Away,Day,"24,699",2:52,W,3-0,9,Box | PBP,29-12,1,1,1,--,W4,Lance McCullers,Jose Urena,Ken Giles,---
+42,2017-05-19,-,HOU,AL,CLE,AL,Home,Night,"36,446",3:02,L,3-5,9,Box | PBP,29-13,1,1,1,--,L1,Trevor Bauer,Charlie Morton,Cody Allen,"Correa, Reddick"
+43,2017-05-20,-,HOU,AL,CLE,AL,Home,Day,"34,698",2:35,L,0-3,9,Box | PBP,29-14,1,1,1,--,L2,Mike Clevinger,Michael Fiers,Cody Allen,---
+44,2017-05-21,-,HOU,AL,CLE,AL,Home,Day,"33,476",3:06,L,6-8,9,Box | PBP,29-15,1,1,1,--,L3,Danny Salazar,Joe Musgrove,---,"Altuve, Beltran, Bregman, Gonzalez"
+45,2017-05-22,-,HOU,AL,DET,AL,Home,Night,"22,146",2:45,W,1-0,9,Box | PBP,30-15,1,1,1,--,W1,Chris Devenski,Michael Fulmer,Ken Giles,---
+46,2017-05-23,-,HOU,AL,DET,AL,Home,Night,"23,179",3:01,W,6-2,9,Box | PBP,31-15,1,1,1,--,W2,Lance McCullers,Jordan Zimmermann,---,"Centeno, Gurriel"
+47,2017-05-24,-,HOU,AL,DET,AL,Home,Night,"26,481",2:52,L,3-6,9,Box | PBP,31-16,1,1,1,--,L1,Shane Greene,Chris Devenski,---,Bregman
+48,2017-05-25,-,HOU,AL,DET,AL,Home,Night,"25,046",3:30,W,7-6,9,Box | PBP,32-16,1,1,1,--,W1,Luke Gregerson,Alex Wilson,Ken Giles,"Centeno, Correa, Gonzalez, Marisnick"
+49,2017-05-26,-,HOU,AL,BAL,AL,Home,Night,"31,380",2:31,W,2-0,9,Box | PBP,33-16,1,1,1,--,W2,Joe Musgrove,Kevin Gausman,Ken Giles,"Beltran, Marisnick"
+50,2017-05-27,-,HOU,AL,BAL,AL,Home,Night,"32,761",2:56,W,5-2,9,Box | PBP,34-16,1,1,1,--,W3,Dallas Keuchel,Wade Miley,Will Harris,Springer
+51,2017-05-28,-,HOU,AL,BAL,AL,Home,Day,"34,720",2:58,W,8-4,9,Box | PBP,35-16,1,1,1,--,W4,Lance McCullers,Alec Asher,---,Springer
+52,2017-05-29,-,HOU,AL,MIN,AL,Away,Day,"24,472",3:44,W,16-8,9,Box | PBP,36-16,1,1,1,--,W5,Jordan Jankowski,Craig Breslow,---,"Beltran, Bregman, Correa"
+53,2017-05-30,-,HOU,AL,MIN,AL,Away,Night,"22,616",3:01,W,7-2,9,Box | PBP,37-16,1,1,1,--,W6,Michael Fiers,Jose Berrios,---,Bregman
+54,2017-05-31,-,HOU,AL,MIN,AL,Away,Day,"25,593",3:35,W,17-6,9,Box | PBP,38-16,1,1,1,--,W7,Michael Feliz,Hector Santiago,---,"Bregman, Correa, Gattis, Gonzalez, Springer (2)"
+55,2017-06-02,-,HOU,AL,TEX,AL,Away,Night,"39,729",2:58,W,7-1,9,Box | PBP,39-16,1,1,1,--,W8,Dallas Keuchel,Yu Darvish,---,"Correa, Springer"
+56,2017-06-03,-,HOU,AL,TEX,AL,Away,Night,"44,168",3:46,W,6-5,9,Box | PBP,40-16,1,1,1,--,W9,Chris Devenski,Andrew Cashner,Ken Giles,"Altuve, Beltran"
+57,2017-06-04,-,HOU,AL,TEX,AL,Away,Day,"39,204",3:18,W,7-2,9,Box | PBP,41-16,1,1,1,--,W10,Brad Peacock,Martin Perez,---,"Correa, Gurriel, Springer (2)"
+58,2017-06-05,-,HOU,AL,KCA,AL,Away,Night,"21,892",3:09,W,7-3,9,Box | PBP,42-16,1,1,1,--,W11,Michael Fiers,Ian Kennedy,---,"Gurriel, McCann"
+59,2017-06-06,-,HOU,AL,KCA,AL,Away,Night,"20,974",3:10,L,7-9,9,Box | PBP,42-17,1,1,1,--,L1,Mike Minor,Ken Giles,---,Beltran
+60,2017-06-07,-,HOU,AL,KCA,AL,Away,Night,"25,628",3:11,L,5-7,9,Box | PBP,42-18,1,1,1,--,L2,Jason Vargas,Dayan Diaz,Kelvin Herrera,McCann
+61,2017-06-08,-,HOU,AL,KCA,AL,Away,Night,"32,747",2:39,W,6-1,9,Box | PBP,43-18,1,1,1,--,W1,Will Harris,Kelvin Herrera,---,Altuve
+62,2017-06-09,-,HOU,AL,ANA,AL,Home,Night,"40,786",3:20,L,4-9,9,Box | PBP,43-19,1,1,1,--,L1,Matt Shoemaker,Brad Peacock,---,Bregman
+63,2017-06-10,-,HOU,AL,ANA,AL,Home,Day,"41,296",2:52,W,3-1,9,Box | PBP,44-19,1,1,1,--,W1,Michael Fiers,Ricky Nolasco,Ken Giles,McCann
+64,2017-06-11,-,HOU,AL,ANA,AL,Home,Day,"32,425",3:39,L,6-12,9,Box | PBP,44-20,1,1,1,--,L1,Keynan Middleton,Michael Feliz,---,"Gurriel, Springer"
+65,2017-06-12,-,HOU,AL,TEX,AL,Home,Night,"25,698",3:23,L,1-6,9,Box | PBP,44-21,1,1,1,--,L2,Yu Darvish,Joe Musgrove,---,---
+66,2017-06-13,-,HOU,AL,TEX,AL,Home,Night,"27,615",3:07,L,2-4,9,Box | PBP,44-22,1,1,1,--,L3,Jose Leclerc,Luke Gregerson,Matt Bush,"Correa, Springer"
+67,2017-06-14,-,HOU,AL,TEX,AL,Home,Night,"37,221",3:37,W,13-2,9,Box | PBP,45-22,1,1,1,--,W1,Francis Martes,Andrew Cashner,---,"Fisher, Marisnick"
+68,2017-06-16,-,HOU,AL,BOS,AL,Home,Night,"36,189",3:11,L,1-2,9,Box | PBP,45-23,1,1,1,--,L1,Joe Kelly,Will Harris,Craig Kimbrel,McCann
+69,2017-06-17,-,HOU,AL,BOS,AL,Home,Night,"41,017",2:34,W,7-1,9,Box | PBP,46-23,1,1,1,--,W1,David Paulino,Rick Porcello,---,"Altuve, Beltran"
+70,2017-06-18,-,HOU,AL,BOS,AL,Home,Night,"38,389",4:08,L,5-6,9,Box | PBP,46-24,1,1,1,--,L1,David Price,Joe Musgrove,Craig Kimbrel,"Correa, Marisnick, Springer"
+71,2017-06-19,-,HOU,AL,OAK,AL,Away,Night,"10,482",2:56,W,4-1,9,Box | PBP,47-24,1,1,1,--,W1,Brad Peacock,Daniel Gossett,Ken Giles,"Fisher, Marisnick, Springer"
+72,2017-06-20,-,HOU,AL,OAK,AL,Away,Night,"15,362",3:28,W,8-4,9,Box | PBP,48-24,1,1,1,--,W2,Francis Martes,Sonny Gray,---,"Beltran, Springer"
+73,2017-06-21,-,HOU,AL,OAK,AL,Away,Night,"12,277",3:06,W,5-1,9,Box | PBP,49-24,1,1,1,--,W3,Michael Fiers,Sean Manaea,---,Correa
+74,2017-06-22,-,HOU,AL,OAK,AL,Away,Day,"18,747",3:24,W,12-9,9,Box | PBP,50-24,1,1,1,--,W4,David Paulino,Jesse Hahn,Chris Devenski,"Gonzalez, Marisnick, Reddick"
+75,2017-06-23,-,HOU,AL,SEA,AL,Away,Night,"31,783",3:17,L,3-13,9,Box | PBP,50-25,1,1,1,--,L1,Felix Hernandez,Joe Musgrove,Yovani Gallardo,"Altuve, Bregman"
+76,2017-06-24,-,HOU,AL,SEA,AL,Away,Night,"29,820",3:09,W,5-2,9,Box | PBP,51-25,1,1,1,--,W1,Lance McCullers,Sam Gaviglio,---,Reddick
+77,2017-06-25,-,HOU,AL,SEA,AL,Away,Day,"33,010",3:21,W,8-2,9,Box | PBP,52-25,1,1,1,--,W2,Michael Feliz,Ariel Miranda,---,"Gattis, Gurriel, Springer"
+78,2017-06-27,-,HOU,AL,OAK,AL,Home,Night,"28,312",3:30,L,4-6,9,Box | PBP,52-26,1,1,1,--,L1,Sean Manaea,Michael Fiers,Santiago Casilla,Springer
+79,2017-06-28,-,HOU,AL,OAK,AL,Home,Night,"34,075",3:27,W,11-8,9,Box | PBP,53-26,1,1,1,--,W1,Michael Feliz,Jesse Hahn,Ken Giles,Springer
+80,2017-06-29,-,HOU,AL,OAK,AL,Home,Day,"29,509",3:08,W,6-1,9,Box | PBP,54-26,1,1,1,--,W2,Brad Peacock,Daniel Gossett,---,Correa (2)
+81,2017-06-30,-,HOU,AL,NYA,AL,Home,Night,"40,024",3:20,L,4-13,9,Box | PBP,54-27,1,1,1,--,L1,Michael Pineda,Michael Feliz,Bryan Mitchell,---
+82,2017-07-01,-,HOU,AL,NYA,AL,Home,Night,"41,010",3:25,W,7-6,9,Box | PBP,55-27,1,1,1,--,W1,Dayan Diaz,Dellin Betances,Ken Giles,"Correa, Gattis, Gurriel"
+83,2017-07-02,-,HOU,AL,NYA,AL,Home,Day,"41,761",3:29,W,8-1,9,Box | PBP,56-27,1,1,1,--,W2,Chris Devenski,Luis Severino,---,"Gonzalez, Gurriel"
+84,2017-07-04,-,HOU,AL,ATL,NL,Away,Night,"41,456",3:39,W,16-4,9,Box | PBP,57-27,1,1,1,--,W3,Brad Peacock,Sean Newcomb,---,"Altuve, Reddick, Springer"
+85,2017-07-05,-,HOU,AL,ATL,NL,Away,Night,"37,278",3:21,W,10-4,9,Box | PBP,58-27,1,1,1,--,W4,Chris Devenski,Jaime Garcia,---,---
+86,2017-07-06,-,HOU,AL,TOR,AL,Away,Night,"40,949",3:18,L,4-7,9,Box | PBP,58-28,1,1,1,--,L1,Francisco Liriano,Lance McCullers,Roberto Osuna,"Beltran, Gonzalez"
+87,2017-07-07,-,HOU,AL,TOR,AL,Away,Night,"37,332",3:00,W,12-2,9,Box | PBP,59-28,1,1,1,--,W1,Charlie Morton,Aaron Sanchez,---,"Correa, Gattis, Springer (2)"
+88,2017-07-08,-,HOU,AL,TOR,AL,Away,Day,"46,659",2:44,L,2-7,9,Box | PBP,59-29,1,1,2,--,L1,Marcus Stroman,Michael Fiers,---,Gonzalez
+89,2017-07-09,-,HOU,AL,TOR,AL,Away,Day,"46,622",3:24,W,19-1,9,Box | PBP,60-29,1,1,2,--,W1,Brad Peacock,J.A. Happ,---,"Altuve, Correa (2), Gattis, Gurriel"
+90,2017-07-14,-,HOU,AL,MIN,AL,Home,Night,"38,006",3:42,W,10-5,9,Box | PBP,61-29,1,1,2,--,W2,Charlie Morton,Jose Berrios,---,"Gonzalez, McCann"
+91,2017-07-15,-,HOU,AL,MIN,AL,Home,Night,"41,038",3:21,L,2-4,9,Box | PBP,61-30,1,1,2,--,L1,Ervin Santana,Joe Musgrove,Brandon Kintzler,Altuve
+92,2017-07-16,-,HOU,AL,MIN,AL,Home,Day,"38,253",2:47,W,5-3,9,Box | PBP,62-30,1,1,2,--,W1,Michael Fiers,Kyle Gibson,Ken Giles,---
+93,2017-07-17,-,HOU,AL,SEA,AL,Home,Night,"24,701",3:49,L,7-9,10,Box | PBP,62-31,1,1,2,--,L1,Yovani Gallardo,Tony Sipp,Edwin Diaz,"Beltran, Marisnick"
+94,2017-07-18,-,HOU,AL,SEA,AL,Home,Night,"27,111",3:02,W,6-2,9,Box | PBP,63-31,1,1,2,--,W1,Brad Peacock,Sam Gaviglio,Luke Gregerson,Gattis (2)
+95,2017-07-19,-,HOU,AL,SEA,AL,Home,Day,"35,191",2:51,L,1-4,9,Box | PBP,63-32,1,1,2,--,L1,James Paxton,Charlie Morton,Edwin Diaz,---
+96,2017-07-21,-,HOU,AL,BAL,AL,Away,Night,"25,784",3:02,W,8-7,9,Box | PBP,64-32,1,1,2,--,W1,Michael Fiers,Ubaldo Jimenez,Ken Giles,"Gurriel, McCann, Moran"
+97,2017-07-22,-,HOU,AL,BAL,AL,Away,Night,"32,524",3:28,W,8-4,9,Box | PBP,65-32,1,1,2,--,W2,Francis Martes,Darren O'Day,---,"Bregman, Gonzalez, Gurriel"
+98,2017-07-23,-,HOU,AL,BAL,AL,Away,Day,"21,533",3:24,L,7-9,9,Box | PBP,65-33,1,1,2,--,L1,Mychal Givens,Luke Gregerson,Zach Britton,"Altuve, Aoki"
+99,2017-07-24,-,HOU,AL,PHI,NL,Away,Night,"17,567",3:27,W,13-4,9,Box | PBP,66-33,1,1,2,--,W1,Joe Musgrove,Vincent Velasquez,---,"Bregman, McCann"
+100,2017-07-25,-,HOU,AL,PHI,NL,Away,Night,"17,176",2:44,W,5-0,9,Box | PBP,67-33,1,1,2,--,W2,Charlie Morton,Nick Pivetta,---,---
+101,2017-07-26,-,HOU,AL,PHI,NL,Away,Night,"19,718",3:25,L,0-9,9,Box | PBP,67-34,1,1,2,--,L1,Aaron Nola,Michael Fiers,---,---
+102,2017-07-28,-,HOU,AL,DET,AL,Away,Night,"30,358",2:54,W,6-5,9,Box | PBP,68-34,1,1,2,--,W1,Brad Peacock,Bruce Rondon,Ken Giles,"Gonzalez, Reddick"
+103,2017-07-29,-,HOU,AL,DET,AL,Away,Night,"33,766",2:41,L,3-5,9,Box | PBP,68-35,1,1,2,--,L1,Matt Boyd,Francis Martes,Justin Wilson,Gattis
+104,2017-07-30,-,HOU,AL,DET,AL,Away,Day,"31,970",3:26,L,1-13,9,Box | PBP,68-36,1,1,2,--,L2,Justin Verlander,Lance McCullers,---,Bregman
+105,2017-07-31,-,HOU,AL,TBA,AL,Home,Night,"24,154",3:24,W,14-7,9,Box | PBP,69-36,1,1,2,--,W1,Charlie Morton,Alex Cobb,---,"Fisher, Marisnick (2)"
+106,2017-08-01,-,HOU,AL,TBA,AL,Home,Night,"22,985",3:27,L,4-6,9,Box | PBP,69-37,1,1,2,--,L1,Chris Archer,Michael Fiers,Alex Colome,"Beltran, Bregman"
+107,2017-08-02,-,HOU,AL,TBA,AL,Home,Night,"26,722",3:06,L,0-3,9,Box | PBP,69-38,1,1,2,--,L2,Austin Pruitt,Dallas Keuchel,Alex Colome,---
+108,2017-08-03,-,HOU,AL,TBA,AL,Home,Night,"23,404",3:23,L,3-5,9,Box | PBP,69-39,1,1,2,--,L3,Brad Boxberger,Francisco Liriano,Alex Colome,Altuve
+109,2017-08-04,-,HOU,AL,TOR,AL,Home,Night,"39,287",3:05,W,16-7,9,Box | PBP,70-39,1,1,2,--,W1,Brad Peacock,Cesar Valdez,---,"Bregman, Gonzalez, Gurriel, White (2)"
+110,2017-08-05,-,HOU,AL,TOR,AL,Home,Night,"41,950",3:16,L,3-4,10,Box | PBP,70-40,1,1,2,--,L1,Ryan Tepera,Francisco Liriano,Roberto Osuna,"Reddick, White"
+111,2017-08-06,-,HOU,AL,TOR,AL,Home,Day,"36,300",3:16,W,7-6,9,Box | PBP,71-40,1,1,2,--,W1,Francis Martes,Roberto Osuna,---,---
+112,2017-08-08,-,HOU,AL,CHA,AL,Away,Night,"13,974",3:37,L,5-8,9,Box | PBP,71-41,1,1,2,--,L1,Derek Holland,Dallas Keuchel,Tyler Clippard,"Altuve, Gurriel"
+113,2017-08-09,-,HOU,AL,CHA,AL,Away,Night,"14,824",2:54,L,1-7,9,Box | PBP,71-42,1,1,2,--,L2,Miguel Gonzalez,Collin McHugh,---,Fisher
+114,2017-08-10,-,HOU,AL,CHA,AL,Away,Night,"18,034",3:41,L,2-3,11,Box | PBP,71-43,1,1,2,--,L3,David Holmberg,Francis Martes,---,Marisnick
+115,2017-08-11,-,HOU,AL,TEX,AL,Away,Night,"33,897",3:22,L,4-6,9,Box | PBP,71-44,1,1,2,--,L4,Cole Hamels,Charlie Morton,---,Springer
+116,2017-08-12,-,HOU,AL,TEX,AL,Away,Night,"47,306",3:14,L,3-8,9,Box | PBP,71-45,1,1,2,--,L5,Tyson Ross,Michael Fiers,---,---
+117,2017-08-13,-,HOU,AL,TEX,AL,Away,Day,"31,517",3:04,W,2-1,9,Box | PBP,72-45,1,1,2,--,W1,Dallas Keuchel,Andrew Cashner,Ken Giles,Altuve
+118,2017-08-14,-,HOU,AL,ARI,NL,Away,Night,"20,405",2:48,L,0-2,9,Box | PBP,72-46,1,1,2,--,L1,Zack Greinke,Collin McHugh,Fernando Rodney,---
+119,2017-08-15,-,HOU,AL,ARI,NL,Away,Day,"16,935",3:07,W,9-4,9,Box | PBP,73-46,1,1,2,--,W1,Francis Martes,Anthony Banda,---,Stassi
+120,2017-08-16,-,HOU,AL,ARI,NL,Home,Night,"27,278",3:17,W,9-5,9,Box | PBP,74-46,1,1,2,--,W2,Charlie Morton,Taijuan Walker,---,"Beltran, Reddick"
+121,2017-08-17,-,HOU,AL,ARI,NL,Home,Day,"27,949",2:48,L,0-4,9,Box | PBP,74-47,1,1,2,--,L1,Patrick Corbin,Michael Fiers,---,---
+122,2017-08-18,-,HOU,AL,OAK,AL,Home,Night,"30,908",2:47,L,3-1,9,Box | PBP,75-47,1,1,2,--,W1,Dallas Keuchel,Sean Manaea,Ken Giles,"Altuve, Bregman"
+123,2017-08-19,-,HOU,AL,OAK,AL,Home,Night,"32,796",2:47,W,3-0,9,Box | PBP,76-47,1,1,2,--,W2,Collin McHugh,Kendall Graveman,Tyler Clippard,Bregman
+124,2017-08-20,-,HOU,AL,OAK,AL,Home,Day,"34,011",3:17,L,2-3,9,Box | PBP,76-48,1,1,2,--,L1,Jharel Cotton,Brad Peacock,Blake Treinen,Gonzalez
+125,2017-08-22,-,HOU,AL,WAS,NL,Home,Night,"23,798",3:05,L,3-4,9,Box | PBP,76-49,1,1,3,--,L2,Tanner Roark,Charlie Morton,Sean Doolittle,---
+126,2017-08-23,-,HOU,AL,WAS,NL,Home,Night,"23,434",2:48,W,6-1,9,Box | PBP,77-49,1,1,2,--,W1,Michael Fiers,Edwin Jackson,---,"Bregman, Marisnick, Stassi"
+127,2017-08-24,-,HOU,AL,WAS,NL,Home,Night,"24,761",3:47,L,4-5,11,Box | PBP,77-50,1,1,3,--,L1,Matt Albers,Tyler Clippard,Sammy Solis,Davis
+128,2017-08-25,-,HOU,AL,ANA,AL,Away,Night,"42,333",2:56,W,2-1,9,Box | PBP,78-50,1,1,2,--,W1,Collin McHugh,Parker Bridwell,Ken Giles,Davis
+129,2017-08-26,-,HOU,AL,ANA,AL,Away,Night,"41,101",3:01,L,6-7,9,Box | PBP,78-51,1,1,3,--,L1,Blake Wood,Tyler Clippard,Blake Parker,"Marisnick, Springer"
+130,2017-08-27,-,HOU,AL,ANA,AL,Away,Day,"37,606",3:16,W,7-5,9,Box | PBP,79-51,1,1,2,--,W1,Joe Musgrove,Cam Bedrosian,Ken Giles,Altuve
+131,2017-08-29,-,HOU,AL,TEX,AL,Home,Night,"3,485",3:27,L,2-12,9,Box | PBP,79-52,1,1,3,--,L1,Martin Perez,Michael Fiers,---,---
+132,2017-08-30,-,HOU,AL,TEX,AL,Home,Night,"6,123",2:52,L,1-8,9,Box | PBP,79-53,1,1,3,--,L2,Andrew Cashner,Dallas Keuchel,---,---
+133,2017-08-31,-,HOU,AL,TEX,AL,Home,Day,"3,385",3:02,W,5-1,9,Box | PBP,80-53,1,1,3,--,W1,Chris Devenski,Nick Martinez,Ken Giles,Altuve
+134,2017-09-02,1,HOU,AL,NYN,NL,Home,Day,"30,319",3:27,W,12-8,9,Box | PBP,82-53,1,1,3,--,W3,Charlie Morton,Matt Harvey,---,"Davis, Springer"
+135,2017-09-02,2,HOU,AL,NYN,NL,Home,Night,"34,904",3:15,W,4-1,9,Box | PBP,82-53,1,1,3,--,W3,Joe Musgrove,Seth Lugo,Ken Giles,---
+136,2017-09-03,-,HOU,AL,NYN,NL,Home,Day,"32,065",3:14,W,8-6,9,Box | PBP,83-53,1,1,2,--,W4,Will Harris,Chris Flexen,Chris Devenski,"Maybin, Springer"
+137,2017-09-04,-,HOU,AL,SEA,AL,Away,Day,"20,108",2:53,W,6-2,9,Box | PBP,84-53,1,1,2,--,W5,Dallas Keuchel,Marc Rzepczynski,---,"Gurriel, McCann"
+138,2017-09-05,-,HOU,AL,SEA,AL,Away,Night,"14,568",3:07,W,3-1,9,Box | PBP,85-53,1,1,2,--,W6,Justin Verlander,James Pazos,Ken Giles,Maybin
+139,2017-09-06,-,HOU,AL,SEA,AL,Away,Night,"15,104",2:46,W,5-3,9,Box | PBP,86-53,1,1,2,--,W7,Chris Devenski,Edwin Diaz,---,Maybin
+140,2017-09-08,-,HOU,AL,OAK,AL,Away,Night,"12,288",3:06,L,8-9,9,Box | PBP,86-54,1,1,3,--,L1,Blake Treinen,Ken Giles,---,"Altuve, Gurriel, Reddick"
+141,2017-09-09,1,HOU,AL,OAK,AL,Away,Day,-,3:42,L,1-11,9,Box | PBP,86-56,1,2,4,--,L3,Daniel Gossett,Charlie Morton,---,---
+142,2017-09-09,2,HOU,AL,OAK,AL,Away,Night,"19,244",2:48,L,4-11,9,Box | PBP,86-56,1,2,4,--,L3,Chris Hatcher,Chris Devenski,---,Altuve
+143,2017-09-10,-,HOU,AL,OAK,AL,Away,Day,"15,892",3:48,L,2-10,9,Box | PBP,86-57,1,2,4,--,L4,Kendall Graveman,Dallas Keuchel,---,Davis
+144,2017-09-12,-,HOU,AL,ANA,AL,Away,Night,"36,088",2:51,W,1-0,9,Box | PBP,87-57,1,2,4,--,W1,Justin Verlander,Garrett Richards,Ken Giles,---
+145,2017-09-13,-,HOU,AL,ANA,AL,Away,Night,"33,899",2:28,L,1-9,9,Box | PBP,87-58,1,2,4,--,L1,Tyler Skaggs,Michael Fiers,---,---
+146,2017-09-14,-,HOU,AL,ANA,AL,Away,Night,"35,715",3:20,W,5-2,9,Box | PBP,88-58,1,2,4,--,W1,Brad Peacock,Ricky Nolasco,---,---
+147,2017-09-15,-,HOU,AL,SEA,AL,Home,Night,"28,328",3:12,W,5-2,9,Box | PBP,89-58,1,2,3,--,W2,Charlie Morton,James Paxton,Ken Giles,---
+148,2017-09-16,-,HOU,AL,SEA,AL,Home,Day,"33,650",3:21,W,8-6,9,Box | PBP,90-58,1,2,3,--,W3,Dallas Keuchel,Erasmo Ramirez,Joe Musgrove,---
+149,2017-09-17,-,HOU,AL,SEA,AL,Home,Day,"30,247",2:50,W,7-1,9,Box | PBP,91-58,1,2,3,--,W4,Justin Verlander,Andrew Moore,---,"Correa, Fisher, Gonzalez, Springer"
+150,2017-09-19,-,HOU,AL,CHA,AL,Home,Night,"23,293",2:47,W,3-1,9,Box | PBP,92-58,1,2,3,--,W5,Collin McHugh,Lucas Giolito,Ken Giles,Altuve
+151,2017-09-20,-,HOU,AL,CHA,AL,Home,Night,"24,995",3:08,W,4-3,9,Box | PBP,93-58,1,2,3,--,W6,Brad Peacock,James Shields,Joe Musgrove,---
+152,2017-09-21,-,HOU,AL,CHA,AL,Home,Night,"24,283",3:17,L,1-3,9,Box | PBP,93-59,1,2,3,--,L1,Chris Volstad,Dallas Keuchel,Juan Minaya,McCann
+153,2017-09-22,-,HOU,AL,ANA,AL,Home,Night,"34,127",3:00,W,3-0,9,Box | PBP,94-59,1,2,3,--,W1,Justin Verlander,Yusmeiro Petit,Ken Giles,Gurriel
+154,2017-09-23,-,HOU,AL,ANA,AL,Home,Day,"34,035",2:38,W,6-2,9,Box | PBP,95-59,1,2,3,--,W2,Charlie Morton,Bud Norris,---,Gattis
+155,2017-09-24,-,HOU,AL,ANA,AL,Home,Night,"36,756",3:49,L,5-7,9,Box | PBP,95-60,1,2,3,--,L1,Keynan Middleton,Chris Devenski,Blake Parker,"Bregman, Springer"
+156,2017-09-25,-,HOU,AL,TEX,AL,Away,Night,"30,390",3:33,W,11-2,9,Box | PBP,96-60,1,2,3,--,W1,Collin McHugh,Andrew Cashner,---,Gonzalez
+157,2017-09-26,-,HOU,AL,TEX,AL,Away,Night,"28,976",3:23,W,14-3,9,Box | PBP,97-60,1,2,3,--,W2,Dallas Keuchel,Cole Hamels,---,"Maybin, McCann"
+158,2017-09-27,-,HOU,AL,TEX,AL,Away,Day,"26,053",3:17,W,12-2,9,Box | PBP,98-60,1,2,3,--,W3,Justin Verlander,Nick Martinez,---,"Correa (2), Springer"
+159,2017-09-28,-,HOU,AL,BOS,AL,Away,Night,"34,222",3:31,W,12-2,9,Box | PBP,99-60,1,2,3,--,W4,Brad Peacock,Eduardo Rodriguez,---,"Bregman, Correa, McCann"
+160,2017-09-29,-,HOU,AL,BOS,AL,Away,Night,"36,623",2:47,W,3-2,9,Box | PBP,100-60,1,2,3,--,W5,Charlie Morton,Doug Fister,Ken Giles,Bregman
+161,2017-09-30,-,HOU,AL,BOS,AL,Away,Day,"35,722",3:19,L,3-6,9,Box | PBP,100-61,1,2,3,--,L1,Drew Pomeranz,Lance McCullers,---,McCann
+162,2017-10-01,-,HOU,AL,BOS,AL,Away,Day,"34,517",3:09,W,4-3,9,Box | PBP,101-61,1,2,3,--,W1,Collin McHugh,Fernando Abad,Tyler Clippard,---
