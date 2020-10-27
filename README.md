@@ -1,4 +1,4 @@
-# Machine_Learning_MLB_Game_Predictions
+# MLB Game Outcome
 
 ![](Pictures/baseball_stadium.jpg)
 
