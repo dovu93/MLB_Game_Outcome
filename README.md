@@ -56,7 +56,7 @@ Model 7 - LogisticRegression Solver saga
 
 Model 8 - LogisticRegression Solver liblinear
 
-After training our model we compared by using the F-1 scores. We found that the Balanced Random Forest Classifer had the highest score. We decided to use the model moving forward for predictions.
+After training our models, we compared them by using the F-1 scores. We found that the Balanced Random Forest Classifer had the highest score and thus decided to use that model moving forward. 
 
 ![](Pictures/f1_scores.png)
 
