@@ -70,3 +70,13 @@ During the playoffs the model correctly predicted 9 out of 13 games. All the inc
 ![](Pictures/Astros_Prediction_2.png)
 
 ![](Pictures/trophy.jpg)
+
+#### Contributors 
+
+- Jack Thomeer
+
+- Natalia Elmowafi
+
+- Reynoldo Slater
+
+- Vu Do
