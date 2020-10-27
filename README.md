@@ -4,11 +4,11 @@
 
 ## Key Findings
 
-- For the games that we've been testing in the 2020 playoffs, we're currently 6-3. However we've correctly guess all Astros games. Since we trained our data on the Astros tendencies, we believe the model may be better suited to Astros games as opposed to other teams.
+- Since we trained our data on the Astros, we only predicted Astros games during the playoffs. We were able to correctly predict 9 out of 14 games. One thing we did not take into account was an X factor for playoff games. Due to this X factor, we believe the games we predicted wrong, would've been right during the regular season. 
 
-- 
+- With our models only trained on the Astros, we realized it did not place a high priority on the batting staticis for the Astros due to it being the same for each game. If we were to incorporate other teams into our training data, our models could prioritize different metrics and have a greater F-1 score.
 
-- We realized the metrics that we had placed high importance on, the models did not.
+- In the future, we plan on incorporating the score sets to accurately predict what the final score will be instead of purely the outcome. 
 
 ## Hypothesis 
 
@@ -40,19 +40,33 @@ All the data can be found in the [Data](Data) folder.
 
 We decided to test out the following six models. 
 
-Model 1 
+Model 1 - Balanced Random Forest Classifier 
 
-Model 2
+Model 2 - Decision Tree Classifer
 
-Model 3
+Model 3 - XGB Classifier
 
-Model 4
+Model 4 - KNeighbors Classifier
 
-Model 5
+Model 5 - LogisticRegression Solver newton-cg
 
-Model 6
+Model 6 - LogisticRegression Solver lbfgs
+
+Model 7 - LogisticRegression Solver saga
+
+Model 8 - LogisticRegression Solver liblinear
+
+After training our model we compared by using the F-1 scores. We found that the Balanced Random Forest Classifer had the highest score. We decided to use the model moving forward for predictions.
+
+![](Pictures/f1_scores.jpg)
+
 
 ## Predicted Games
 
-[insert results]
+During the playoffs the model correctly predicted 9 out of 13 games. As mentioned above, we attribute those loses due to an X factor during the playoffs. All the losses happened on elimination games. 
 
+![](Pictures/Astros_Prediction.jpg)
+
+![](Pictures/Astros_prediction_2.jpg)
+
+![](Pictures/trophy.jpg)
