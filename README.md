@@ -58,15 +58,15 @@ Model 8 - LogisticRegression Solver liblinear
 
 After training our model we compared by using the F-1 scores. We found that the Balanced Random Forest Classifer had the highest score. We decided to use the model moving forward for predictions.
 
-![](Pictures/f1_scores.jpg)
+![](Pictures/f1_scores.png)
 
 
 ## Predicted Games
 
 During the playoffs the model correctly predicted 9 out of 13 games. As mentioned above, we attribute those loses due to an X factor during the playoffs. All the losses happened on elimination games. 
 
-![](Pictures/Astros_Prediction.jpg)
+![](Pictures/Astros_Prediction.png)
 
-![](Pictures/Astros_prediction_2.jpg)
+![](Pictures/Astros_prediction_2.png)
 
 ![](Pictures/trophy.jpg)
