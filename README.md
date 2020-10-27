@@ -67,6 +67,6 @@ During the playoffs the model correctly predicted 9 out of 13 games. As mentione
 
 ![](Pictures/Astros_Prediction.png)
 
-![](Pictures/Astros_prediction_2.png)
+![](Pictures/Astros_Prediction_2.png)
 
 ![](Pictures/trophy.jpg)
