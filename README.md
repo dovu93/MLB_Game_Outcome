@@ -38,7 +38,7 @@ All the data can be found in the [Data](Data) folder.
 
 ## Models Used
 
-We decided to test out the following six models. 
+We decided to test out the following eight models. 
 
 Model 1 - Balanced Random Forest Classifier 
 
@@ -63,7 +63,7 @@ After training our model we compared by using the F-1 scores. We found that the 
 
 ## Predicted Games
 
-During the playoffs the model correctly predicted 9 out of 13 games. As mentioned above, we attribute those loses due to an X factor during the playoffs. All the losses happened on elimination games. 
+During the playoffs the model correctly predicted 9 out of 13 games. All the incorrect predictions happened on elimination games, leading us to believe that we did not properly account for an X factor during the playoffs. 
 
 ![](Pictures/Astros_Prediction.png)
 
