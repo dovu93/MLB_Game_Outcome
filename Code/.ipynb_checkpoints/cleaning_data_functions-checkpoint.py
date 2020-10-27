@@ -90,7 +90,7 @@ def clean_batting_data(df1):
     df1.index = new_team_name
     
     # pulling only the metrics we want
-    df1 = df1[["BatAge", "R/G", "PA", "AB", "H", "2B", "3B", "HR", "BB", "SO", "BA", "OBP", "SLG", "OPS", "TB", "HBP", "LOB"]]
+    df1 = df1[["R/G", "PA", "AB", "H", "HR", "BB", "SO", "BA", "OBP", "SLG", "OPS", "TB", "HBP", "LOB"]]
     
     # resetting index for team acry df
     team_acry.reset_index(inplace = True)
@@ -105,7 +105,7 @@ def clean_pitching_data(df):
     random_number = list(range(len(df)))
     list_of_pitchers = []
     for number in random_number:
-        string = df["Name"][number] 
+        string = df["Player"][number] 
         string = string.replace(u'\xa0', u' ')
         list_of_pitchers.append(string)
     df["Pitcher"] = list_of_pitchers
@@ -114,7 +114,8 @@ def clean_pitching_data(df):
     df = df.groupby("Pitcher").mean()
     
     # pulling only the metrics we want
-    df = df[["ERA", "CG", "IP", "ERA+", "FIP", "WHIP", "H9", "HR9", "BB9", "SO9", "SO/W"]]
+#     df = df[["ERA", "CG", "IP", "ERA+", "FIP", "WHIP", "H9", "HR9", "BB9", "SO9", "SO/W"]]
+    df = df[["ERA", "WHIP", "IP", "K", "HR"]]
     
     # returning the dataframe
     return df
@@ -180,13 +181,10 @@ def combine_year_df(df_result_schedule, df_bat, df_pitch, team):
     df_team = pd.DataFrame(df_team)
     df_team = df_team.transpose()
     df_team.rename(columns = {
-        "BatAge" : "Favorite-BatAge", 
         "R/G" : "Favorite-R/G", 
         "PA" : "Favorite-PA", 
         "AB" : "Favorite-AB", 
-        "H" : "Favorite-H", 
-        "2B" : "Favorite-2B", 
-        "3B" : "Favorite-3B", 
+        "H" : "Favorite-H",  
         "HR" : "Favorite-HR",
         "BB" : "Favorite-BB", 
         "SO" : "Favorite-SO", 
@@ -214,39 +212,44 @@ def combine_year_df(df_result_schedule, df_bat, df_pitch, team):
     opp_pitch_class_3 = []
     opp_pitch_class_4 = []
     opp_pitch_class_5 = []
-    opp_pitch_class_6 = []
-    opp_pitch_class_7 = []
-    opp_pitch_class_8 = []
-    opp_pitch_class_9 = []
-    opp_pitch_class_10 = []
-    opp_pitch_class_11 = []
+#     opp_pitch_class_6 = []
+#     opp_pitch_class_7 = []
+#     opp_pitch_class_8 = []
+#     opp_pitch_class_9 = []
+#     opp_pitch_class_10 = []
+#     opp_pitch_class_11 = []
     
     for number in random_number:
         if df["Opposing Pitcher"][number] in df_pitch.index:
             name = df["Opposing Pitcher"][number]
             opp_pitch_class.append(df_pitch.loc[name]["ERA"])
-            opp_pitch_class_2.append(df_pitch.loc[name]["CG"])
+            opp_pitch_class_2.append(df_pitch.loc[name]["WHIP"])
             opp_pitch_class_3.append(df_pitch.loc[name]["IP"])
-            opp_pitch_class_4.append(df_pitch.loc[name]["ERA+"])
-            opp_pitch_class_5.append(df_pitch.loc[name]["FIP"])
-            opp_pitch_class_6.append(df_pitch.loc[name]["WHIP"])
-            opp_pitch_class_7.append(df_pitch.loc[name]["H9"])
-            opp_pitch_class_8.append(df_pitch.loc[name]["HR9"])
-            opp_pitch_class_9.append(df_pitch.loc[name]["BB9"])
-            opp_pitch_class_10.append(df_pitch.loc[name]["SO9"])
-            opp_pitch_class_11.append(df_pitch.loc[name]["SO/W"])
+            opp_pitch_class_4.append(df_pitch.loc[name]["K"])
+            opp_pitch_class_5.append(df_pitch.loc[name]["HR"])
+#             opp_pitch_class.append(df_pitch.loc[name]["ERA"])
+#             opp_pitch_class_2.append(df_pitch.loc[name]["CG"])
+#             opp_pitch_class_3.append(df_pitch.loc[name]["IP"])
+#             opp_pitch_class_4.append(df_pitch.loc[name]["ERA+"])
+#             opp_pitch_class_5.append(df_pitch.loc[name]["FIP"])
+#             opp_pitch_class_6.append(df_pitch.loc[name]["WHIP"])
+#             opp_pitch_class_7.append(df_pitch.loc[name]["H9"])
+#             opp_pitch_class_8.append(df_pitch.loc[name]["HR9"])
+#             opp_pitch_class_9.append(df_pitch.loc[name]["BB9"])
+#             opp_pitch_class_10.append(df_pitch.loc[name]["SO9"])
+#             opp_pitch_class_11.append(df_pitch.loc[name]["SO/W"])
         else:
-            opp_pitch_class.append(0)
+            opp_pitch_class.append("N/A")
             opp_pitch_class_2.append("N/A")
             opp_pitch_class_3.append("N/A")
             opp_pitch_class_4.append("N/A")
             opp_pitch_class_5.append("N/A")
-            opp_pitch_class_6.append("N/A")
-            opp_pitch_class_7.append("N/A")
-            opp_pitch_class_8.append("N/A")
-            opp_pitch_class_9.append("N/A")
-            opp_pitch_class_10.append("N/A")
-            opp_pitch_class_11.append("N/A")
+#             opp_pitch_class_6.append("N/A")
+#             opp_pitch_class_7.append("N/A")
+#             opp_pitch_class_8.append("N/A")
+#             opp_pitch_class_9.append("N/A")
+#             opp_pitch_class_10.append("N/A")
+#             opp_pitch_class_11.append("N/A")
 
     start_pitch_class = []
     start_pitch_class_2 = []
@@ -264,57 +267,72 @@ def combine_year_df(df_result_schedule, df_bat, df_pitch, team):
         if df["Starting Pitcher"][number] in df_pitch.index:
             name = df["Starting Pitcher"][number]
             start_pitch_class.append(df_pitch.loc[name]["ERA"])
-            start_pitch_class_2.append(df_pitch.loc[name]["CG"])
+            start_pitch_class_2.append(df_pitch.loc[name]["WHIP"])
             start_pitch_class_3.append(df_pitch.loc[name]["IP"])
-            start_pitch_class_4.append(df_pitch.loc[name]["ERA+"])
-            start_pitch_class_5.append(df_pitch.loc[name]["FIP"])
-            start_pitch_class_6.append(df_pitch.loc[name]["WHIP"])
-            start_pitch_class_7.append(df_pitch.loc[name]["H9"])
-            start_pitch_class_8.append(df_pitch.loc[name]["HR9"])
-            start_pitch_class_9.append(df_pitch.loc[name]["BB9"])
-            start_pitch_class_10.append(df_pitch.loc[name]["SO9"])
-            start_pitch_class_11.append(df_pitch.loc[name]["SO/W"])
+            start_pitch_class_4.append(df_pitch.loc[name]["K"])
+            start_pitch_class_5.append(df_pitch.loc[name]["HR"])
+#             start_pitch_class.append(df_pitch.loc[name]["ERA"])
+#             start_pitch_class_2.append(df_pitch.loc[name]["CG"])
+#             start_pitch_class_3.append(df_pitch.loc[name]["IP"])
+#             start_pitch_class_4.append(df_pitch.loc[name]["ERA+"])
+#             start_pitch_class_5.append(df_pitch.loc[name]["FIP"])
+#             start_pitch_class_6.append(df_pitch.loc[name]["WHIP"])
+#             start_pitch_class_7.append(df_pitch.loc[name]["H9"])
+#             start_pitch_class_8.append(df_pitch.loc[name]["HR9"])
+#             start_pitch_class_9.append(df_pitch.loc[name]["BB9"])
+#             start_pitch_class_10.append(df_pitch.loc[name]["SO9"])
+#             start_pitch_class_11.append(df_pitch.loc[name]["SO/W"])
         else:
-            start_pitch_class.append(0)
+            start_pitch_class.append("N/A")
             start_pitch_class_2.append("N/A")
             start_pitch_class_3.append("N/A")
             start_pitch_class_4.append("N/A")
             start_pitch_class_5.append("N/A")
-            start_pitch_class_6.append("N/A")
-            start_pitch_class_7.append("N/A")
-            start_pitch_class_8.append("N/A")
-            start_pitch_class_9.append("N/A")
-            start_pitch_class_10.append("N/A")
-            start_pitch_class_11.append("N/A")
+#             start_pitch_class_6.append("N/A")
+#             start_pitch_class_7.append("N/A")
+#             start_pitch_class_8.append("N/A")
+#             start_pitch_class_9.append("N/A")
+#             start_pitch_class_10.append("N/A")
+#             start_pitch_class_11.append("N/A")
     
     # adding all the pitching metrics
     return_df = df
     return_df["ERA_Starting"] = start_pitch_class
     return_df["ERA_Opposing"] = opp_pitch_class
-    return_df["CG_Starting"] = start_pitch_class_2
-    return_df["CG_Opposing"] = opp_pitch_class_2
+    return_df["WHIP_Starting"] = start_pitch_class_2
+    return_df["WHIP_Opposing"] = opp_pitch_class_2
     return_df["IP_Starting"] = start_pitch_class_3
     return_df["IP_Opposing"] = opp_pitch_class_3
-    return_df["ERA+_Starting "] = start_pitch_class_4
-    return_df["ERA+_Opposing"] = opp_pitch_class_4
-    return_df["FIP_Starting"] = start_pitch_class_5
-    return_df["FIP_Opposing"] = opp_pitch_class_5
-    return_df["WHIP_Starting"] = start_pitch_class_6
-    return_df["WHIP_Opposing"] = opp_pitch_class_6
-    return_df["H9_Starting "] = start_pitch_class_7
-    return_df["H9_Opposing"] = opp_pitch_class_7
-    return_df["HR9_Starting"] = start_pitch_class_8
-    return_df["HR9_Opposing"] = opp_pitch_class_8
-    return_df["BB9_Starting"] = start_pitch_class_9
-    return_df["BB9_Opposing"] = opp_pitch_class_9
-    return_df["SO9_Starting "] = start_pitch_class_10
-    return_df["SO9_Opposing"] = opp_pitch_class_10
-    return_df["SO/W_Starting"] = start_pitch_class_11
-    return_df["SO/W_Opposing"] = opp_pitch_class_10
+    return_df["K_Starting "] = start_pitch_class_4
+    return_df["K_Opposing"] = opp_pitch_class_4
+    return_df["HR_Starting"] = start_pitch_class_5
+    return_df["HR_Opposing"] = opp_pitch_class_5    
+#     return_df["ERA_Starting"] = start_pitch_class
+#     return_df["ERA_Opposing"] = opp_pitch_class
+#     return_df["CG_Starting"] = start_pitch_class_2
+#     return_df["CG_Opposing"] = opp_pitch_class_2
+#     return_df["IP_Starting"] = start_pitch_class_3
+#     return_df["IP_Opposing"] = opp_pitch_class_3
+#     return_df["ERA+_Starting "] = start_pitch_class_4
+#     return_df["ERA+_Opposing"] = opp_pitch_class_4
+#     return_df["FIP_Starting"] = start_pitch_class_5
+#     return_df["FIP_Opposing"] = opp_pitch_class_5
+#     return_df["WHIP_Starting"] = start_pitch_class_6
+#     return_df["WHIP_Opposing"] = opp_pitch_class_6
+#     return_df["H9_Starting "] = start_pitch_class_7
+#     return_df["H9_Opposing"] = opp_pitch_class_7
+#     return_df["HR9_Starting"] = start_pitch_class_8
+#     return_df["HR9_Opposing"] = opp_pitch_class_8
+#     return_df["BB9_Starting"] = start_pitch_class_9
+#     return_df["BB9_Opposing"] = opp_pitch_class_9
+#     return_df["SO9_Starting "] = start_pitch_class_10
+#     return_df["SO9_Opposing"] = opp_pitch_class_10
+#     return_df["SO/W_Starting"] = start_pitch_class_11
+#     return_df["SO/W_Opposing"] = opp_pitch_class_10
     
     # deleting any rows where pitcher data was not found
-    return_df = return_df[return_df.HR9_Starting != "N/A"]
-    return_df = return_df[return_df.HR9_Opposing != "N/A"]
+    return_df = return_df[return_df.ERA_Starting != "N/A"]
+    return_df = return_df[return_df.ERA_Opposing != "N/A"]
     # return_df = return_df[return_df.ERA_Starting != 0]
     # return_df = return_df[return_df.ERA_Opposing != 0]
     
